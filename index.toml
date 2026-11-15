@@ -1906,7 +1906,7 @@ hash = "06062c533c05e33650eba1f4f6209b4299155b09bc1bd3181baf0a3d6e17d702"
 
 [[files]]
 file = "kubejs/startup_scripts/eras/item_eras.js"
-hash = "c1c5372fae7011aa3a3fc6deb6001e70411069c929a0c8cd47f4a10a0f254714"
+hash = "a766dca6d57500f42ee6fcb192ba97b1eebf41934c072ca34816b1c47f1fba26"
 
 [[files]]
 file = "kubejs/startup_scripts/eras/item_eras_colonies.js"
