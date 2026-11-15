@@ -1,0 +1,735 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "world_aether"
+	group: "61DE9B33509C7F9A"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "aether:aether_portal_frame"
+	}
+	id: "5256D9921D531B96"
+	images: [
+		{
+			height: 1.8d
+			id: "4165F79E5250BF59"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -9.9d
+		}
+		{
+			height: 1.8d
+			id: "0A15383971DBB3AA"
+			image: "aether:item/materials/ambrosium_shard"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -9.9d
+		}
+		{
+			height: 1.8d
+			id: "11AD6D51A8155FA0"
+			image: "aether:item/miscellaneous/moa_egg"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -9.9d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "59131BD7628FD30D"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -7.75d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "254DF80BF462C1E6"
+			image: "aether:block/natural/holystone"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -7.75d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "736A82B89D14FAB9"
+			image: "aether:item/materials/zanite_gemstone"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -7.75d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "486414DBCD8BA797"
+			image: "aether:block/natural/skyroot_log"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -7.75d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "5AA112440660E510"
+			image: "aether:block/natural/quicksoil"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -7.75d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "05707956D9AD4780"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -0.25d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "1FB53BDAD12481AD"
+			image: "deep_aether:item/skyjade"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -0.25d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "70C6EE999FA97018"
+			image: "deep_aether:item/aerglow_blossom"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -0.25d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "057ACA7F2C3FAD34"
+			image: "deep_aether:item/stratus_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -0.25d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.04d
+			id: "7477D3A190DD666F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -0.75d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "4C8487D3D42361DF"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 2.35d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "317EAADCDF37A504"
+			image: "aether:item/miscellaneous/bronze_dungeon_key"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 2.35d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "22E4AE4CD3363F50"
+			image: "aether:item/miscellaneous/victory_medal"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 2.35d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.04d
+			id: "15FD4FC3464AE45D"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 1.85d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["784FFE5AA9775311"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "aether:aether_portal_frame"
+			}
+			id: "7E3476D9377E1B4C"
+			rewards: [
+				{
+					id: "15793EAAFDC399B6"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					dimension: "aether:the_aether"
+					id: "5DD0ED98C27479AC"
+					type: "dimension"
+				}
+			]
+			x: 0.0d
+			y: -3.9d
+		}
+		{
+			dependencies: ["7E3476D9377E1B4C"]
+			icon: {
+				id: "aether:skyroot_sapling"
+			}
+			id: "253C930EB219FE08"
+			rewards: [
+				{
+					id: "73F4766050EE7270"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					biome: "aether:skyroot_meadow"
+					id: "0C95187C79253B84"
+					type: "biome"
+				}
+				{
+					biome: "aether:skyroot_grove"
+					id: "47749B0164075AC4"
+					type: "biome"
+				}
+				{
+					biome: "aether:skyroot_woodland"
+					id: "637A8EACECCF1E46"
+					type: "biome"
+				}
+				{
+					biome: "aether:skyroot_forest"
+					id: "342D4A2BBB67FD52"
+					type: "biome"
+				}
+			]
+			x: 1.75d
+			y: -6.23d
+		}
+		{
+			dependencies: ["7E3476D9377E1B4C"]
+			id: "0707AF284AEA0305"
+			rewards: [
+				{
+					id: "6526475EFF2D715C"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "5D3BA0A9A721B664"
+					item: {
+						count: 1
+						id: "aether:holystone_pickaxe"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -4.68d
+		}
+		{
+			dependencies: ["0707AF284AEA0305"]
+			id: "30E37DD3E140A94C"
+			rewards: [
+				{
+					id: "3748873480B7D7DC"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "20D77348665C644D"
+					item: {
+						count: 1
+						id: "aether:ambrosium_shard"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -6.23d
+		}
+		{
+			dependencies: ["0707AF284AEA0305"]
+			icon: {
+				id: "aether:zanite_ring"
+			}
+			id: "25B68A79B76C1A6E"
+			rewards: [
+				{
+					id: "2397E67FE50F44D8"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "2563C31E355647B0"
+					item: {
+						count: 1
+						id: "aether:zanite_ring"
+					}
+					type: "item"
+				}
+				{
+					id: "500B1800CEA56744"
+					item: {
+						count: 1
+						id: "aether:zanite_pendant"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -4.68d
+		}
+		{
+			dependencies: ["7E3476D9377E1B4C"]
+			id: "2F8B0B83AB769D57"
+			rewards: [
+				{
+					id: "72CAACEA86FC64B8"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "642FF28FB5BD7873"
+					item: {
+						count: 1
+						id: "aether:golden_amber"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -3.13d
+		}
+		{
+			dependencies: ["30E37DD3E140A94C"]
+			id: "6124FF820414C41A"
+			rewards: [
+				{
+					id: "46A98E5DC8F6E58F"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "0355090BD47CD5AC"
+					item: {
+						count: 1
+						id: "aether:freezer"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -4.68d
+		}
+		{
+			dependencies: ["30E37DD3E140A94C"]
+			icon: {
+				id: "aether:blue_moa_egg"
+			}
+			id: "14408C81D0D92F13"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "3A6E608C201DEDC5"
+					type: "xp"
+					xp: 175
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					advancement: "aether:incubate_moa"
+					criterion: ""
+					id: "6A354F1D50631AE3"
+					type: "advancement"
+				}
+			]
+			x: 5.25d
+			y: -3.13d
+		}
+		{
+			dependencies: ["7E3476D9377E1B4C"]
+			icon: {
+				id: "aether:blue_aercloud"
+			}
+			id: "0541B5D150A9FCFE"
+			rewards: [
+				{
+					id: "67A1C97D7EC28D2C"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					advancement: "aether:blue_aercloud"
+					criterion: ""
+					id: "4644A8B2487B485E"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: -1.58d
+		}
+		{
+			dependencies: ["0541B5D150A9FCFE"]
+			id: "5E3156B584956A90"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "751D6AA57B168C8F"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "3BCA2D7F8454C3F6"
+					item: {
+						count: 1
+						id: "aether:cold_parachute"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -3.13d
+		}
+		{
+			dependencies: ["0707AF284AEA0305"]
+			id: "6CBED5CB07115FAA"
+			rewards: [
+				{
+					id: "1DDCC3EE37C92E26"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "243744294A8BC18C"
+					item: {
+						count: 1
+						id: "aether:gravitite_pickaxe"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -1.58d
+		}
+		{
+			dependencies: ["7E3476D9377E1B4C"]
+			icon: {
+				id: "deep_aether:aerglow_blossom"
+			}
+			id: "256AD9DDA355EE72"
+			rewards: [
+				{
+					id: "089FF53C07A5C497"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					biome: "deep_aether:aerglow_forest"
+					id: "1C7BEAC3B8A7FD5E"
+					type: "biome"
+				}
+				{
+					biome: "deep_aether:yagroot_swamp"
+					id: "4F0D989696C39982"
+					type: "biome"
+				}
+				{
+					biome: "deep_aether:golden_grove"
+					id: "39A64C3AF346EDE3"
+					type: "biome"
+				}
+			]
+			x: 1.75d
+			y: 1.15d
+		}
+		{
+			dependencies: ["2F8B0B83AB769D57"]
+			id: "2E982F6A17705DB1"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "653498F23225B5C8"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "656C74F4FE797F4C"
+					item: {
+						count: 1
+						id: "deep_aether:combiner"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 1.15d
+		}
+		{
+			dependencies: ["7E3476D9377E1B4C"]
+			icon: {
+				id: "aether:carved_stone"
+			}
+			id: "036CACEE765E308F"
+			rewards: [
+				{
+					id: "40D2FFEDBF9ADCBC"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "76F74DE7579BAEB6"
+					structure: "aether:bronze_dungeon"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 3.75d
+		}
+		{
+			dependencies: ["7E3476D9377E1B4C"]
+			icon: {
+				id: "aether:angelic_stone"
+			}
+			id: "68B6A6C9952F9081"
+			rewards: [
+				{
+					id: "27C217B475BDB36E"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "7A632801F1E99940"
+					structure: "aether:silver_dungeon"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 5.05d
+		}
+		{
+			dependencies: ["7E3476D9377E1B4C"]
+			icon: {
+				id: "aether:hellfire_stone"
+			}
+			id: "453424F4984DF7EB"
+			rewards: [
+				{
+					id: "606512A5E1E7AF1A"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "265948FF1BB031A3"
+					structure: "aether:gold_dungeon"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 6.35d
+		}
+		{
+			dependencies: ["7E3476D9377E1B4C"]
+			icon: {
+				id: "deep_aether:nimbus_stone"
+			}
+			id: "5C82D5FBE1E61D6C"
+			rewards: [
+				{
+					id: "7AD361588FC8E76C"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "21F64C1DCDBBEDCE"
+					structure: "deep_aether:brass_dungeon"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 7.65d
+		}
+		{
+			dependencies: ["7E3476D9377E1B4C"]
+			icon: {
+				id: "aether:pillar"
+			}
+			id: "6607EAAF1EBB3240"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "32955292D63088E4"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "00C30BD4B6E12080"
+					structure: "aether_villages:olympic_citadel"
+					type: "structure"
+				}
+			]
+			x: 3.5d
+			y: 4.4d
+		}
+		{
+			dependencies: ["7E3476D9377E1B4C"]
+			icon: {
+				id: "aether:white_moa_egg"
+			}
+			id: "4104ADCA0F8CA4D3"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "05B7E211FEB5C16C"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "07801E0FE998F989"
+					structure: "explore_ruins_aether:moa_nest"
+					type: "structure"
+				}
+			]
+			x: 3.5d
+			y: 5.7d
+		}
+		{
+			dependencies: ["7E3476D9377E1B4C"]
+			icon: {
+				id: "aether:book_of_lore"
+			}
+			id: "441826DDC76B1386"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "488B76C4A8C1711C"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "49207C5656712E1E"
+					structure: "explore_ruins_aether:valkyrie_library"
+					type: "structure"
+				}
+			]
+			x: 3.5d
+			y: 7.0d
+		}
+	]
+}

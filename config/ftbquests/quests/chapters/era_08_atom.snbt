@@ -1,0 +1,2092 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "era_08_atom"
+	group: "3CDFA8C60B58BCC5"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "gg:pieczec_atom"
+	}
+	id: "1D42909952A07A1C"
+	images: [
+		{
+			height: 1.8d
+			id: "0B2A864B96AB048D"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 14.0d
+			x: 11.5d
+			y: -23.35d
+		}
+		{
+			height: 1.8d
+			id: "56CFBC6071272A0B"
+			image: "gg:item/pieczec_atom"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 3.3d
+			y: -23.35d
+		}
+		{
+			height: 1.8d
+			id: "59FD35D3CF2AA791"
+			image: "mekanism:item/pellet_antimatter"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 19.7d
+			y: -23.35d
+		}
+		{
+			height: 0.8d
+			id: "4E74770CE27218CF"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -21.2d
+		}
+		{
+			height: 0.8d
+			id: "7795C0345D5F4A4F"
+			image: "mekanismgenerators:block/fission_reactor_casing"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -21.2d
+		}
+		{
+			height: 0.8d
+			id: "771A4866AAD42A76"
+			image: "mekanism:item/ingot_uranium"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -21.2d
+		}
+		{
+			height: 0.8d
+			id: "20E0F8990D44871B"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -15.25d
+		}
+		{
+			height: 0.8d
+			id: "252A0CCF5F08C942"
+			image: "mekanism:item/pellet_polonium"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -15.25d
+		}
+		{
+			height: 0.8d
+			id: "1264C8113F3F3B15"
+			image: "mekanism:item/pellet_plutonium"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -15.25d
+		}
+		{
+			height: 0.04d
+			id: "0F7713F3BE389558"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 26.0d
+			x: 11.5d
+			y: -15.75d
+		}
+		{
+			height: 0.8d
+			id: "3754937612980BB2"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -10.85d
+		}
+		{
+			height: 0.8d
+			id: "328652EAFA3943AB"
+			image: "goety:item/void_echo"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -10.85d
+		}
+		{
+			height: 0.04d
+			id: "3D08594430FBEF47"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 26.0d
+			x: 11.5d
+			y: -11.35d
+		}
+		{
+			height: 0.8d
+			id: "60E0A7949F9865D1"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -5.65d
+		}
+		{
+			height: 0.8d
+			id: "2271FA1EB6ECE7B6"
+			image: "minecraft:item/ender_eye"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -5.65d
+		}
+		{
+			height: 0.8d
+			id: "3BA5DD3645C24D52"
+			image: "eternal_starlight:item/orb_of_prophecy"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -5.65d
+		}
+		{
+			height: 0.04d
+			id: "7A695C08D25FA88C"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 26.0d
+			x: 11.5d
+			y: -6.15d
+		}
+		{
+			height: 0.8d
+			id: "320D621DE740098F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -1.25d
+		}
+		{
+			height: 0.8d
+			id: "08779E3ACF144B46"
+			image: "northstar:block/moon_sand"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -1.25d
+		}
+		{
+			height: 0.8d
+			id: "2BEFDA090F6C8D3C"
+			image: "northstar:block/lunar_sapphire_block"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -1.25d
+		}
+		{
+			height: 0.04d
+			id: "30BC0C37C88E98E6"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 26.0d
+			x: 11.5d
+			y: -1.75d
+		}
+		{
+			height: 0.8d
+			id: "559307F6E5DCC32E"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 2.65d
+		}
+		{
+			height: 0.8d
+			id: "114DB558F8E33CBE"
+			image: "minecraft:block/dragon_egg"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 2.65d
+		}
+		{
+			height: 0.8d
+			id: "0E4D5B6F13A9E084"
+			image: "eternal_starlight:item/starcore"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: 2.65d
+		}
+		{
+			height: 0.04d
+			id: "35072B230E68C6CD"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 26.0d
+			x: 11.5d
+			y: 2.15d
+		}
+		{
+			height: 0.8d
+			id: "68D6CC15494D2A95"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 11.15d
+		}
+		{
+			height: 0.8d
+			id: "4091F93C44949024"
+			image: "megacells:item/cell_component_256m"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 11.15d
+		}
+		{
+			height: 0.8d
+			id: "3DD41A9AD9C85562"
+			image: "mekanism:item/qio_drive_base"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: 11.15d
+		}
+		{
+			height: 0.04d
+			id: "3814F18209D9B743"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 26.0d
+			x: 11.5d
+			y: 10.65d
+		}
+		{
+			height: 0.8d
+			id: "33AD6104246E474A"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 17.1d
+		}
+		{
+			height: 0.8d
+			id: "7304B0A4CF225169"
+			image: "buildinggadgets2:item/gadget_cut_paste"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 17.1d
+		}
+		{
+			height: 0.04d
+			id: "6F0A98D1CBFB2A96"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 26.0d
+			x: 11.5d
+			y: 16.6d
+		}
+		{
+			height: 0.8d
+			id: "22FBAB810A221DEC"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 19.7d
+		}
+		{
+			height: 0.8d
+			id: "051F9DB46A6D9F23"
+			image: "minecolonies:item/chiefsword"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 19.7d
+		}
+		{
+			height: 0.04d
+			id: "74821B7E25089A91"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 26.0d
+			x: 11.5d
+			y: 19.2d
+		}
+	]
+	order_index: 8
+	quest_links: [
+		{
+			id: "3444113C10954C21"
+			linked_quest: "5267AE4FBA1B66E7"
+			x: 17.75d
+			y: 12.68d
+		}
+		{
+			id: "513B67BBDE8B1F61"
+			linked_quest: "4E8E8D7B7C8512D8"
+			x: 17.75d
+			y: 14.23d
+		}
+		{
+			id: "760CCE88B067D9DC"
+			linked_quest: "00C0A5479AEB1949"
+			x: 17.75d
+			y: 15.78d
+		}
+		{
+			id: "39178F115E6BE7CB"
+			linked_quest: "4B5732B859E520E9"
+			x: 19.5d
+			y: 13.45d
+		}
+		{
+			id: "5BC0510780F755CB"
+			linked_quest: "6DF92387C832E148"
+			x: 19.5d
+			y: 15.0d
+		}
+		{
+			id: "6BDCDBCAFD146C07"
+			linked_quest: "1D80099ABD8EE379"
+			x: 12.5d
+			y: -4.12d
+		}
+		{
+			id: "6B723D4250053EC2"
+			linked_quest: "36E6453ABC7C316F"
+			x: 12.5d
+			y: -2.58d
+		}
+	]
+	quests: [
+		{
+			icon: {
+				id: "gg:pieczec_atom"
+			}
+			id: "53A32F809B45CAFE"
+			invisible: true
+			preset: "era"
+			rewards: [ ]
+			tags: ["era_atom", "era_start"]
+			tasks: [
+				{
+					id: "35E4DF8568B10F37"
+					stage: "era_atom"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["53A32F809B45CAFE"]
+			id: "35309C9C31AF6733"
+			rewards: [
+				{
+					id: "3ABD4264F299CE5E"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "seal"]
+			tasks: [
+				{
+					count: 4L
+					id: "7117712FDF1F4F7D"
+					item: {
+						count: 1
+						id: "mekanism:ultimate_control_circuit"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -19.68d
+		}
+		{
+			dependencies: ["53A32F809B45CAFE"]
+			id: "521F248FA24C4736"
+			rewards: [
+				{
+					id: "296D9E1734C67AE6"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "17046F463ADA1C25"
+					item: {
+						count: 1
+						id: "mekanism:yellow_cake_uranium"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -18.12d
+		}
+		{
+			dependencies: ["53A32F809B45CAFE"]
+			icon: {
+				id: "mekanism:hazmat_mask"
+			}
+			id: "7159AB04F148D22F"
+			rewards: [
+				{
+					id: "545A9AC980B99B71"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "7B75E6EAA93084A9"
+					item: {
+						count: 1
+						id: "mekanism:hazmat_mask"
+					}
+					type: "item"
+				}
+				{
+					id: "679729F0A1EA0758"
+					item: {
+						count: 1
+						id: "mekanism:hazmat_gown"
+					}
+					type: "item"
+				}
+				{
+					id: "1E627481AA56FE64"
+					item: {
+						count: 1
+						id: "mekanism:hazmat_pants"
+					}
+					type: "item"
+				}
+				{
+					id: "503339653F93E3F3"
+					item: {
+						count: 1
+						id: "mekanism:hazmat_boots"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -16.57d
+		}
+		{
+			dependencies: ["521F248FA24C4736", "35309C9C31AF6733"]
+			id: "12582E66D27D5321"
+			rewards: [
+				{
+					id: "63B5501B347E290D"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "5321CE58150ACFFA"
+					item: {
+						count: 1
+						id: "mekanism:isotopic_centrifuge"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -18.12d
+		}
+		{
+			dependencies: ["12582E66D27D5321"]
+			icon: {
+				id: "mekanismgenerators:fission_reactor_casing"
+			}
+			id: "556E877D9ABA7554"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "109A14DC74659D44"
+					type: "xp"
+					xp: 250
+				}
+				{
+					id: "41AD8B40D91D81C1"
+					table_id: 7378836511238460792L
+					type: "random"
+				}
+			]
+			tags: ["era_atom", "milestone"]
+			tasks: [
+				{
+					count: 16L
+					id: "1533BFCCC4908859"
+					item: {
+						count: 1
+						id: "mekanismgenerators:fission_reactor_casing"
+					}
+					type: "item"
+				}
+				{
+					id: "5C12FA450EF5798E"
+					item: {
+						count: 1
+						id: "mekanismgenerators:fission_reactor_port"
+					}
+					type: "item"
+				}
+				{
+					id: "452A11D2817041D8"
+					item: {
+						count: 1
+						id: "mekanismgenerators:fission_fuel_assembly"
+					}
+					type: "item"
+				}
+				{
+					id: "649FBAD699E8E2D7"
+					item: {
+						count: 1
+						id: "mekanismgenerators:control_rod_assembly"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -18.12d
+		}
+		{
+			dependencies: ["556E877D9ABA7554"]
+			icon: {
+				id: "mekanismgenerators:turbine_rotor"
+			}
+			id: "51B66B2FC54FA7E6"
+			rewards: [
+				{
+					id: "01D89C05077D3F83"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "200FE0BA42948BC5"
+					item: {
+						count: 1
+						id: "mekanismgenerators:turbine_casing"
+					}
+					type: "item"
+				}
+				{
+					id: "5DB331C4E62CD49C"
+					item: {
+						count: 1
+						id: "mekanismgenerators:turbine_rotor"
+					}
+					type: "item"
+				}
+				{
+					id: "3D4E506584B2E010"
+					item: {
+						count: 1
+						id: "mekanismgenerators:turbine_blade"
+					}
+					type: "item"
+				}
+				{
+					id: "5C6B2C9084B02F99"
+					item: {
+						count: 1
+						id: "mekanismgenerators:rotational_complex"
+					}
+					type: "item"
+				}
+				{
+					id: "48C42C9D7A27D7C5"
+					item: {
+						count: 1
+						id: "mekanismgenerators:electromagnetic_coil"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -18.12d
+		}
+		{
+			dependencies: ["556E877D9ABA7554", "424FB675EA5DBCDF"]
+			icon: {
+				id: "mekanismgenerators:fusion_reactor_controller"
+			}
+			id: "5AAF1AE8953BA6F9"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "3FB36B48060D38CB"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "optional"]
+			tasks: [
+				{
+					id: "5A3403C85CE38F0A"
+					item: {
+						count: 1
+						id: "mekanismgenerators:fusion_reactor_controller"
+					}
+					type: "item"
+				}
+				{
+					id: "228A2DA0B73C530E"
+					item: {
+						count: 1
+						id: "mekanismgenerators:hohlraum"
+					}
+					type: "item"
+				}
+				{
+					id: "1A692FA504A3C7DB"
+					item: {
+						count: 1
+						id: "mekanism:laser"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -18.12d
+		}
+		{
+			dependencies: ["556E877D9ABA7554"]
+			id: "5FF0CD42F43D353D"
+			rewards: [
+				{
+					id: "29EA22A141814A73"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "294D072E159878CD"
+					item: {
+						count: 1
+						id: "mekanism:solar_neutron_activator"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -13.72d
+		}
+		{
+			dependencies: ["5FF0CD42F43D353D"]
+			id: "424FB675EA5DBCDF"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "23F78EF74AC989E8"
+					type: "xp"
+					xp: 250
+				}
+				{
+					id: "058B4DB1A2F1276D"
+					table_id: 7378836511238460792L
+					type: "random"
+				}
+			]
+			tags: ["era_atom", "milestone", "seal"]
+			tasks: [
+				{
+					count: 4L
+					id: "736E3B94AB6947BC"
+					item: {
+						count: 1
+						id: "mekanism:pellet_polonium"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -12.95d
+		}
+		{
+			dependencies: ["556E877D9ABA7554"]
+			id: "2D913E0C9EA47821"
+			rewards: [
+				{
+					id: "27B84D02F4AA14EE"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "4EDC8518CA0782C9"
+					item: {
+						count: 1
+						id: "mekanism:pellet_plutonium"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -12.18d
+		}
+		{
+			dependencies: ["53A32F809B45CAFE"]
+			id: "01423728EDF5A59C"
+			rewards: [
+				{
+					id: "2C307C880A31ED7F"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "6285ECC73C7EF10A"
+					item: {
+						count: 1
+						id: "mekanism:hdpe_sheet"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -12.95d
+		}
+		{
+			dependencies: ["01423728EDF5A59C"]
+			id: "7838D0040ACF1957"
+			rewards: [
+				{
+					id: "1777FCFA8DCF0856"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					count: 256L
+					id: "0AD77CA058A98B49"
+					item: {
+						count: 1
+						id: "mekanism:hdpe_sheet"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -12.95d
+		}
+		{
+			dependencies: ["424FB675EA5DBCDF", "2D913E0C9EA47821", "01423728EDF5A59C"]
+			icon: {
+				id: "mekanism:sps_casing"
+			}
+			id: "525D6ECD35551B84"
+			rewards: [
+				{
+					id: "01113B391A9048B3"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "350AD7149DEFBCE5"
+					item: {
+						count: 1
+						id: "mekanism:sps_casing"
+					}
+					type: "item"
+				}
+				{
+					id: "61E67EEAB0874B3F"
+					item: {
+						count: 1
+						id: "mekanism:sps_port"
+					}
+					type: "item"
+				}
+				{
+					id: "3628A5B0D10D552A"
+					item: {
+						count: 1
+						id: "mekanism:supercharged_coil"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -12.95d
+		}
+		{
+			dependencies: ["525D6ECD35551B84"]
+			id: "54B1EA40C7E0A425"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "7FC634DA4FD8AD2B"
+					type: "xp"
+					xp: 250
+				}
+				{
+					id: "1F20A26D48F0131A"
+					table_id: 7378836511238460792L
+					type: "random"
+				}
+			]
+			tags: ["era_atom", "milestone", "seal"]
+			tasks: [
+				{
+					id: "68992C5F4A7CC02E"
+					item: {
+						count: 1
+						id: "mekanism:pellet_antimatter"
+					}
+					type: "item"
+				}
+			]
+			x: 14.25d
+			y: -12.95d
+		}
+		{
+			dependencies: ["54B1EA40C7E0A425"]
+			id: "33A07B00927692C1"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "0956533A60531F25"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "optional"]
+			tasks: [
+				{
+					id: "0118A226337B4596"
+					item: {
+						count: 1
+						id: "mekanism:antiprotonic_nucleosynthesizer"
+					}
+					type: "item"
+				}
+			]
+			x: 16.0d
+			y: -12.95d
+		}
+		{
+			dependencies: ["53A32F809B45CAFE"]
+			id: "31E77171081491E5"
+			rewards: [
+				{
+					id: "6638561371FCFEB7"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "seal"]
+			tasks: [
+				{
+					count: 4L
+					id: "628B211AA350C341"
+					item: {
+						count: 1
+						id: "forbidden_arcanus:deorum_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -8.15d
+		}
+		{
+			dependencies: ["163B279F2C34878A"]
+			id: "4B4EA220D33EE56F"
+			rewards: [
+				{
+					id: "003BCDF874A1DE64"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "7C8A269CE61F3F79"
+					item: {
+						count: 1
+						id: "forbidden_arcanus:dragon_scale"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -9.45d
+		}
+		{
+			dependencies: ["4B4EA220D33EE56F", "31E77171081491E5"]
+			id: "4CA02FD6430D677E"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "0749490DB893330D"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "optional"]
+			tasks: [
+				{
+					id: "7E7B899AFF3D87B6"
+					item: {
+						count: 1
+						id: "forbidden_arcanus:golden_dragon_scale"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -8.8d
+		}
+		{
+			dependencies: ["79A0D70C3A82A445"]
+			id: "126F5D77D0B9C052"
+			rewards: [
+				{
+					id: "69E8FAC601413C99"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "067522C3D824CA3C"
+					item: {
+						count: 1
+						id: "goety:void_echo"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -8.15d
+		}
+		{
+			dependencies: ["126F5D77D0B9C052"]
+			id: "407F52EA79FA5CB4"
+			rewards: [
+				{
+					id: "7DA71E748680284B"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "50E5017F22B3BC46"
+					item: {
+						count: 1
+						id: "goety:stellar_focus"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -7.5d
+		}
+		{
+			dependencies: ["00255CAC3A53A55A"]
+			id: "01393990D47C31C0"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "20FA5919B1E1C898"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "optional"]
+			tasks: [
+				{
+					id: "61AB37DF38845CB3"
+					item: {
+						count: 1
+						id: "cataclysm_spellbooks:oracle_shulker_shell_script"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -6.85d
+		}
+		{
+			dependencies: ["53A32F809B45CAFE"]
+			icon: {
+				id: "endrem:ancient_portal_frame"
+			}
+			id: "49DA6C971F3AAA52"
+			rewards: [
+				{
+					id: "4F49A1FC942D4C59"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "426494E656B1127E"
+					structure: "betterstrongholds:stronghold"
+					type: "structure"
+				}
+			]
+			x: 3.75d
+			y: -4.12d
+		}
+		{
+			dependencies: ["49DA6C971F3AAA52"]
+			icon: {
+				id: "minecraft:end_portal_frame"
+			}
+			id: "4625B78165C91AAF"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "0DB50FE7A1973409"
+					type: "xp"
+					xp: 250
+				}
+				{
+					id: "626A9DE91AFFF978"
+					table_id: 7378836511238460792L
+					type: "random"
+				}
+			]
+			tags: ["era_atom", "milestone"]
+			tasks: [
+				{
+					dimension: "minecraft:the_end"
+					id: "450CDCE0A4FDC200"
+					type: "dimension"
+				}
+			]
+			x: 5.5d
+			y: -3.35d
+		}
+		{
+			dependencies: ["163B279F2C34878A"]
+			icon: {
+				id: "minecraft:shulker_shell"
+			}
+			id: "449DA98CFF972901"
+			rewards: [
+				{
+					id: "231AD5A703D3AE55"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "25DA3B6D65B3E1E4"
+					structure: "minecraft:end_city"
+					type: "structure"
+				}
+			]
+			x: 9.0d
+			y: -4.12d
+		}
+		{
+			dependencies: ["449DA98CFF972901"]
+			id: "3E63AC5C1099D9D5"
+			rewards: [
+				{
+					id: "60A6DF629676DACA"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "486DECD69FB0591D"
+					item: {
+						count: 1
+						id: "minecraft:elytra"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -4.12d
+		}
+		{
+			dependencies: ["53A32F809B45CAFE"]
+			icon: {
+				id: "eternal_starlight:orb_of_prophecy"
+			}
+			id: "4E39A543ADC10385"
+			rewards: [
+				{
+					id: "23D72678C346F273"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "39995977791F7BB8"
+					structure: "#eternal_starlight:portal_ruins"
+					type: "structure"
+				}
+			]
+			x: 3.75d
+			y: -2.58d
+		}
+		{
+			dependencies: ["756A40FEF8172638"]
+			id: "47311843F2781185"
+			rewards: [
+				{
+					id: "42586CCCEAAD0A81"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "7CE912BEE32905C6"
+					item: {
+						count: 1
+						id: "eternal_starlight:orb_of_prophecy"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -3.35d
+		}
+		{
+			dependencies: ["47311843F2781185"]
+			icon: {
+				id: "eternal_starlight:orb_of_prophecy"
+			}
+			id: "797A764F7E47FBEB"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "322D924913575B08"
+					type: "xp"
+					xp: 250
+				}
+				{
+					id: "27568553A65F3FBE"
+					table_id: 7378836511238460792L
+					type: "random"
+				}
+			]
+			tags: ["era_atom", "milestone"]
+			tasks: [
+				{
+					dimension: "eternal_starlight:starlight"
+					id: "6CC46E4781B55D8D"
+					type: "dimension"
+				}
+			]
+			x: 9.0d
+			y: -2.58d
+		}
+		{
+			dependencies: ["797A764F7E47FBEB"]
+			id: "67F8633BD956C906"
+			rewards: [
+				{
+					id: "735E018D42574F98"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "seal"]
+			tasks: [
+				{
+					count: 8L
+					id: "63C784000A9A3A70"
+					item: {
+						count: 1
+						id: "eternal_starlight:aethersent_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -2.58d
+		}
+		{
+			dependencies: ["53A32F809B45CAFE"]
+			id: "20FED8168C36C2C4"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "770DC2523035F44D"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "optional"]
+			tasks: [
+				{
+					id: "7A29773108264976"
+					item: {
+						count: 1
+						id: "northstar:telescope"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 0.8d
+		}
+		{
+			dependencies: ["20FED8168C36C2C4"]
+			id: "2D8918AB6C3B8F6E"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "7CBFE370A8CFDF4D"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "optional"]
+			tasks: [
+				{
+					id: "1B6AAA7435F5874D"
+					item: {
+						count: 1
+						id: "northstar:titanium_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 0.15d
+		}
+		{
+			dependencies: ["2D8918AB6C3B8F6E"]
+			icon: {
+				id: "northstar:rocket_station"
+			}
+			id: "2537778683EE14B8"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "08604E1FDC3B392D"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "optional"]
+			tasks: [
+				{
+					id: "6D3CB5415A06A3FE"
+					item: {
+						count: 1
+						id: "northstar:rocket_station"
+					}
+					type: "item"
+				}
+				{
+					id: "5987A628503E26F0"
+					item: {
+						count: 1
+						id: "northstar:rocket_controls"
+					}
+					type: "item"
+				}
+				{
+					id: "51E4223CA7E769D5"
+					item: {
+						count: 1
+						id: "northstar:rocket_thruster"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: 0.8d
+		}
+		{
+			dependencies: ["20FED8168C36C2C4"]
+			icon: {
+				id: "northstar:iron_space_suit_helmet"
+			}
+			id: "243E658F0728D5F0"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "40071709F65EACD2"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "optional"]
+			tasks: [
+				{
+					id: "4F9A7C09F2FB70F3"
+					item: {
+						count: 1
+						id: "northstar:iron_space_suit_helmet"
+					}
+					type: "item"
+				}
+				{
+					id: "66D4B4BCED48FB04"
+					item: {
+						count: 1
+						id: "northstar:iron_space_suit_chestpiece"
+					}
+					type: "item"
+				}
+				{
+					id: "3AD7EF982476BED1"
+					item: {
+						count: 1
+						id: "northstar:iron_space_suit_leggings"
+					}
+					type: "item"
+				}
+				{
+					id: "0C226AC3BABCA6F0"
+					item: {
+						count: 1
+						id: "northstar:iron_space_suit_boots"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 1.45d
+		}
+		{
+			dependencies: ["2537778683EE14B8", "243E658F0728D5F0"]
+			icon: {
+				id: "northstar:rocket_controls"
+			}
+			id: "20033862BE22BAD3"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "63E91BB84AA5A865"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "optional"]
+			tasks: [
+				{
+					dimension: "northstar:earth_orbit"
+					id: "1A44AEA65C142769"
+					type: "dimension"
+				}
+			]
+			x: 9.0d
+			y: 0.8d
+		}
+		{
+			dependencies: ["20033862BE22BAD3"]
+			icon: {
+				id: "northstar:moon_sand"
+			}
+			id: "6D11D58E0AE817AA"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "5AFBE39E6FF59C6F"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "optional"]
+			tasks: [
+				{
+					dimension: "northstar:moon"
+					id: "35BD0CA26E618871"
+					type: "dimension"
+				}
+			]
+			x: 10.75d
+			y: 0.8d
+		}
+		{
+			dependencies: ["4625B78165C91AAF"]
+			icon: {
+				id: "minecraft:dragon_head"
+			}
+			id: "163B279F2C34878A"
+			preset: "boss"
+			rewards: [
+				{
+					id: "005FC8ADCD3D39D3"
+					type: "xp"
+					xp: 500
+				}
+			]
+			tags: ["era_atom", "boss"]
+			tasks: [
+				{
+					id: "06E00E80E449B60C"
+					stage: "boss_minecraft_ender_dragon"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 7.25d
+			y: 4.3d
+		}
+		{
+			dependencies: ["4625B78165C91AAF"]
+			icon: {
+				id: "cataclysm:void_eye"
+			}
+			id: "00255CAC3A53A55A"
+			preset: "boss"
+			rewards: [
+				{
+					id: "583A66778C9F9F97"
+					type: "xp"
+					xp: 500
+				}
+			]
+			tags: ["era_atom", "boss"]
+			tasks: [
+				{
+					id: "00F2159BEAA0D1D3"
+					stage: "boss_cataclysm_ender_guardian"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 7.25d
+			y: 6.1d
+		}
+		{
+			dependencies: ["4625B78165C91AAF"]
+			icon: {
+				id: "minecraft:crying_obsidian"
+			}
+			id: "0C41880C1863CD23"
+			preset: "boss"
+			rewards: [
+				{
+					id: "4B9B2A50DFD53357"
+					type: "xp"
+					xp: 500
+				}
+			]
+			tags: ["era_atom", "boss"]
+			tasks: [
+				{
+					id: "2B7413F95BA79A97"
+					stage: "boss_bosses_of_mass_destruction_obsidilith"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 7.25d
+			y: 7.9d
+		}
+		{
+			dependencies: ["4625B78165C91AAF"]
+			icon: {
+				id: "goety:void_echo"
+			}
+			id: "79A0D70C3A82A445"
+			preset: "boss"
+			rewards: [
+				{
+					id: "09A598A185909F8A"
+					type: "xp"
+					xp: 500
+				}
+			]
+			tags: ["era_atom", "boss"]
+			tasks: [
+				{
+					id: "4852E20DD7C5E68B"
+					stage: "boss_goety_ender_keeper"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 7.25d
+			y: 9.7d
+		}
+		{
+			dependencies: ["4E39A543ADC10385"]
+			icon: {
+				id: "eternal_starlight:orb_of_prophecy"
+			}
+			id: "756A40FEF8172638"
+			preset: "boss"
+			rewards: [
+				{
+					id: "1023B0B4D309426A"
+					type: "xp"
+					xp: 500
+				}
+			]
+			tags: ["era_atom", "boss"]
+			tasks: [
+				{
+					id: "7E1EFBDD4C607BCE"
+					stage: "boss_eternal_starlight_the_gatekeeper"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 5.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["797A764F7E47FBEB"]
+			icon: {
+				id: "eternal_starlight:golem_steel_ingot"
+			}
+			id: "401584863A47007E"
+			preset: "boss"
+			rewards: [
+				{
+					id: "250C326D0A8F2B2D"
+					type: "xp"
+					xp: 500
+				}
+			]
+			tags: ["era_atom", "boss"]
+			tasks: [
+				{
+					id: "7A1A753E654937FF"
+					stage: "boss_eternal_starlight_starlight_golem"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 10.75d
+			y: 6.1d
+		}
+		{
+			dependencies: ["797A764F7E47FBEB"]
+			icon: {
+				id: "eternal_starlight:blue_starlight_crystal_shard"
+			}
+			id: "347DEDC7446DE92B"
+			preset: "boss"
+			rewards: [
+				{
+					id: "712DF28363410DA9"
+					type: "xp"
+					xp: 500
+				}
+			]
+			tags: ["era_atom", "boss"]
+			tasks: [
+				{
+					id: "4E2CC1AE5BD43D44"
+					stage: "boss_eternal_starlight_lunar_monstrosity"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 10.75d
+			y: 7.9d
+		}
+		{
+			dependencies: ["163B279F2C34878A", "00255CAC3A53A55A", "0C41880C1863CD23", "79A0D70C3A82A445"]
+			icon: {
+				id: "minecraft:dragon_egg"
+			}
+			id: "437274230ED5B359"
+			min_required_dependencies: 1
+			preset: "milestone"
+			rewards: [
+				{
+					id: "31DBC3B98F056629"
+					type: "xp"
+					xp: 250
+				}
+				{
+					id: "4945E22310176436"
+					table_id: 7378836511238460792L
+					type: "random"
+				}
+			]
+			tags: ["era_atom", "milestone"]
+			tasks: [ ]
+			x: 9.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["756A40FEF8172638", "401584863A47007E", "347DEDC7446DE92B"]
+			icon: {
+				id: "eternal_starlight:golem_steel_ingot"
+			}
+			id: "35637111DF6F0546"
+			min_required_dependencies: 1
+			preset: "milestone"
+			rewards: [
+				{
+					id: "6147D4EEC9AE9B3E"
+					type: "xp"
+					xp: 250
+				}
+				{
+					id: "329F25E08F09D2B6"
+					table_id: 7378836511238460792L
+					type: "random"
+				}
+			]
+			tags: ["era_atom", "milestone"]
+			tasks: [ ]
+			x: 12.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["53A32F809B45CAFE"]
+			id: "58CBE64255700D53"
+			rewards: [
+				{
+					id: "11AA9828CC43A8BA"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "6A3D0ACFD2D78C02"
+					item: {
+						count: 1
+						id: "megacells:accumulation_processor"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 14.23d
+		}
+		{
+			dependencies: ["58CBE64255700D53"]
+			id: "65AE6584A801F31F"
+			rewards: [
+				{
+					id: "5FD3F99E9DD4551E"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "seal"]
+			tasks: [
+				{
+					count: 2L
+					id: "47F70694BD271351"
+					item: {
+						count: 1
+						id: "megacells:cell_component_256m"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 12.68d
+		}
+		{
+			dependencies: ["65AE6584A801F31F"]
+			id: "35CD7E283B845D4D"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "366715EB7234BD48"
+					type: "xp"
+					xp: 250
+				}
+				{
+					id: "09E5DFA65B196ABD"
+					table_id: 7378836511238460792L
+					type: "random"
+				}
+			]
+			tags: ["era_atom", "milestone"]
+			tasks: [
+				{
+					id: "4BBE0B8579798247"
+					item: {
+						count: 1
+						id: "megacells:item_storage_cell_256m"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: 14.23d
+		}
+		{
+			dependencies: ["58CBE64255700D53"]
+			id: "17DE1C7674CF6CC4"
+			rewards: [
+				{
+					id: "25709AAF79BBB01B"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					count: 256L
+					id: "7B537D54A98C94E0"
+					item: {
+						count: 1
+						id: "megacells:accumulation_processor"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 14.23d
+		}
+		{
+			dependencies: ["35309C9C31AF6733"]
+			icon: {
+				id: "mekanism:qio_drive_array"
+			}
+			id: "3D28557669BC7FE0"
+			rewards: [
+				{
+					id: "0C801950DA2494E5"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "388DE88B3E050D7B"
+					item: {
+						count: 1
+						id: "mekanism:qio_drive_array"
+					}
+					type: "item"
+				}
+				{
+					id: "24DA3C9253858F9B"
+					item: {
+						count: 1
+						id: "mekanism:qio_dashboard"
+					}
+					type: "item"
+				}
+				{
+					id: "3A7683FE586D6C88"
+					item: {
+						count: 1
+						id: "mekanism:qio_drive_base"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 15.78d
+		}
+		{
+			dependencies: ["3D28557669BC7FE0", "54B1EA40C7E0A425"]
+			id: "771A48EDDB73032C"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "0C1269E84A0FB128"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "optional"]
+			tasks: [
+				{
+					id: "5F6B096A7E248527"
+					item: {
+						count: 1
+						id: "mekanism:qio_drive_supermassive"
+					}
+					type: "item"
+				}
+			]
+			x: 16.0d
+			y: 14.23d
+		}
+		{
+			dependencies: ["53A32F809B45CAFE"]
+			icon: {
+				id: "buildinggadgets2:gadget_building"
+			}
+			id: "668DD3417C215524"
+			rewards: [
+				{
+					id: "415F3110EBB988FA"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "2243E2D155143705"
+					item: {
+						count: 1
+						id: "ae2:wireless_access_point"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 18.5d
+		}
+		{
+			dependencies: ["668DD3417C215524"]
+			id: "6F0EAB9871E04E4F"
+			rewards: [
+				{
+					id: "618799AD72ADACB3"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "632193EACEA0B64B"
+					item: {
+						count: 1
+						id: "buildinggadgets2:gadget_cut_paste"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 18.5d
+		}
+		{
+			dependencies: ["6F0EAB9871E04E4F"]
+			id: "2F8AD5BA90EE9B0E"
+			rewards: [
+				{
+					id: "688A9FDD71F938CF"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "2556913D40972B94"
+					item: {
+						count: 1
+						id: "buildinggadgets2:template_manager"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: 18.5d
+		}
+		{
+			dependencies: ["53A32F809B45CAFE"]
+			icon: {
+				id: "minecolonies:blockhutbarracks"
+			}
+			id: "062F4E5C811A3750"
+			rewards: [
+				{
+					id: "3D1BB9A7E019A3D8"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					advancement: "minecolonies:military/army_30"
+					criterion: ""
+					id: "492E103C21E1029F"
+					type: "advancement"
+				}
+			]
+			x: 3.75d
+			y: 21.1d
+		}
+		{
+			dependencies: ["062F4E5C811A3750"]
+			icon: {
+				id: "minecolonies:blockhutbarrackstower"
+			}
+			id: "64FC21E8D46ED3CA"
+			rewards: [
+				{
+					id: "31500C55B33272A3"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					advancement: "minecolonies:military/build_all_barracks_towers"
+					criterion: ""
+					id: "35F1DF65DDD3B7E3"
+					type: "advancement"
+				}
+			]
+			x: 5.5d
+			y: 21.1d
+		}
+		{
+			dependencies: [
+				"4625B78165C91AAF"
+				"797A764F7E47FBEB"
+				"556E877D9ABA7554"
+				"424FB675EA5DBCDF"
+				"54B1EA40C7E0A425"
+				"35CD7E283B845D4D"
+				"437274230ED5B359"
+				"35637111DF6F0546"
+			]
+			icon: {
+				id: "gg:pieczec_transcendencja"
+			}
+			id: "4BC3B87B91BE3A3E"
+			preset: "era"
+			rewards: [
+				{
+					auto: "enabled"
+					icon: {
+						id: "gg:pieczec_transcendencja"
+					}
+					id: "4A0423D28B42D53F"
+					stage: "era_transcendencja"
+					team_reward: true
+					type: "gamestage"
+				}
+				{
+					id: "3BCA82F1F03A430C"
+					type: "xp"
+					xp: 1000
+				}
+				{
+					id: "24E1EA07D96AD1C8"
+					table_id: 7182474137695611094L
+					type: "all_table"
+				}
+			]
+			tags: ["era_atom", "gate"]
+			tasks: [
+				{
+					consume_items: true
+					id: "3385286760E5AC44"
+					item: {
+						count: 1
+						id: "gg:pieczec_transcendencja"
+					}
+					type: "item"
+				}
+			]
+			x: 23.0d
+			y: 0.0d
+		}
+	]
+}

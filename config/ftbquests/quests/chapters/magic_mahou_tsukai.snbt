@@ -1,0 +1,649 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "magic_mahou_tsukai"
+	group: "3108D924C31FF1C5"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "mahoutsukai:guidebook"
+	}
+	id: "66CCB641EA0A78C0"
+	images: [
+		{
+			height: 1.8d
+			id: "63FF4CC0433898FF"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -9.78d
+		}
+		{
+			height: 1.8d
+			id: "02D2F77F90799CDF"
+			image: "mahoutsukai:block/mahoujin"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -9.78d
+		}
+		{
+			height: 1.8d
+			id: "6998930ADB2144C2"
+			image: "mahoutsukai:item/spell_scroll"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -9.78d
+		}
+		{
+			dependency: "0762E1C6C8BFC49D"
+			height: 0.8d
+			id: "5D97A3CD4DB1692C"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -7.63d
+		}
+		{
+			dependency: "0762E1C6C8BFC49D"
+			height: 0.8d
+			id: "6BE996CB78EF953F"
+			image: "mahoutsukai:item/powdered_ender"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -7.63d
+		}
+		{
+			dependency: "0762E1C6C8BFC49D"
+			height: 0.8d
+			id: "29BF8840C21978EF"
+			image: "mahoutsukai:item/powdered_eye"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -7.63d
+		}
+		{
+			dependency: "0762E1C6C8BFC49D"
+			height: 0.8d
+			id: "5A78851DDBB5C276"
+			image: "mahoutsukai:item/powdered_quartz"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -7.63d
+		}
+		{
+			dependency: "0762E1C6C8BFC49D"
+			height: 0.8d
+			id: "72D4CCEC54F71AC3"
+			image: "mahoutsukai:block/blood-circle"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -7.63d
+		}
+		{
+			dependency: "0762E1C6C8BFC49D"
+			height: 0.8d
+			id: "53AFCBB7D525526C"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -1.13d
+		}
+		{
+			dependency: "0762E1C6C8BFC49D"
+			height: 0.8d
+			id: "05B18732CB9C07BC"
+			image: "mahoutsukai:item/attuned_emerald"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -1.13d
+		}
+		{
+			dependency: "0762E1C6C8BFC49D"
+			height: 0.8d
+			id: "72A132DE63086A04"
+			image: "mahoutsukai:item/kodoku"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -1.13d
+		}
+		{
+			dependency: "0762E1C6C8BFC49D"
+			height: 0.8d
+			id: "5943AAEF56B8C162"
+			image: "mahoutsukai:block/circuit1"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -1.13d
+		}
+		{
+			dependency: "0762E1C6C8BFC49D"
+			height: 0.04d
+			id: "0FFBEA52C54EBEA1"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -1.63d
+		}
+		{
+			dependency: "0762E1C6C8BFC49D"
+			height: 0.8d
+			id: "607CB508BC53C989"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 2.77d
+		}
+		{
+			dependency: "0762E1C6C8BFC49D"
+			height: 0.8d
+			id: "794D5CB752FE9F23"
+			image: "mahoutsukai:item/caliburn"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 2.77d
+		}
+		{
+			dependency: "0762E1C6C8BFC49D"
+			height: 0.8d
+			id: "37BDD0D24A1574BE"
+			image: "mahoutsukai:item/mystic_staff"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 2.77d
+		}
+		{
+			dependency: "0762E1C6C8BFC49D"
+			height: 0.8d
+			id: "79B1D97CA220A81C"
+			image: "mahoutsukai:item/rule_breaker"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 2.77d
+		}
+		{
+			dependency: "0762E1C6C8BFC49D"
+			height: 0.04d
+			id: "7A22674654C05784"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 2.27d
+		}
+	]
+	order_index: 15
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["0762E1C6C8BFC49D"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "mahoutsukai:powdered_eye"
+			}
+			id: "3D09B9FC100C2825"
+			rewards: [
+				{
+					id: "53AE4CAAB5F8D839"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "5E87BB856811E5E4"
+					item: {
+						count: 1
+						id: "mahoutsukai:powdered_ender"
+					}
+					type: "item"
+				}
+				{
+					id: "6881F00C6B03EF67"
+					item: {
+						count: 1
+						id: "mahoutsukai:powdered_eye"
+					}
+					type: "item"
+				}
+				{
+					id: "240CE96C3AD7B798"
+					item: {
+						count: 1
+						id: "mahoutsukai:powdered_quartz"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -4.28d
+		}
+		{
+			dependencies: ["3D09B9FC100C2825"]
+			icon: {
+				id: "mahoutsukai:powdered_iron"
+			}
+			id: "7C0C8BAF017D0344"
+			rewards: [
+				{
+					id: "0C24DA659D6CA74D"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "6A1688B8845D36E2"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(mahoutsukai:scroll_boundary_alarm)item(mahoutsukai:scroll_boundary_drain_life)item(mahoutsukai:scroll_boundary_gravity)item(mahoutsukai:scroll_boundary_displacement)item(mahoutsukai:scroll_boundary_raise_enclosure)item(mahoutsukai:scroll_boundary_tangible))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -6.23d
+		}
+		{
+			dependencies: ["3D09B9FC100C2825"]
+			icon: {
+				id: "mahoutsukai:powdered_ender"
+			}
+			id: "27A1799DC6990398"
+			rewards: [
+				{
+					id: "1D6744030364C5C4"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "5CB8D3F91889134A"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(mahoutsukai:scroll_projectile_displacement)item(mahoutsukai:scroll_protective_displacement)item(mahoutsukai:scroll_selective_displacement)item(mahoutsukai:scroll_mental_displacement)item(mahoutsukai:scroll_spatial_disorientation))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -4.93d
+		}
+		{
+			dependencies: ["3D09B9FC100C2825"]
+			icon: {
+				id: "mahoutsukai:powdered_diamond"
+			}
+			id: "6F4518C7CB09DE77"
+			rewards: [
+				{
+					id: "69C9F7826F161481"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "23F21D4EBE96301B"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(mahoutsukai:scroll_projection)item(mahoutsukai:scroll_weapon_shooter)item(mahoutsukai:scroll_proximity_projection)item(mahoutsukai:scroll_rho_aias))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -3.63d
+		}
+		{
+			dependencies: ["3D09B9FC100C2825"]
+			icon: {
+				id: "mahoutsukai:powdered_emerald"
+			}
+			id: "2033FBA126229000"
+			rewards: [
+				{
+					id: "32C0B53DB73AEDF2"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "2534D5DAE19DE0D0"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(mahoutsukai:scroll_damage_exchange)item(mahoutsukai:scroll_immunity_exchange))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -2.33d
+		}
+		{
+			dependencies: ["3D09B9FC100C2825"]
+			icon: {
+				id: "mahoutsukai:powdered_eye"
+			}
+			id: "1D1DF7702E33212A"
+			rewards: [
+				{
+					id: "58B5FB1D428DF763"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "65DC2CEF217812AD"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(mahoutsukai:scroll_mystic_eyes)item(mahoutsukai:scroll_black_flame)item(mahoutsukai:scroll_death_collection)item(mahoutsukai:scroll_reversion_eyes)item(mahoutsukai:scroll_insight)item(mahoutsukai:scroll_prediction))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -4.93d
+		}
+		{
+			dependencies: ["3D09B9FC100C2825"]
+			id: "789CDD2AC65B21C6"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "46D31AB81FEA7CF1"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "7567D4AD6DFBA37F"
+					item: {
+						count: 1
+						id: "mahoutsukai:scroll_summon_familiar"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -3.63d
+		}
+		{
+			dependencies: ["0762E1C6C8BFC49D"]
+			hide_until_deps_complete: true
+			id: "2BF04F18AE1496EB"
+			rewards: [
+				{
+					id: "5E307B6F84BBBF58"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "79A9F207E184175B"
+					item: {
+						count: 1
+						id: "mahoutsukai:attuned_emerald"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.27d
+		}
+		{
+			dependencies: ["0762E1C6C8BFC49D"]
+			hide_until_deps_complete: true
+			id: "2C68A602930B48B0"
+			rewards: [
+				{
+					id: "68B46443095538E1"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "7E4340C32BD9E303"
+					item: {
+						count: 1
+						id: "mahoutsukai:kodoku"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 1.57d
+		}
+		{
+			dependencies: ["2C68A602930B48B0"]
+			id: "0F147D3C670434BE"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "3EDB534C88F2C049"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "612C323E045D5B5A"
+					item: {
+						count: 1
+						id: "mahoutsukai:faecake"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 0.27d
+		}
+		{
+			dependencies: ["2C68A602930B48B0"]
+			icon: {
+				id: "mahoutsukai:mahoujin_projector"
+			}
+			id: "000301E694BCB523"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "6E87AF48B894D4C8"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "4E5ABBD6011292F1"
+					item: {
+						count: 1
+						id: "mahoutsukai:mahoujin_projector"
+					}
+					type: "item"
+				}
+				{
+					id: "2B45674FCFBC33A6"
+					item: {
+						count: 1
+						id: "mahoutsukai:fog_projector"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 1.57d
+		}
+		{
+			dependencies: ["0762E1C6C8BFC49D"]
+			hide_until_deps_complete: true
+			id: "0E3948737B64A96F"
+			rewards: [
+				{
+					id: "151C5EB4D8B48ACD"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "5BE475137228F141"
+					item: {
+						count: 1
+						id: "mahoutsukai:scroll_gandr"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 5.85d
+		}
+		{
+			dependencies: ["0E3948737B64A96F"]
+			id: "0A5CE764D2131A76"
+			rewards: [
+				{
+					id: "583CD84DCD0E353B"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "7540AD40EB2C0688"
+					item: {
+						count: 1
+						id: "mahoutsukai:scroll_mystic_staff"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 4.3d
+		}
+		{
+			dependencies: ["0E3948737B64A96F"]
+			id: "74D7F15B8ECC3010"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "2661C241C90EE5AF"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "3D3F1BA70ABE588F"
+					item: {
+						count: 1
+						id: "mahoutsukai:scroll_borrowed_authority"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 5.85d
+		}
+		{
+			dependencies: ["0E3948737B64A96F"]
+			id: "1126469E0A49ADCD"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "3BFBD24A02968FED"
+					type: "xp"
+					xp: 275
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "7144A8EB3DA3200B"
+					item: {
+						count: 1
+						id: "mahoutsukai:caliburn"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 7.4d
+		}
+	]
+}

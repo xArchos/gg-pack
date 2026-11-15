@@ -1,0 +1,1124 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bosses_magic"
+	group: "0F1B4D3EF0FB70FA"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "irons_spellbooks:necronomicon_spell_book"
+	}
+	id: "0E92004998800F2F"
+	images: [
+		{
+			height: 1.8d
+			id: "10FC906A41CC922D"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -22.4d
+		}
+		{
+			height: 1.8d
+			id: "352B57B623F24EF0"
+			image: "ars_nouveau:item/wilden_tribute"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -22.4d
+		}
+		{
+			height: 1.8d
+			id: "68F0327F54ED2B44"
+			image: "goety:item/void_echo"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -22.4d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "5824F587CB5B30E1"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -20.25d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "7103EA2B758993F7"
+			image: "ars_nouveau:item/ritual_wilden_summon"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -20.25d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "39F2D996F9E7E4D6"
+			image: "irons_spellbooks:item/dead_king_phylactery_shard"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -20.25d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "093E0A3C68521507"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -16.35d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "62ED21DD423789F8"
+			image: "irons_spellbooks:item/blood_staff"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -16.35d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "3DB741D0CCE17D7C"
+			image: "irons_spellbooks:item/necronomicon_spell_book"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -16.35d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.04d
+			id: "69F9E3239FF8C3E9"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -16.85d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "0D2B0537A905680E"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -11.15d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "3BA9C7804CAFD81E"
+			image: "goety:item/unholy_blood"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -11.15d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "5971722570ABA880"
+			image: "irons_spellbooks:item/cinderous_soulcaller"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -11.15d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.04d
+			id: "5EC33164300624FC"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: -11.65d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "5A1A4417396097A2"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -7.25d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "66394AD1DF2FBAFC"
+			image: "irons_spellbooks:item/divine_soulshard"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -7.25d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "0D00CB55BE564768"
+			image: "irons_spellbooks:item/decrepit_scythe"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -7.25d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.04d
+			id: "170A35EBA01A8887"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -7.75d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "1579FD0C5A70BA69"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -0.75d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "4949287FB3776AF2"
+			image: "discerning_the_eldritch:item/ritual_dagger"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -0.75d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "06948AAC4D90EE01"
+			image: "discerning_the_eldritch:item/fading_sculk_lantern"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -0.75d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.04d
+			id: "61856598C1EF2C03"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: -1.25d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "05ED044071B1AF28"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 1.85d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "05919C3F3AF1F1EA"
+			image: "discerning_the_eldritch:item/black_book_spellbook"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 1.85d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "34ADE2C4D99847D5"
+			image: "discerning_the_eldritch:item/staff_of_ascension"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 1.85d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.04d
+			id: "63177EC0C78E3F53"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 1.35d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "488F96102ACEBB5B"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 7.05d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "11CE86FC9D5BCA29"
+			image: "goety:item/dark_scroll"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 7.05d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "268136E62472A1D6"
+			image: "goety:item/soul_ruby"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 7.05d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.04d
+			id: "55CD11C72A28F1A0"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 6.55d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "3E0E54337604311B"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 10.95d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.04d
+			id: "30084B832AA05E59"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 10.45d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "19B762CC72D6327E"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 14.85d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "6E9B8C7D800B47BC"
+			image: "goety:item/void_shard"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 14.85d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "36E249698D989B22"
+			image: "goety:item/blade_of_ender"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 14.85d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.04d
+			id: "66B7772B9FABB132"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 14.35d
+		}
+		{
+			dependency: "0762E1C6C8BFC49D"
+			height: 0.8d
+			id: "24D453ACF2888248"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 18.75d
+		}
+		{
+			dependency: "0762E1C6C8BFC49D"
+			height: 0.8d
+			id: "034D62520DBD0478"
+			image: "irons_spellbooks:item/scroll"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 18.75d
+		}
+		{
+			dependency: "0762E1C6C8BFC49D"
+			height: 0.8d
+			id: "2D12AC478E096A22"
+			image: "irons_spellbooks:item/legendary_ink"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 18.75d
+		}
+		{
+			dependency: "0762E1C6C8BFC49D"
+			height: 0.04d
+			id: "4171EEA02B25A8DA"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 18.25d
+		}
+	]
+	order_index: 5
+	quest_links: [
+		{
+			id: "39B452FA8581E57A"
+			linked_quest: "4342B25F5E9890EA"
+			x: 5.25d
+			y: -18.85d
+		}
+		{
+			id: "4ED8FEB511773E3C"
+			linked_quest: "40C6BDAEC3DDCF37"
+			x: 5.25d
+			y: -17.55d
+		}
+		{
+			id: "1456877F3DEF42EF"
+			linked_quest: "721E79C1649B6E55"
+			x: 1.75d
+			y: -9.75d
+		}
+		{
+			id: "5AA36678203892AF"
+			linked_quest: "2E59B8AC37A168E2"
+			x: 1.75d
+			y: -8.45d
+		}
+		{
+			id: "1877C7E599B01DEB"
+			linked_quest: "086925E4AF1564FB"
+			x: 1.75d
+			y: 0.65d
+		}
+		{
+			id: "7429DE4A86E5BE61"
+			linked_quest: "7BC43F3F809F769A"
+			x: 1.75d
+			y: 8.45d
+		}
+		{
+			id: "4A14320C855855A1"
+			linked_quest: "5A71C5EA9533AA40"
+			x: 1.75d
+			y: 9.75d
+		}
+		{
+			id: "7BE69493230E2335"
+			linked_quest: "79A0D70C3A82A445"
+			x: 5.25d
+			y: 16.9d
+		}
+		{
+			id: "539B036162B2D8C5"
+			linked_quest: "572CA3255019880B"
+			x: 1.75d
+			y: 20.15d
+		}
+	]
+	quests: [
+		{
+			dependencies: ["38EA9BA21F0E366C"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "ars_nouveau:wilden_horn"
+			}
+			id: "44FF6A6CC350D197"
+			preset: "info"
+			rewards: [
+				{
+					id: "45BCF112C07DC880"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "6BBABA3A5029AE79"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: -18.2d
+		}
+		{
+			dependencies: ["44FF6A6CC350D197"]
+			id: "0E4AA36A37CE3C35"
+			rewards: [
+				{
+					id: "7B8C794A61E44350"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "17B1DF00AE8BA5CA"
+					item: {
+						count: 1
+						id: "irons_spellbooks:wayward_compass"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -18.2d
+		}
+		{
+			dependencies: ["0E4AA36A37CE3C35"]
+			id: "219687B3511CC879"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "427F26BECA4BCFCF"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "0DA14E601A33043B"
+					item: {
+						count: 1
+						id: "irons_spellbooks:dead_king_phylactery"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -18.2d
+		}
+		{
+			dependencies: ["44FF6A6CC350D197", "4342B25F5E9890EA"]
+			id: "1D69DB228D162A45"
+			rewards: [
+				{
+					id: "212FBFD0EB6BC791"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "4A44ACA1E6C59F3E"
+					item: {
+						count: 1
+						id: "ars_nouveau:wilden_tribute"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -14.95d
+		}
+		{
+			dependencies: ["1D69DB228D162A45"]
+			id: "597017FC777F73A0"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "5272BF944C9147AC"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "556BA020E0DBF52D"
+					item: {
+						count: 1
+						id: "ars_nouveau:summon_focus"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -13.65d
+		}
+		{
+			dependencies: ["44FF6A6CC350D197", "40C6BDAEC3DDCF37"]
+			id: "3718EA2B8781F518"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "17D773D632D8569C"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "2CBE5ACE37326ACB"
+					item: {
+						count: 1
+						id: "irons_spellbooks:blood_staff"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -13.65d
+		}
+		{
+			dependencies: ["44FF6A6CC350D197", "40C6BDAEC3DDCF37"]
+			id: "07285A05F8E762F4"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "736BFF5FDA74CCA8"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "4763C22E50C5A3CD"
+					item: {
+						count: 1
+						id: "irons_spellbooks:necronomicon_spell_book"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -12.35d
+		}
+		{
+			dependencies: ["7A875C04743BEF62"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "irons_spellbooks:cinderous_soulcaller"
+			}
+			id: "43E29DE0758CF5F9"
+			preset: "info"
+			rewards: [
+				{
+					id: "233A083B03507932"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "1AD43E0BC9FD247E"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: -9.1d
+		}
+		{
+			dependencies: ["43E29DE0758CF5F9", "721E79C1649B6E55"]
+			id: "46186F3DCA5BCF1E"
+			rewards: [
+				{
+					id: "66DCF2825FAD5EEF"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "383316039D3988B9"
+					item: {
+						count: 1
+						id: "goety:unholy_blood"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -5.85d
+		}
+		{
+			dependencies: ["43E29DE0758CF5F9", "2E59B8AC37A168E2"]
+			id: "391678E4D6AFD55A"
+			rewards: [
+				{
+					id: "0131ACD7DB3E5406"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "450DF2BC08C0A52E"
+					item: {
+						count: 1
+						id: "irons_spellbooks:divine_soulshard"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -4.55d
+		}
+		{
+			dependencies: ["43E29DE0758CF5F9", "2E59B8AC37A168E2"]
+			id: "4429C383792243AC"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "4D212F8C7A74645B"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "17911EB9F6815159"
+					item: {
+						count: 1
+						id: "irons_spellbooks:decrepit_scythe"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -3.25d
+		}
+		{
+			dependencies: ["43E29DE0758CF5F9", "2E59B8AC37A168E2"]
+			id: "089B1C8D56671E39"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "342092D4FF017704"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "61134C854395B1C2"
+					item: {
+						count: 1
+						id: "irons_spellbooks:betrayer_signet"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -1.95d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "discerning_the_eldritch:ritual_dagger"
+			}
+			id: "076AA77AF713C8AB"
+			preset: "info"
+			rewards: [
+				{
+					id: "64FEA0667FCAE998"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "2C25086ACEC6A2FB"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 0.65d
+		}
+		{
+			dependencies: ["076AA77AF713C8AB", "086925E4AF1564FB"]
+			id: "47C4B6051DAD3963"
+			rewards: [
+				{
+					id: "0FC2000830D6FC6D"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "04648A890697C3E1"
+					item: {
+						count: 1
+						id: "discerning_the_eldritch:black_book_spellbook"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 3.25d
+		}
+		{
+			dependencies: ["076AA77AF713C8AB", "086925E4AF1564FB"]
+			id: "05EA90F4F047DA04"
+			rewards: [
+				{
+					id: "5F0B7046C278C1CA"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "6F9A07224871E94A"
+					item: {
+						count: 1
+						id: "discerning_the_eldritch:staff_of_ascension"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 4.55d
+		}
+		{
+			dependencies: ["076AA77AF713C8AB", "086925E4AF1564FB"]
+			id: "7387C900174FDCFC"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "5C3875E13C84C5A8"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "2C9D3E04F200C24D"
+					item: {
+						count: 1
+						id: "discerning_the_eldritch:fading_sculk_lantern"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 5.85d
+		}
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "goety:dark_scroll"
+			}
+			id: "64E8D1813DF6EEE5"
+			preset: "info"
+			rewards: [
+				{
+					id: "2CFC8AAFA5FC7748"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "56D56119C76F00AD"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 9.1d
+		}
+		{
+			dependencies: ["64E8D1813DF6EEE5", "7BC43F3F809F769A"]
+			id: "6B02295457E48065"
+			rewards: [
+				{
+					id: "3866322B7545064E"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "2C223631B17ABED7"
+					item: {
+						count: 1
+						id: "goety:soul_ruby"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 12.35d
+		}
+		{
+			dependencies: ["64E8D1813DF6EEE5", "5A71C5EA9533AA40"]
+			id: "44BD8C99C83F4C48"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "6AE09C1EFA1F3EFD"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "3CD0D9F87C0B5660"
+					item: {
+						count: 1
+						id: "goety:treasure_pouch"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 13.65d
+		}
+		{
+			dependencies: ["53A32F809B45CAFE"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "goety:void_shard"
+			}
+			id: "7A2B4AEFB55D3CB2"
+			rewards: [
+				{
+					id: "44B91B1BD4EECAFA"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					count: 4L
+					id: "501A692853A04B7F"
+					item: {
+						count: 1
+						id: "goety:void_shard"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 16.9d
+		}
+		{
+			dependencies: ["7A2B4AEFB55D3CB2"]
+			icon: {
+				id: "goety:void_shrine"
+			}
+			id: "624BABDC9CB43903"
+			rewards: [
+				{
+					id: "08D9CDC49E287F22"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "4409F47BDFF4E991"
+					structure: "goety:final_terminal"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 16.25d
+		}
+		{
+			dependencies: ["7A2B4AEFB55D3CB2", "79A0D70C3A82A445"]
+			id: "364475FBFDF50FEF"
+			rewards: [
+				{
+					id: "198064093B57AF60"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "3EFE4C8D9F5B7677"
+					item: {
+						count: 1
+						id: "goety:void_echo"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 17.55d
+		}
+		{
+			dependencies: ["364475FBFDF50FEF"]
+			id: "4BFEF6F2B21E2C32"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "2BE37EB2487E7DEB"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "71B678FF6F1B961D"
+					item: {
+						count: 1
+						id: "goety:blade_of_ender"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 16.9d
+		}
+		{
+			dependencies: ["0762E1C6C8BFC49D"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "irons_spellbooks:scroll"
+			}
+			id: "73D22E161117F5F1"
+			preset: "info"
+			rewards: [
+				{
+					id: "71840CEC9377FD18"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "29FBE738A748D5CE"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 20.15d
+		}
+	]
+}

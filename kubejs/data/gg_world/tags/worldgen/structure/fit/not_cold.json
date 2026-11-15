@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "dungeons_arise:abandoned_temple",
+      "required": false
+    }
+  ]
+}

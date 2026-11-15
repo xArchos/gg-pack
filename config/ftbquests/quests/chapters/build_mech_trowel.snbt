@@ -1,0 +1,415 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "build_mech_trowel"
+	group: "16562C951FE3B019"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "mechtrowel:mech_trowel"
+	}
+	id: "303CACDD2FF820A0"
+	images: [
+		{
+			height: 1.8d
+			id: "4F89FD4E7845F43C"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -8.22d
+		}
+		{
+			height: 1.8d
+			id: "169C2EAA83CF1274"
+			image: "mechtrowel:item/trowel_cog"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -8.22d
+		}
+		{
+			height: 1.8d
+			id: "395EDB56DA068A52"
+			image: "mechtrowel:item/trowel_blade"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -8.22d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "4FBE0011970B9424"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -6.08d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "20FE1345781DBEAE"
+			image: "mechtrowel:item/trowel_handle"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -6.08d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "27458991B28982FF"
+			image: "mechtrowel:item/trowel_handle_guard"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -6.08d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "1C7D275E746B364D"
+			image: "mechtrowel:item/trowel_stick"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -6.08d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "3F688DD2103B5BE5"
+			image: "mechtrowel:item/mech_trowel"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -6.08d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "54E3A7EABE4995CD"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -3.22d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "599D0794835E41C6"
+			image: "mechtrowel:item/wand_template"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -3.22d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "09F7B9FA591D684A"
+			image: "mechtrowel:item/variant_template"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -3.22d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "0ECF86ABFA2EC29C"
+			image: "mechtrowel:item/reach_upgrade_template"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -3.22d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "3C5C6182617B47E2"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -3.73d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "78E075A4F0F93D95"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 1.98d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "7C961D629D33D12D"
+			image: "mechtrowel:item/wand_capacity_template"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 1.98d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.04d
+			id: "668267F2F1EDB2EF"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 1.48d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "6966AE4128829493"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 4.58d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "1E5EF8BB062AE0C8"
+			image: "mechtrowel:item/ae2_template"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 4.58d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "435109238AC8A8FB"
+			image: "ae2:item/wireless_receiver"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 4.58d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.04d
+			id: "1DF3BB6C69DDEA2D"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 4.08d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			id: "05FC20A15925003A"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "057D15596D4A4552"
+					type: "xp"
+					xp: 125
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "14E155818EB96F3D"
+					item: {
+						count: 1
+						id: "mechtrowel:mech_trowel"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -4.55d
+		}
+		{
+			dependencies: ["05FC20A15925003A"]
+			icon: {
+				id: "mechtrowel:mech_trowel"
+			}
+			id: "36A84F0047BD1221"
+			preset: "info"
+			rewards: [
+				{
+					id: "1F2EEDE2EE6A40EF"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "7A46FD99DA0C50A1"
+					type: "checkmark"
+				}
+			]
+			x: 1.75d
+			y: -4.55d
+		}
+		{
+			dependencies: ["05FC20A15925003A"]
+			id: "3CBC4F85CFB29456"
+			rewards: [
+				{
+					id: "77B267351DC365A6"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "49859C3D2528A8F2"
+					item: {
+						count: 1
+						id: "mechtrowel:wand_template"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -1.82d
+		}
+		{
+			dependencies: ["05FC20A15925003A"]
+			id: "5F1B2002A402CF9E"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "0D4049BE638BAF25"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "585CB2D75E7DBF0A"
+					item: {
+						count: 1
+						id: "mechtrowel:variant_conversion_template"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -0.52d
+		}
+		{
+			dependencies: ["05FC20A15925003A"]
+			id: "57762B864DAACBEF"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "2B86752364F32A61"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "560679404D2EA21E"
+					item: {
+						count: 1
+						id: "mechtrowel:reach_upgrade_template"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 0.78d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			hide_until_deps_complete: true
+			id: "42D6417EB7297FCF"
+			rewards: [
+				{
+					id: "5B31830D3562D427"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "10D7A3D46055E002"
+					item: {
+						count: 1
+						id: "mechtrowel:wand_capacity_template"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 3.38d
+		}
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			hide_until_deps_complete: true
+			id: "42D4D5EB7D55CCAB"
+			rewards: [
+				{
+					id: "04FB2183867B9DD6"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "4AB25CC7C5F3F29E"
+					item: {
+						count: 1
+						id: "mechtrowel:ae2_template"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 5.98d
+		}
+	]
+}

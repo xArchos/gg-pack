@@ -1,0 +1,948 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tech_create_processing"
+	group: "32C7FC51B44C22EE"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "create:crushing_wheel"
+	}
+	id: "0157AF77673E6A3B"
+	images: [
+		{
+			height: 1.8d
+			id: "05AC2EE549F96CC6"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -14.85d
+		}
+		{
+			height: 1.8d
+			id: "1C27DFAAFA726287"
+			image: "create:block/crushing_wheel_plates"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -14.85d
+		}
+		{
+			height: 1.8d
+			id: "6B5FA8736BB9C28B"
+			image: "create:block/fan_casing"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -14.85d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "7345F4D237C9A3B2"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -12.7d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "072C336F06D72A14"
+			image: "create:block/fan_casing"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -12.7d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "6169CFD1052619AF"
+			image: "minecraft:item/clay_ball"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -12.7d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "2DA375BB7C77A035"
+			image: "minecraft:item/flint"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -12.7d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "7220EBAEFD31B042"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -8.8d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "43D996D66FD9A671"
+			image: "create:block/mechanical_press_head"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -8.8d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "70C88A9E1F416683"
+			image: "create:block/basin"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -8.8d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "66FBFC9758193E2B"
+			image: "create:block/mechanical_saw_top"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -8.8d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.04d
+			id: "05CF31FEEF8AE320"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -9.3d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "4CB1480FA31F759F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -4.9d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "73D004BAACB287EA"
+			image: "create:block/pump"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -4.9d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "41ABB4A996848F3A"
+			image: "create:block/hose_pulley"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -4.9d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "2704760DADA20EE5"
+			image: "create:block/fluid_valve"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -4.9d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.04d
+			id: "641BE196612B3D33"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -5.4d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "75F6B327BF2FFE70"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 0.3d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "31142E55052B6585"
+			image: "create:block/crushing_wheel_insert"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 0.3d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "1A1E8DFEF2BC4F1C"
+			image: "create:item/crushed_raw_iron"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 0.3d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "51D7626E99B7CA04"
+			image: "create:item/crushed_raw_gold"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 0.3d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "0A598EEE6D26DAAB"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: -0.2d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "62B3B764CDD0D19B"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 4.7d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "62A77E150C415FF8"
+			image: "create:item/blaze_cake"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 4.7d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "49D1E34B226DB847"
+			image: "create:item/polished_rose_quartz"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 4.7d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "61B4FE5950FD59E2"
+			image: "create:block/bell"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 4.7d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "364989A5EC40C093"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 4.2d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "540F8906F45ED0ED"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 9.9d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "76098CC674A5DF2A"
+			image: "create:block/deployer"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 9.9d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "66611E0B8C374C1B"
+			image: "create:item/sturdy_sheet"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 9.9d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "3459A049EF77DBFB"
+			image: "create:item/powdered_obsidian"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 9.9d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "73BD5E0AFE9822FF"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 9.4d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["7B472916B8B3515D"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "create:encased_fan"
+			}
+			id: "6A4F166CB8FAA9B4"
+			rewards: [
+				{
+					id: "3BDC7EAE41999253"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					count: 32L
+					id: "209BB526C6B45D6D"
+					item: {
+						count: 1
+						id: "minecraft:clay_ball"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -10.65d
+		}
+		{
+			dependencies: ["6A4F166CB8FAA9B4"]
+			icon: {
+				id: "minecraft:red_sand"
+			}
+			id: "4BCC3E9D04407149"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "3E4648CCA0A43E53"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					count: 36L
+					id: "41402ABC0D7E106B"
+					item: {
+						count: 1
+						id: "minecraft:gold_nugget"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -11.3d
+		}
+		{
+			dependencies: ["6A4F166CB8FAA9B4"]
+			icon: {
+				id: "minecraft:flint"
+			}
+			id: "5D7589E3D990F630"
+			rewards: [
+				{
+					id: "66A1DED4D7C19314"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					count: 256L
+					id: "497B3BC23B49E53F"
+					item: {
+						count: 1
+						id: "minecraft:flint"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -10.0d
+		}
+		{
+			dependencies: ["6A4F166CB8FAA9B4"]
+			icon: {
+				id: "create:basin"
+			}
+			id: "00D95988AEFE1CE4"
+			rewards: [
+				{
+					id: "5CE5007F0B8FB22E"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					advancement: "create:compacting"
+					criterion: ""
+					id: "58BEEABBECECE8BF"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: -7.4d
+		}
+		{
+			dependencies: ["6A4F166CB8FAA9B4"]
+			icon: {
+				id: "create:mechanical_saw"
+			}
+			id: "2E42D46E6C4A2EB5"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "56331C86E16AFAED"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					advancement: "create:saw_processing"
+					criterion: ""
+					id: "2A82BD0941219EAF"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: -6.1d
+		}
+		{
+			dependencies: ["6A4F166CB8FAA9B4"]
+			icon: {
+				id: "create:fluid_pipe"
+			}
+			id: "4B9591E814238633"
+			rewards: [
+				{
+					id: "64A28701B96D3F5E"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "0C54384E2483EF53"
+					item: {
+						count: 1
+						id: "create:fluid_pipe"
+					}
+					type: "item"
+				}
+				{
+					id: "3E4D6CAE751B7B5B"
+					item: {
+						count: 1
+						id: "create:fluid_valve"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -2.2d
+		}
+		{
+			dependencies: ["4B9591E814238633"]
+			icon: {
+				id: "create:mechanical_pump"
+			}
+			id: "5D21E1D7BE156889"
+			rewards: [
+				{
+					id: "38D159E66C88D788"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					advancement: "create:water_supply"
+					criterion: ""
+					id: "2056F1474F4FB1C3"
+					type: "advancement"
+				}
+			]
+			x: 3.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["4B9591E814238633"]
+			icon: {
+				id: "create:hose_pulley"
+			}
+			id: "77FCF655CACC5065"
+			rewards: [
+				{
+					id: "550353ABECAE70E1"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					advancement: "create:hose_pulley"
+					criterion: ""
+					id: "5D75D380C937002C"
+					type: "advancement"
+				}
+			]
+			x: 3.5d
+			y: -2.2d
+		}
+		{
+			dependencies: ["4B9591E814238633"]
+			icon: {
+				id: "create:honey_bucket"
+			}
+			id: "46DF25873D74E915"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "7217C8C0E3C2DE8A"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					advancement: "create:honey_drain"
+					criterion: ""
+					id: "3D79A199FF4120E4"
+					type: "advancement"
+				}
+			]
+			x: 3.5d
+			y: -0.9d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "create:crushing_wheel"
+			}
+			id: "11FCE4A0C294CB8D"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "69E382FF6AC6C050"
+					type: "xp"
+					xp: 125
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					count: 2L
+					id: "0EDE43DD8D81DE80"
+					item: {
+						count: 1
+						id: "create:crushing_wheel"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.6d
+		}
+		{
+			dependencies: ["11FCE4A0C294CB8D"]
+			icon: {
+				id: "create:crushed_raw_iron"
+			}
+			id: "1D6DB12B3502E9ED"
+			rewards: [
+				{
+					id: "156BFA4823C9EAF7"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "17CCF45D5878B2EC"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "item_tag(create:crushed_raw_materials)"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 1.83d
+		}
+		{
+			dependencies: ["11FCE4A0C294CB8D"]
+			icon: {
+				id: "create:crushing_wheel"
+			}
+			id: "59CCD46F81334CAE"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "7FE716626C7DDDBB"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "create:crusher_maxed_0000"
+					criterion: ""
+					id: "6D68C0E9011040C0"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: 3.38d
+		}
+		{
+			dependencies: ["1D6DB12B3502E9ED"]
+			icon: {
+				id: "create:crushed_raw_copper"
+			}
+			id: "50AE221D4F023BB7"
+			rewards: [
+				{
+					id: "7C6535548C072E15"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					count: 512L
+					id: "5D2386C464DB537B"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "item_tag(create:crushed_raw_materials)"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 2.6d
+		}
+		{
+			dependencies: ["11FCE4A0C294CB8D"]
+			id: "3AB8C371B574C5A3"
+			rewards: [
+				{
+					id: "682F75966827E981"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "654304DB97F064AE"
+					item: {
+						count: 1
+						id: "create:blaze_cake"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 6.1d
+		}
+		{
+			dependencies: ["11FCE4A0C294CB8D"]
+			icon: {
+				id: "create:polished_rose_quartz"
+			}
+			id: "66472ED1DB8845B3"
+			rewards: [
+				{
+					id: "34409667D4C0D16B"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "create:rose_quartz"
+					criterion: ""
+					id: "36FFBB71725B019E"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: 7.4d
+		}
+		{
+			dependencies: ["11FCE4A0C294CB8D"]
+			icon: {
+				id: "create:haunted_bell"
+			}
+			id: "60A79A7408663768"
+			rewards: [
+				{
+					id: "4F7CFB1481011F75"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "create:haunted_bell"
+					criterion: ""
+					id: "1548B1E04D158ED5"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: 8.7d
+		}
+		{
+			dependencies: ["66472ED1DB8845B3"]
+			icon: {
+				id: "create:polished_rose_quartz"
+			}
+			id: "07913849E4B00331"
+			rewards: [
+				{
+					id: "6AA688FE29F1E7F1"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					count: 256L
+					id: "10B13FBFAFCBDC03"
+					item: {
+						count: 1
+						id: "create:polished_rose_quartz"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 6.1d
+		}
+		{
+			dependencies: ["3AB8C371B574C5A3"]
+			icon: {
+				id: "create:chocolate_glazed_berries"
+			}
+			id: "78771C6E929A4D20"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "154D0A835AFBB093"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "create:foods"
+					criterion: ""
+					id: "048945BC74F71A3E"
+					type: "advancement"
+				}
+			]
+			x: 3.5d
+			y: 7.4d
+		}
+		{
+			dependencies: ["3AB8C371B574C5A3"]
+			id: "336D851AB837B72B"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "3022D3B79D303FAE"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "22F67846CE924EBA"
+					item: {
+						count: 1
+						id: "create:builders_tea"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 8.7d
+		}
+		{
+			dependencies: ["11FCE4A0C294CB8D"]
+			id: "63FC896B18EF8E12"
+			rewards: [
+				{
+					id: "55F78B2E91F1D416"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "1CBC184418581287"
+					item: {
+						count: 1
+						id: "create:sturdy_sheet"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 11.3d
+		}
+		{
+			dependencies: ["11FCE4A0C294CB8D"]
+			icon: {
+				id: "create:deployer"
+			}
+			id: "23B5A7698BD6D44E"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "30EEB9662A8B38C0"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "create:fist_bump"
+					criterion: ""
+					id: "4A58804E869504C5"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: 12.6d
+		}
+	]
+}

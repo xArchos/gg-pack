@@ -1,0 +1,11 @@
+{
+  "type": "lithostitched:set_structure_spawn_condition",
+  "structures": "#gg_world:fit/not_snowy_or_desert",
+  "spawn_condition": {
+    "type": "lithostitched:not",
+    "condition": {
+      "type": "lithostitched:in_biome",
+      "biomes": "#gg_world:climate/snowy_or_desert"
+    }
+  }
+}

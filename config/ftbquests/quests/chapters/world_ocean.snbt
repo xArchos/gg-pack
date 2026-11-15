@@ -1,0 +1,735 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "world_ocean"
+	group: "61DE9B33509C7F9A"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "minecraft:heart_of_the_sea"
+	}
+	id: "6028EECDF2A0B943"
+	images: [
+		{
+			height: 1.8d
+			id: "413F7AE962E34B0F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -13.15d
+		}
+		{
+			height: 1.8d
+			id: "1718E4D97EFF218B"
+			image: "minecraft:item/nautilus_shell"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -13.15d
+		}
+		{
+			height: 1.8d
+			id: "1C241270277A7350"
+			image: "upgrade_aquatic:item/thrasher_tooth"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -13.15d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "7868D94F05D8DFB8"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -11.0d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "2FD29AA2FE2B68F2"
+			image: "upgrade_aquatic:item/pike"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -11.0d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "4CC440FC63E169A6"
+			image: "upgrade_aquatic:item/lionfish"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -11.0d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "7A0B7E7939063D84"
+			image: "minecraft:item/heart_of_the_sea"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -11.0d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "30A37D4FD47EEB09"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -4.5d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "5F13E8E0EABEA614"
+			image: "upgrade_aquatic:item/thrasher_tooth"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -4.5d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "7E2E76CCAC4A7D8B"
+			image: "minecraft:item/prismarine_shard"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -4.5d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.04d
+			id: "6816BD8EFDB44816"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: -5.0d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "5C47E4471529F202"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -1.9d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "29D61FFA1BAF6BC6"
+			image: "minecraft:item/crossbow_standby"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -1.9d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "0905EBD2590B3469"
+			image: "minecraft:block/dark_oak_planks"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -1.9d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.04d
+			id: "110CA28DE5D82C6F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: -2.4d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "231C45023EDD18EA"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 4.6d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "72875E91B5620FFB"
+			image: "aquamirae:item/frozen_key"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 4.6d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "7AA4620CE94FBF4A"
+			image: "aquamirae:item/abyssal_amethyst"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 4.6d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "6D167837D6EA7BD1"
+			image: "minecraft:block/prismarine_bricks"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 4.6d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "4B0A49ECE07E6B1B"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 4.1d
+		}
+	]
+	order_index: 10
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["61184EB93DBC27D9"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:oak_boat"
+			}
+			id: "51720D57B1E30245"
+			rewards: [
+				{
+					id: "125B2EAA464F15EE"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "1B3DB7D1EEB23242"
+					structure: "minecraft:shipwreck"
+					type: "structure"
+				}
+			]
+			x: 0.0d
+			y: -7.65d
+		}
+		{
+			dependencies: ["51720D57B1E30245"]
+			icon: {
+				id: "minecraft:filled_map"
+			}
+			id: "4FC2E16D06DF68AC"
+			rewards: [
+				{
+					id: "1D5C8038E918DFBE"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "500F6C36D6252661"
+					structure: "minecraft:buried_treasure"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: -9.6d
+		}
+		{
+			dependencies: ["4FC2E16D06DF68AC"]
+			id: "52EE08756643708D"
+			rewards: [
+				{
+					id: "0F999E57A115BEBF"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "4B7DE163B64C14A5"
+					item: {
+						count: 1
+						id: "minecraft:heart_of_the_sea"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -7.65d
+		}
+		{
+			dependencies: ["51720D57B1E30245"]
+			icon: {
+				id: "minecraft:prismarine_bricks"
+			}
+			id: "69A516803B51AE35"
+			rewards: [
+				{
+					id: "42C47E2A5A4932EB"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "5B410E158DF799BA"
+					structure: "minecraft:ocean_ruin_cold"
+					type: "structure"
+				}
+				{
+					id: "38D928007E7FBD72"
+					structure: "minecraft:ocean_ruin_warm"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: -8.3d
+		}
+		{
+			dependencies: ["51720D57B1E30245"]
+			icon: {
+				id: "upgrade_aquatic:pike"
+			}
+			id: "75F1B8C28A6BA6CC"
+			rewards: [
+				{
+					id: "2C19BB3EBE1A7594"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "1EE1AE018B414741"
+					item: {
+						count: 1
+						id: "upgrade_aquatic:pike"
+					}
+					type: "item"
+				}
+				{
+					id: "5E749609E4A3EAF7"
+					item: {
+						count: 1
+						id: "upgrade_aquatic:perch"
+					}
+					type: "item"
+				}
+				{
+					id: "42625EC0718E21F3"
+					item: {
+						count: 1
+						id: "upgrade_aquatic:lionfish"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -7.0d
+		}
+		{
+			dependencies: ["51720D57B1E30245"]
+			id: "2056E8FDE0091650"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "5CB8B367BA82FDBF"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "17F0D5C32EEC16DF"
+					item: {
+						count: 1
+						id: "upgrade_aquatic:jellyfish_bucket"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -5.7d
+		}
+		{
+			dependencies: ["7B472916B8B3515D"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:prismarine"
+			}
+			id: "1C781BD56E583C57"
+			rewards: [
+				{
+					id: "6E264A254A9DC6FB"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "0D1B0C3757FE5C3D"
+					structure: "hopo:underwater/underwater_city"
+					type: "structure"
+				}
+			]
+			x: 0.0d
+			y: -3.1d
+		}
+		{
+			dependencies: ["1C781BD56E583C57"]
+			id: "78E0EEECE1B51D69"
+			rewards: [
+				{
+					id: "50CB03C4C863CA0B"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "5B4A9EB9CEA74308"
+					item: {
+						count: 1
+						id: "upgrade_aquatic:thrasher_tooth"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -3.1d
+		}
+		{
+			dependencies: ["38EA9BA21F0E366C"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:crossbow"
+			}
+			id: "2C00291F2DF8854E"
+			rewards: [
+				{
+					id: "1D82E9825CCCB768"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "00C8F764407061DB"
+					structure: "dungeons_arise:illager_corsair"
+					type: "structure"
+				}
+			]
+			x: 0.0d
+			y: 1.45d
+		}
+		{
+			dependencies: ["2C00291F2DF8854E"]
+			icon: {
+				id: "minecraft:skeleton_skull"
+			}
+			id: "0F8B896403C3E624"
+			rewards: [
+				{
+					id: "5883597D5B902E12"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "0AAFEEFAFDCAB778"
+					structure: "dungeons_arise:undead_pirate_ship"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2C00291F2DF8854E"]
+			icon: {
+				id: "minecraft:lantern"
+			}
+			id: "4ADCB450861E59F8"
+			rewards: [
+				{
+					id: "783B908E2BA253FA"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "01AC7108314F8E33"
+					structure: "dungeons_arise:lighthouse"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 0.8d
+		}
+		{
+			dependencies: ["2C00291F2DF8854E"]
+			icon: {
+				id: "minecraft:dark_oak_boat"
+			}
+			id: "20E0ABBC1B47B114"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "77A1CC9E8C7C50C4"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "44ED096ECCF28E99"
+					structure: "dungeons_arise_seven_seas:unicorn_galleon"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 2.1d
+		}
+		{
+			dependencies: ["2C00291F2DF8854E"]
+			icon: {
+				id: "minecraft:spruce_boat"
+			}
+			id: "18D8087B7EC7DF7F"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "1D10B58286DDA1AC"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "7E6EA9D72E501924"
+					structure: "dungeons_arise_seven_seas:victory_frigate"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 3.4d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:prismarine_bricks"
+			}
+			id: "09291BAAED942687"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "19B9ED54EB6EC89F"
+					type: "xp"
+					xp: 125
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "783F0B0A6F39736D"
+					structure: "betteroceanmonuments:ocean_monument"
+					type: "structure"
+				}
+			]
+			x: 0.0d
+			y: 8.45d
+		}
+		{
+			dependencies: ["09291BAAED942687"]
+			icon: {
+				id: "minecraft:packed_ice"
+			}
+			id: "7D3498FA69E02F5D"
+			rewards: [
+				{
+					id: "6A06E2C734E34F33"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "aquamirae:adventure/find_ice_maze"
+					criterion: ""
+					id: "1A1EAA46D58F4220"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: 8.45d
+		}
+		{
+			dependencies: ["7D3498FA69E02F5D"]
+			icon: {
+				id: "aquamirae:shell_horn"
+			}
+			id: "353F03168ACA145D"
+			rewards: [
+				{
+					id: "26CDDB44C1CF46B8"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "6E924AAA1320696A"
+					structure: "aquamirae:pirate_ship"
+					type: "structure"
+				}
+			]
+			x: 3.5d
+			y: 6.12d
+		}
+		{
+			dependencies: ["7D3498FA69E02F5D"]
+			id: "29731F660D3DA782"
+			rewards: [
+				{
+					id: "45E67B471ED839D4"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "61C16A76FC8C864B"
+					item: {
+						count: 1
+						id: "aquamirae:frozen_key"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 7.67d
+		}
+		{
+			dependencies: ["7D3498FA69E02F5D"]
+			icon: {
+				id: "aquamirae:pirate_pouch"
+			}
+			id: "747A6AF70FCC8E0A"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "653E710BC27C9C13"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "067DA2C00E76C93A"
+					structure: "aquamirae:pirate_outpost"
+					type: "structure"
+				}
+			]
+			x: 3.5d
+			y: 9.22d
+		}
+		{
+			dependencies: ["7D3498FA69E02F5D"]
+			icon: {
+				id: "aquamirae:treasure_pouch"
+			}
+			id: "3B579F9CC4F9F2C1"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "4D7CFB9E06CDC618"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "047CD1316EC1392A"
+					structure: "aquamirae:pirate_shelter"
+					type: "structure"
+				}
+			]
+			x: 3.5d
+			y: 10.77d
+		}
+	]
+}

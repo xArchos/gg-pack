@@ -1,0 +1,26 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:storage_blocks/bronze"
+      }
+    }
+  ],
+  "type": "createmetallurgy:casting_in_basin",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "amount": 810,
+      "fluid": "createmetallurgy:molten_bronze"
+    }
+  ],
+  "processing_time": 480,
+  "result": {
+    "item": {
+      "id": "mekanism:block_bronze",
+      "count": 1
+    }
+  }
+}

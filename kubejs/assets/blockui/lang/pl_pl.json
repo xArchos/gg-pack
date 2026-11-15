@@ -1,0 +1,10 @@
+{
+  "blockui.config.default.boolean": "[Domyślnie: %s]",
+  "blockui.config.default.enum": "[Domyślnie: %s, wartości: %s]",
+  "blockui.config.default.number": "[Domyślnie: %s, min.: %s, maks.: %s]",
+  "blockui.config.default.string": "[Domyślnie: %s]",
+  "blockui.container_gui.client_side_only": "Zawartość pojemnika jest widoczna tylko na serwerze zintegrowanym (gra jednoosobowa, bez LAN).",
+  "blockui.container_gui.empty": "Ten pojemnik jest pusty.",
+  "blockui.tooltip.item_additional_info": "Przytrzymaj %s, aby wyświetlić dodatkowe informacje",
+  "blockui.tooltip.properties": "Właściwości stanu bloku:"
+}

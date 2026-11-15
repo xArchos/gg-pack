@@ -1,0 +1,29 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:plates/nickel"
+      }
+    }
+  ],
+  "type": "createmetallurgy:casting_in_table",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "amount": 90,
+      "fluid": "createmetallurgy:molten_nickel"
+    },
+    {
+      "item": "createmetallurgy:graphite_plate_mold"
+    }
+  ],
+  "processing_time": 60,
+  "result": {
+    "item": {
+      "id": "tfmg:nickel_sheet",
+      "count": 1
+    }
+  }
+}

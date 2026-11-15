@@ -1,0 +1,435 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "storage_ars"
+	group: "75FCEC97D90BDF93"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "ars_nouveau:storage_lectern"
+	}
+	id: "127CAFF278F96FD0"
+	images: [
+		{
+			height: 1.8d
+			id: "535A37E8D6E4B8B6"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -6.53d
+		}
+		{
+			height: 1.8d
+			id: "64DD3404BBA2BF9C"
+			image: "ars_nouveau:item/bookwyrm_charm"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -6.53d
+		}
+		{
+			height: 1.8d
+			id: "6D0B5275FC3A8D52"
+			image: "ars_nouveau:block/starbuncle_plush"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -6.53d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "1236000400BBC7F9"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -4.38d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "2CDCA2E4217AA514"
+			image: "ars_nouveau:item/starbuncle_charm"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -4.38d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "63602597C6224A5C"
+			image: "ars_nouveau:item/dominion_wand"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -4.38d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "1463AD357D3512F5"
+			image: "ars_nouveau:item/allow_scroll"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -4.38d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "250EB9F7ACAA05FA"
+			image: "ars_nouveau:item/wixie_charm"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -4.38d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "0916AB6AED924E9B"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -0.48d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "669530CB036E4AD4"
+			image: "ars_nouveau:block/repository"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -0.48d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "28765812C5DE6B6C"
+			image: "ars_nouveau:block/storage_catalog_filtered"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -0.48d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "46F44E3FA9967D1A"
+			image: "ars_nouveau:item/ritual_awakening"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -0.48d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "5EF092834B0ECDCB"
+			image: "ars_nouveau:block/source_jar"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -0.48d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.04d
+			id: "1BF4F2FDE424FE58"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: -0.98d
+		}
+	]
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["38EA9BA21F0E366C"]
+			hide_until_deps_complete: true
+			id: "53C4716BE3EA5FC2"
+			rewards: [
+				{
+					id: "388A1E35C537E981"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy", "storage"]
+			tasks: [
+				{
+					id: "4C1C5A4070555CAC"
+					item: {
+						count: 1
+						id: "ars_nouveau:starbuncle_charm"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -2.33d
+		}
+		{
+			dependencies: ["53C4716BE3EA5FC2"]
+			id: "5AAA7DA6CEEDCB73"
+			rewards: [
+				{
+					id: "5224EFDBC433E57C"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy", "storage"]
+			tasks: [
+				{
+					id: "4A535C4BE5E5A61C"
+					item: {
+						count: 1
+						id: "ars_nouveau:dominion_wand"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -2.98d
+		}
+		{
+			dependencies: ["5AAA7DA6CEEDCB73"]
+			icon: {
+				id: "ars_nouveau:allow_scroll"
+			}
+			id: "1A97E4BC1233B569"
+			rewards: [
+				{
+					id: "0B5487931F782722"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy", "storage"]
+			tasks: [
+				{
+					id: "6FA74FAF3E04661F"
+					item: {
+						count: 1
+						id: "ars_nouveau:allow_scroll"
+					}
+					type: "item"
+				}
+				{
+					id: "43792EBD20552E81"
+					item: {
+						count: 1
+						id: "ars_nouveau:deny_scroll"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -2.33d
+		}
+		{
+			dependencies: ["53C4716BE3EA5FC2"]
+			id: "2A4BADAE1174CE6C"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "332AD9E694558EA1"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy", "storage"]
+			tasks: [
+				{
+					id: "5F90BD6F2B818B88"
+					item: {
+						count: 1
+						id: "ars_nouveau:wixie_charm"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -1.68d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			hide_until_deps_complete: true
+			id: "304588F29DCA0962"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "78833CA2B68934A0"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tags: ["era_arkana", "storage"]
+			tasks: [
+				{
+					id: "642EC7371C056FC1"
+					item: {
+						count: 1
+						id: "ars_nouveau:storage_lectern"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.6d
+		}
+		{
+			dependencies: ["304588F29DCA0962"]
+			id: "54A46C967804D8FC"
+			rewards: [
+				{
+					id: "4435D27B691107B9"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana", "storage"]
+			tasks: [
+				{
+					id: "0D777AD1C08D9230"
+					item: {
+						count: 1
+						id: "ars_nouveau:ritual_awakening"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 1.82d
+		}
+		{
+			dependencies: ["54A46C967804D8FC"]
+			id: "093F11210845D7F7"
+			rewards: [
+				{
+					id: "443208B9AE20CD4B"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana", "storage"]
+			tasks: [
+				{
+					id: "6C6CB55548533045"
+					item: {
+						count: 1
+						id: "ars_nouveau:bookwyrm_charm"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 1.05d
+		}
+		{
+			dependencies: ["304588F29DCA0962"]
+			id: "7C0419F3F94DD5BF"
+			rewards: [
+				{
+					id: "4C640690D92C2F68"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana", "storage"]
+			tasks: [
+				{
+					id: "25F9C83B4DF77DA5"
+					item: {
+						count: 1
+						id: "ars_nouveau:repository"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 3.37d
+		}
+		{
+			dependencies: ["7C0419F3F94DD5BF"]
+			id: "7679E37E80D20468"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "295E5CBDA024DF9C"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana", "storage"]
+			tasks: [
+				{
+					id: "4905EF166EE5A072"
+					item: {
+						count: 1
+						id: "ars_nouveau:repository_controller"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 2.6d
+		}
+		{
+			dependencies: ["7C0419F3F94DD5BF"]
+			icon: {
+				id: "ars_nouveau:repository"
+			}
+			id: "47DA4B1A501E44AE"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "54D9C1A5333766E2"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana", "storage"]
+			tasks: [
+				{
+					count: 8L
+					id: "026BFFB91C8AA816"
+					item: {
+						count: 1
+						id: "ars_nouveau:repository"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 4.15d
+		}
+	]
+}

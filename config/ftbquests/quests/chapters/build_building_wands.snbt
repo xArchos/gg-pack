@@ -1,0 +1,481 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "build_building_wands"
+	group: "16562C951FE3B019"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "wands:stone_wand"
+	}
+	id: "5C403A694982BBE3"
+	images: [
+		{
+			height: 1.8d
+			id: "4E0AB99A1BD9B9C4"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -8.88d
+		}
+		{
+			height: 1.8d
+			id: "05D4A8DB6E832984"
+			image: "wands:item/palette"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -8.88d
+		}
+		{
+			height: 1.8d
+			id: "14FB8C74DAFCA34D"
+			image: "wands:item/magic_bag_1"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -8.88d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "70C44292E02B25EE"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -6.73d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "0A54090F23E7FC26"
+			image: "wands:item/stone_wand"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -6.73d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "74FA67E447B3369C"
+			image: "wands:item/copper_wand"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -6.73d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "0C7162F324BBA839"
+			image: "wands:item/palette"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -6.73d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "0661FD5DB193C887"
+			image: "wands:item/magic_bag_1"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -6.73d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "7F8B35A0714AC453"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -0.23d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "189F153D1CAD3EB5"
+			image: "wands:item/iron_wand"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -0.23d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "2F57773B207C2470"
+			image: "wands:item/magic_bag_2"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -0.23d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "33A3463E5CE88CCC"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: -0.73d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "6FD1A5015A2C7A0F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 2.38d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "2B34327CD89FA971"
+			image: "wands:item/diamond_wand"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 2.38d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "4216F8470789A8D9"
+			image: "wands:item/magic_bag_3"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 2.38d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.04d
+			id: "6FFE0DD89263752A"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 1.87d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "1A7CB21BD4FD23F6"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 4.97d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "61E4734889E1A394"
+			image: "wands:item/netherite_wand"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 4.97d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.04d
+			id: "38BDD27DE974D7A2"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 4.47d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["38EA9BA21F0E366C"]
+			hide_until_deps_complete: true
+			id: "52D69A3C6B95485C"
+			rewards: [
+				{
+					id: "05AE6A7031946E5F"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "4FAC165CFA22D746"
+					item: {
+						count: 1
+						id: "wands:stone_wand"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -3.38d
+		}
+		{
+			dependencies: ["52D69A3C6B95485C"]
+			icon: {
+				id: "wands:stone_wand"
+			}
+			id: "1938A2DEA92094BB"
+			preset: "info"
+			rewards: [
+				{
+					id: "731149777B236912"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "6D75396A489F6A1A"
+					type: "checkmark"
+				}
+			]
+			x: 1.75d
+			y: -5.33d
+		}
+		{
+			dependencies: ["52D69A3C6B95485C"]
+			id: "3363F06A6DFBCF5E"
+			rewards: [
+				{
+					id: "53403261EC6B4131"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "4134E7C5E44C7311"
+					item: {
+						count: 1
+						id: "wands:copper_wand"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -4.03d
+		}
+		{
+			dependencies: ["52D69A3C6B95485C"]
+			id: "3A9C1595C2AC719A"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "767A1ACAB3C0E57C"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "28B0A8F8F3268C84"
+					item: {
+						count: 1
+						id: "wands:palette"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -2.73d
+		}
+		{
+			dependencies: ["52D69A3C6B95485C"]
+			id: "077B5B677987E668"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "5AC4F72232F8C19E"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "11438581F6B9A85E"
+					item: {
+						count: 1
+						id: "wands:magic_bag_1"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -1.43d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			id: "388985B149DFB381"
+			rewards: [
+				{
+					id: "59954C17F86E9752"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "75A700520A2A7DAB"
+					item: {
+						count: 1
+						id: "wands:iron_wand"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 1.17d
+		}
+		{
+			dependencies: ["388985B149DFB381"]
+			id: "55F620412DD9285B"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "151EE5BC04C396B3"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "610B6FFE7E3BCFFC"
+					item: {
+						count: 1
+						id: "wands:magic_bag_2"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 1.17d
+		}
+		{
+			dependencies: ["7A875C04743BEF62"]
+			hide_until_deps_complete: true
+			id: "379963716C197A80"
+			rewards: [
+				{
+					id: "11012BC9356EC272"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "052240B0D39A45B4"
+					item: {
+						count: 1
+						id: "wands:diamond_wand"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 3.77d
+		}
+		{
+			dependencies: ["379963716C197A80"]
+			id: "0091A7FB3AD51AB4"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "39A50D325887622A"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "3D7B2A27E0C3ED6B"
+					item: {
+						count: 1
+						id: "wands:magic_bag_3"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 3.77d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			hide_until_deps_complete: true
+			id: "1158FDB4929D5DCD"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "1E399AF0F0F149B6"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "768AFE6CB389A732"
+					item: {
+						count: 1
+						id: "wands:netherite_wand"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 6.5d
+		}
+	]
+}

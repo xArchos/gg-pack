@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "dungeons_arise:illager_fort",
+      "required": false
+    },
+    {
+      "id": "dungeons_arise:wishing_well",
+      "required": false
+    }
+  ]
+}

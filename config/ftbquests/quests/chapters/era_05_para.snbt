@@ -1,0 +1,1981 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "era_05_para"
+	group: "3CDFA8C60B58BCC5"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "gg:pieczec_para"
+	}
+	id: "6CCF5F45722A2F41"
+	images: [
+		{
+			height: 1.8d
+			id: "1070D10F05CCE97F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 14.0d
+			x: 12.38d
+			y: -23.73d
+		}
+		{
+			height: 1.8d
+			id: "35C8D3A8C7F37D97"
+			image: "gg:item/pieczec_para"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 4.18d
+			y: -23.73d
+		}
+		{
+			height: 1.8d
+			id: "7CB4D4ACF72A1633"
+			image: "tfmg:block/steel_casing"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 20.57d
+			y: -23.73d
+		}
+		{
+			height: 0.8d
+			id: "7C250FF25F96E79D"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -21.57d
+		}
+		{
+			height: 0.8d
+			id: "25015DE034807257"
+			image: "tfmg:item/coal_coke"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -21.57d
+		}
+		{
+			height: 0.8d
+			id: "027BC9EB717ECB54"
+			image: "tfmg:block/fireproof_bricks"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -21.57d
+		}
+		{
+			height: 0.8d
+			id: "1B2C2F3A3BC61F6C"
+			image: "tfmg:item/heavy_plate"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 23.15d
+			y: -21.57d
+		}
+		{
+			height: 0.8d
+			id: "6A5B6E0DEA2C0770"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -15.62d
+		}
+		{
+			height: 0.8d
+			id: "0A3B47892594DD78"
+			image: "createdieselgenerators:item/engine_piston"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -15.62d
+		}
+		{
+			height: 0.8d
+			id: "6B555452CFE849F7"
+			image: "tfmg:item/diesel_bucket"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -15.62d
+		}
+		{
+			height: 0.04d
+			id: "4B5039D419BA0DB1"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 27.75d
+			x: 12.38d
+			y: -16.12d
+		}
+		{
+			height: 0.8d
+			id: "56376815B4499355"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -11.22d
+		}
+		{
+			height: 0.8d
+			id: "53A6AE894603100B"
+			image: "createbigcannons:item/packed_gunpowder"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -11.22d
+		}
+		{
+			height: 0.8d
+			id: "3C2000FF82611703"
+			image: "createbigcannons:item/shot_balls"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -11.22d
+		}
+		{
+			height: 0.04d
+			id: "6B180AD1E84B7AD2"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 27.75d
+			x: 12.38d
+			y: -11.72d
+		}
+		{
+			height: 0.8d
+			id: "0EEB28A890DA42D0"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -3.73d
+		}
+		{
+			height: 0.8d
+			id: "29E66EAD17C21A69"
+			image: "aether:item/materials/zanite_gemstone"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -3.73d
+		}
+		{
+			height: 0.8d
+			id: "67DABEC33D0132EA"
+			image: "aether:item/materials/ambrosium_shard"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -3.73d
+		}
+		{
+			height: 0.8d
+			id: "7CA37A8643F0A760"
+			image: "deep_aether:item/skyjade"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 23.15d
+			y: -3.73d
+		}
+		{
+			height: 0.04d
+			id: "0499F5E163693753"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 27.75d
+			x: 12.38d
+			y: -4.23d
+		}
+		{
+			height: 0.8d
+			id: "07672F86F3B3A9C5"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 0.68d
+		}
+		{
+			height: 0.8d
+			id: "76ADC4241F6C1FE1"
+			image: "aether:item/miscellaneous/bronze_dungeon_key"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 0.68d
+		}
+		{
+			height: 0.8d
+			id: "7F4CFB2AE4A77B23"
+			image: "aether:item/miscellaneous/victory_medal"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: 0.68d
+		}
+		{
+			height: 0.04d
+			id: "531BB63AE47F2861"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 27.75d
+			x: 12.38d
+			y: 0.17d
+		}
+		{
+			height: 0.8d
+			id: "4867DD0326C57DBC"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 10.98d
+		}
+		{
+			height: 0.8d
+			id: "56BEC1E97738FE99"
+			image: "sophisticatedstorage:item/gold_to_diamond_tier_upgrade"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 10.98d
+		}
+		{
+			height: 0.04d
+			id: "601D03BD13F5B1E3"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 27.75d
+			x: 12.38d
+			y: 10.48d
+		}
+		{
+			height: 0.8d
+			id: "6AB4FBA186083C90"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 16.18d
+		}
+		{
+			height: 0.8d
+			id: "276F12F9C019235D"
+			image: "constructionstick:item/netherite_stick"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 16.18d
+		}
+		{
+			height: 0.04d
+			id: "0AB8DFDB77F8BD99"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 27.75d
+			x: 12.38d
+			y: 15.68d
+		}
+		{
+			height: 0.8d
+			id: "1F60C592F4009BC9"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 18.78d
+		}
+		{
+			height: 0.04d
+			id: "1DEE92D0627CF332"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 27.75d
+			x: 12.38d
+			y: 18.28d
+		}
+	]
+	order_index: 5
+	quest_links: [
+		{
+			id: "1CC11DCFCE04B7B5"
+			linked_quest: "7B8330C327817EA8"
+			x: 5.5d
+			y: 12.38d
+		}
+		{
+			id: "4AC57EF0D504D653"
+			linked_quest: "5241A8A7FEE99752"
+			x: 5.5d
+			y: 13.68d
+		}
+		{
+			id: "03B930EE2EDC4D63"
+			linked_quest: "02891F86D18A850E"
+			x: 5.5d
+			y: 14.98d
+		}
+		{
+			id: "1F29BC0A2C69335D"
+			linked_quest: "3473E1E598D45E1B"
+			x: 14.25d
+			y: -20.05d
+		}
+		{
+			id: "7548D92033FB269F"
+			linked_quest: "6BE8A9C8F130FD20"
+			x: 14.25d
+			y: -18.5d
+		}
+		{
+			id: "27C863B29B81C641"
+			linked_quest: "590F3990007A92D8"
+			x: 14.25d
+			y: -16.95d
+		}
+		{
+			id: "12AB303995F2AFA6"
+			linked_quest: "7E3476D9377E1B4C"
+			x: 14.25d
+			y: -1.43d
+		}
+		{
+			id: "6B9E1BCD285E73A7"
+			linked_quest: "2001C65186B84C6B"
+			x: 12.5d
+			y: 5.93d
+		}
+	]
+	quests: [
+		{
+			icon: {
+				id: "gg:pieczec_para"
+			}
+			id: "784FFE5AA9775311"
+			invisible: true
+			preset: "era"
+			rewards: [ ]
+			tags: ["era_para", "era_start"]
+			tasks: [
+				{
+					id: "2E64D84B65B931FB"
+					stage: "era_para"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["784FFE5AA9775311"]
+			id: "4A0A7C6B9E905708"
+			rewards: [
+				{
+					id: "657144206D113594"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					count: 16L
+					id: "05FDE6B0519A57A4"
+					item: {
+						count: 1
+						id: "tfmg:fireclay_ball"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -20.05d
+		}
+		{
+			dependencies: ["4A0A7C6B9E905708"]
+			id: "233EA7A2BDBBC6FE"
+			rewards: [
+				{
+					id: "20271922A11C532E"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "16DA15C81E1C9FC4"
+					item: {
+						count: 1
+						id: "tfmg:fireproof_bricks"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -18.5d
+		}
+		{
+			dependencies: ["784FFE5AA9775311"]
+			icon: {
+				id: "tfmg:coal_coke"
+			}
+			id: "79E3F1B96B9E80DA"
+			rewards: [
+				{
+					id: "01225B1EB40E1ECA"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "1FC423D727DB20F6"
+					item: {
+						count: 1
+						id: "tfmg:coke_oven"
+					}
+					type: "item"
+				}
+				{
+					id: "308C0B413668E178"
+					item: {
+						count: 1
+						id: "tfmg:coal_coke_dust"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -18.5d
+		}
+		{
+			dependencies: ["233EA7A2BDBBC6FE", "79E3F1B96B9E80DA"]
+			icon: {
+				id: "tfmg:blast_stove"
+			}
+			id: "73917E75D35BC1AA"
+			rewards: [
+				{
+					id: "4511C05018F54F52"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "6FBE261F571E038F"
+					item: {
+						count: 1
+						id: "tfmg:blast_stove"
+					}
+					type: "item"
+				}
+				{
+					id: "2F4C13DEC6719212"
+					item: {
+						count: 1
+						id: "tfmg:air_intake"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -19.28d
+		}
+		{
+			dependencies: ["233EA7A2BDBBC6FE"]
+			id: "45C00041CEFA627B"
+			rewards: [
+				{
+					id: "63959782B0278CF8"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "3CC24C9986BC4CF9"
+					item: {
+						count: 1
+						id: "tfmg:casting_basin"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -17.73d
+		}
+		{
+			dependencies: ["73917E75D35BC1AA", "45C00041CEFA627B"]
+			icon: {
+				id: "tfmg:blast_furnace_output"
+			}
+			id: "37691B9E4F8EC2E3"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "1368D8D8277F21A4"
+					type: "xp"
+					xp: 175
+				}
+				{
+					id: "493842F149412BFF"
+					table_id: 5058454620297835869L
+					type: "random"
+				}
+			]
+			tags: ["era_para", "milestone"]
+			tasks: [
+				{
+					id: "1005C4F16E9445AB"
+					item: {
+						count: 1
+						id: "tfmg:blast_furnace_output"
+					}
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "3CC334174BDBE0DB"
+					item: {
+						count: 1
+						id: "tfmg:steel_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -18.5d
+		}
+		{
+			dependencies: ["37691B9E4F8EC2E3"]
+			id: "3AD37031A147C8D0"
+			rewards: [
+				{
+					id: "246E2E5430D7E802"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para", "seal"]
+			tasks: [
+				{
+					count: 4L
+					id: "65F8BBFACEB2402F"
+					item: {
+						count: 1
+						id: "tfmg:steel_casing"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -20.05d
+		}
+		{
+			dependencies: ["37691B9E4F8EC2E3"]
+			id: "01170E5700828F01"
+			rewards: [
+				{
+					id: "3F517601B7556649"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "4F42266F3F363980"
+					item: {
+						count: 1
+						id: "tfmg:heavy_plate"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -18.5d
+		}
+		{
+			dependencies: ["3AD37031A147C8D0", "01170E5700828F01"]
+			id: "6BD5B3722CDB920E"
+			rewards: [
+				{
+					id: "31868D553009444F"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para", "seal"]
+			tasks: [
+				{
+					count: 2L
+					id: "6F3739DB0F3D9BF8"
+					item: {
+						count: 1
+						id: "tfmg:heavy_machinery_casing"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -19.28d
+		}
+		{
+			dependencies: ["01170E5700828F01"]
+			id: "4AB3C16CDB159F19"
+			rewards: [
+				{
+					id: "6C79E0C29727C314"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "491B046F16EE24A1"
+					item: {
+						count: 1
+						id: "tfmg:steel_mechanism"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -17.73d
+		}
+		{
+			dependencies: ["784FFE5AA9775311"]
+			id: "17A4692B5A2D25B5"
+			rewards: [
+				{
+					id: "21506EA9823D0105"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para", "seal"]
+			tasks: [
+				{
+					count: 4L
+					id: "4A817F39D17DFC6B"
+					item: {
+						count: 1
+						id: "create:precision_mechanism"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -16.95d
+		}
+		{
+			dependencies: ["37691B9E4F8EC2E3"]
+			icon: {
+				id: "tfmg:steel_block"
+			}
+			id: "65D623FE306B697B"
+			rewards: [
+				{
+					id: "7B6D2D22DC2DD4D6"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					count: 512L
+					id: "778E3FB6DDAEC5A5"
+					item: {
+						count: 1
+						id: "tfmg:steel_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -16.95d
+		}
+		{
+			dependencies: ["6BD5B3722CDB920E", "4AB3C16CDB159F19"]
+			id: "69EA802505EAFFA4"
+			rewards: [
+				{
+					id: "789D54A8F9405895"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "7DE6D2F7B64CB586"
+					item: {
+						count: 1
+						id: "tfmg:surface_scanner"
+					}
+					type: "item"
+				}
+			]
+			x: 14.25d
+			y: -13.32d
+		}
+		{
+			dependencies: ["69EA802505EAFFA4"]
+			icon: {
+				id: "tfmg:pumpjack_crank"
+			}
+			id: "25DCE51A4AB9A318"
+			rewards: [
+				{
+					id: "2F7AFD0472C6E80F"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "75FAEEAC04C515A6"
+					item: {
+						count: 1
+						id: "tfmg:pumpjack_base"
+					}
+					type: "item"
+				}
+				{
+					id: "00D824699955B0D2"
+					item: {
+						count: 1
+						id: "tfmg:pumpjack_crank"
+					}
+					type: "item"
+				}
+				{
+					id: "393EEA9D6BE6FF72"
+					item: {
+						count: 1
+						id: "tfmg:pumpjack_hammer"
+					}
+					type: "item"
+				}
+			]
+			x: 16.0d
+			y: -13.32d
+		}
+		{
+			dependencies: ["25DCE51A4AB9A318"]
+			id: "5368F7476CC4F6FD"
+			rewards: [
+				{
+					id: "0BB5D4F23681EFF7"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "7ACBD548EEBE46F1"
+					item: {
+						count: 1
+						id: "tfmg:crude_oil_bucket"
+					}
+					type: "item"
+				}
+			]
+			x: 17.75d
+			y: -13.32d
+		}
+		{
+			dependencies: ["5368F7476CC4F6FD"]
+			icon: {
+				id: "tfmg:steel_distillation_controller"
+			}
+			id: "67E1E57A3F7AEDA5"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "0859196ACE6033D4"
+					type: "xp"
+					xp: 175
+				}
+				{
+					id: "2D5D43E21816CF7E"
+					table_id: 5058454620297835869L
+					type: "random"
+				}
+			]
+			tags: ["era_para", "milestone"]
+			tasks: [
+				{
+					id: "4ECDF926F8342AF4"
+					item: {
+						count: 1
+						id: "tfmg:steel_distillation_controller"
+					}
+					type: "item"
+				}
+				{
+					id: "52FD91A90B7EF5F1"
+					item: {
+						count: 1
+						id: "tfmg:diesel_bucket"
+					}
+					type: "item"
+				}
+			]
+			x: 19.5d
+			y: -13.32d
+		}
+		{
+			dependencies: ["784FFE5AA9775311"]
+			id: "6D1A5A383E5625A5"
+			rewards: [
+				{
+					id: "5ADEB674B2149B0B"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "23D0E943A581467F"
+					item: {
+						count: 1
+						id: "createdieselgenerators:engine_piston"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -14.1d
+		}
+		{
+			dependencies: ["6D1A5A383E5625A5", "67E1E57A3F7AEDA5"]
+			id: "6561C5F43E57CF75"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "04F84B7B9979E6B5"
+					type: "xp"
+					xp: 175
+				}
+				{
+					id: "6A36C55FC1A3D2BC"
+					table_id: 5058454620297835869L
+					type: "random"
+				}
+			]
+			tags: ["era_para", "milestone", "seal"]
+			tasks: [
+				{
+					id: "59A20DD8B93E629F"
+					item: {
+						count: 1
+						id: "createdieselgenerators:diesel_engine"
+					}
+					type: "item"
+				}
+			]
+			x: 21.25d
+			y: -13.32d
+		}
+		{
+			dependencies: ["784FFE5AA9775311"]
+			id: "387CCCD933B895A7"
+			rewards: [
+				{
+					id: "7B621078F9D05292"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "639918FE99906CA2"
+					item: {
+						count: 1
+						id: "createoreexcavation:vein_finder"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -12.55d
+		}
+		{
+			dependencies: ["387CCCD933B895A7"]
+			icon: {
+				id: "createoreexcavation:drilling_machine"
+			}
+			id: "4C49643C2BFD5B95"
+			rewards: [
+				{
+					id: "08DD359D6D8719C7"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "0382E85B49D5523F"
+					item: {
+						count: 1
+						id: "createoreexcavation:drilling_machine"
+					}
+					type: "item"
+				}
+				{
+					id: "39EFD4517CF52564"
+					item: {
+						count: 1
+						id: "createoreexcavation:drill"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -13.32d
+		}
+		{
+			dependencies: ["784FFE5AA9775311"]
+			icon: {
+				id: "createbigcannons:solid_shot"
+			}
+			id: "3874EF9893EB534D"
+			rewards: [
+				{
+					id: "76F016BFDC160FA1"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "1D961B33A9B4394F"
+					item: {
+						count: 1
+						id: "createbigcannons:powder_charge"
+					}
+					type: "item"
+				}
+				{
+					id: "10F5ABF5BB9096D2"
+					item: {
+						count: 1
+						id: "createbigcannons:solid_shot"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -8.92d
+		}
+		{
+			dependencies: ["784FFE5AA9775311"]
+			icon: {
+				id: "createbigcannons:basin_foundry_lid"
+			}
+			id: "04145E4A116003C8"
+			rewards: [
+				{
+					id: "1D510994B283A19F"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "7FA0082C035E147D"
+					item: {
+						count: 1
+						id: "createbigcannons:basin_foundry_lid"
+					}
+					type: "item"
+				}
+				{
+					id: "443A088B5FB44D39"
+					item: {
+						count: 1
+						id: "createbigcannons:casting_sand"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -7.37d
+		}
+		{
+			dependencies: ["04145E4A116003C8"]
+			id: "026C7E0C1FE4AE08"
+			rewards: [
+				{
+					id: "1DA2D6E6D9ADFF7E"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "52174A6C089FBC4B"
+					item: {
+						count: 1
+						id: "createbigcannons:cannon_drill"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -9.7d
+		}
+		{
+			dependencies: ["026C7E0C1FE4AE08", "3874EF9893EB534D"]
+			icon: {
+				id: "createbigcannons:cannon_mount"
+			}
+			id: "5189E09E4D1AFF55"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "4BF8E3421C286072"
+					type: "xp"
+					xp: 175
+				}
+				{
+					id: "7AA1091EE8B4C063"
+					table_id: 5058454620297835869L
+					type: "random"
+				}
+			]
+			tags: ["era_para", "milestone"]
+			tasks: [
+				{
+					id: "21A14F70629C5638"
+					item: {
+						count: 1
+						id: "createbigcannons:cannon_mount"
+					}
+					type: "item"
+				}
+				{
+					id: "3413799DD8B822F6"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(createbigcannons:cast_iron_cannon_chamber)item(createbigcannons:bronze_cannon_chamber)item(createbigcannons:steel_cannon_chamber)item(createbigcannons:built_up_steel_cannon_chamber)item(createbigcannons:thick_steel_cannon_chamber)item(createbigcannons:nethersteel_cannon_chamber)item(createbigcannons:built_up_nethersteel_cannon_chamber)item(createbigcannons:thick_nethersteel_cannon_chamber))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -8.92d
+		}
+		{
+			dependencies: ["3874EF9893EB534D"]
+			icon: {
+				id: "createbigcannons:packed_gunpowder"
+			}
+			id: "5D3EAF0D8F911EF4"
+			rewards: [
+				{
+					id: "36CD661CC82B5BF3"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					count: 256L
+					id: "2ED27E0BB4FA2892"
+					item: {
+						count: 1
+						id: "createbigcannons:packed_gunpowder"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -8.15d
+		}
+		{
+			dependencies: ["784FFE5AA9775311"]
+			id: "6182C7DBEBCAF243"
+			rewards: [
+				{
+					id: "3248AA5DB8BA1192"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "478D7200BC4CD9C1"
+					item: {
+						count: 1
+						id: "simulated:physics_assembler"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -5.82d
+		}
+		{
+			dependencies: ["6182C7DBEBCAF243"]
+			icon: {
+				id: "aeronautics:adjustable_burner"
+			}
+			id: "210B0032A4FAF64B"
+			rewards: [
+				{
+					id: "628F202AE97CBBBB"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "21902A9A5B0B5545"
+					item: {
+						count: 1
+						id: "aeronautics:adjustable_burner"
+					}
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "666259B090C79C7D"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "item_tag(aeronautics:shaftless_envelope)"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -6.6d
+		}
+		{
+			dependencies: ["6182C7DBEBCAF243"]
+			id: "783D4E8F72AFEB32"
+			rewards: [
+				{
+					id: "275F326CBCA77A4B"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "5B1783212D4B63CB"
+					item: {
+						count: 1
+						id: "aeronautics:propeller_bearing"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -5.05d
+		}
+		{
+			dependencies: ["783D4E8F72AFEB32"]
+			id: "5E8963EBCE1D33BF"
+			rewards: [
+				{
+					id: "5A27B6859FB757B2"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "0945AB414722E803"
+					item: {
+						count: 1
+						id: "simulated:steering_wheel"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -7.37d
+		}
+		{
+			dependencies: ["783D4E8F72AFEB32"]
+			id: "3C7222C219600DE7"
+			rewards: [
+				{
+					id: "73F951D930EC0A21"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "4E497D4AB28CF306"
+					item: {
+						count: 1
+						id: "createpropulsion:thruster"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -5.82d
+		}
+		{
+			dependencies: ["784FFE5AA9775311"]
+			icon: {
+				id: "minecraft:glowstone"
+			}
+			id: "2623D024969E7385"
+			rewards: [
+				{
+					id: "1DFBB72939CAB1C7"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					count: 10L
+					id: "738908D1DF30AF1B"
+					item: {
+						count: 1
+						id: "minecraft:glowstone"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -1.43d
+		}
+		{
+			dependencies: ["2623D024969E7385"]
+			icon: {
+				id: "aether:aether_portal_frame"
+			}
+			id: "31B2CAF0EAD49E39"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "268429442B005CD0"
+					type: "xp"
+					xp: 175
+				}
+				{
+					id: "72E5C6B71B3BA59A"
+					table_id: 5058454620297835869L
+					type: "random"
+				}
+			]
+			tags: ["era_para", "milestone"]
+			tasks: [
+				{
+					dimension: "aether:the_aether"
+					id: "4225429486C11852"
+					type: "dimension"
+				}
+			]
+			x: 5.5d
+			y: -1.43d
+		}
+		{
+			dependencies: ["31B2CAF0EAD49E39"]
+			id: "6316E244E366D634"
+			rewards: [
+				{
+					id: "6F8BF2B3017B85ED"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "742FE74041E0BBAE"
+					item: {
+						count: 1
+						id: "aether:zanite_pickaxe"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -2.2d
+		}
+		{
+			dependencies: ["6316E244E366D634"]
+			id: "4809D25D42EE7E86"
+			rewards: [
+				{
+					id: "695256BC138F8A11"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "2500A6B001CB9D68"
+					item: {
+						count: 1
+						id: "aether:altar"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -1.43d
+		}
+		{
+			dependencies: ["4809D25D42EE7E86"]
+			id: "2BD62E4216762D28"
+			rewards: [
+				{
+					id: "4309BFC34B55ABEB"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "32032486394B5AAD"
+					item: {
+						count: 1
+						id: "aether:enchanted_gravitite"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -1.43d
+		}
+		{
+			dependencies: ["31B2CAF0EAD49E39"]
+			id: "2387B9D72ABC5D39"
+			rewards: [
+				{
+					id: "0D0D18ABAD558DDE"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "38842815123CF0A7"
+					item: {
+						count: 1
+						id: "deep_aether:skyjade"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -0.65d
+		}
+		{
+			dependencies: ["2BD62E4216762D28", "2387B9D72ABC5D39"]
+			id: "2456FAEA2D8430DE"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "513E25301B77176D"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para", "optional"]
+			tasks: [
+				{
+					id: "790BFCD07A826B09"
+					item: {
+						count: 1
+						id: "deep_aether:stratus_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -1.43d
+		}
+		{
+			dependencies: ["31B2CAF0EAD49E39"]
+			id: "2B368425699A9796"
+			rewards: [
+				{
+					id: "4E9E533EF3CE139E"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					count: 10L
+					id: "2B31E6277D1613D9"
+					item: {
+						count: 1
+						id: "aether:victory_medal"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: 2.33d
+		}
+		{
+			dependencies: ["31B2CAF0EAD49E39"]
+			icon: {
+				id: "aether:bronze_dungeon_key"
+			}
+			id: "788AA0421DA887F2"
+			preset: "boss"
+			rewards: [
+				{
+					id: "6E8BA2A5BBCE6514"
+					type: "xp"
+					xp: 350
+				}
+			]
+			tags: ["era_para", "boss"]
+			tasks: [
+				{
+					id: "4AE8BCF84D24958C"
+					stage: "boss_aether_slider"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 7.25d
+			y: 4.12d
+		}
+		{
+			dependencies: ["2B368425699A9796"]
+			icon: {
+				id: "aether:silver_dungeon_key"
+			}
+			id: "4912FEAAB6B229F8"
+			preset: "boss"
+			rewards: [
+				{
+					id: "3587AE7C301368DA"
+					type: "xp"
+					xp: 350
+				}
+			]
+			tags: ["era_para", "boss"]
+			tasks: [
+				{
+					id: "5073EB5DE504C3FF"
+					stage: "boss_aether_valkyrie_queen"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 9.0d
+			y: 5.93d
+		}
+		{
+			dependencies: ["31B2CAF0EAD49E39"]
+			icon: {
+				id: "aether:gold_dungeon_key"
+			}
+			id: "2158674B4C7C444D"
+			preset: "boss"
+			rewards: [
+				{
+					id: "29D4F96764E31D1C"
+					type: "xp"
+					xp: 350
+				}
+			]
+			tags: ["era_para", "boss"]
+			tasks: [
+				{
+					id: "6605BB85C7336E2F"
+					stage: "boss_aether_sun_spirit"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 7.25d
+			y: 5.92d
+		}
+		{
+			dependencies: ["31B2CAF0EAD49E39"]
+			icon: {
+				id: "deep_aether:brass_dungeon_key"
+			}
+			id: "5F9BEC137397BB8A"
+			preset: "boss"
+			rewards: [
+				{
+					id: "36FFE184DD9E1625"
+					type: "xp"
+					xp: 350
+				}
+			]
+			tags: ["era_para", "boss"]
+			tasks: [
+				{
+					id: "0B60956177709DE8"
+					stage: "boss_deep_aether_eots_controller"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 7.25d
+			y: 7.72d
+		}
+		{
+			dependencies: ["788AA0421DA887F2", "4912FEAAB6B229F8", "2158674B4C7C444D", "5F9BEC137397BB8A"]
+			icon: {
+				id: "aether:bronze_dungeon_key"
+			}
+			id: "368D674C17AF7000"
+			min_required_dependencies: 1
+			preset: "milestone"
+			rewards: [
+				{
+					id: "391C16D36E97EBA8"
+					type: "xp"
+					xp: 175
+				}
+				{
+					id: "203CE477CE7CED8E"
+					table_id: 5058454620297835869L
+					type: "random"
+				}
+			]
+			tags: ["era_para", "milestone"]
+			tasks: [ ]
+			x: 10.75d
+			y: 5.93d
+		}
+		{
+			dependencies: ["784FFE5AA9775311"]
+			icon: {
+				id: "mowziesmobs:bluff_rod"
+			}
+			id: "040975B397B3A13B"
+			rewards: [
+				{
+					id: "34AD57ECA01D0EA7"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "72D7E145DDAAC89C"
+					structure: "mowziesmobs:monastery"
+					type: "structure"
+				}
+			]
+			x: 3.75d
+			y: 5.03d
+		}
+		{
+			dependencies: ["040975B397B3A13B"]
+			icon: {
+				id: "mowziesmobs:sculptor_staff"
+			}
+			id: "22AD74328667EB0E"
+			preset: "boss"
+			rewards: [
+				{
+					id: "16AFDA2EDEC8C354"
+					type: "xp"
+					xp: 350
+				}
+			]
+			tags: ["era_para", "boss"]
+			tasks: [
+				{
+					id: "0434A52C714BA4F1"
+					stage: "boss_mowziesmobs_sculptor"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 5.5d
+			y: 5.03d
+		}
+		{
+			dependencies: ["784FFE5AA9775311"]
+			icon: {
+				id: "twilightforest:alpha_yeti_fur"
+			}
+			id: "1C100C85DEF8FA1B"
+			preset: "boss"
+			rewards: [
+				{
+					id: "5F800D43C8F60994"
+					type: "xp"
+					xp: 350
+				}
+			]
+			tags: ["era_para", "boss"]
+			tasks: [
+				{
+					id: "0ECACC8966C74D0B"
+					stage: "boss_twilightforest_alpha_yeti"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 3.75d
+			y: 6.83d
+		}
+		{
+			dependencies: ["1C100C85DEF8FA1B"]
+			icon: {
+				id: "twilightforest:triple_bow"
+			}
+			id: "2C9AC13E2C8830DD"
+			preset: "boss"
+			rewards: [
+				{
+					id: "243C77D145E2B9A1"
+					type: "xp"
+					xp: 350
+				}
+			]
+			tags: ["era_para", "boss"]
+			tasks: [
+				{
+					id: "0D5F0BF8F363DAC0"
+					stage: "boss_twilightforest_snow_queen"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 5.5d
+			y: 6.83d
+		}
+		{
+			dependencies: ["22AD74328667EB0E", "1C100C85DEF8FA1B", "2C9AC13E2C8830DD"]
+			icon: {
+				id: "twilightforest:alpha_yeti_fur"
+			}
+			id: "3AE2BD660E927C20"
+			min_required_dependencies: 1
+			preset: "milestone"
+			rewards: [
+				{
+					id: "0C09B3F11AA65B07"
+					type: "xp"
+					xp: 175
+				}
+				{
+					id: "709E40CF29D8BB35"
+					table_id: 5058454620297835869L
+					type: "random"
+				}
+			]
+			tags: ["era_para", "milestone"]
+			tasks: [ ]
+			x: 7.25d
+			y: 9.53d
+		}
+		{
+			dependencies: ["784FFE5AA9775311"]
+			id: "2F1B32CB8BC23435"
+			rewards: [
+				{
+					id: "7530648F25AC9DFC"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "0F9AD6007DBBA83B"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:gold_to_diamond_tier_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 13.68d
+		}
+		{
+			dependencies: ["784FFE5AA9775311"]
+			id: "4A1AC1CB88A29AD1"
+			rewards: [
+				{
+					id: "76B2E30C4C85D593"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "5F158A109EA44A14"
+					item: {
+						count: 1
+						id: "constructionstick:netherite_stick"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 17.57d
+		}
+		{
+			dependencies: ["4A1AC1CB88A29AD1"]
+			id: "68B2930A37AE9CEF"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "06F177A8CC85AC57"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para", "optional"]
+			tasks: [
+				{
+					id: "6B2B7B71EA219832"
+					item: {
+						count: 1
+						id: "constructionstick:template_angel"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 17.57d
+		}
+		{
+			dependencies: ["784FFE5AA9775311"]
+			id: "0B85FA71AE3AB7ED"
+			rewards: [
+				{
+					id: "5AD613A1EC879488"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "54C12DC8C633E584"
+					item: {
+						count: 1
+						id: "minecolonies:blockhutconcretemixer"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 20.18d
+		}
+		{
+			dependencies: ["784FFE5AA9775311"]
+			id: "0CDD997DDBA209EE"
+			rewards: [
+				{
+					id: "47F18C1FFF3B0B3D"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "66D329899F75ED1A"
+					item: {
+						count: 1
+						id: "minecolonies:blockhutgatehouse"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 21.48d
+		}
+		{
+			dependencies: ["0CDD997DDBA209EE"]
+			id: "037B27FC641245C2"
+			rewards: [
+				{
+					id: "24B7131D2DC35E46"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "4C63F085A0561E6D"
+					item: {
+						count: 1
+						id: "minecolonies:blockhutstable"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 20.18d
+		}
+		{
+			dependencies: ["0B85FA71AE3AB7ED"]
+			icon: {
+				id: "minecolonies:blockhutcitizen"
+			}
+			id: "33E5CF4E857A563A"
+			rewards: [
+				{
+					id: "018655D3987C29D9"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					advancement: "minecolonies:minecolonies/colony_population_50"
+					criterion: ""
+					id: "383CC988CA76E5B9"
+					type: "advancement"
+				}
+			]
+			x: 5.5d
+			y: 21.48d
+		}
+		{
+			dependencies: [
+				"37691B9E4F8EC2E3"
+				"67E1E57A3F7AEDA5"
+				"6561C5F43E57CF75"
+				"5189E09E4D1AFF55"
+				"31B2CAF0EAD49E39"
+				"368D674C17AF7000"
+				"3AE2BD660E927C20"
+			]
+			icon: {
+				id: "gg:pieczec_arkana"
+			}
+			id: "235E8E9DF9330392"
+			preset: "era"
+			rewards: [
+				{
+					auto: "enabled"
+					icon: {
+						id: "gg:pieczec_arkana"
+					}
+					id: "59DA6E8EC45F2B53"
+					stage: "era_arkana"
+					team_reward: true
+					type: "gamestage"
+				}
+				{
+					id: "37E5F672A0E44317"
+					type: "xp"
+					xp: 700
+				}
+				{
+					id: "017570D2627ECF9A"
+					table_id: 681708928292917903L
+					type: "all_table"
+				}
+			]
+			tags: ["era_para", "gate"]
+			tasks: [
+				{
+					consume_items: true
+					id: "5091F27A608D7D46"
+					item: {
+						count: 1
+						id: "gg:pieczec_arkana"
+					}
+					type: "item"
+				}
+			]
+			x: 24.75d
+			y: 0.0d
+		}
+	]
+}

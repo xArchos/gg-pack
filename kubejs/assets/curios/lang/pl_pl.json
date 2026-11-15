@@ -1,0 +1,11 @@
+{
+  "argument.entity.options.curios.description": "Ekwipunek Curios bytu",
+  "commands.curios.add.success": "Dodano sloty typu „%2$s” (liczba: %1$d) dla %3$s",
+  "commands.curios.drop.success": "Wyrzucono przedmioty ze slotu „%s” gracza %s",
+  "commands.curios.dropAll.success": "Wyrzucono przedmioty ze wszystkich slotów gracza %s",
+  "commands.curios.remove.success": "Usunięto sloty typu „%2$s” (liczba: %1$d) dla %3$s",
+  "commands.curios.set.success": "Typ „%s”: ustawiono liczbę slotów na %d dla %s",
+  "curios.cosmetic": "Kosmetyczny",
+  "curios.modifiers.bracelet": "Kiedy noszony jako bransoleta:",
+  "curios.tooltip.inactive": "Nieaktywny slot"
+}

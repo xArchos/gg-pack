@@ -1,0 +1,1270 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "colony_buildings"
+	group: "595018FBEA1F1D86"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "minecolonies:blockhutsawmill"
+	}
+	id: "708EC52C24291288"
+	images: [
+		{
+			height: 1.8d
+			id: "6F64FF1A2E91A980"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -21.6d
+		}
+		{
+			height: 1.8d
+			id: "02CF1034F22E5090"
+			image: "minecolonies:item/assistanthammer/iron"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -21.6d
+		}
+		{
+			height: 1.8d
+			id: "441B91E6783E52F5"
+			image: "minecolonies:item/assistanthammer/diamond"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -21.6d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "43A68A1C60686FC9"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -19.45d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "4D8D6BF152B4C2AD"
+			image: "minecolonies:item/scepterbeekeeper"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -19.45d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "5082711FBD6CE37E"
+			image: "minecolonies:item/crops/corn"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -19.45d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "1796F032FA807CF6"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -12.95d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "5096A91160192635"
+			image: "minecolonies:item/scepterlumberjack"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -12.95d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "4491FFF685D83F22"
+			image: "minecolonies:item/assistanthammer/gold"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -12.95d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.04d
+			id: "0410D16D3F414C7A"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -13.45d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "50E647F033B2C615"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -9.05d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "5CF451418D062846"
+			image: "minecolonies:item/ancienttome"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -9.05d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "77AA524DA1AC7691"
+			image: "minecolonies:item/scrollmagic"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -9.05d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.04d
+			id: "09D5029EF86339E6"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: -9.55d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "226C83737B98C9D4"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -3.85d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "7B270EE9B7C59C74"
+			image: "minecolonies:item/sifter_mesh_flint"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -3.85d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "1F111BA77B95E4DB"
+			image: "minecolonies:item/sifter_mesh_iron"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -3.85d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "1E1E0DBF1ACDC854"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: -4.35d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "105A95FC0A607A7F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 3.65d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "14FF065CB47880A7"
+			image: "thesettler_x_create:block/colony_gauge_panel"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 3.65d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "0F283BA9158345F3"
+			image: "thesettler_x_create:block/colony_packager_frame"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 3.65d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "281D6B7C7D114D0F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 3.15d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "24A1A6A866AD19DF"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 6.25d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "753827D5E142E736"
+			image: "minecolonies:item/magicpotion"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 6.25d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.04d
+			id: "3C4FDBD2AACB73A8"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 5.75d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "79F8EA3FACF3C89D"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 11.45d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "1AFB6FC6A3A21744"
+			image: "minecolonies:item/build_goggles"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 11.45d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.04d
+			id: "24556CE65ECA51F0"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 10.95d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "6C80257B2D30ECA1"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 16.65d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "246B55EC04FC13B8"
+			image: "minecolonies:item/colonymap"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 16.65d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.04d
+			id: "632D27FBE072A225"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 16.15d
+		}
+	]
+	order_index: 1
+	quest_links: [
+		{
+			id: "19D2B6C01ECAD466"
+			linked_quest: "5D4815B56228BA21"
+			x: 7.0d
+			y: -16.1d
+		}
+		{
+			id: "2DC13CCACAD559B7"
+			linked_quest: "5CC2444299911699"
+			x: 7.0d
+			y: -10.9d
+		}
+		{
+			id: "3BD3CCEF2D8B544C"
+			linked_quest: "0EC3DB7D48237142"
+			x: 1.75d
+			y: -7.65d
+		}
+		{
+			id: "0C99422A1078C774"
+			linked_quest: "290774B0AEFAB021"
+			x: 1.75d
+			y: -6.35d
+		}
+		{
+			id: "6D2A1F4655947971"
+			linked_quest: "08AC5F8F4454BC61"
+			x: 1.75d
+			y: -5.05d
+		}
+		{
+			id: "70EBF8042A9091C3"
+			linked_quest: "4DE645DF911A19C7"
+			x: 3.5d
+			y: -7.0d
+		}
+		{
+			id: "697F29346D50642E"
+			linked_quest: "0E7971A293912780"
+			x: 3.5d
+			y: -5.7d
+		}
+		{
+			id: "13489A2352421870"
+			linked_quest: "3E6647243FAAC6EE"
+			x: 5.25d
+			y: -1.55d
+		}
+		{
+			id: "274D78BFE0F4B38C"
+			linked_quest: "3D954E7B62F20C8C"
+			x: 5.25d
+			y: 0.0d
+		}
+		{
+			id: "0509221CBB2A65B5"
+			linked_quest: "483F0CC95D6BF23B"
+			x: 5.25d
+			y: 1.55d
+		}
+		{
+			id: "509D7A5D968F4C9C"
+			linked_quest: "1B01C36C0DE071C6"
+			x: 5.25d
+			y: 7.65d
+		}
+		{
+			id: "5ED58F6B8B3C44A5"
+			linked_quest: "4E98BA31FBC78B91"
+			x: 5.25d
+			y: 8.95d
+		}
+		{
+			id: "2121DD4A6965EDA2"
+			linked_quest: "6E304D1D827F9F64"
+			x: 5.25d
+			y: 10.25d
+		}
+		{
+			id: "4976C4B0E46176D2"
+			linked_quest: "0B85FA71AE3AB7ED"
+			x: 3.5d
+			y: 12.85d
+		}
+		{
+			id: "30C2E3614FDD1489"
+			linked_quest: "0CDD997DDBA209EE"
+			x: 3.5d
+			y: 14.15d
+		}
+		{
+			id: "2510CC9186B86408"
+			linked_quest: "037B27FC641245C2"
+			x: 3.5d
+			y: 15.45d
+		}
+		{
+			id: "226968086130687C"
+			linked_quest: "07C5E55BA72E853C"
+			x: 3.5d
+			y: 18.05d
+		}
+		{
+			id: "041A2D89974E3CF6"
+			linked_quest: "45C8C2E1843B20EE"
+			x: 3.5d
+			y: 19.35d
+		}
+	]
+	quests: [
+		{
+			dependencies: ["7B472916B8B3515D"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecolonies:blockhutbuilder"
+			}
+			id: "730570161AB2FB9C"
+			preset: "info"
+			rewards: [
+				{
+					id: "355CFB7022FCD7E1"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "318838CB30CFA60E"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: -16.1d
+		}
+		{
+			dependencies: ["730570161AB2FB9C"]
+			icon: {
+				id: "minecolonies:blockhutfisherman"
+			}
+			id: "4931415A1D336B9F"
+			rewards: [
+				{
+					id: "517104E6E4117CF6"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					advancement: "minecolonies:production/build_fisherman"
+					criterion: ""
+					id: "10245C7CDC19070A"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: -18.05d
+		}
+		{
+			dependencies: ["730570161AB2FB9C"]
+			icon: {
+				id: "minecolonies:blockhutbaker"
+			}
+			id: "3FF538620BFCFA50"
+			rewards: [
+				{
+					id: "40D48DE3FE73592F"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					advancement: "minecolonies:production/build_baker"
+					criterion: ""
+					id: "2794751ECBC3C8FB"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: -16.75d
+		}
+		{
+			dependencies: ["3FF538620BFCFA50"]
+			id: "5BC232B70C3C6E44"
+			rewards: [
+				{
+					id: "6B7A5D0A068344BD"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "23DA4376D65EE03E"
+					item: {
+						count: 1
+						id: "minecolonies:blockhutkitchen"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -16.1d
+		}
+		{
+			dependencies: ["730570161AB2FB9C"]
+			icon: {
+				id: "minecolonies:blockhutcowboy"
+			}
+			id: "78B13D12DA89942E"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "52A7588F721817D7"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					advancement: "minecolonies:production/build_all_herders"
+					criterion: ""
+					id: "0B61219C679C03A3"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: -15.45d
+		}
+		{
+			dependencies: ["730570161AB2FB9C"]
+			id: "643BC132F8F37FA9"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "16749B7D5BD912DA"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "797608B38F5F168A"
+					item: {
+						count: 1
+						id: "minecolonies:blockhutplantation"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -14.15d
+		}
+		{
+			dependencies: ["730570161AB2FB9C"]
+			icon: {
+				id: "minecolonies:blockhutcomposter"
+			}
+			id: "3D05593C7CC33A02"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "71DCC6E571F1F03B"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					advancement: "minecolonies:production/build_composter"
+					criterion: ""
+					id: "2F952B022BF92598"
+					type: "advancement"
+				}
+			]
+			x: 3.5d
+			y: -16.75d
+		}
+		{
+			dependencies: ["730570161AB2FB9C"]
+			id: "488F66BE93D02E80"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "4D0150AAF7FDCE6A"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "46FF56AD73F33B06"
+					item: {
+						count: 1
+						id: "minecolonies:blockhutbeekeeper"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -15.45d
+		}
+		{
+			dependencies: ["730570161AB2FB9C"]
+			icon: {
+				id: "minecolonies:blockhutlumberjack"
+			}
+			id: "45833DDD46DF9B12"
+			rewards: [
+				{
+					id: "7BB0FA52D9EC038D"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					advancement: "minecolonies:production/build_lumberjack"
+					criterion: ""
+					id: "26A829FC1A8BBE9E"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: -11.55d
+		}
+		{
+			dependencies: ["730570161AB2FB9C"]
+			icon: {
+				id: "minecolonies:blockhutminer"
+			}
+			id: "165EF28F79677DF6"
+			rewards: [
+				{
+					id: "77E9C5C0C86D6C3D"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					advancement: "minecolonies:production/build_miner"
+					criterion: ""
+					id: "3500D42C09CEF89F"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: -10.25d
+		}
+		{
+			dependencies: ["45833DDD46DF9B12"]
+			icon: {
+				id: "minecolonies:blockhutsawmill"
+			}
+			id: "681B43AE3E0A5C94"
+			rewards: [
+				{
+					id: "12AC24250D8AC9B8"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					advancement: "minecolonies:production/build_sawmill"
+					criterion: ""
+					id: "06D219C268657567"
+					type: "advancement"
+				}
+			]
+			x: 3.5d
+			y: -11.55d
+		}
+		{
+			dependencies: ["681B43AE3E0A5C94"]
+			icon: {
+				id: "minecraft:oak_door"
+			}
+			id: "5FFBDADB6BF6B8D5"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "42A457701A3BEDC4"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					advancement: "minecolonies:minecolonies/building_add_recipe_door"
+					criterion: ""
+					id: "2915D5B27A01A105"
+					type: "advancement"
+				}
+			]
+			x: 5.25d
+			y: -10.9d
+		}
+		{
+			dependencies: ["165EF28F79677DF6"]
+			icon: {
+				id: "minecolonies:blockhutstonemason"
+			}
+			id: "296DD18BE37142AB"
+			rewards: [
+				{
+					id: "49623C8DAFED5B6F"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					advancement: "minecolonies:production/build_stonemason"
+					criterion: ""
+					id: "5E342E935F619896"
+					type: "advancement"
+				}
+			]
+			x: 3.5d
+			y: -10.25d
+		}
+		{
+			dependencies: ["38EA9BA21F0E366C"]
+			hide_until_deps_complete: true
+			id: "1604019C96870DA7"
+			rewards: [
+				{
+					id: "7FFC8E8815AEC9FA"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "514C92DA2C52D3B3"
+					item: {
+						count: 1
+						id: "minecolonies:ancienttome"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -6.35d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecolonies:blockhutcrusher"
+			}
+			id: "5E36AC6D17881DC6"
+			rewards: [
+				{
+					id: "764DE6C7CD9EAD98"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "minecolonies:production/build_crusher"
+					criterion: ""
+					id: "47E1B1339BC24D00"
+					type: "advancement"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5E36AC6D17881DC6"]
+			icon: {
+				id: "minecolonies:blockhutsifter"
+			}
+			id: "08F341A86235FD17"
+			rewards: [
+				{
+					id: "562AB5955CFD842F"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "minecolonies:production/build_sifter"
+					criterion: ""
+					id: "2107A79C8E2ADC5A"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: -2.32d
+		}
+		{
+			dependencies: ["5E36AC6D17881DC6"]
+			icon: {
+				id: "minecolonies:blockhutstonesmeltery"
+			}
+			id: "4521E581E8AA67A6"
+			rewards: [
+				{
+					id: "78B84E58DE04A382"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "minecolonies:production/build_stone_smeltery"
+					criterion: ""
+					id: "2A6BF348C61723CB"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: -0.77d
+		}
+		{
+			dependencies: ["5E36AC6D17881DC6", "3E6647243FAAC6EE"]
+			icon: {
+				id: "minecolonies:blockhutsmeltery"
+			}
+			id: "0DA410A9FE4FF0E1"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "688A2C3E220F734A"
+					type: "xp"
+					xp: 125
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "minecolonies:production/build_smeltery_3"
+					criterion: ""
+					id: "2587C3525B28BE43"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: 0.78d
+		}
+		{
+			dependencies: ["5E36AC6D17881DC6"]
+			id: "08C5F9DB85521AA8"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "68A241DF692134F3"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "2DDA7B58BAEBA3EA"
+					item: {
+						count: 1
+						id: "minecolonies:blockhutglassblower"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 2.33d
+		}
+		{
+			dependencies: ["5E36AC6D17881DC6"]
+			id: "2070D74B64500FA7"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "26CF9DB0A536A55D"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "58413E0D0142D7BA"
+					item: {
+						count: 1
+						id: "minecolonies:blockhutdyer"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -1.55d
+		}
+		{
+			dependencies: ["5E36AC6D17881DC6"]
+			id: "09DE2B407A78854B"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "55EE40B105D78B1F"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "112F38B5CB4F141B"
+					item: {
+						count: 1
+						id: "minecolonies:blockhutfletcher"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5E36AC6D17881DC6"]
+			icon: {
+				id: "minecolonies:blockhutcitizen"
+			}
+			id: "7F25DF42B3C355B1"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "7AE0058B4E238906"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "minecolonies:minecolonies/colony_population_25"
+					criterion: ""
+					id: "2060C4B9B3E45CEC"
+					type: "advancement"
+				}
+			]
+			x: 3.5d
+			y: 1.55d
+		}
+		{
+			dependencies: ["5E36AC6D17881DC6", "483F0CC95D6BF23B"]
+			id: "1AE7663A683F1C7D"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "4BC965EC9B58279E"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "0D68E0FC02EC4470"
+					item: {
+						count: 1
+						id: "thesettler_x_create:colony_packager"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 5.05d
+		}
+		{
+			dependencies: ["1AE7663A683F1C7D"]
+			id: "344182A6E8AC0FC2"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "2E2A73A558A12333"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "4DAF9FFF4659DFFD"
+					item: {
+						count: 1
+						id: "thesettler_x_create:colony_gauge"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 5.05d
+		}
+		{
+			dependencies: ["7A875C04743BEF62"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecolonies:blockhutalchemist"
+			}
+			id: "4BFFF141BD9308FE"
+			preset: "info"
+			rewards: [
+				{
+					id: "72D794DD0AF33448"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "3B12342741431021"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 8.95d
+		}
+		{
+			dependencies: ["4BFFF141BD9308FE", "4E98BA31FBC78B91"]
+			icon: {
+				id: "minecolonies:blockminecoloniesgrave"
+			}
+			id: "5D0F39D8E7E5AAD3"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "606245B510F489B1"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					advancement: "minecolonies:minecolonies/citizen_bury"
+					criterion: ""
+					id: "7199C2C18D9DF201"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: 8.95d
+		}
+		{
+			dependencies: ["5D0F39D8E7E5AAD3"]
+			icon: {
+				id: "minecraft:totem_of_undying"
+			}
+			id: "6FE8EF84C68C687F"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "2535CF7E8E7952BC"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					advancement: "minecolonies:minecolonies/undertaker_totem"
+					criterion: ""
+					id: "3939030C1C88481C"
+					type: "advancement"
+				}
+			]
+			x: 3.5d
+			y: 8.95d
+		}
+		{
+			dependencies: ["784FFE5AA9775311"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecolonies:blockhutbuilder"
+			}
+			id: "1A192796BDC6AB3B"
+			preset: "info"
+			rewards: [
+				{
+					id: "158BB6FDE7675428"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "2C5C0527655464AC"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 14.15d
+		}
+		{
+			dependencies: ["1A192796BDC6AB3B"]
+			icon: {
+				id: "minecolonies:blockhutfield"
+			}
+			id: "03A90135230FAC67"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "093994DBBD2A15D0"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					advancement: "minecolonies:production/max_fields"
+					criterion: ""
+					id: "058481F35551B486"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: 14.15d
+		}
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecolonies:blockhuttownhall"
+			}
+			id: "31C108BF7BA13140"
+			preset: "info"
+			rewards: [
+				{
+					id: "7FCDEDD8B45ED98F"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "5FEB9C8766B37446"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 18.7d
+		}
+		{
+			dependencies: ["31C108BF7BA13140"]
+			icon: {
+				id: "minecolonies:blockhutminer"
+			}
+			id: "6609435D9865D795"
+			rewards: [
+				{
+					id: "258D20A0E899F429"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					advancement: "minecolonies:production/deep_mine"
+					criterion: ""
+					id: "0A9203D11723611B"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: 18.7d
+		}
+	]
+}

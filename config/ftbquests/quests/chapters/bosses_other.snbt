@@ -1,0 +1,1258 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bosses_other"
+	group: "0F1B4D3EF0FB70FA"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "minecraft:dragon_head"
+	}
+	id: "33A4A5E44918F737"
+	images: [
+		{
+			height: 1.8d
+			id: "610322E83B5B2E3C"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -16.68d
+		}
+		{
+			height: 1.8d
+			id: "1785B9870501C94A"
+			image: "minecraft:item/nether_star"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -16.68d
+		}
+		{
+			height: 1.8d
+			id: "039C97367856F727"
+			image: "eternal_starlight:item/orb_of_prophecy"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -16.68d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "48B4658E23C45EB7"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -14.53d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "7204670575C55733"
+			image: "aquamirae:item/shell_horn"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -14.53d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "5B5CEA618603CA14"
+			image: "aquamirae:item/frozen_key"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -14.53d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "047B4DED9B96A067"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -10.62d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "274AA5C38214EAF6"
+			image: "illagerinvasion:item/primal_essence"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -10.62d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "38C77384081998C0"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -11.12d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "3FF69F3211EC65FC"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -8.03d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "58700987C3B10667"
+			image: "born_in_chaos_v1:item/transmutingelixir"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -8.03d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "08A94928ADB0C6F3"
+			image: "born_in_chaos_v1:item/smoldering_infernal_ember"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -8.03d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "1C3661F920ED6BD3"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -8.53d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "003AB57940A3BFAD"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -4.13d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "2041538122E0A5F8"
+			image: "minecraft:block/soul_sand"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -4.13d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "300E229EF187B4D8"
+			image: "minecraft:item/nether_star"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -4.13d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.04d
+			id: "215AAF71BAB259BA"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: -4.63d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "3220253FC0098B86"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -1.28d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "25CC18E6215465D7"
+			image: "minecraft:block/sculk_shrieker_top"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -1.28d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "2005CAE97877C904"
+			image: "deeperdarker:item/soul_crystal"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -1.28d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.04d
+			id: "08EF29D67F1515BE"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: -1.78d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "091F0F4CC1835EF5"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 2.62d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "325105B2803578C0"
+			image: "undergarden:item/forgotten_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 2.62d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "773F35CC67620A05"
+			image: "undergarden:item/forgotten_battleaxe"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 2.62d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.04d
+			id: "3247708A5F0344C7"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 2.12d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "7746835EF959C83E"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 5.22d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "4B205A542ACB307F"
+			image: "minecraft:block/dragon_egg"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 5.22d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "6900EB3BF643D786"
+			image: "minecraft:item/end_crystal"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 5.22d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.04d
+			id: "550361DF50DECFFE"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 4.72d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "7F7291A21370F5BF"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 10.43d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "6B54237CA1137285"
+			image: "eternal_starlight:item/seeking_eye"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 10.43d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "5FDE6C6622E1501D"
+			image: "eternal_starlight:item/energy_sword"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 10.43d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "2F84D7C09238B032"
+			image: "eternal_starlight:item/moonring_bow"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 10.43d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.04d
+			id: "23B95F6F7809E423"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 9.93d
+		}
+	]
+	order_index: 6
+	quest_links: [
+		{
+			id: "1D5FB702DF8A4BB1"
+			linked_quest: "72E1E2BC19C49020"
+			x: 3.5d
+			y: -12.47d
+		}
+		{
+			id: "307C98D1F64E294A"
+			linked_quest: "5BD1B40623293600"
+			x: 5.25d
+			y: -9.22d
+		}
+		{
+			id: "1D0117C5EE0FE687"
+			linked_quest: "50EB3015AB3CBC40"
+			x: 5.25d
+			y: -5.98d
+		}
+		{
+			id: "1C257FCC9FE53DA7"
+			linked_quest: "7404AAD62E8C2537"
+			x: 5.25d
+			y: -2.6d
+		}
+		{
+			id: "0010434F72B442D5"
+			linked_quest: "0CEC8654540CE3AB"
+			x: 5.25d
+			y: 0.12d
+		}
+		{
+			id: "416D10A3F47F0E8B"
+			linked_quest: "671959A34C149691"
+			x: 5.25d
+			y: 1.42d
+		}
+		{
+			id: "13DC0B05DD8AC343"
+			linked_quest: "6F084A4C80C949B3"
+			x: 3.5d
+			y: 4.03d
+		}
+		{
+			id: "41710818F06C08A0"
+			linked_quest: "163B279F2C34878A"
+			x: 3.5d
+			y: 7.92d
+		}
+		{
+			id: "3656BB4B3CB93999"
+			linked_quest: "756A40FEF8172638"
+			x: 5.25d
+			y: 11.83d
+		}
+		{
+			id: "7604B79C26859A9A"
+			linked_quest: "401584863A47007E"
+			x: 5.25d
+			y: 13.12d
+		}
+		{
+			id: "494B6F5D01E5B39D"
+			linked_quest: "347DEDC7446DE92B"
+			x: 5.25d
+			y: 14.43d
+		}
+	]
+	quests: [
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "aquamirae:maze_rose"
+			}
+			id: "7D443D5346F93ADE"
+			rewards: [
+				{
+					id: "3264F75294DB9291"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "aquamirae:adventure/find_ice_maze"
+					criterion: ""
+					id: "4E5D18CE6901114A"
+					type: "advancement"
+				}
+			]
+			x: 0.0d
+			y: -12.47d
+		}
+		{
+			dependencies: ["7D443D5346F93ADE", "72E1E2BC19C49020"]
+			id: "0306894F1AD242F7"
+			rewards: [
+				{
+					id: "42D4605FE8FF3176"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "10B9C003FFF2F3D3"
+					item: {
+						count: 1
+						id: "aquamirae:frozen_key"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -13.12d
+		}
+		{
+			dependencies: ["7D443D5346F93ADE", "72E1E2BC19C49020"]
+			id: "09EAC3BC57B56720"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "69D158BB0B029257"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "25A002F9D0541048"
+					item: {
+						count: 1
+						id: "aquamirae:tidepiercer"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -11.82d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "illagerinvasion:primal_essence"
+			}
+			id: "7FEFC5EF97EC721E"
+			preset: "info"
+			rewards: [
+				{
+					id: "450A35D1DB07C4A2"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "249DBD8EC1D538BA"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: -9.22d
+		}
+		{
+			dependencies: ["7FEFC5EF97EC721E", "5BD1B40623293600"]
+			id: "37909A3A3E2BC83D"
+			rewards: [
+				{
+					id: "1F010E4789F1CE9B"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "3A33FCA0BF324EEC"
+					item: {
+						count: 1
+						id: "illagerinvasion:primal_essence"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -9.22d
+		}
+		{
+			dependencies: ["37909A3A3E2BC83D"]
+			id: "62BE12E98B38F8EA"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "2FEEA052F30A2004"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "24F5775897296724"
+					item: {
+						count: 1
+						id: "illagerinvasion:imbuing_table"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -9.22d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "born_in_chaos_v1:infernal_evil_pumpkin"
+			}
+			id: "6B994E8C76B3D416"
+			rewards: [
+				{
+					id: "7312F06BA07E4507"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "36D5969D8DB099D4"
+					structure: "born_in_chaos_v1:infernal_pumpkin"
+					type: "structure"
+				}
+			]
+			x: 0.0d
+			y: -5.98d
+		}
+		{
+			dependencies: ["6B994E8C76B3D416"]
+			id: "63D82EF448627B80"
+			rewards: [
+				{
+					id: "2130FEC21E30C7AC"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "4B17BB1154C57BC5"
+					item: {
+						count: 1
+						id: "born_in_chaos_v1:transmuting_elixir"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -5.98d
+		}
+		{
+			dependencies: ["63D82EF448627B80", "50EB3015AB3CBC40"]
+			id: "5D7A3A9975D51154"
+			rewards: [
+				{
+					id: "0B70D0F8CA71869D"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "558CA7BF6804E22D"
+					item: {
+						count: 1
+						id: "born_in_chaos_v1:lord_pumpkinheads_hat_helmet"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -6.63d
+		}
+		{
+			dependencies: ["63D82EF448627B80", "50EB3015AB3CBC40"]
+			id: "0CC6A8F2D2EEF5CA"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "0A3E41E321EDDB54"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "77C093871BA95049"
+					item: {
+						count: 1
+						id: "born_in_chaos_v1:lord_pumpkinheads_lamp"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -5.33d
+		}
+		{
+			dependencies: ["7A875C04743BEF62"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:wither_skeleton_skull"
+			}
+			id: "0C16CA01D15F7D39"
+			preset: "info"
+			rewards: [
+				{
+					id: "15DA5DC045DFC582"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "624A9F79517CBA14"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: -2.6d
+		}
+		{
+			dependencies: ["0C16CA01D15F7D39", "7404AAD62E8C2537"]
+			id: "018BB091987EA13D"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "57E82448009E53FE"
+					type: "xp"
+					xp: 150
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "1883DC7497A5051C"
+					item: {
+						count: 1
+						id: "minecraft:nether_star"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -2.6d
+		}
+		{
+			dependencies: ["018BB091987EA13D"]
+			id: "4461F5E545991680"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "7B6E02077CCDF7D0"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "6949D05E7B818C27"
+					item: {
+						count: 1
+						id: "minecraft:beacon"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -2.6d
+		}
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:sculk_shrieker"
+			}
+			id: "0AF67746EC42729B"
+			preset: "info"
+			rewards: [
+				{
+					id: "6B51320863EC4BFF"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "3A137141C826FDE5"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 0.77d
+		}
+		{
+			dependencies: ["0AF67746EC42729B", "0CEC8654540CE3AB"]
+			id: "631C49FEFB70A0CE"
+			rewards: [
+				{
+					id: "5EC8DAFE63487E7B"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "502E40D59F98CB00"
+					item: {
+						count: 1
+						id: "deeperdarker:warden_carapace"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 0.12d
+		}
+		{
+			dependencies: ["631C49FEFB70A0CE"]
+			icon: {
+				id: "deeperdarker:warden_helmet"
+			}
+			id: "16E91CEBEC2E6AB6"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "7A8AEB15E95429EF"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "5F8D58A89E28B426"
+					item: {
+						count: 1
+						id: "deeperdarker:warden_helmet"
+					}
+					type: "item"
+				}
+				{
+					id: "48ADFD1F137914B8"
+					item: {
+						count: 1
+						id: "deeperdarker:warden_chestplate"
+					}
+					type: "item"
+				}
+				{
+					id: "7FDE98B36828EBAC"
+					item: {
+						count: 1
+						id: "deeperdarker:warden_leggings"
+					}
+					type: "item"
+				}
+				{
+					id: "3F61783F16A0B93D"
+					item: {
+						count: 1
+						id: "deeperdarker:warden_boots"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 0.12d
+		}
+		{
+			dependencies: ["0AF67746EC42729B", "671959A34C149691"]
+			id: "41056068F0BF7358"
+			rewards: [
+				{
+					id: "336E8AEA9C90FEBB"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "01A09298A9B535DB"
+					item: {
+						count: 1
+						id: "deeperdarker:soul_crystal"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 1.42d
+		}
+		{
+			dependencies: ["41056068F0BF7358"]
+			id: "49C18231A95AFC82"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "722F2633CCB4B172"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "7E4E255A101E5ACC"
+					item: {
+						count: 1
+						id: "deeperdarker:soul_elytra"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 1.42d
+		}
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "undergarden:forgotten_nugget"
+			}
+			id: "663E4BBCFF5CBF56"
+			preset: "info"
+			rewards: [
+				{
+					id: "15BD93C9750718B2"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "2A4A598EEC7C2465"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 4.03d
+		}
+		{
+			dependencies: ["663E4BBCFF5CBF56", "5EC7B7B95A593E93"]
+			id: "23FB35A36A8E92AB"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "714C3F9DD8533E84"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "4B8FE95772736A40"
+					item: {
+						count: 1
+						id: "undergarden:forgotten_battleaxe"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 4.03d
+		}
+		{
+			dependencies: ["53A32F809B45CAFE"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "endrem:ancient_portal_frame"
+			}
+			id: "27E16132574AA37D"
+			rewards: [
+				{
+					id: "42F24338BF262365"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "0FF6406FB8BF6C77"
+					structure: "betterstrongholds:stronghold"
+					type: "structure"
+				}
+			]
+			x: 0.0d
+			y: 7.92d
+		}
+		{
+			dependencies: ["27E16132574AA37D", "163B279F2C34878A"]
+			id: "4AE292726D3A215E"
+			rewards: [
+				{
+					id: "12742928E523D91B"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "2E1E3008B07D47C0"
+					item: {
+						count: 1
+						id: "minecraft:end_crystal"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 6.62d
+		}
+		{
+			dependencies: ["27E16132574AA37D", "163B279F2C34878A"]
+			id: "7BAAA10F1FA5A9A2"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "45721C2A20218272"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "66E6366BFB1D1968"
+					item: {
+						count: 1
+						id: "minecraft:dragon_breath"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 7.92d
+		}
+		{
+			dependencies: ["27E16132574AA37D", "163B279F2C34878A"]
+			id: "4F9C7BC8ED02F39A"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "66DE065B42A9071B"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "01162ADC3253684E"
+					item: {
+						count: 1
+						id: "minecraft:dragon_egg"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 9.22d
+		}
+		{
+			dependencies: ["53A32F809B45CAFE"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "eternal_starlight:orb_of_prophecy"
+			}
+			id: "0545D5FDDC0DD286"
+			preset: "info"
+			rewards: [
+				{
+					id: "485828C463B90818"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "4CC2416A776CB256"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 13.13d
+		}
+		{
+			dependencies: ["27E16132574AA37D"]
+			icon: {
+				id: "eternal_starlight:golem_steel_ingot"
+			}
+			id: "2CE70B2D032B5BC9"
+			rewards: [
+				{
+					id: "081D922E071207DD"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "04CD0646086426F4"
+					structure: "eternal_starlight:golem_forge"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 11.83d
+		}
+		{
+			dependencies: ["27E16132574AA37D"]
+			icon: {
+				id: "eternal_starlight:tenacious_petal"
+			}
+			id: "441C0667FA9A60B9"
+			rewards: [
+				{
+					id: "27B7149E7208CE5B"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "3A647ED43D549673"
+					structure: "eternal_starlight:cursed_garden"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 13.12d
+		}
+		{
+			dependencies: ["0545D5FDDC0DD286", "756A40FEF8172638"]
+			id: "6ED921F470B9B153"
+			rewards: [
+				{
+					id: "07A79106C0769EBF"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "142B24FAD71F8F57"
+					item: {
+						count: 1
+						id: "eternal_starlight:book"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 14.43d
+		}
+		{
+			dependencies: ["2CE70B2D032B5BC9", "401584863A47007E"]
+			id: "1360D983BCA997AD"
+			rewards: [
+				{
+					id: "37A7361A77179427"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "404792C4A2B7F7AF"
+					item: {
+						count: 1
+						id: "eternal_starlight:energy_sword"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 12.48d
+		}
+		{
+			dependencies: ["441C0667FA9A60B9", "347DEDC7446DE92B"]
+			icon: {
+				id: "eternal_starlight:moonring_bow"
+			}
+			id: "5196434BFBBB736E"
+			rewards: [
+				{
+					id: "4F9292A31B008F1A"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "6F496A2182D462B7"
+					item: {
+						count: 1
+						id: "eternal_starlight:moonring_bow"
+					}
+					type: "item"
+				}
+				{
+					id: "7E7BA55FBBEFF003"
+					item: {
+						count: 1
+						id: "eternal_starlight:crescent_spear"
+					}
+					type: "item"
+				}
+				{
+					id: "2E90CEDABF050F17"
+					item: {
+						count: 1
+						id: "eternal_starlight:wand_of_teleportation"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 13.78d
+		}
+	]
+}

@@ -1,0 +1,620 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "world_bumblezone"
+	group: "61DE9B33509C7F9A"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "minecraft:bee_nest"
+	}
+	id: "4EBC98599B1018F7"
+	images: [
+		{
+			height: 1.8d
+			id: "102D36A863D5FDFB"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -10.28d
+		}
+		{
+			height: 1.8d
+			id: "19FCBF5EE21E9C19"
+			image: "the_bumblezone:item/pollen_puff"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -10.28d
+		}
+		{
+			height: 1.8d
+			id: "1E3C2562421DF7E7"
+			image: "the_bumblezone:item/bee_stinger"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -10.28d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "14F41FC0B246CD96"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -8.12d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "138A7B843C5FD28F"
+			image: "the_bumblezone:block/porous_honeycomb_block"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -8.12d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "3D59F30DB65DCD15"
+			image: "the_bumblezone:item/honey_crystal_shards"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -8.12d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "47E6DC350312DFBF"
+			image: "the_bumblezone:item/royal_jelly_bottle"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -8.12d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "43E4AFD1BCB51FC9"
+			image: "the_bumblezone:block/honey_crystal_main"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -8.12d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "6B225C23E52EF45F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -4.23d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "59487BF3DAFA520C"
+			image: "the_bumblezone:item/bee_bread"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -4.23d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "288535D37F027F9F"
+			image: "the_bumblezone:item/stinger_spear"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -4.23d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "3B723C6A05B52369"
+			image: "the_bumblezone:item/honey_compass/honey_compass"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -4.23d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "0EF58C4E84050303"
+			image: "the_bumblezone:block/royal_jelly_block_top"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -4.23d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "014EF6A7AF973DAC"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -4.73d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "063F1105F071BC70"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 3.27d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "119D2C1B1C32D22E"
+			image: "the_bumblezone:item/essence/calming"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 3.27d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "03828E6D01D654BF"
+			image: "the_bumblezone:block/honey_crystal_base"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 3.27d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "0B045DE8ED45256C"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 2.77d
+		}
+	]
+	order_index: 9
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:bee_nest"
+			}
+			id: "5965A70AABD940AE"
+			rewards: [
+				{
+					id: "23EE82D5FE654822"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					dimension: "the_bumblezone:the_bumblezone"
+					id: "17FCF33E127862FE"
+					type: "dimension"
+				}
+			]
+			x: 0.0d
+			y: -6.08d
+		}
+		{
+			dependencies: ["5965A70AABD940AE"]
+			icon: {
+				id: "the_bumblezone:porous_honeycomb_block"
+			}
+			id: "7FB29C7AEAB6F537"
+			rewards: [
+				{
+					id: "56A80F5BCA584450"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					biome: "the_bumblezone:hive_wall"
+					id: "70F100CAAE18B191"
+					type: "biome"
+				}
+				{
+					biome: "the_bumblezone:pollinated_fields"
+					id: "000EBA3348B69E07"
+					type: "biome"
+				}
+				{
+					biome: "the_bumblezone:floral_meadow"
+					id: "2A495345AE614726"
+					type: "biome"
+				}
+				{
+					biome: "the_bumblezone:crystal_canyon"
+					id: "51625C0A3DD0463C"
+					type: "biome"
+				}
+			]
+			x: 1.75d
+			y: -6.08d
+		}
+		{
+			dependencies: ["7FB29C7AEAB6F537"]
+			icon: {
+				id: "the_bumblezone:sugar_water_bucket"
+			}
+			id: "278324518B998706"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "15CE9D7EFA904650"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					biome: "the_bumblezone:sugar_water_floor"
+					id: "36A8908A52E9FCAC"
+					type: "biome"
+				}
+				{
+					biome: "the_bumblezone:howling_constructs"
+					id: "2B5B772B8C0F8E45"
+					type: "biome"
+				}
+				{
+					biome: "the_bumblezone:bumbling_beepartments"
+					id: "2FB71AA0882645BB"
+					type: "biome"
+				}
+			]
+			x: 3.5d
+			y: -6.73d
+		}
+		{
+			dependencies: ["5965A70AABD940AE"]
+			id: "4D7FD02F4BAFBF87"
+			rewards: [
+				{
+					id: "440E37B5BC582CDA"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "6D6006E1A288C673"
+					item: {
+						count: 1
+						id: "the_bumblezone:honey_crystal_shards"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -2.7d
+		}
+		{
+			dependencies: ["5965A70AABD940AE"]
+			id: "2EE9355E7B276F19"
+			rewards: [
+				{
+					id: "5A9F8F69C8516758"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "054A96A4ED300B2B"
+					item: {
+						count: 1
+						id: "the_bumblezone:pollen_puff"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -1.15d
+		}
+		{
+			dependencies: ["2EE9355E7B276F19"]
+			icon: {
+				id: "the_bumblezone:pollen_puff"
+			}
+			id: "05BEFB774970E12D"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "681AC6C12B81CF60"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "the_bumblezone:pollen_puff/pollen_puff_pollinate_bee"
+					criterion: ""
+					id: "39A0A296A7AEF5AB"
+					type: "advancement"
+				}
+			]
+			x: 5.25d
+			y: -0.38d
+		}
+		{
+			dependencies: ["5965A70AABD940AE"]
+			id: "3E7C3FCAAA5EA089"
+			rewards: [
+				{
+					id: "65F84417DA8D0238"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "100FC2CD905C4234"
+					item: {
+						count: 1
+						id: "the_bumblezone:bee_stinger"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 0.4d
+		}
+		{
+			dependencies: ["5965A70AABD940AE"]
+			id: "68AD1DD3F0FAB655"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "088434A88980062B"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "13F92C33CA3B1C96"
+					item: {
+						count: 1
+						id: "the_bumblezone:bee_bread"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 1.95d
+		}
+		{
+			dependencies: ["5965A70AABD940AE"]
+			id: "63653A576A690914"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "6DBDEC0B5E580A00"
+					type: "xp"
+					xp: 125
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "1F9C2CBE0B0F5F77"
+					item: {
+						count: 1
+						id: "the_bumblezone:bumble_bee_chestplate_1"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -1.15d
+		}
+		{
+			dependencies: ["5965A70AABD940AE"]
+			icon: {
+				id: "the_bumblezone:honey_bucket"
+			}
+			id: "06901FF8E2DADA42"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "4B4A79E958D6EF4B"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "the_bumblezone:beehemoth/tamed_beehemoth"
+					criterion: ""
+					id: "2CF7EDD244F73AAC"
+					type: "advancement"
+				}
+			]
+			x: 3.5d
+			y: 0.4d
+		}
+		{
+			dependencies: ["7FB29C7AEAB6F537"]
+			icon: {
+				id: "minecraft:honey_bottle"
+			}
+			id: "78AA9DDDFCCCE1A6"
+			rewards: [
+				{
+					id: "0BDD8462AE28F26B"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "the_bumblezone:teleportation/teleport_out_of_bumblezone"
+					criterion: ""
+					id: "58D4826BDC821A9D"
+					type: "advancement"
+				}
+			]
+			x: 3.5d
+			y: -5.43d
+		}
+		{
+			dependencies: ["7FB29C7AEAB6F537"]
+			icon: {
+				id: "the_bumblezone:honey_compass"
+			}
+			id: "41D42D1E815ED5DF"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "370CC5CCDF3F8605"
+					type: "xp"
+					xp: 125
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "5623524B0FD0B00A"
+					structure: "the_bumblezone:throne_pillar"
+					type: "structure"
+				}
+			]
+			x: 3.5d
+			y: 4.8d
+		}
+		{
+			dependencies: ["41D42D1E815ED5DF"]
+			icon: {
+				id: "the_bumblezone:royal_jelly_bottle"
+			}
+			id: "255A7CF38560FEC5"
+			rewards: [
+				{
+					id: "487755CAC79CACA0"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "the_bumblezone:the_queens_desire/the_beginning"
+					criterion: ""
+					id: "1D34729F537C7D4A"
+					type: "advancement"
+				}
+			]
+			x: 5.25d
+			y: 6.35d
+		}
+		{
+			dependencies: ["7FB29C7AEAB6F537"]
+			icon: {
+				id: "the_bumblezone:honeycomb_brood_block"
+			}
+			id: "48429439A976071E"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "36B5F256AF7E7F0D"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "19CC274F479A2052"
+					structure: "the_bumblezone:cell_maze"
+					type: "structure"
+				}
+			]
+			x: 3.5d
+			y: 6.35d
+		}
+		{
+			dependencies: ["7FB29C7AEAB6F537"]
+			icon: {
+				id: "the_bumblezone:stingless_bee_helmet_1"
+			}
+			id: "484D8D933357FC2C"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "051515BEEE083EDF"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "63829AB305EEB64A"
+					structure: "#the_bumblezone:sempiternal_sanctums"
+					type: "structure"
+				}
+			]
+			x: 3.5d
+			y: 7.9d
+		}
+	]
+}

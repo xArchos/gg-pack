@@ -1,0 +1,45 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "biomeswevegone:abandoned_prairie_house",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:aspen_manor_1",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:aspen_manor_2",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:prairie_house",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:rugged_fossil",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:village/forgotten",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:village/pumpkin_patch",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:village/red_rock",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:village/salem",
+      "required": false
+    },
+    {
+      "id": "goety:sorcerous_keep",
+      "required": false
+    }
+  ]
+}

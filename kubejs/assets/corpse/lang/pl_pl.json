@@ -1,0 +1,4 @@
+{
+  "gui.corpse.death_history.date_format": "dd.MM.yyyy HH:mm:ss",
+  "tooltip.corpse.item_count": "Stosy przedmiotów: %s"
+}

@@ -1,0 +1,925 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tech_create_basics"
+	group: "32C7FC51B44C22EE"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "create:cogwheel"
+	}
+	id: "1C33DFB3E9788C2D"
+	images: [
+		{
+			height: 1.8d
+			id: "0365ADB3330155C0"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -13.8d
+		}
+		{
+			height: 1.8d
+			id: "3E36571ADF5AC0D2"
+			image: "create:block/large_cogwheel"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -13.8d
+		}
+		{
+			height: 1.8d
+			id: "578D54710D70F966"
+			image: "create:block/gearbox"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -13.8d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "0752B67E534F89A8"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -11.65d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "6FDDF75EB30B203B"
+			image: "create:block/gauge"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -11.65d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "18B4BE8DAAC6F271"
+			image: "create:item/goggles"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -11.65d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "525BBE0242BB62F4"
+			image: "create:item/wrench"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -11.65d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "0A456C9C61BB277E"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -7.75d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "467C6F8AD08060C6"
+			image: "create:block/cogwheel"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -7.75d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "4947AD46740EDD48"
+			image: "create:block/encased_chain_drive"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -7.75d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "07E64A4263148185"
+			image: "create:block/clutch_on"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -7.75d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.04d
+			id: "338CB15543C25355"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -8.25d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "4AD226817DA5787F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -2.55d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "3CACE043F64910C0"
+			image: "create:block/waterwheel_metal"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -2.55d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "20985FD4A55614F0"
+			image: "create:block/sail/frame"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -2.55d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "296D0892D5CAA575"
+			image: "create:block/cuckoo_clock"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -2.55d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.04d
+			id: "68039F616C4FDF76"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -3.05d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "41C9DA547CEAFDD6"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 3.95d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "0025306D624B14B7"
+			image: "create:block/rotation_speed_controller_top"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 3.95d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "2357A044DA4D9F4D"
+			image: "create:block/sequenced_gearshift"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 3.95d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "56B06486526D9C64"
+			image: "create:block/brass_encased_cogwheel_side"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 3.95d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "38E82ABD4A73A2F0"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 3.45d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "76ED257303102332"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 8.35d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "0FB87F479F3FB99F"
+			image: "create:block/engine"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 8.35d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "229938A505BCAD2D"
+			image: "create:block/boiler_gauge"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 8.35d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "003C984C2D0D56B6"
+			image: "create:block/whistle"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 8.35d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.04d
+			id: "3121C2528BCE69EC"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 7.85d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["7B472916B8B3515D"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "create:stressometer"
+			}
+			id: "53DF6FCDEC7DAA7C"
+			preset: "info"
+			rewards: [
+				{
+					id: "457902387D6F73F3"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "03304F669D2EF8C3"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: -9.6d
+		}
+		{
+			dependencies: ["53DF6FCDEC7DAA7C"]
+			id: "5A1A0A99C8D00D22"
+			rewards: [
+				{
+					id: "05AE6254D715E35E"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "502E0A58A81BA8D8"
+					item: {
+						count: 1
+						id: "create:speedometer"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -10.25d
+		}
+		{
+			dependencies: ["5A1A0A99C8D00D22"]
+			icon: {
+				id: "create:stressometer"
+			}
+			id: "16E761F3252A1103"
+			rewards: [
+				{
+					id: "15F70110B5B4D69E"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					advancement: "create:stressometer"
+					criterion: ""
+					id: "0D856D071C673C25"
+					type: "advancement"
+				}
+			]
+			x: 3.5d
+			y: -9.6d
+		}
+		{
+			dependencies: ["53DF6FCDEC7DAA7C"]
+			icon: {
+				id: "create:wrench"
+			}
+			id: "54B9C357C38E5CD5"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "68458092AF270E6D"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					advancement: "create:wrench_goggles"
+					criterion: ""
+					id: "0F8A0F11872E85F4"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: -8.95d
+		}
+		{
+			dependencies: ["53DF6FCDEC7DAA7C"]
+			icon: {
+				id: "create:large_cogwheel"
+			}
+			id: "28F01DF08603843D"
+			rewards: [
+				{
+					id: "0439AF9757C561EA"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					advancement: "create:shifting_gears"
+					criterion: ""
+					id: "6FE2D6618D158605"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: -5.7d
+		}
+		{
+			dependencies: ["53DF6FCDEC7DAA7C"]
+			icon: {
+				id: "create:gearbox"
+			}
+			id: "1F32E166ECCE4EC2"
+			rewards: [
+				{
+					id: "7FE5C0BBAFE10138"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "2437752CF26FB241"
+					item: {
+						count: 1
+						id: "create:gearbox"
+					}
+					type: "item"
+				}
+				{
+					id: "4E65D211171CA935"
+					item: {
+						count: 1
+						id: "create:vertical_gearbox"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -4.4d
+		}
+		{
+			dependencies: ["1F32E166ECCE4EC2"]
+			icon: {
+				id: "create:encased_chain_drive"
+			}
+			id: "210C88907C0457FE"
+			rewards: [
+				{
+					id: "2B2A011480504BED"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "1C8A480E65A92381"
+					item: {
+						count: 1
+						id: "create:encased_chain_drive"
+					}
+					type: "item"
+				}
+				{
+					id: "72FB742F91BE2388"
+					item: {
+						count: 1
+						id: "create:adjustable_chain_gearshift"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -6.35d
+		}
+		{
+			dependencies: ["1F32E166ECCE4EC2"]
+			icon: {
+				id: "create:clutch"
+			}
+			id: "4EAD98D884F75372"
+			rewards: [
+				{
+					id: "5C434EF64DC935EE"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "7655A9B074E677F1"
+					item: {
+						count: 1
+						id: "create:clutch"
+					}
+					type: "item"
+				}
+				{
+					id: "124BCB02EBAAE2B2"
+					item: {
+						count: 1
+						id: "create:gearshift"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -5.05d
+		}
+		{
+			dependencies: ["28F01DF08603843D"]
+			icon: {
+				id: "create:andesite_encased_shaft"
+			}
+			id: "392D41496E27C540"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "3029C20A1BAEEF4C"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "7C3CFE0A8A7CBF61"
+					item: {
+						count: 1
+						id: "create:andesite_encased_shaft"
+					}
+					type: "item"
+				}
+				{
+					id: "5EDEB41E3195C311"
+					item: {
+						count: 1
+						id: "create:andesite_encased_cogwheel"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -3.75d
+		}
+		{
+			dependencies: ["53DF6FCDEC7DAA7C"]
+			id: "696945DF9E1B272B"
+			rewards: [
+				{
+					id: "741F9D7DB65C4134"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "4F44D0C033B3E836"
+					item: {
+						count: 1
+						id: "create:large_water_wheel"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -1.15d
+		}
+		{
+			dependencies: ["53DF6FCDEC7DAA7C"]
+			icon: {
+				id: "create:windmill_bearing"
+			}
+			id: "673956CBEC639087"
+			rewards: [
+				{
+					id: "09FE8E2BCE2C2B8D"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					advancement: "create:windmill_maxed"
+					criterion: ""
+					id: "182B56A2DDF06848"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: 0.15d
+		}
+		{
+			dependencies: ["53DF6FCDEC7DAA7C"]
+			id: "73770CA8D5A19E9C"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "0278D539EBA78A84"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "7B6552FE81FF28C3"
+					item: {
+						count: 1
+						id: "create:cuckoo_clock"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 1.45d
+		}
+		{
+			dependencies: ["53DF6FCDEC7DAA7C"]
+			id: "737E190FA5816D2F"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "3AE6606DBCFE609A"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "0DE93FDEBF130D33"
+					item: {
+						count: 1
+						id: "create:turntable"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 2.75d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			id: "70C1B9524812668E"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "67E946346AD03EE5"
+					type: "xp"
+					xp: 125
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "798E72857FE6DFCA"
+					item: {
+						count: 1
+						id: "create:rotation_speed_controller"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 6.25d
+		}
+		{
+			dependencies: ["70C1B9524812668E"]
+			id: "27F81222D3A6025A"
+			rewards: [
+				{
+					id: "6FAD5AB6087CA632"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "2DDDEA408D31308A"
+					item: {
+						count: 1
+						id: "create:sequenced_gearshift"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 5.47d
+		}
+		{
+			dependencies: ["70C1B9524812668E"]
+			icon: {
+				id: "create:brass_encased_cogwheel"
+			}
+			id: "33C970C359D7003C"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "017086CF93E5327A"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "6EE3EA63E679934A"
+					item: {
+						count: 1
+						id: "create:brass_encased_shaft"
+					}
+					type: "item"
+				}
+				{
+					id: "51C66B9D58597322"
+					item: {
+						count: 1
+						id: "create:brass_encased_cogwheel"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 7.02d
+		}
+		{
+			dependencies: ["7A875C04743BEF62"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "create:steam_engine"
+			}
+			id: "6789430CA3CC85D1"
+			rewards: [
+				{
+					id: "61FDAC906492C626"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					count: 8L
+					id: "05CDFE49341E1A98"
+					item: {
+						count: 1
+						id: "create:fluid_tank"
+					}
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "2649530617C8B787"
+					item: {
+						count: 1
+						id: "create:blaze_burner"
+					}
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "050EDB6B3D21332C"
+					item: {
+						count: 1
+						id: "create:steam_engine"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 10.65d
+		}
+		{
+			dependencies: ["6789430CA3CC85D1"]
+			id: "5FBF284F739CDAFA"
+			rewards: [
+				{
+					id: "65EC30E5E7C2B3D2"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "28D4E7069F702A83"
+					item: {
+						count: 1
+						id: "create:steam_whistle"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 9.88d
+		}
+		{
+			dependencies: ["5FBF284F739CDAFA"]
+			icon: {
+				id: "create:steam_whistle"
+			}
+			id: "41CAF448D8DCF4A4"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "1E0B6ACA9B3316AC"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					advancement: "create:pipe_organ"
+					criterion: ""
+					id: "5F83C660ABEFA7A5"
+					type: "advancement"
+				}
+			]
+			x: 3.5d
+			y: 9.88d
+		}
+		{
+			dependencies: ["6789430CA3CC85D1"]
+			icon: {
+				id: "create:blaze_burner"
+			}
+			id: "022200CA61ECF8A2"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "3A066AF144A36884"
+					type: "xp"
+					xp: 150
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					advancement: "create:steam_engine_maxed"
+					criterion: ""
+					id: "758CCB095D977D1F"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: 11.43d
+		}
+		{
+			dependencies: ["022200CA61ECF8A2"]
+			icon: {
+				id: "create:steam_engine"
+			}
+			id: "67C5B95D0E775079"
+			rewards: [
+				{
+					id: "1B105A41F894AD3D"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					count: 8L
+					id: "2502072DDE64A2A8"
+					item: {
+						count: 1
+						id: "create:steam_engine"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 11.43d
+		}
+	]
+}

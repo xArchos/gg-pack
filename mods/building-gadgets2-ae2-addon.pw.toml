@@ -1,0 +1,13 @@
+name = "Building Gadgets2 AE2 Addon"
+filename = "bgt_ae2_addon-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EGAENKgA/versions/uhgQdThr/bgt_ae2_addon-1.3.0.jar"
+hash-format = "sha512"
+hash = "4df8f33ddaa238d807ff76c72c4519b64c8889fee8d00494a8be6f6a96d376d6ff882e65769be905d34f9a5ae4a5a1a9b60f4730ee673c59fedf68b54e34329f"
+
+[update]
+[update.modrinth]
+mod-id = "EGAENKgA"
+version = "uhgQdThr"

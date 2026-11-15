@@ -1,0 +1,1157 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tech_create_aeronautics"
+	group: "32C7FC51B44C22EE"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "aeronautics:propeller_bearing"
+	}
+	id: "5BC88BB76ABCFB9D"
+	images: [
+		{
+			height: 1.8d
+			id: "560DC00FA3EA6D03"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -16.78d
+		}
+		{
+			height: 1.8d
+			id: "10BEB9A62FE9255B"
+			image: "createpropulsion:block/propeller"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -16.78d
+		}
+		{
+			height: 1.8d
+			id: "4C68875249F2693E"
+			image: "createpropulsion:block/thruster"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -16.78d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "194BD695D01B53F4"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -14.62d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "2E7FAD23CE5A5C85"
+			image: "createpropulsion:item/auto_glue"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -14.62d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "1F5E050C01DC421F"
+			image: "create:block/rope_pulley_coil"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -14.62d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "18193B258FA885AF"
+			image: "create:block/bearing_top"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -14.62d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "30C81C989EF9A789"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -8.12d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "00C05C3D0D366E53"
+			image: "createpropulsion:block/reaction_wheel"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -8.12d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "126B82572DCA9A99"
+			image: "create:block/gauge"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -8.12d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "30BDB41B0EBA74AC"
+			image: "create:block/whistle"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -8.12d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.04d
+			id: "624FFED338E787CB"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -8.62d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "0E474663ABE865FB"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -2.18d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "41025273DFEC35CB"
+			image: "create:block/bogey/wheel"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -2.18d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "5E88B7F8860B15AA"
+			image: "create:block/crushing_wheel_plates"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -2.18d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.04d
+			id: "53C82B6FAAE5426A"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -2.68d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "7A4722EE1295CEF6"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 0.42d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "1A57423551AF051F"
+			image: "createpropulsion:item/platinum_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 0.42d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "57C616804FB62D92"
+			image: "createpropulsion:item/turpentine_bucket"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 0.42d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "20FA35DE58015F11"
+			image: "createpropulsion:block/stirling"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 0.42d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.04d
+			id: "40CD10E9A7575367"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -0.08d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "64B16BFB273832FC"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 6.92d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "0E750ECE16675294"
+			image: "createpropulsion:block/ion_thruster"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 6.92d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "628852348E2E634D"
+			image: "createpropulsion:block/coral_generator"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 6.92d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "76439F1306324F78"
+			image: "createpropulsion:item/coral_bucket"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 6.92d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.04d
+			id: "3ACFA3BBC63CDDC9"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 6.42d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "21DC42A6115447C3"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 11.33d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "2010EDD8082AB142"
+			image: "minecraft:block/end_stone"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 11.33d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "6D42554FDF5336DD"
+			image: "createpropulsion:block/tempered_wing"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 11.33d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.04d
+			id: "5EE813309E6364A7"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 10.83d
+		}
+	]
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["784FFE5AA9775311"]
+			hide_until_deps_complete: true
+			id: "6BE8A9C8F130FD20"
+			rewards: [
+				{
+					id: "19784E6F66B1F7F9"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "267B8E0B5CB50D59"
+					item: {
+						count: 1
+						id: "simulated:honey_glue"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -11.27d
+		}
+		{
+			dependencies: ["6BE8A9C8F130FD20"]
+			id: "57F78BDAB42DC922"
+			rewards: [
+				{
+					id: "574BFCD5F20300E8"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "39162BCADD4F9352"
+					item: {
+						count: 1
+						id: "simulated:swivel_bearing"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -13.22d
+		}
+		{
+			dependencies: ["6BE8A9C8F130FD20"]
+			icon: {
+				id: "simulated:rope_winch"
+			}
+			id: "0FAE2EAECC2ABDE3"
+			rewards: [
+				{
+					id: "12D2B4BD7E5477CA"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "48CC96D6F78BFD5A"
+					item: {
+						count: 1
+						id: "simulated:rope_winch"
+					}
+					type: "item"
+				}
+				{
+					id: "542EC2098E7C5F68"
+					item: {
+						count: 1
+						id: "simulated:rope_connector"
+					}
+					type: "item"
+				}
+				{
+					id: "643AF667C5B300F7"
+					item: {
+						count: 1
+						id: "simulated:rope_coupling"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -11.93d
+		}
+		{
+			dependencies: ["6BE8A9C8F130FD20"]
+			id: "2AD8211BB7320D0C"
+			rewards: [
+				{
+					id: "2DEB2A71C1E9B148"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "2A52AB1A5A387324"
+					item: {
+						count: 1
+						id: "simulated:white_portable_engine"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -10.62d
+		}
+		{
+			dependencies: ["0FAE2EAECC2ABDE3"]
+			id: "3CD23F9C3416BC34"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "3BC93689FC5DEF73"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "58E373F23E573B6F"
+					item: {
+						count: 1
+						id: "simulated:docking_connector"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -11.27d
+		}
+		{
+			dependencies: ["6BE8A9C8F130FD20"]
+			icon: {
+				id: "simulated:contraption_diagram"
+			}
+			id: "3316BFDBD54152BA"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "1649DA4A0E4F7D8E"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "684DB3FCEAE95DBA"
+					item: {
+						count: 1
+						id: "simulated:contraption_diagram"
+					}
+					type: "item"
+				}
+				{
+					id: "7717035B459CF700"
+					item: {
+						count: 1
+						id: "simulated:white_nameplate"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -9.32d
+		}
+		{
+			dependencies: ["6BE8A9C8F130FD20"]
+			icon: {
+				id: "aeronautics:gyroscopic_propeller_bearing"
+			}
+			id: "3ECB2A06092357F7"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "4B26D442D5652FD3"
+					type: "xp"
+					xp: 175
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "2E2F04D316365AEC"
+					item: {
+						count: 1
+						id: "simulated:gyroscopic_mechanism"
+					}
+					type: "item"
+				}
+				{
+					id: "1C7257D203265BDA"
+					item: {
+						count: 1
+						id: "aeronautics:gyroscopic_propeller_bearing"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -5.83d
+		}
+		{
+			dependencies: ["6BE8A9C8F130FD20"]
+			id: "23836E97A240F2B6"
+			rewards: [
+				{
+					id: "4A05357B73066AC5"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "51B0E50BEDBF7AF7"
+					item: {
+						count: 1
+						id: "aeronautics:steam_vent"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -4.28d
+		}
+		{
+			dependencies: ["3ECB2A06092357F7"]
+			icon: {
+				id: "simulated:altitude_sensor"
+			}
+			id: "028A1EC6E69AA3FD"
+			rewards: [
+				{
+					id: "02024B253CC5C2FA"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "72DADAA8AD64AF6B"
+					item: {
+						count: 1
+						id: "simulated:altitude_sensor"
+					}
+					type: "item"
+				}
+				{
+					id: "178DB203AD55FC93"
+					item: {
+						count: 1
+						id: "simulated:gimbal_sensor"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -6.6d
+		}
+		{
+			dependencies: ["028A1EC6E69AA3FD"]
+			id: "02311BEAB8C12444"
+			rewards: [
+				{
+					id: "43768D9B91682715"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "1CFC25D5C3477BC6"
+					item: {
+						count: 1
+						id: "simulated:navigation_table"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -5.05d
+		}
+		{
+			dependencies: ["3ECB2A06092357F7"]
+			icon: {
+				id: "simulated:throttle_lever"
+			}
+			id: "2BE836079DA8F338"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "2E17AC06101FA0E9"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "5FEC4E0F58D7B934"
+					item: {
+						count: 1
+						id: "simulated:throttle_lever"
+					}
+					type: "item"
+				}
+				{
+					id: "51A0E46A7E46EC4E"
+					item: {
+						count: 1
+						id: "simulated:linked_typewriter"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -5.05d
+		}
+		{
+			dependencies: ["3ECB2A06092357F7"]
+			id: "14B1D245A31476FC"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "44E776DA5E391216"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "28752F9E7ADF8F49"
+					item: {
+						count: 1
+						id: "aeronautics:mounted_potato_cannon"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["6BE8A9C8F130FD20"]
+			icon: {
+				id: "offroad:tire"
+			}
+			id: "1EF97CA9C4F8F80B"
+			rewards: [
+				{
+					id: "188DDBBD746ECDEB"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "026E42F7BA4A15EB"
+					item: {
+						count: 1
+						id: "offroad:wheel_mount"
+					}
+					type: "item"
+				}
+				{
+					id: "336FCBBC4915F179"
+					item: {
+						count: 1
+						id: "offroad:tire"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -0.78d
+		}
+		{
+			dependencies: ["1EF97CA9C4F8F80B"]
+			icon: {
+				id: "offroad:rockcutting_wheel"
+			}
+			id: "26463696FC5F0A44"
+			rewards: [
+				{
+					id: "0766C473B0014367"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "2AB744E7E57D02E0"
+					item: {
+						count: 1
+						id: "offroad:borehead_bearing"
+					}
+					type: "item"
+				}
+				{
+					id: "5C8187D2145298B4"
+					item: {
+						count: 1
+						id: "offroad:rockcutting_wheel"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -0.78d
+		}
+		{
+			dependencies: ["784FFE5AA9775311"]
+			hide_until_deps_complete: true
+			id: "1E82BE476F8BB384"
+			rewards: [
+				{
+					id: "3DB2A55565645F81"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "7AB5B466348D8CC0"
+					item: {
+						count: 1
+						id: "createpropulsion:platinum_sheet"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 3.77d
+		}
+		{
+			dependencies: ["1E82BE476F8BB384"]
+			id: "40E4C3CA84687C95"
+			rewards: [
+				{
+					id: "59543A50838AC3CC"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "6CAED633D2D5BD66"
+					item: {
+						count: 1
+						id: "createpropulsion:turpentine_bucket"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 1.82d
+		}
+		{
+			dependencies: ["1E82BE476F8BB384"]
+			id: "24E8693D28F639B3"
+			rewards: [
+				{
+					id: "40941E2E191971DD"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "34A2751629FCBF31"
+					item: {
+						count: 1
+						id: "createpropulsion:solid_fuel_thruster"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 3.12d
+		}
+		{
+			dependencies: ["40E4C3CA84687C95"]
+			id: "591789DB17E2977D"
+			rewards: [
+				{
+					id: "1217679965C14F60"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "4E4EE531114FEC25"
+					item: {
+						count: 1
+						id: "createpropulsion:liquid_vector_thruster"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 3.12d
+		}
+		{
+			dependencies: ["1E82BE476F8BB384"]
+			icon: {
+				id: "createpropulsion:stirling_engine"
+			}
+			id: "7B3C4B4EE700EF2E"
+			rewards: [
+				{
+					id: "5D4B6E4A251267A2"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "37932F4BC4A707FF"
+					item: {
+						count: 1
+						id: "createpropulsion:stirling_engine"
+					}
+					type: "item"
+				}
+				{
+					id: "7FF71FC3E5E04489"
+					item: {
+						count: 1
+						id: "createpropulsion:solid_burner"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 4.42d
+		}
+		{
+			dependencies: ["1E82BE476F8BB384"]
+			icon: {
+				id: "createpropulsion:tempered_wing"
+			}
+			id: "4A2489DE4332C5A2"
+			rewards: [
+				{
+					id: "451D13FB941AFFC6"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					advancement: "createpropulsion:mighty_wings"
+					criterion: ""
+					id: "33DBA9AB7B5C8BC8"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: 5.72d
+		}
+		{
+			dependencies: ["40E4C3CA84687C95"]
+			id: "38C76F24F12C66FA"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "012C3973A1F75957"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "4792C96DB1AD5007"
+					item: {
+						count: 1
+						id: "createpropulsion:platinum_fluid_tank"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 4.42d
+		}
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			hide_until_deps_complete: true
+			id: "455B02D3CF032484"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "1282A245B716647A"
+					type: "xp"
+					xp: 225
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "7B4A17B5E571FDBD"
+					item: {
+						count: 1
+						id: "createpropulsion:ion_thruster"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 9.22d
+		}
+		{
+			dependencies: ["455B02D3CF032484"]
+			icon: {
+				id: "createpropulsion:coral_generator"
+			}
+			id: "62F4C6B156850604"
+			rewards: [
+				{
+					id: "45E6EAFA7F734E32"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					advancement: "createpropulsion:feed_the_fire_621"
+					criterion: ""
+					id: "15A0E5C2EBE93792"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: 8.45d
+		}
+		{
+			dependencies: ["455B02D3CF032484"]
+			id: "5148704D08860304"
+			rewards: [
+				{
+					id: "4BC2EFF8835CF5A6"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "21DD7B030302F81B"
+					item: {
+						count: 1
+						id: "createpropulsion:vector_thruster"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 10.0d
+		}
+		{
+			dependencies: ["62F4C6B156850604"]
+			icon: {
+				id: "createpropulsion:cable"
+			}
+			id: "27825E14F5EFD331"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "6B2A20E18B02E40E"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "7BBBB5B125BF492D"
+					item: {
+						count: 1
+						id: "createpropulsion:cable"
+					}
+					type: "item"
+				}
+				{
+					id: "737CF6E795AAEDAB"
+					item: {
+						count: 1
+						id: "createpropulsion:cable_relay"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 9.22d
+		}
+		{
+			dependencies: ["53A32F809B45CAFE"]
+			hide_until_deps_complete: true
+			id: "4FCF92A7D1FDE972"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "03A0B87DACCB5087"
+					type: "xp"
+					xp: 250
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "429433EE75F222A1"
+					item: {
+						count: 1
+						id: "aeronautics:levitite"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 13.63d
+		}
+		{
+			dependencies: ["4FCF92A7D1FDE972"]
+			id: "63823D44A544F96B"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "3C163625AB77A4A0"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "01B1182E570CB5F4"
+					item: {
+						count: 1
+						id: "aeronautics:levitite_blend_bucket"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 12.85d
+		}
+		{
+			dependencies: ["4FCF92A7D1FDE972"]
+			icon: {
+				id: "aeronautics:pearlescent_levitite"
+			}
+			id: "09DA3E6A9908DC86"
+			rewards: [
+				{
+					id: "4966E9FC506D1E0C"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					count: 256L
+					id: "1483A4778C973B72"
+					item: {
+						count: 1
+						id: "aeronautics:levitite"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 14.4d
+		}
+	]
+}

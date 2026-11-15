@@ -1,0 +1,1012 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "world_nether"
+	group: "61DE9B33509C7F9A"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "minecraft:netherrack"
+	}
+	id: "3FAF4C6AC5CDB3CE"
+	images: [
+		{
+			height: 1.8d
+			id: "0887CCAA2A6F48F3"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -15.1d
+		}
+		{
+			height: 1.8d
+			id: "5E242208671A1D35"
+			image: "minecraft:item/blaze_powder"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -15.1d
+		}
+		{
+			height: 1.8d
+			id: "7AA39A0DBADA4E9E"
+			image: "minecraft:block/gilded_blackstone"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -15.1d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "31761F0495EE6BFA"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -12.95d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "4E04920912847C37"
+			image: "minecraft:block/crimson_nylium_side"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -12.95d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "61A638288AAEBEE7"
+			image: "minecraft:block/warped_nylium_side"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -12.95d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "2B3732325AF024B3"
+			image: "minecraft:block/soul_sand"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -12.95d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "3571C179F7CD81A8"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -9.05d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "32CBA107D27F4E64"
+			image: "minecraft:item/quartz"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -9.05d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "63ADE1343DF429FB"
+			image: "minecraft:item/glowstone_dust"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -9.05d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "62F6E6088B7C5F11"
+			image: "minecraft:item/nether_wart"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -9.05d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "7421CA686255CC7E"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -9.55d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "2A246860248F3902"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -2.55d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "0AD8F2EF79AE68D0"
+			image: "minecraft:block/nether_bricks"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -2.55d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "3CF4A20FA4A615AF"
+			image: "minecraft:block/blackstone"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -2.55d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "59C4D668EDF881BE"
+			image: "minecraft:block/bone_block_side"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -2.55d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "2A61E0203677032A"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -3.05d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "6293D7D8E6FDB49A"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 3.95d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "0EE1EE7C15E59540"
+			image: "minecraft:block/ancient_debris_side"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 3.95d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "7B27FF6BC8532802"
+			image: "minecraft:item/netherite_scrap"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 3.95d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.04d
+			id: "6EE9F2ED6BA1D2B4"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 3.45d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "52DBBA2E62FF81D1"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 11.45d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "400FCD92A27BE3A2"
+			image: "cataclysm:item/flame_eye"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 11.45d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "64DFCD1FC0FED065"
+			image: "cataclysm:item/monstrous_eye"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 11.45d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.04d
+			id: "32807A5F9C46F642"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 10.95d
+		}
+	]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:obsidian"
+			}
+			id: "7EBB07EE0E2AA50A"
+			rewards: [
+				{
+					id: "63C4F66E897CFE4D"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					dimension: "minecraft:the_nether"
+					id: "0B90221E88ACC0E0"
+					type: "dimension"
+				}
+			]
+			x: 0.0d
+			y: -10.9d
+		}
+		{
+			dependencies: ["7EBB07EE0E2AA50A"]
+			icon: {
+				id: "minecraft:crimson_fungus"
+			}
+			id: "7B7AF912990B88C4"
+			rewards: [
+				{
+					id: "2C2D496D464E4437"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					biome: "minecraft:crimson_forest"
+					id: "44F95013FC03071C"
+					type: "biome"
+				}
+				{
+					biome: "minecraft:warped_forest"
+					id: "7B69B4A268EA44A6"
+					type: "biome"
+				}
+				{
+					biome: "minecraft:soul_sand_valley"
+					id: "39BC98DA2277B26F"
+					type: "biome"
+				}
+				{
+					biome: "minecraft:basalt_deltas"
+					id: "0D2BD75DC6D30051"
+					type: "biome"
+				}
+			]
+			x: 1.75d
+			y: -10.9d
+		}
+		{
+			dependencies: ["7B7AF912990B88C4"]
+			icon: {
+				id: "minecraft:quartz_block"
+			}
+			id: "413F385ECBC36322"
+			rewards: [
+				{
+					id: "657CB328CF2A24CF"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					biome: "incendium:quartz_flats"
+					id: "6DD56B0907083F74"
+					type: "biome"
+				}
+				{
+					biome: "incendium:withered_forest"
+					id: "332DCA60EEF3300B"
+					type: "biome"
+				}
+				{
+					biome: "incendium:infernal_dunes"
+					id: "28EDFF8EDFD68510"
+					type: "biome"
+				}
+			]
+			x: 3.5d
+			y: -11.55d
+		}
+		{
+			dependencies: ["413F385ECBC36322"]
+			icon: {
+				id: "minecraft:magma_block"
+			}
+			id: "776868013AA396D2"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "35A1F03FF59A515D"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					biome: "incendium:toxic_heap"
+					id: "2ED72042EE0A350E"
+					type: "biome"
+				}
+				{
+					biome: "incendium:volcanic_deltas"
+					id: "02967D83DD57220C"
+					type: "biome"
+				}
+				{
+					biome: "incendium:ash_barrens"
+					id: "2FD6C9BF4FCBDE54"
+					type: "biome"
+				}
+			]
+			x: 5.25d
+			y: -10.9d
+		}
+		{
+			dependencies: ["7B7AF912990B88C4"]
+			icon: {
+				id: "biomesoplenty:brimstone"
+			}
+			id: "7F180C322BC884E0"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "4B188E5EB69250F7"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					biome: "biomesoplenty:undergrowth"
+					id: "60B28142F6CB89BD"
+					type: "biome"
+				}
+				{
+					biome: "biomesoplenty:crystalline_chasm"
+					id: "70F70EF550A66CE2"
+					type: "biome"
+				}
+			]
+			x: 3.5d
+			y: -10.25d
+		}
+		{
+			dependencies: ["7EBB07EE0E2AA50A"]
+			id: "482E495996D1D398"
+			rewards: [
+				{
+					id: "69F97EFD1D459E86"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					count: 16L
+					id: "2AE5A77D8D1DCBC5"
+					item: {
+						count: 1
+						id: "minecraft:quartz"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -7.65d
+		}
+		{
+			dependencies: ["7EBB07EE0E2AA50A"]
+			id: "40AD22F31ABBD481"
+			rewards: [
+				{
+					id: "310ADABF81E100B5"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					count: 16L
+					id: "188C82231380D67F"
+					item: {
+						count: 1
+						id: "minecraft:glowstone_dust"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -6.35d
+		}
+		{
+			dependencies: ["7EBB07EE0E2AA50A"]
+			id: "7639FF2B607C85B6"
+			rewards: [
+				{
+					id: "5F037C6A462A1AB6"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "73126F4C1130B9C6"
+					item: {
+						count: 1
+						id: "minecraft:nether_wart"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -5.05d
+		}
+		{
+			dependencies: ["7EBB07EE0E2AA50A"]
+			id: "4A46CB961A0D8CC5"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "7D0EF6FD4F8434AE"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "590E02E9D9545C20"
+					item: {
+						count: 1
+						id: "minecraft:magma_cream"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -3.75d
+		}
+		{
+			dependencies: ["7EBB07EE0E2AA50A"]
+			id: "4C997D332FE09E9F"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "4EBDE01BB8FA1B38"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "1D83057A37A3E928"
+					item: {
+						count: 1
+						id: "minecraft:ghast_tear"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -5.7d
+		}
+		{
+			dependencies: ["7EBB07EE0E2AA50A"]
+			icon: {
+				id: "minecraft:crying_obsidian"
+			}
+			id: "1392C9FC6F4EE4C4"
+			rewards: [
+				{
+					id: "4D00EDD20269B33C"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "6B3788DB9D9E78DA"
+					structure: "minecraft:ruined_portal_nether"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: -1.15d
+		}
+		{
+			dependencies: ["7EBB07EE0E2AA50A"]
+			icon: {
+				id: "minecraft:bone_block"
+			}
+			id: "4BEA6E358D12C2B8"
+			rewards: [
+				{
+					id: "2D32F7D0233497A0"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "1D939AFBA8544E2C"
+					structure: "minecraft:nether_fossil"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 0.15d
+		}
+		{
+			dependencies: ["413F385ECBC36322"]
+			icon: {
+				id: "minecraft:cake"
+			}
+			id: "38FF3A4D9052C426"
+			rewards: [
+				{
+					id: "64E0C32B2FC0D856"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "21D07794F9796C8E"
+					structure: "incendium:quartz_kitchen"
+					type: "structure"
+				}
+			]
+			x: 5.25d
+			y: -1.15d
+		}
+		{
+			dependencies: ["413F385ECBC36322"]
+			icon: {
+				id: "minecraft:quartz_bricks"
+			}
+			id: "1D2C2401DCA3B407"
+			rewards: [
+				{
+					id: "0529E3A8903CA385"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "2A63923C1CEC7199"
+					structure: "incendium:abandoned_tower"
+					type: "structure"
+				}
+			]
+			x: 5.25d
+			y: 0.15d
+		}
+		{
+			dependencies: ["413F385ECBC36322"]
+			icon: {
+				id: "minecraft:brewing_stand"
+			}
+			id: "147282D671C2D01F"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "35CBBA804F603BEE"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "6D6B7A2147218A96"
+					structure: "incendium:ruined_lab"
+					type: "structure"
+				}
+			]
+			x: 5.25d
+			y: 1.45d
+		}
+		{
+			dependencies: ["413F385ECBC36322"]
+			icon: {
+				id: "minecraft:soul_lantern"
+			}
+			id: "3627C3E79D31B0F5"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "3FE9D3026964FDBF"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "5CD386C5458AB6E1"
+					structure: "incendium:infernal_altar"
+					type: "structure"
+				}
+			]
+			x: 5.25d
+			y: 2.75d
+		}
+		{
+			dependencies: ["7EBB07EE0E2AA50A"]
+			icon: {
+				id: "minecraft:bone"
+			}
+			id: "35E3E299110837C8"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "6A8EF12B23E3F3C3"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "61DE55BCEC259228"
+					structure: "#nova_structures:nether_skeleton_camps"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 1.45d
+		}
+		{
+			dependencies: ["7EBB07EE0E2AA50A"]
+			icon: {
+				id: "minecraft:polished_blackstone"
+			}
+			id: "5C42ABC32D1D9FB6"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "0EB87ED2770B588E"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "7D39C744BED61CDF"
+					structure: "explorify:black_spiral"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 2.75d
+		}
+		{
+			dependencies: ["7A875C04743BEF62"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:quartz_pillar"
+			}
+			id: "5C580E692F630F64"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "7E75704F98CEA043"
+					type: "xp"
+					xp: 150
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "6CE043B37652BE43"
+					structure: "incendium:sanctum"
+					type: "structure"
+				}
+			]
+			x: 0.0d
+			y: 7.8d
+		}
+		{
+			dependencies: ["5C580E692F630F64"]
+			icon: {
+				id: "minecraft:respawn_anchor"
+			}
+			id: "2C24ECBBD2B0EA93"
+			rewards: [
+				{
+					id: "5C635049D2F0AA03"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "58DCED86649ADB6D"
+					structure: "incendium:nether_reactor"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 5.48d
+		}
+		{
+			dependencies: ["5C580E692F630F64"]
+			icon: {
+				id: "minecraft:chain"
+			}
+			id: "388E573F8FCCD375"
+			rewards: [
+				{
+					id: "7376A6FE799CDC4E"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "6BEB1A37CF130564"
+					structure: "incendium:pipeline"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 7.03d
+		}
+		{
+			dependencies: ["5C580E692F630F64"]
+			icon: {
+				id: "minecraft:nether_bricks"
+			}
+			id: "264D9A9FF745734F"
+			rewards: [
+				{
+					id: "3698F352D43A1C6D"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "46A16F131973C271"
+					structure: "nova_structures:nether_keep"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 8.57d
+		}
+		{
+			dependencies: ["5C580E692F630F64"]
+			icon: {
+				id: "minecraft:gold_block"
+			}
+			id: "4305ADA504007534"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "7923B50054A12A54"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "08FF55E6818116FB"
+					structure: "nova_structures:piglin_donjon"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 10.12d
+		}
+		{
+			dependencies: ["5C580E692F630F64"]
+			icon: {
+				id: "minecraft:netherite_chestplate"
+			}
+			id: "18DB4AF8EC81B3C1"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "2B2A8D8B6FB56760"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "1AD5BC0EA9789EEE"
+					item: {
+						count: 1
+						id: "minecraft:netherite_helmet"
+					}
+					type: "item"
+				}
+				{
+					id: "434E20CE736178D0"
+					item: {
+						count: 1
+						id: "minecraft:netherite_chestplate"
+					}
+					type: "item"
+				}
+				{
+					id: "672F363CB5DADEFC"
+					item: {
+						count: 1
+						id: "minecraft:netherite_leggings"
+					}
+					type: "item"
+				}
+				{
+					id: "6C226D06D9F4D5EB"
+					item: {
+						count: 1
+						id: "minecraft:netherite_boots"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 7.8d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cataclysm:flame_eye"
+			}
+			id: "4244585361BB6131"
+			rewards: [
+				{
+					id: "69FA5744681A8005"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "1F6F24811037A639"
+					structure: "cataclysm:burning_arena"
+					type: "structure"
+				}
+			]
+			x: 0.0d
+			y: 12.85d
+		}
+		{
+			dependencies: ["4244585361BB6131"]
+			icon: {
+				id: "cataclysm:monstrous_eye"
+			}
+			id: "7615F6CC49558580"
+			rewards: [
+				{
+					id: "20883A04409ACF7E"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "20D8931A5628CDD8"
+					structure: "cataclysm:soul_black_smith"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 12.85d
+		}
+	]
+}

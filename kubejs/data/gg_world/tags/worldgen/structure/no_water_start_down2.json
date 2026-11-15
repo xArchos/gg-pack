@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "cataclysm:desert_temple",
+      "required": false
+    },
+    {
+      "id": "dungeons_arise:abandoned_temple",
+      "required": false
+    },
+    {
+      "id": "dungeons_arise:illager_windmill",
+      "required": false
+    }
+  ]
+}

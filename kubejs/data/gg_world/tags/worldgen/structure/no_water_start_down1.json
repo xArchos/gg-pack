@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "terralith:igloo",
+      "required": false
+    },
+    {
+      "id": "terralith:rubble_desert",
+      "required": false
+    },
+    {
+      "id": "terralith:rubble_forest",
+      "required": false
+    },
+    {
+      "id": "terralith:rubble_jungle",
+      "required": false
+    },
+    {
+      "id": "terralith:rubble_mesa",
+      "required": false
+    },
+    {
+      "id": "terralith:rubble_mountain",
+      "required": false
+    },
+    {
+      "id": "terralith:rubble_taiga",
+      "required": false
+    }
+  ]
+}

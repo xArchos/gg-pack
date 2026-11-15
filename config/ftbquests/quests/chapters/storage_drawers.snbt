@@ -1,0 +1,846 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "storage_drawers"
+	group: "75FCEC97D90BDF93"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "functionalstorage:oak_1"
+	}
+	id: "687594A21F7FE834"
+	images: [
+		{
+			height: 1.8d
+			id: "0BE60C02BC1F6BA5"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -14.45d
+		}
+		{
+			height: 1.8d
+			id: "76150DF5C98226B8"
+			image: "functionalstorage:block/oak_front_1"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -14.45d
+		}
+		{
+			height: 1.8d
+			id: "2131F11B0C675739"
+			image: "functionalstorage:item/linking_tool_base"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -14.45d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "292109BFD6CF863E"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -12.3d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "6C6F1B77CE7946E3"
+			image: "functionalstorage:block/oak_front_2"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -12.3d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "1959E0C0F2CCE338"
+			image: "functionalstorage:block/oak_front_4"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -12.3d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "4EAEDC6E02221663"
+			image: "functionalstorage:block/compacting_drawer_front"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -12.3d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "281644A948A275A2"
+			image: "functionalstorage:block/fluid_front"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -12.3d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "05DB643EEAC5EB66"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -5.8d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "64F35AE8AA1BB449"
+			image: "functionalstorage:item/copper_upgrade"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -5.8d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "308ADC49A584D215"
+			image: "functionalstorage:item/puller_upgrade"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -5.8d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "474A1CBF8D708F35"
+			image: "functionalstorage:item/pusher_upgrade"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -5.8d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "12846EE703CD7EAE"
+			image: "functionalstorage:item/void_upgrade"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -5.8d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.04d
+			id: "2352EA6E51B14AEA"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -6.3d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "4C8553F35EE77FC6"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 0.7d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "4BB2EC4563538C18"
+			image: "functionalstorage:block/controller_front"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 0.7d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "7C930158FBA19203"
+			image: "functionalstorage:block/controller_extension"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 0.7d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "04F4BB2D188DC13B"
+			image: "functionalstorage:item/configuration_tool_base"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 0.7d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "64F8FB9D9771D06C"
+			image: "functionalstorage:item/gold_upgrade"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: 0.7d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "521AC1C1C1D9B486"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 0.2d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "0B73E2B1AD2E4B30"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 8.2d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "18E831D1F9FF6D0F"
+			image: "functionalstorage:item/diamond_upgrade"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 8.2d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.04d
+			id: "459B6C6DBAF0CFF3"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 7.7d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "30A3824BAE96C2B9"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 10.8d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "5102B2F2E3334CCA"
+			image: "functionalstorage:item/netherite_upgrade"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 10.8d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "3EAA4E22A73A5B17"
+			image: "functionalstorage:block/armory_front"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 10.8d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.04d
+			id: "2345677821BB108B"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 10.3d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["7B472916B8B3515D"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "functionalstorage:oak_1"
+			}
+			id: "0EB1780FEE5B7D51"
+			rewards: [
+				{
+					id: "5178C5F2775F5C1C"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "0B0DD84A50587388"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "item_tag(functionalstorage:drawer)"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -8.95d
+		}
+		{
+			dependencies: ["0EB1780FEE5B7D51"]
+			id: "4D8F3F8B706F92A5"
+			rewards: [
+				{
+					id: "3720D9D1A949BFF8"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "0B2A941DC14F7DF1"
+					item: {
+						count: 1
+						id: "functionalstorage:oak_4"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -10.9d
+		}
+		{
+			dependencies: ["0EB1780FEE5B7D51"]
+			id: "37E3EC3906AFB685"
+			rewards: [
+				{
+					id: "0B0E30554DCB8932"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "5BE8ED95DB011DF4"
+					item: {
+						count: 1
+						id: "functionalstorage:compacting_drawer"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -9.6d
+		}
+		{
+			dependencies: ["0EB1780FEE5B7D51"]
+			id: "7698D81895765B5E"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "1AE23728C07B38FB"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "0E82E03EFFB10E65"
+					item: {
+						count: 1
+						id: "functionalstorage:fluid_1"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -8.3d
+		}
+		{
+			dependencies: ["0EB1780FEE5B7D51"]
+			id: "33B90DF516E5C18A"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "1CDF39032A28AFE6"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "49C1EC25B9397661"
+					item: {
+						count: 1
+						id: "functionalstorage:framed_1"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -7.0d
+		}
+		{
+			dependencies: ["0EB1780FEE5B7D51"]
+			id: "5CF4CB83D0301EDB"
+			rewards: [
+				{
+					id: "742277490F40DEDE"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "259485537A14A838"
+					item: {
+						count: 1
+						id: "functionalstorage:copper_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -4.4d
+		}
+		{
+			dependencies: ["0EB1780FEE5B7D51"]
+			id: "2C1CBA8FBE594500"
+			rewards: [
+				{
+					id: "2FB46DCB447B9673"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "7D46683D386521E5"
+					item: {
+						count: 1
+						id: "functionalstorage:void_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -3.1d
+		}
+		{
+			dependencies: ["0EB1780FEE5B7D51"]
+			icon: {
+				id: "functionalstorage:puller_upgrade"
+			}
+			id: "3D3A14CCB9432BE5"
+			rewards: [
+				{
+					id: "4BC6C9996F5A83C8"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "234872FF39ED200C"
+					item: {
+						count: 1
+						id: "functionalstorage:puller_upgrade"
+					}
+					type: "item"
+				}
+				{
+					id: "629270C51601F516"
+					item: {
+						count: 1
+						id: "functionalstorage:pusher_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -1.8d
+		}
+		{
+			dependencies: ["3D3A14CCB9432BE5"]
+			id: "5A494CCAE6913D20"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "7349F86ACB9A9AD4"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "2553DDE66872E906"
+					item: {
+						count: 1
+						id: "functionalstorage:collector_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -2.45d
+		}
+		{
+			dependencies: ["0EB1780FEE5B7D51"]
+			id: "1359AE6CB7834A64"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "03C8DE8DAF41800E"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "070CB8375EE4B08C"
+					item: {
+						count: 1
+						id: "functionalstorage:redstone_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -0.5d
+		}
+		{
+			dependencies: ["0EB1780FEE5B7D51"]
+			icon: {
+				id: "functionalstorage:obsidian_upgrade"
+			}
+			id: "0B49163061294D22"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "5BE9D440AE8255A6"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "4474AE1632197A1B"
+					item: {
+						count: 1
+						id: "functionalstorage:water_generator_upgrade"
+					}
+					type: "item"
+				}
+				{
+					id: "72A187D54C80029F"
+					item: {
+						count: 1
+						id: "functionalstorage:obsidian_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -2.45d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			id: "2D5DB1A8CB01B63C"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "4428945915AFB4F2"
+					type: "xp"
+					xp: 125
+				}
+			]
+			tags: ["era_mosiadz", "storage"]
+			tasks: [
+				{
+					id: "5541B7F3E5DC7437"
+					item: {
+						count: 1
+						id: "functionalstorage:storage_controller"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 4.55d
+		}
+		{
+			dependencies: ["2D5DB1A8CB01B63C"]
+			id: "17134029AAA21DF8"
+			rewards: [
+				{
+					id: "3923F9012CC512A7"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz", "storage"]
+			tasks: [
+				{
+					id: "206CC80347EE5C24"
+					item: {
+						count: 1
+						id: "functionalstorage:linking_tool"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 2.23d
+		}
+		{
+			dependencies: ["2D5DB1A8CB01B63C"]
+			id: "32B181A53695DD84"
+			rewards: [
+				{
+					id: "08A971579D2A438B"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz", "storage"]
+			tasks: [
+				{
+					id: "63B9B6500A2DE763"
+					item: {
+						count: 1
+						id: "functionalstorage:configuration_tool"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 3.78d
+		}
+		{
+			dependencies: ["2D5DB1A8CB01B63C"]
+			id: "2044F5DE06AC8B25"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "6441B317A4BA2157"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz", "storage"]
+			tasks: [
+				{
+					id: "6BDD8DC0D4625CD1"
+					item: {
+						count: 1
+						id: "functionalstorage:controller_extension"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 5.33d
+		}
+		{
+			dependencies: ["2D5DB1A8CB01B63C"]
+			id: "781DEC8ECB15EE9A"
+			rewards: [
+				{
+					id: "27FE05B82103F91F"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz", "storage"]
+			tasks: [
+				{
+					id: "5004311F1EF60CAF"
+					item: {
+						count: 1
+						id: "functionalstorage:gold_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 6.88d
+		}
+		{
+			dependencies: ["2D5DB1A8CB01B63C"]
+			id: "59078FB8638076D6"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "30C8F40F05D2D935"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz", "storage"]
+			tasks: [
+				{
+					id: "5FE4206F24177B9D"
+					item: {
+						count: 1
+						id: "functionalstorage:ender_drawer"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 4.55d
+		}
+		{
+			dependencies: ["784FFE5AA9775311"]
+			hide_until_deps_complete: true
+			id: "5241A8A7FEE99752"
+			rewards: [
+				{
+					id: "71B1A341C74A0924"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para", "storage"]
+			tasks: [
+				{
+					id: "5FEB83E10B552EEE"
+					item: {
+						count: 1
+						id: "functionalstorage:diamond_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 9.6d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			hide_until_deps_complete: true
+			id: "2E4D9B3AC027BCB9"
+			rewards: [
+				{
+					id: "65B4D1BC0F3F1F1A"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana", "storage"]
+			tasks: [
+				{
+					id: "579DC2049EA63275"
+					item: {
+						count: 1
+						id: "functionalstorage:netherite_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 12.2d
+		}
+		{
+			dependencies: ["2E4D9B3AC027BCB9"]
+			id: "2609C52866399126"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "2B970808F8163A77"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana", "storage"]
+			tasks: [
+				{
+					id: "789C934EBD86FD94"
+					item: {
+						count: 1
+						id: "functionalstorage:armory_cabinet"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 12.2d
+		}
+	]
+}

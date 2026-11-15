@@ -1,0 +1,1102 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tech_mekanism_gear"
+	group: "32C7FC51B44C22EE"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "mekanism:jetpack"
+	}
+	id: "77BA1FFF87868B76"
+	images: [
+		{
+			height: 1.8d
+			id: "6E9A40F9E9F948E3"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -15.6d
+		}
+		{
+			height: 1.8d
+			id: "309D0DEBAFF89B1F"
+			image: "mekanism:item/energy_tablet"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -15.6d
+		}
+		{
+			height: 1.8d
+			id: "3E046479A0532EB8"
+			image: "mekanism:item/mekasuit_helmet"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -15.6d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "06969B03A12D52EB"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -13.45d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "0B8A27F2861837FD"
+			image: "mekanism:item/energy_tablet"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -13.45d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "68F3E97A5A88C6A9"
+			image: "mekanism:item/alloy_reinforced"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -13.45d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "4465FE9047D686C1"
+			image: "mekanism:item/alloy_atomic"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -13.45d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "5FFB5989387DF8F2"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -5.95d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "796A1FAA673F6492"
+			image: "mekanism:item/teleportation_core"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -5.95d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "23059AC0D5C78C16"
+			image: "mekanism:item/portable_teleporter"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -5.95d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "5321BF31F4B004C2"
+			image: "mekanism:item/network_reader"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -5.95d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.04d
+			id: "58AF8C96265D48B2"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -6.45d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "6232040772BD0D5F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 0.55d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "6DD2130E5579F64C"
+			image: "mekanism:item/electric_bow"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 0.55d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "073698FFF77AE154"
+			image: "mekanism:item/hdpe_sheet"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 0.55d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "7FCE9FA3E64133D3"
+			image: "mekanism:item/canteen"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 0.55d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.04d
+			id: "15C7EAAE095825EE"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 0.05d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "5C467DCF97100D15"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 7.05d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "13A77062B2BD17D9"
+			image: "mekanism:item/pellet_polonium"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 7.05d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "7E1CE39E0474C53C"
+			image: "mekanism:item/mekasuit_bodyarmor"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 7.05d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "1846E157390C25A4"
+			image: "mekanism:item/hdpe_rod"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 7.05d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.04d
+			id: "1A61CB0CD2ED9CD7"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 6.55d
+		}
+	]
+	order_index: 15
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			hide_until_deps_complete: true
+			id: "3FCC56C1A42554E7"
+			rewards: [
+				{
+					id: "4BF158D6B74C49C0"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "797DA0AAB0692664"
+					item: {
+						count: 1
+						id: "mekanism:basic_energy_cube"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -9.6d
+		}
+		{
+			dependencies: ["3FCC56C1A42554E7"]
+			id: "752B16869E32B768"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "7EAF003D51197753"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "5BB9CB73D471E936"
+					item: {
+						count: 1
+						id: "mekanism:elite_energy_cube"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -11.92d
+		}
+		{
+			dependencies: ["3FCC56C1A42554E7"]
+			icon: {
+				id: "mekanism:elite_universal_cable"
+			}
+			id: "3B9748A00E787A69"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "35A1CC295DCA0B37"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					count: 8L
+					id: "02415E108E6F9AF1"
+					item: {
+						count: 1
+						id: "mekanism:advanced_universal_cable"
+					}
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "3189347C481C33B7"
+					item: {
+						count: 1
+						id: "mekanism:elite_universal_cable"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -10.38d
+		}
+		{
+			dependencies: ["3FCC56C1A42554E7"]
+			icon: {
+				id: "mekanism:induction_port"
+			}
+			id: "54ECD456BF8A2629"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "68F877CA6ACBF107"
+					type: "xp"
+					xp: 225
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					count: 16L
+					id: "73697F22397A3229"
+					item: {
+						count: 1
+						id: "mekanism:induction_casing"
+					}
+					type: "item"
+				}
+				{
+					id: "60BFFF9B2477A4E6"
+					item: {
+						count: 1
+						id: "mekanism:induction_port"
+					}
+					type: "item"
+				}
+				{
+					id: "20200FF7FEC3CCA6"
+					item: {
+						count: 1
+						id: "mekanism:basic_induction_cell"
+					}
+					type: "item"
+				}
+				{
+					id: "1CC96948EA725934"
+					item: {
+						count: 1
+						id: "mekanism:basic_induction_provider"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -8.82d
+		}
+		{
+			dependencies: ["3FCC56C1A42554E7"]
+			id: "480493B3C65ABE63"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "7C69B7BC2748DF32"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "34944F71CAD61499"
+					item: {
+						count: 1
+						id: "mekanism:chargepad"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -7.27d
+		}
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			hide_until_deps_complete: true
+			id: "53053FC2149ED08B"
+			rewards: [
+				{
+					id: "081284FF78588DAC"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					count: 8L
+					id: "3EE5261566823B32"
+					item: {
+						count: 1
+						id: "mekanism:basic_logistical_transporter"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -2.6d
+		}
+		{
+			dependencies: ["53053FC2149ED08B"]
+			icon: {
+				id: "mekanism:diversion_transporter"
+			}
+			id: "2168EF0291E7FADD"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "2AAFC8F557AC0921"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "48B1111333A08130"
+					item: {
+						count: 1
+						id: "mekanism:diversion_transporter"
+					}
+					type: "item"
+				}
+				{
+					id: "00854A5632FFDD97"
+					item: {
+						count: 1
+						id: "mekanism:restrictive_transporter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -4.55d
+		}
+		{
+			dependencies: ["53053FC2149ED08B"]
+			id: "0902162146E3CFED"
+			rewards: [
+				{
+					id: "4D081D46C4B23A64"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "5A4F8F69319BBAA3"
+					item: {
+						count: 1
+						id: "mekanism:quantum_entangloporter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -3.25d
+		}
+		{
+			dependencies: ["53053FC2149ED08B"]
+			icon: {
+				id: "mekanism:teleporter"
+			}
+			id: "4506CCF19C17C0ED"
+			rewards: [
+				{
+					id: "6E9056C3318EBE46"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "72346B743081D405"
+					item: {
+						count: 1
+						id: "mekanism:teleporter"
+					}
+					type: "item"
+				}
+				{
+					count: 9L
+					id: "4E8A1242251D7C2D"
+					item: {
+						count: 1
+						id: "mekanism:teleporter_frame"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -1.95d
+		}
+		{
+			dependencies: ["4506CCF19C17C0ED"]
+			id: "16DD2E71C524EAC7"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "329B2D6C941E2582"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "7260404DA673E0FC"
+					item: {
+						count: 1
+						id: "mekanism:portable_teleporter"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -2.6d
+		}
+		{
+			dependencies: ["53053FC2149ED08B"]
+			icon: {
+				id: "mekanism:dynamic_valve"
+			}
+			id: "4E0C12E59C027BAA"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "7509B81B79B2260D"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					count: 16L
+					id: "2E61F9F934870F9B"
+					item: {
+						count: 1
+						id: "mekanism:dynamic_tank"
+					}
+					type: "item"
+				}
+				{
+					id: "5DAF5BA568E401C8"
+					item: {
+						count: 1
+						id: "mekanism:dynamic_valve"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -0.65d
+		}
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			hide_until_deps_complete: true
+			id: "504746BF3ED61422"
+			rewards: [
+				{
+					id: "0B16EA970D6933E7"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "592BCD88EC5E2109"
+					item: {
+						count: 1
+						id: "mekanism:jetpack"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 3.9d
+		}
+		{
+			dependencies: ["504746BF3ED61422"]
+			id: "69D905AB9B941D26"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "7CDAAE17AC048527"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "743B72870CC8809A"
+					item: {
+						count: 1
+						id: "mekanism:jetpack_armored"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 1.95d
+		}
+		{
+			dependencies: ["504746BF3ED61422"]
+			id: "05011C227070A982"
+			rewards: [
+				{
+					id: "7F0524D42D61CB6F"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "2898E0E874DDCF93"
+					item: {
+						count: 1
+						id: "mekanism:free_runners"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 3.25d
+		}
+		{
+			dependencies: ["504746BF3ED61422"]
+			icon: {
+				id: "mekanism:scuba_mask"
+			}
+			id: "593C8AAB8243A271"
+			rewards: [
+				{
+					id: "7F44113B9D858A48"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "22FACE7D1603891A"
+					item: {
+						count: 1
+						id: "mekanism:scuba_mask"
+					}
+					type: "item"
+				}
+				{
+					id: "7C17D535AD7FB02E"
+					item: {
+						count: 1
+						id: "mekanism:scuba_tank"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 4.55d
+		}
+		{
+			dependencies: ["504746BF3ED61422"]
+			id: "76CA1A9E33002137"
+			rewards: [
+				{
+					id: "661311EE6CD0D536"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "11351D0721B9EB8F"
+					item: {
+						count: 1
+						id: "mekanism:atomic_disassembler"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 5.85d
+		}
+		{
+			dependencies: ["504746BF3ED61422"]
+			id: "4B8D07BE131E3100"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "5319508B89514A50"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "51CE0F1DA6D44C21"
+					item: {
+						count: 1
+						id: "mekanism:electric_bow"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 3.9d
+		}
+		{
+			dependencies: ["53A32F809B45CAFE"]
+			hide_until_deps_complete: true
+			id: "6B51B68599BDA4BE"
+			rewards: [
+				{
+					id: "486331F8D6EFF87C"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "1DE5AC309050E1EA"
+					item: {
+						count: 1
+						id: "mekanism:modification_station"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 10.9d
+		}
+		{
+			dependencies: ["6B51B68599BDA4BE"]
+			icon: {
+				id: "mekanism:mekasuit_helmet"
+			}
+			id: "0202106104A1819A"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "586EA6C18EE702E2"
+					type: "xp"
+					xp: 250
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "07A64D122B84DBF4"
+					item: {
+						count: 1
+						id: "mekanism:mekasuit_helmet"
+					}
+					type: "item"
+				}
+				{
+					id: "145F73DEA0603129"
+					item: {
+						count: 1
+						id: "mekanism:mekasuit_bodyarmor"
+					}
+					type: "item"
+				}
+				{
+					id: "639734B4F8DCBCFB"
+					item: {
+						count: 1
+						id: "mekanism:mekasuit_pants"
+					}
+					type: "item"
+				}
+				{
+					id: "626437DFB2ADA84C"
+					item: {
+						count: 1
+						id: "mekanism:mekasuit_boots"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 9.35d
+		}
+		{
+			dependencies: ["6B51B68599BDA4BE"]
+			id: "69753EC3B1C4561A"
+			rewards: [
+				{
+					id: "7F9843F2705F8AAA"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "76B1AF9262221DA1"
+					item: {
+						count: 1
+						id: "mekanism:meka_tool"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 10.9d
+		}
+		{
+			dependencies: ["6B51B68599BDA4BE"]
+			icon: {
+				id: "mekanism:module_energy_unit"
+			}
+			id: "3AC1EE154F27EB59"
+			rewards: [
+				{
+					id: "29BF163FAC7A6DA4"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "263CA256DF70F2C1"
+					item: {
+						count: 1
+						id: "mekanism:module_energy_unit"
+					}
+					type: "item"
+				}
+				{
+					id: "19D06AAD7660999F"
+					item: {
+						count: 1
+						id: "mekanism:module_radiation_shielding_unit"
+					}
+					type: "item"
+				}
+				{
+					id: "3CD587E6D46A3CAF"
+					item: {
+						count: 1
+						id: "mekanism:module_excavation_escalation_unit"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 12.45d
+		}
+		{
+			dependencies: ["0202106104A1819A"]
+			icon: {
+				id: "mekanism:module_jetpack_unit"
+			}
+			id: "3CE3CCC7E269A86B"
+			rewards: [
+				{
+					id: "53876EA4EE7A3C99"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "278E327553021917"
+					item: {
+						count: 1
+						id: "mekanism:module_jetpack_unit"
+					}
+					type: "item"
+				}
+				{
+					id: "5E490D64160D319E"
+					item: {
+						count: 1
+						id: "mekanism:module_hydraulic_propulsion_unit"
+					}
+					type: "item"
+				}
+				{
+					id: "7631ADBF6A2DC9D5"
+					item: {
+						count: 1
+						id: "mekanism:module_locomotive_boosting_unit"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 8.57d
+		}
+		{
+			dependencies: ["0202106104A1819A"]
+			icon: {
+				id: "mekanism:module_nutritional_injection_unit"
+			}
+			id: "163F269AA565798C"
+			rewards: [
+				{
+					id: "095F7FD14CA94A40"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "6B5CFA81BFC4BD65"
+					item: {
+						count: 1
+						id: "mekanism:module_electrolytic_breathing_unit"
+					}
+					type: "item"
+				}
+				{
+					id: "10F9628DC0F26843"
+					item: {
+						count: 1
+						id: "mekanism:module_nutritional_injection_unit"
+					}
+					type: "item"
+				}
+				{
+					id: "535D813AC82620CA"
+					item: {
+						count: 1
+						id: "mekanism:module_inhalation_purification_unit"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 10.12d
+		}
+		{
+			dependencies: ["69753EC3B1C4561A"]
+			icon: {
+				id: "mekanism:module_vein_mining_unit"
+			}
+			id: "09D2BCF27839DC98"
+			rewards: [
+				{
+					id: "772930E490E7B944"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "5609BE96922562F0"
+					item: {
+						count: 1
+						id: "mekanism:module_vein_mining_unit"
+					}
+					type: "item"
+				}
+				{
+					id: "09E4F93DCEF0643A"
+					item: {
+						count: 1
+						id: "mekanism:module_fortune_unit"
+					}
+					type: "item"
+				}
+				{
+					id: "6A660D5B9B5A2B1E"
+					item: {
+						count: 1
+						id: "mekanism:module_silk_touch_unit"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 11.68d
+		}
+		{
+			dependencies: ["3CE3CCC7E269A86B"]
+			id: "730B8E2ACA9F8861"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "7BCEA372653C9EAD"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "46EAA059BFA54623"
+					item: {
+						count: 1
+						id: "mekanism:module_gravitational_modulating_unit"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 10.9d
+		}
+		{
+			dependencies: ["69753EC3B1C4561A"]
+			id: "198CE7DA2F3B8425"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "119EF86FD6832C7E"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "2A1CD241A91A3A85"
+					item: {
+						count: 1
+						id: "mekanism:module_teleportation_unit"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 13.22d
+		}
+	]
+}

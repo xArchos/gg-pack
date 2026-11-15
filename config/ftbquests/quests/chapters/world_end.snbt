@@ -1,0 +1,804 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "world_end"
+	group: "61DE9B33509C7F9A"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "minecraft:end_stone"
+	}
+	id: "5FE50BAD9FF10219"
+	images: [
+		{
+			height: 1.8d
+			id: "2C1FA902213A4602"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -11.85d
+		}
+		{
+			height: 1.8d
+			id: "20247A072DEE8D71"
+			image: "endrem:item/cold_eye"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -11.85d
+		}
+		{
+			height: 1.8d
+			id: "36C05A3D414AFF56"
+			image: "minecraft:item/chorus_fruit"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -11.85d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "49E717F544611B4C"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -9.7d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "797889FF79E715FB"
+			image: "endrem:item/black_eye"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -9.7d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "4FC668562191B0E6"
+			image: "endrem:item/witch_eye"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -9.7d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "01CAEE0DD50029C8"
+			image: "endrem:item/magical_eye"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -9.7d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "32B2AE06473FB136"
+			image: "endrem:item/guardian_eye"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -9.7d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "122559A9B7F702AC"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -2.2d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "128F61DEDACB64C8"
+			image: "minecraft:block/end_stone"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -2.2d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "11A8C7EFEB4A1778"
+			image: "minecraft:block/purpur_block"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -2.2d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "6C40568BBDAF2501"
+			image: "minecraft:item/shulker_shell"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -2.2d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.04d
+			id: "68CEFD104C056349"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -2.7d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "1835EFD71FD97341"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 4.3d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "30D1EBB21908BCDB"
+			image: "minecraft:item/popped_chorus_fruit"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 4.3d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "6B1A75E209AC7464"
+			image: "minecraft:item/dragon_breath"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 4.3d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.04d
+			id: "3FEC6A8333E71A81"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 3.8d
+		}
+	]
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["53A32F809B45CAFE"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "endrem:ancient_portal_frame"
+			}
+			id: "1D80099ABD8EE379"
+			preset: "info"
+			rewards: [
+				{
+					id: "05DF71399CF67516"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "59B69F17EDE490BB"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: -5.85d
+		}
+		{
+			dependencies: ["1D80099ABD8EE379"]
+			id: "6DA91091EF65DCA6"
+			rewards: [
+				{
+					id: "6AD01C38D8AD5819"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "4A79C8B44BD7111A"
+					item: {
+						count: 1
+						id: "endrem:cold_eye"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -8.17d
+		}
+		{
+			dependencies: ["1D80099ABD8EE379"]
+			id: "3F8C6BD063CBDF84"
+			rewards: [
+				{
+					id: "16262D4BE6E8F992"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "264E5C9ED20FC418"
+					item: {
+						count: 1
+						id: "endrem:black_eye"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -6.62d
+		}
+		{
+			dependencies: ["1D80099ABD8EE379"]
+			id: "5B05263D23BC656C"
+			rewards: [
+				{
+					id: "636C9BB864700816"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "5AF8823C1F180248"
+					item: {
+						count: 1
+						id: "endrem:corrupted_eye"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -5.07d
+		}
+		{
+			dependencies: ["1D80099ABD8EE379"]
+			id: "16E6DC80E201D8A0"
+			rewards: [
+				{
+					id: "75D19FC40CE69E39"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "389448135BFF69FE"
+					item: {
+						count: 1
+						id: "endrem:magical_eye"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -3.52d
+		}
+		{
+			dependencies: ["1D80099ABD8EE379"]
+			id: "2E080B8EFB7EC2D8"
+			rewards: [
+				{
+					id: "517AD54F451E8ACC"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "78812DBE5151E72E"
+					item: {
+						count: 1
+						id: "endrem:cursed_eye"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -8.17d
+		}
+		{
+			dependencies: ["1D80099ABD8EE379"]
+			id: "40BF1A6B2C32A39E"
+			rewards: [
+				{
+					id: "339783565BBB80BE"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "21BEDB0FB2999510"
+					item: {
+						count: 1
+						id: "endrem:guardian_eye"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -6.62d
+		}
+		{
+			dependencies: ["1D80099ABD8EE379"]
+			id: "51BF256E2BE70BE5"
+			rewards: [
+				{
+					id: "093A8927A5704EE0"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "3505AA45D9998CCA"
+					item: {
+						count: 1
+						id: "endrem:wither_eye"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -5.07d
+		}
+		{
+			dependencies: ["1D80099ABD8EE379"]
+			id: "48B8AB59B58DE069"
+			rewards: [
+				{
+					id: "2B61EDCEF28B9C57"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "34DE0D0AB75CD2DB"
+					item: {
+						count: 1
+						id: "endrem:witch_eye"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -3.52d
+		}
+		{
+			dependencies: ["1D80099ABD8EE379"]
+			id: "00EA4A45FDD7B10B"
+			rewards: [
+				{
+					id: "5A6AB3EBC26B4A7D"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "1BE6E7C3B3FF0470"
+					item: {
+						count: 1
+						id: "endrem:undead_eye"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -7.4d
+		}
+		{
+			dependencies: ["1D80099ABD8EE379"]
+			id: "654EA61281BF5749"
+			rewards: [
+				{
+					id: "5070987C7E74F116"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "6CDF392DC0304743"
+					item: {
+						count: 1
+						id: "endrem:exotic_eye"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -5.85d
+		}
+		{
+			dependencies: ["1D80099ABD8EE379"]
+			icon: {
+				id: "endrem:ancient_portal_frame"
+			}
+			id: "7539CA90673E8513"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "456122B145B32B54"
+					type: "xp"
+					xp: 250
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "1105D9059BF60174"
+					structure: "betterstrongholds:stronghold"
+					type: "structure"
+				}
+			]
+			x: 5.25d
+			y: -4.3d
+		}
+		{
+			dependencies: ["7539CA90673E8513"]
+			icon: {
+				id: "minecraft:end_portal_frame"
+			}
+			id: "1D38FE59DBD690E2"
+			rewards: [
+				{
+					id: "5D5EA955E3279CAD"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					dimension: "minecraft:the_end"
+					id: "6CA50583F94EC792"
+					type: "dimension"
+				}
+			]
+			x: 3.5d
+			y: 1.15d
+		}
+		{
+			dependencies: ["1D38FE59DBD690E2"]
+			icon: {
+				id: "minecraft:amethyst_cluster"
+			}
+			id: "5B5EE04A4468E020"
+			rewards: [
+				{
+					id: "6D225862A93DEA9E"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					biome: "nullscape:crystal_peaks"
+					id: "7EE2C32727739CEC"
+					type: "biome"
+				}
+				{
+					biome: "nullscape:shadowlands"
+					id: "12A0EF1D0331236E"
+					type: "biome"
+				}
+				{
+					biome: "nullscape:void_barrens"
+					id: "1406C281B78A8C1A"
+					type: "biome"
+				}
+			]
+			x: 5.25d
+			y: -0.8d
+		}
+		{
+			dependencies: ["1D38FE59DBD690E2"]
+			id: "0ADF7585D757FA69"
+			rewards: [
+				{
+					id: "4AC28D441173CA15"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "622456F4922F505A"
+					item: {
+						count: 1
+						id: "minecraft:chorus_fruit"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1D38FE59DBD690E2"]
+			id: "13DA3E0A1B71DE03"
+			rewards: [
+				{
+					id: "7E6F5B21342857BD"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					count: 2L
+					id: "3BBD794E990F5B5D"
+					item: {
+						count: 1
+						id: "minecraft:shulker_shell"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 1.8d
+		}
+		{
+			dependencies: ["1D38FE59DBD690E2"]
+			id: "142A7534DE345F3C"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "1CC9EFEACBF1265E"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "425291C32621FF3F"
+					item: {
+						count: 1
+						id: "minecraft:dragon_breath"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 3.1d
+		}
+		{
+			dependencies: ["1D38FE59DBD690E2"]
+			icon: {
+				id: "minecraft:bone_block"
+			}
+			id: "3A4709D64DBBCA86"
+			rewards: [
+				{
+					id: "213FB1939FB7E78E"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "7C81C57EC630BD52"
+					structure: "nullscape:dragon_skeleton"
+					type: "structure"
+				}
+			]
+			x: 5.25d
+			y: 5.7d
+		}
+		{
+			dependencies: ["1D38FE59DBD690E2"]
+			icon: {
+				id: "minecraft:purpur_pillar"
+			}
+			id: "147C96D50B472C44"
+			rewards: [
+				{
+					id: "128384D925468163"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "61937222FEC46756"
+					structure: "nova_structures:end_castle"
+					type: "structure"
+				}
+			]
+			x: 5.25d
+			y: 7.0d
+		}
+		{
+			dependencies: ["1D38FE59DBD690E2"]
+			icon: {
+				id: "minecraft:end_stone_bricks"
+			}
+			id: "4966648FF35CF1BC"
+			rewards: [
+				{
+					id: "034595DA6D462E20"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "7CBA8C63E3F8CF48"
+					structure: "structory_towers:end/end_tower"
+					type: "structure"
+				}
+			]
+			x: 5.25d
+			y: 8.3d
+		}
+		{
+			dependencies: ["1D38FE59DBD690E2"]
+			icon: {
+				id: "minecraft:purpur_block"
+			}
+			id: "3C6369A72CFC8FCE"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "26BF17D9FFB947FA"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "052973A95E2AD469"
+					structure: "explorify:end_shipwreck"
+					type: "structure"
+				}
+			]
+			x: 5.25d
+			y: 9.6d
+		}
+		{
+			dependencies: ["1D38FE59DBD690E2"]
+			icon: {
+				id: "minecraft:phantom_membrane"
+			}
+			id: "122DBFDFFA3403D2"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "2349185C0F54F14F"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "028F3C9E6FB034FB"
+					structure: "dungeons_arise:aviary"
+					type: "structure"
+				}
+			]
+			x: 7.0d
+			y: 6.35d
+		}
+		{
+			dependencies: ["1D38FE59DBD690E2"]
+			icon: {
+				id: "minecraft:phantom_membrane"
+			}
+			id: "655BB5915AE02D37"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "648B4C718C3BD7C0"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "5C98B4F0BDC0DEFB"
+					structure: "mes:phantom_citadel"
+					type: "structure"
+				}
+			]
+			x: 7.0d
+			y: 7.65d
+		}
+		{
+			dependencies: ["1D38FE59DBD690E2"]
+			icon: {
+				id: "minecraft:obsidian"
+			}
+			id: "0350729D2614C31B"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "599DEFE7D7A0E3DA"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "71F2B4A7058A4A3F"
+					structure: "mes:monolith"
+					type: "structure"
+				}
+			]
+			x: 7.0d
+			y: 8.95d
+		}
+	]
+}

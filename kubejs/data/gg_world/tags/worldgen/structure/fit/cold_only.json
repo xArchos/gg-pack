@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mss:taiga",
+      "required": false
+    },
+    {
+      "id": "mss:spruce_huts",
+      "required": false
+    },
+    {
+      "id": "ati_structures:nomadic_camp",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#c:is_cold",
+      "required": false
+    },
+    {
+      "id": "#c:is_snowy",
+      "required": false
+    },
+    {
+      "id": "#c:is_icy",
+      "required": false
+    },
+    {
+      "id": "#c:is_taiga",
+      "required": false
+    },
+    {
+      "id": "#minecraft:is_taiga",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:wintry_origin_valley",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:snowy_redwood_forest",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:mountains",
+      "required": false
+    },
+    {
+      "id": "terralith:alpha_islands_winter",
+      "required": false
+    },
+    {
+      "id": "terralith:haze_mountain",
+      "required": false
+    },
+    {
+      "id": "terralith:windswept_spires",
+      "required": false
+    }
+  ]
+}

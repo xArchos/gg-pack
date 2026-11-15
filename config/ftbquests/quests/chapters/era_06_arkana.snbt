@@ -1,0 +1,1639 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "era_06_arkana"
+	group: "3CDFA8C60B58BCC5"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "gg:pieczec_arkana"
+	}
+	id: "4FE5C9B2004DFCDD"
+	images: [
+		{
+			height: 1.8d
+			id: "5C6C537AF79A2FB4"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 14.0d
+			x: 8.88d
+			y: -24.13d
+		}
+		{
+			height: 1.8d
+			id: "63BC26C22F4E278B"
+			image: "gg:item/pieczec_arkana"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 0.68d
+			y: -24.13d
+		}
+		{
+			height: 1.8d
+			id: "57F3C2E5E63C4ABB"
+			image: "forbidden_arcanus:item/eternal_stella"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 17.07d
+			y: -24.13d
+		}
+		{
+			height: 0.8d
+			id: "6921F51DBA5F1C0B"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -21.98d
+		}
+		{
+			height: 0.8d
+			id: "7B87C2619187A734"
+			image: "forbidden_arcanus:item/deorum_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -21.98d
+		}
+		{
+			height: 0.8d
+			id: "4E3A04774049FEE7"
+			image: "forbidden_arcanus:item/arcane_crystal"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -21.98d
+		}
+		{
+			height: 0.8d
+			id: "16DDFB46090433A8"
+			image: "forbidden_arcanus:item/tool/iron_blacksmith_gavel"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 16.15d
+			y: -21.98d
+		}
+		{
+			height: 0.8d
+			id: "1AB1E431B5AD77E9"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -16.03d
+		}
+		{
+			height: 0.8d
+			id: "6BBE96419BA5ACAA"
+			image: "theurgy:item/mercury_shard"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -16.03d
+		}
+		{
+			height: 0.8d
+			id: "4404E389B0D16EE9"
+			image: "theurgy:item/sal_ammoniac_crystal"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -16.03d
+		}
+		{
+			height: 0.04d
+			id: "52838D958EFB99B5"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 20.75d
+			x: 8.88d
+			y: -16.53d
+		}
+		{
+			height: 0.8d
+			id: "168B81A105A9F7B0"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -10.08d
+		}
+		{
+			height: 0.8d
+			id: "1B75A4B4BC6284A3"
+			image: "ars_elemental:item/mark_of_mastery"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -10.08d
+		}
+		{
+			height: 0.8d
+			id: "55E91DF7500F4B45"
+			image: "irons_spellbooks:item/legendary_ink"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -10.08d
+		}
+		{
+			height: 0.04d
+			id: "15B9E7D1FE026A4B"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 20.75d
+			x: 8.88d
+			y: -10.58d
+		}
+		{
+			height: 0.8d
+			id: "27908C195EA544F3"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -1.03d
+		}
+		{
+			height: 0.8d
+			id: "6811C3C94372AEF2"
+			image: "ars_technica:item/calibrated_precision_mechanism"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -1.03d
+		}
+		{
+			height: 0.04d
+			id: "61BD8B854CFD55D7"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 20.75d
+			x: 8.88d
+			y: -1.53d
+		}
+		{
+			height: 0.8d
+			id: "420E7FD964ED46BD"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 2.87d
+		}
+		{
+			height: 0.8d
+			id: "4F49A94CCBDFD874"
+			image: "cataclysm:item/flame_eye"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 2.87d
+		}
+		{
+			height: 0.8d
+			id: "1C4607B086C34479"
+			image: "cataclysm:item/monstrous_eye"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: 2.87d
+		}
+		{
+			height: 0.8d
+			id: "0B907D69B7014EEF"
+			image: "cataclysm:item/desert_eye"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 16.15d
+			y: 2.87d
+		}
+		{
+			height: 0.04d
+			id: "7636E875E66DE707"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 20.75d
+			x: 8.88d
+			y: 2.37d
+		}
+		{
+			height: 0.8d
+			id: "6E194FCFAEC620CA"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 11.37d
+		}
+		{
+			height: 0.8d
+			id: "13FA52A423336CA4"
+			image: "sophisticatedstorage:item/diamond_to_netherite_tier_upgrade"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 11.37d
+		}
+		{
+			height: 0.04d
+			id: "641FAA2DFA4A77A7"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 20.75d
+			x: 8.88d
+			y: 10.87d
+		}
+		{
+			height: 0.8d
+			id: "36F4C8871A62754D"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 16.57d
+		}
+		{
+			height: 0.8d
+			id: "4AA9A9A1376FD890"
+			image: "wands:item/netherite_wand"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 16.57d
+		}
+		{
+			height: 0.04d
+			id: "30739E867F6D7884"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 20.75d
+			x: 8.88d
+			y: 16.07d
+		}
+		{
+			height: 0.8d
+			id: "2224934F2BE75D6F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 20.47d
+		}
+		{
+			height: 0.8d
+			id: "5216D6D5597C76A5"
+			image: "minecolonies:item/blockhutmysticalsite"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 20.47d
+		}
+		{
+			height: 0.04d
+			id: "0C72E9E5DCD375AF"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 20.75d
+			x: 8.88d
+			y: 19.97d
+		}
+	]
+	order_index: 6
+	quest_links: [
+		{
+			id: "65A7B6A8C2D6257C"
+			linked_quest: "304588F29DCA0962"
+			x: 5.5d
+			y: 12.77d
+		}
+		{
+			id: "0C7B4AD9ABAC3F82"
+			linked_quest: "1131C5BC3F7AFFC2"
+			x: 5.5d
+			y: 14.07d
+		}
+		{
+			id: "541FB90018CFE8EF"
+			linked_quest: "2E4D9B3AC027BCB9"
+			x: 5.5d
+			y: 15.37d
+		}
+		{
+			id: "4B696F9A301AB5B9"
+			linked_quest: "2D3D52F2B87F2530"
+			x: 7.25d
+			y: 13.42d
+		}
+		{
+			id: "7E56DC1C463D13E6"
+			linked_quest: "13CAE7E894DBEA2C"
+			x: 7.25d
+			y: 14.72d
+		}
+		{
+			id: "78F8C4070D91B3A8"
+			linked_quest: "3410C89A9D4ECE16"
+			x: 14.25d
+			y: -19.68d
+		}
+		{
+			id: "40AB2C5D52C7D59E"
+			linked_quest: "1D12C092653159E4"
+			x: 14.25d
+			y: -18.13d
+		}
+		{
+			id: "56A02DC557639FB4"
+			linked_quest: "1AAF0591F053FE48"
+			x: 9.0d
+			y: 7.22d
+		}
+	]
+	quests: [
+		{
+			icon: {
+				id: "gg:pieczec_arkana"
+			}
+			id: "76291927B354F598"
+			invisible: true
+			preset: "era"
+			rewards: [ ]
+			tags: ["era_arkana", "era_start"]
+			tasks: [
+				{
+					id: "0CB6C3C38F1CF329"
+					stage: "era_arkana"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			id: "51BB1CC6031829D4"
+			rewards: [
+				{
+					id: "37DFEC5D42922AD6"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana", "seal"]
+			tasks: [
+				{
+					id: "4842FCA2C70523EA"
+					item: {
+						count: 1
+						id: "forbidden_arcanus:arcane_crystal"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -20.45d
+		}
+		{
+			dependencies: ["51BB1CC6031829D4"]
+			id: "4206200054461625"
+			rewards: [
+				{
+					id: "746DC2E6E4CE0929"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "324DD56948120504"
+					item: {
+						count: 1
+						id: "forbidden_arcanus:arcane_crystal_dust"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -19.68d
+		}
+		{
+			dependencies: ["4206200054461625"]
+			id: "13E60D549E3A08F9"
+			rewards: [
+				{
+					id: "135112FFEA82D9BE"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "08D57CB59E149E77"
+					item: {
+						count: 1
+						id: "forbidden_arcanus:mundabitur_dust"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -18.9d
+		}
+		{
+			dependencies: ["13E60D549E3A08F9"]
+			id: "15EA3B3D3939ACBE"
+			rewards: [
+				{
+					id: "3A6454B99DF54528"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana", "seal"]
+			tasks: [
+				{
+					count: 2L
+					id: "0FA284A55311FFD0"
+					item: {
+						count: 1
+						id: "forbidden_arcanus:deorum_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -18.9d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			id: "158F6B7EC8782A2C"
+			rewards: [
+				{
+					id: "6333F8EA14FCCB80"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					count: 45L
+					id: "61889D0446D78E3F"
+					item: {
+						count: 1
+						id: "forbidden_arcanus:polished_darkstone"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -18.9d
+		}
+		{
+			dependencies: ["158F6B7EC8782A2C", "15EA3B3D3939ACBE"]
+			icon: {
+				id: "forbidden_arcanus:hephaestus_forge_tier_1"
+			}
+			id: "41FE901FE9A53C5A"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "49CFC2632B060E21"
+					type: "xp"
+					xp: 200
+				}
+				{
+					id: "411A4594DB2248B1"
+					table_id: 3900263538428091903L
+					type: "random"
+				}
+			]
+			tags: ["era_arkana", "milestone"]
+			tasks: [
+				{
+					id: "1AFA730E70394116"
+					observation_type: "block_entity_type"
+					timer: 20L
+					to_observe: "forbidden_arcanus:hephaestus_forge"
+					type: "observation"
+				}
+				{
+					id: "60326CE932D7F2B9"
+					item: {
+						count: 1
+						id: "forbidden_arcanus:deorum_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -18.9d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			icon: {
+				id: "forbidden_arcanus:iron_blacksmith_gavel"
+			}
+			id: "6C51563494DB93F1"
+			rewards: [
+				{
+					id: "50007A880B0D7462"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "23024E3CDE75CE71"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "item_tag(forbidden_arcanus:blacksmith_gavel)"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -17.35d
+		}
+		{
+			dependencies: ["158F6B7EC8782A2C"]
+			id: "13D01E9076667682"
+			rewards: [
+				{
+					id: "70E136E7EA1EE338"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "41FE684E729C7FCB"
+					item: {
+						count: 1
+						id: "forbidden_arcanus:darkstone_pedestal"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -18.13d
+		}
+		{
+			dependencies: ["41FE901FE9A53C5A", "6C51563494DB93F1"]
+			icon: {
+				id: "forbidden_arcanus:aureal_bottle"
+			}
+			id: "202C3A576FEA7DBF"
+			rewards: [
+				{
+					id: "2BA64B68D28088AC"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "53AB3288A6D88E59"
+					item: {
+						count: 1
+						id: "forbidden_arcanus:aureal_bottle"
+					}
+					type: "item"
+				}
+				{
+					id: "297E6D7BA67AFADD"
+					item: {
+						count: 1
+						id: "forbidden_arcanus:test_tube"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -19.68d
+		}
+		{
+			dependencies: ["41FE901FE9A53C5A"]
+			icon: {
+				id: "forbidden_arcanus:arcane_crystal_obelisk"
+			}
+			id: "748E27A6A6B0C8BC"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "4DF50DF093A20FA4"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana", "optional"]
+			tasks: [
+				{
+					id: "06018C830365DE65"
+					observation_type: "block"
+					timer: 20L
+					to_observe: "forbidden_arcanus:arcane_crystal_obelisk"
+					type: "observation"
+				}
+			]
+			x: 12.5d
+			y: -18.13d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			id: "39402E57007B2EF1"
+			rewards: [
+				{
+					id: "2096C1948CEED6D0"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "14743B782517CCC7"
+					item: {
+						count: 1
+						id: "theurgy:pyromantic_brazier"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -13.73d
+		}
+		{
+			dependencies: ["39402E57007B2EF1"]
+			id: "2793B906977DEB56"
+			rewards: [
+				{
+					id: "2C6098F89B698DFE"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "7F484AF21069694C"
+					item: {
+						count: 1
+						id: "theurgy:distiller"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -14.5d
+		}
+		{
+			dependencies: ["2793B906977DEB56"]
+			icon: {
+				id: "theurgy:mercury_shard"
+			}
+			id: "41235A8483B6D528"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "36620A7721AE5259"
+					type: "xp"
+					xp: 200
+				}
+				{
+					id: "7EEDB728DA6C4E43"
+					table_id: 3900263538428091903L
+					type: "random"
+				}
+			]
+			tags: ["era_arkana", "milestone", "seal"]
+			tasks: [
+				{
+					count: 32L
+					id: "51AAAF21B58CDBF4"
+					item: {
+						count: 1
+						id: "theurgy:mercury_shard"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -13.73d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			icon: {
+				id: "theurgy:sal_ammoniac_crystal"
+			}
+			id: "3ED83B409D9C3F8A"
+			rewards: [
+				{
+					id: "4E99AD717FBA05E6"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "227A63E176C9C841"
+					item: {
+						count: 1
+						id: "theurgy:sal_ammoniac_accumulator"
+					}
+					type: "item"
+				}
+				{
+					id: "2CE48A21810DBB09"
+					item: {
+						count: 1
+						id: "theurgy:sal_ammoniac_tank"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -12.18d
+		}
+		{
+			dependencies: ["39402E57007B2EF1"]
+			id: "2FD92BE711652DD7"
+			rewards: [
+				{
+					id: "4EA07288C98D0BF2"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "7973AEEFE22A912F"
+					item: {
+						count: 1
+						id: "theurgy:calcination_oven"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -12.95d
+		}
+		{
+			dependencies: ["39402E57007B2EF1", "3ED83B409D9C3F8A"]
+			id: "26412E182F0C2985"
+			rewards: [
+				{
+					id: "27A544EAED780325"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "3D6960FE9ACE5C76"
+					item: {
+						count: 1
+						id: "theurgy:liquefaction_cauldron"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -11.4d
+		}
+		{
+			dependencies: ["41235A8483B6D528", "2FD92BE711652DD7", "26412E182F0C2985"]
+			icon: {
+				id: "theurgy:incubator"
+			}
+			id: "41FDCDC8504478CE"
+			rewards: [
+				{
+					id: "0B38EC469FBCEECF"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "234441BBBE5FEE41"
+					item: {
+						count: 1
+						id: "theurgy:incubator"
+					}
+					type: "item"
+				}
+				{
+					id: "20656268D09576FC"
+					item: {
+						count: 1
+						id: "theurgy:incubator_mercury_vessel"
+					}
+					type: "item"
+				}
+				{
+					id: "63AA57F004BB7FFF"
+					item: {
+						count: 1
+						id: "theurgy:incubator_salt_vessel"
+					}
+					type: "item"
+				}
+				{
+					id: "78BBC138B22133EF"
+					item: {
+						count: 1
+						id: "theurgy:incubator_sulfur_vessel"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -13.73d
+		}
+		{
+			dependencies: ["2FD92BE711652DD7"]
+			icon: {
+				id: "theurgy:alchemical_salt_mineral"
+			}
+			id: "07DCFF3ED36E75AF"
+			rewards: [
+				{
+					id: "0AEED90287032D8A"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					count: 256L
+					id: "3FFD6C3698E32DA4"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "item_tag(theurgy:alchemical_salts)"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -12.18d
+		}
+		{
+			dependencies: ["41235A8483B6D528"]
+			icon: {
+				id: "theurgy:mercury_crystal"
+			}
+			id: "05F564DFBF04D8E2"
+			rewards: [
+				{
+					id: "247F6A9CF178CC57"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					count: 512L
+					id: "3F61A7D63FFC9B86"
+					item: {
+						count: 1
+						id: "theurgy:mercury_shard"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -12.18d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			id: "6C0E1C514CE079D5"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "0242040BCDE1AC9F"
+					type: "xp"
+					xp: 200
+				}
+				{
+					id: "56ED4BA3B64CE3FE"
+					table_id: 3900263538428091903L
+					type: "random"
+				}
+			]
+			tags: ["era_arkana", "milestone", "seal"]
+			tasks: [
+				{
+					id: "61A2A981272E3282"
+					item: {
+						count: 1
+						id: "ars_elemental:mark_of_mastery"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -8.55d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			icon: {
+				id: "ars_elemental:lesser_fire_focus"
+			}
+			id: "612AF254D469E7B0"
+			rewards: [
+				{
+					id: "5BF290D94996CD76"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "772E62CBFA4997B3"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(ars_elemental:lesser_fire_focus)item(ars_elemental:lesser_water_focus)item(ars_elemental:lesser_earth_focus)item(ars_elemental:lesser_air_focus))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -7.0d
+		}
+		{
+			dependencies: ["612AF254D469E7B0", "6C0E1C514CE079D5"]
+			icon: {
+				id: "ars_elemental:fire_focus"
+			}
+			id: "4F1E16630FE094DD"
+			rewards: [
+				{
+					id: "26BED350FEC9BED3"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "0A9B56FEF461FA50"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(ars_elemental:fire_focus)item(ars_elemental:water_focus)item(ars_elemental:earth_focus)item(ars_elemental:air_focus))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -5.45d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			icon: {
+				id: "ars_elemental:ritual_tesla_coil"
+			}
+			id: "1E277C8511418E3E"
+			rewards: [
+				{
+					id: "57B10A6F4EA9F49C"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "0EA459FD2133CC9B"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(ars_elemental:ritual_archwood_forest)item(ars_elemental:ritual_archwood_forestation)item(ars_elemental:ritual_attraction)item(ars_elemental:ritual_detection)item(ars_elemental:ritual_pollination)item(ars_elemental:ritual_repulsion)item(ars_elemental:ritual_squirrels)item(ars_elemental:ritual_tesla_coil))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -5.45d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			icon: {
+				id: "ars_nouveau:source_jar"
+			}
+			id: "53C358870CB0DDE2"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "32BEEF7875E9795D"
+					type: "xp"
+					xp: 200
+				}
+				{
+					id: "42A71416C7C18DE7"
+					table_id: 3900263538428091903L
+					type: "random"
+				}
+			]
+			tags: ["era_arkana", "milestone"]
+			tasks: [
+				{
+					id: "2A5A14F5446C3AD1"
+					observation_type: "block_state"
+					timer: 20L
+					to_observe: "ars_nouveau:source_jar[fill=11]"
+					type: "observation"
+				}
+			]
+			x: 3.75d
+			y: -3.9d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			icon: {
+				id: "irons_spellbooks:legendary_ink"
+			}
+			id: "233B8B05A1B1325C"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "2378602052FA087C"
+					type: "xp"
+					xp: 200
+				}
+				{
+					id: "3034DA33453C778B"
+					table_id: 3900263538428091903L
+					type: "random"
+				}
+			]
+			tags: ["era_arkana", "milestone"]
+			tasks: [
+				{
+					id: "308955295D13E7A4"
+					item: {
+						count: 1
+						id: "irons_spellbooks:legendary_ink"
+					}
+					type: "item"
+				}
+				{
+					id: "5A518930938D425D"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(discerning_the_eldritch:eldritch_rune)item(monsterspellbooks:aero_rune)item(monsterspellbooks:necro_rune)item(cataclysm_spellbooks:abyssal_rune)item(cataclysm_spellbooks:technomancy_rune))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -2.35d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			id: "5C54CDF789A5A4E8"
+			rewards: [
+				{
+					id: "5F9CA3F4DEBDB368"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana", "seal"]
+			tasks: [
+				{
+					id: "6381975281F9CB39"
+					item: {
+						count: 1
+						id: "tfmg:steel_casing"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 0.37d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			id: "333DFBCB08CA734E"
+			rewards: [
+				{
+					id: "17779F8136390CF6"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "6666BCF0435DB18A"
+					item: {
+						count: 1
+						id: "ars_technica:calibrated_precision_mechanism"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 1.67d
+		}
+		{
+			dependencies: ["333DFBCB08CA734E"]
+			id: "49AB70FE5018B65E"
+			rewards: [
+				{
+					id: "48AA1C173E5309AA"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "114A7DE750D219D5"
+					item: {
+						count: 1
+						id: "ars_technica:source_motor"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 0.37d
+		}
+		{
+			dependencies: ["333DFBCB08CA734E"]
+			id: "2CBA9CA8E088530B"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "61414CE9FE474305"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana", "optional"]
+			tasks: [
+				{
+					id: "4E2E79F8853FAFDE"
+					item: {
+						count: 1
+						id: "ars_technica:mark_of_technomancy"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 1.67d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			id: "005DB109763721B4"
+			rewards: [
+				{
+					id: "275876F68BCD2732"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "0662D40777CAD1FA"
+					item: {
+						count: 1
+						id: "cataclysm:flame_eye"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 4.52d
+		}
+		{
+			dependencies: ["005DB109763721B4"]
+			icon: {
+				id: "cataclysm:ignitium_ingot"
+			}
+			id: "5635F21BAE39B284"
+			preset: "boss"
+			rewards: [
+				{
+					id: "475A872A126B2398"
+					type: "xp"
+					xp: 400
+				}
+			]
+			tags: ["era_arkana", "boss"]
+			tasks: [
+				{
+					id: "57B04AAEA03C3BFC"
+					stage: "boss_cataclysm_ignis"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 5.5d
+			y: 4.52d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			id: "630E959FA7C90919"
+			rewards: [
+				{
+					id: "442A5015FDDA05C8"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "1EC53162538B7AD6"
+					item: {
+						count: 1
+						id: "cataclysm:monstrous_eye"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 6.32d
+		}
+		{
+			dependencies: ["630E959FA7C90919"]
+			icon: {
+				id: "cataclysm:monstrous_horn"
+			}
+			id: "187FE4540ADA5811"
+			preset: "boss"
+			rewards: [
+				{
+					id: "2F82E7439CB66522"
+					type: "xp"
+					xp: 400
+				}
+			]
+			tags: ["era_arkana", "boss"]
+			tasks: [
+				{
+					id: "5AFE3F5D00BF83D6"
+					stage: "boss_cataclysm_netherite_monstrosity"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 5.5d
+			y: 6.32d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			id: "086782BDD34E90EF"
+			rewards: [
+				{
+					id: "6932B64EC9137F9E"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "03518FFABEF35441"
+					item: {
+						count: 1
+						id: "cataclysm:desert_eye"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 8.12d
+		}
+		{
+			dependencies: ["086782BDD34E90EF"]
+			icon: {
+				id: "cataclysm:necklace_of_the_desert"
+			}
+			id: "2921C903D0EDCF42"
+			preset: "boss"
+			rewards: [
+				{
+					id: "0DCEE398BA0D4D9B"
+					type: "xp"
+					xp: 400
+				}
+			]
+			tags: ["era_arkana", "boss"]
+			tasks: [
+				{
+					id: "6AA2E6A04D36A82A"
+					stage: "boss_cataclysm_ancient_remnant"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 5.5d
+			y: 8.12d
+		}
+		{
+			dependencies: ["5635F21BAE39B284", "187FE4540ADA5811"]
+			icon: {
+				id: "cataclysm:flame_eye"
+			}
+			id: "45460B4B39B0BE16"
+			min_required_dependencies: 1
+			preset: "milestone"
+			rewards: [
+				{
+					id: "72D0B31618713C94"
+					type: "xp"
+					xp: 200
+				}
+				{
+					id: "7AC1C76FEDE1CAEB"
+					table_id: 3900263538428091903L
+					type: "random"
+				}
+			]
+			tags: ["era_arkana", "milestone"]
+			tasks: [ ]
+			x: 7.25d
+			y: 7.22d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			icon: {
+				id: "discerning_the_eldritch:ritual_dagger"
+			}
+			id: "1F5DA7C454A4C364"
+			rewards: [
+				{
+					id: "626B7DC2402FED4C"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "2280C0B185C97043"
+					structure: "discerning_the_eldritch:cultist_base"
+					type: "structure"
+				}
+			]
+			x: 3.75d
+			y: 9.92d
+		}
+		{
+			dependencies: ["1F5DA7C454A4C364"]
+			icon: {
+				id: "discerning_the_eldritch:ascended_key"
+			}
+			id: "086925E4AF1564FB"
+			preset: "boss"
+			rewards: [
+				{
+					id: "12363241B88DC70A"
+					type: "xp"
+					xp: 400
+				}
+			]
+			tags: ["era_arkana", "boss"]
+			tasks: [
+				{
+					id: "7B48F9B9370B1255"
+					stage: "boss_discerning_the_eldritch_ascended_one"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 5.5d
+			y: 9.92d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			id: "6728C73F77258A9B"
+			rewards: [
+				{
+					id: "0CF0CDF89CC815C4"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "236C6A28C0D32F15"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:diamond_to_netherite_tier_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 14.07d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			id: "7F856B05E89CB906"
+			rewards: [
+				{
+					id: "069497FC539D6212"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "190FA898E071E02B"
+					item: {
+						count: 1
+						id: "wands:netherite_wand"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 17.97d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			id: "69B1703018DCDE86"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "682877A911E4246C"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana", "optional"]
+			tasks: [
+				{
+					id: "0877C073FF6EBEE1"
+					item: {
+						count: 1
+						id: "constructionstick:template_unbreakable"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 19.27d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			icon: {
+				id: "minecolonies:blockhutmysticalsite"
+			}
+			id: "29A8547E8CD8E816"
+			rewards: [
+				{
+					id: "6AA658F5F1AEF412"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					advancement: "minecolonies:minecolonies/build_mysticalsite_5"
+					criterion: ""
+					id: "54FEC9D819E9DEF3"
+					type: "advancement"
+				}
+			]
+			x: 3.75d
+			y: 21.87d
+		}
+		{
+			dependencies: [
+				"41FE901FE9A53C5A"
+				"41235A8483B6D528"
+				"6C0E1C514CE079D5"
+				"53C358870CB0DDE2"
+				"233B8B05A1B1325C"
+				"45460B4B39B0BE16"
+				"086925E4AF1564FB"
+			]
+			icon: {
+				id: "gg:pieczec_elektrycznosc"
+			}
+			id: "41B3352DC4D66AB9"
+			preset: "era"
+			rewards: [
+				{
+					auto: "enabled"
+					icon: {
+						id: "gg:pieczec_elektrycznosc"
+					}
+					id: "619486D8F1B23397"
+					stage: "era_elektrycznosc"
+					team_reward: true
+					type: "gamestage"
+				}
+				{
+					id: "79A0DE0DCE32D37C"
+					type: "xp"
+					xp: 800
+				}
+				{
+					id: "2B1E948747384710"
+					table_id: 4265608656054634344L
+					type: "all_table"
+				}
+			]
+			tags: ["era_arkana", "gate"]
+			tasks: [
+				{
+					consume_items: true
+					id: "06EA49E338ED1EE5"
+					item: {
+						count: 1
+						id: "gg:pieczec_elektrycznosc"
+					}
+					type: "item"
+				}
+			]
+			x: 17.75d
+			y: 0.0d
+		}
+	]
+}

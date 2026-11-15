@@ -1,0 +1,575 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bosses_mowzie"
+	group: "0F1B4D3EF0FB70FA"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "mowziesmobs:sol_visage"
+	}
+	id: "37B01FFE31C48757"
+	images: [
+		{
+			height: 1.8d
+			id: "5290F6604D334A17"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -11.72d
+		}
+		{
+			height: 1.8d
+			id: "1FE77EE5187981D0"
+			image: "mowziesmobs:item/sol_visage"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -11.72d
+		}
+		{
+			height: 1.8d
+			id: "3AABFAB159C147DD"
+			image: "mowziesmobs:item/earthrend_gauntlet"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -11.72d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "5CDAE9ECBD796454"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -9.57d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "6BE138EC63DA093E"
+			image: "mowziesmobs:item/umvuthana_mask_fury"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -9.57d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "383CA1D739FCA790"
+			image: "mowziesmobs:item/spear"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -9.57d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "60B411082D2CC605"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -3.08d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "69E65A28807BB068"
+			image: "mowziesmobs:item/icecrystal"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -3.08d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "77DFAEA9B843D8D2"
+			image: "mowziesmobs:item/wrought_axe"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -3.08d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "35B43277C14E9C7F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -3.58d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "1EA4A1AF7ACBCCF1"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 2.12d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "15214AEB91AEF466"
+			image: "mowziesmobs:item/bluff_rod"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 2.12d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "1737329997B248E5"
+			image: "mowziesmobs:item/sculptor_staff"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 2.12d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.04d
+			id: "3D2CB272E86E9CEE"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 1.63d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "6CA6BF40ED746E8C"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 4.73d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "376133E81A3C02D3"
+			image: "mowziesmobs:item/geomancer_robe"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 4.73d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "6314A8BCCC72ED16"
+			image: "mowziesmobs:item/geomancer_beads"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 4.73d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.04d
+			id: "70359C3D312B46CC"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 4.23d
+		}
+	]
+	order_index: 3
+	quest_links: [
+		{
+			id: "5D2E16A5278D22CB"
+			linked_quest: "61306AE4484A4FE9"
+			x: 3.5d
+			y: -7.52d
+		}
+		{
+			id: "714D12EAEB20ED4D"
+			linked_quest: "7BF870C923925736"
+			x: 3.5d
+			y: -6.22d
+		}
+		{
+			id: "6B6CAA65D81455D0"
+			linked_quest: "1F9C2D37BBCEE795"
+			x: 3.5d
+			y: -4.92d
+		}
+		{
+			id: "4541F7E42405584F"
+			linked_quest: "22AD74328667EB0E"
+			x: 1.75d
+			y: 3.52d
+		}
+	]
+	quests: [
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "mowziesmobs:wrought_helmet"
+			}
+			id: "3DA31FDEE4F7074E"
+			preset: "info"
+			rewards: [
+				{
+					id: "03CBF668CEE41F5A"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "2584C85B3C618FC6"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: -6.22d
+		}
+		{
+			dependencies: ["3DA31FDEE4F7074E"]
+			id: "4880FE68B2CCC6E5"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "58BFE6847D1A3D89"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "3A0193B74787FB00"
+					item: {
+						count: 1
+						id: "mowziesmobs:umvuthana_mask_fury"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -8.17d
+		}
+		{
+			dependencies: ["3DA31FDEE4F7074E"]
+			icon: {
+				id: "mowziesmobs:ice_crystal"
+			}
+			id: "5593A86BF8D66E60"
+			rewards: [
+				{
+					id: "598618E7EFBBE951"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "6EF8CED13E843BA7"
+					structure: "mowziesmobs:frostmaw_spawn"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: -6.87d
+		}
+		{
+			dependencies: ["3DA31FDEE4F7074E"]
+			icon: {
+				id: "mowziesmobs:sol_visage"
+			}
+			id: "45D3D9F02632AC6E"
+			rewards: [
+				{
+					id: "211CBAE4986E0217"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "1C8E8467DB718EF1"
+					structure: "mowziesmobs:umvuthana_grove"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: -5.57d
+		}
+		{
+			dependencies: ["3DA31FDEE4F7074E"]
+			icon: {
+				id: "mowziesmobs:wrought_helmet"
+			}
+			id: "4FB3328007FC9406"
+			rewards: [
+				{
+					id: "3B660072BB77D7EA"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "078DD6339E642C1C"
+					structure: "mowziesmobs:wrought_chamber"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: -4.27d
+		}
+		{
+			dependencies: ["3DA31FDEE4F7074E", "61306AE4484A4FE9"]
+			id: "4761BC76B44A7603"
+			rewards: [
+				{
+					id: "66CDB08B381B2FE0"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "357F746B015B2DC1"
+					item: {
+						count: 1
+						id: "mowziesmobs:ice_crystal"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -1.68d
+		}
+		{
+			dependencies: ["3DA31FDEE4F7074E", "7BF870C923925736"]
+			id: "31FB1A7057262F64"
+			rewards: [
+				{
+					id: "3A3EDD2939B44CE4"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "79EFA369952094E7"
+					item: {
+						count: 1
+						id: "mowziesmobs:sol_visage"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -0.38d
+		}
+		{
+			dependencies: ["3DA31FDEE4F7074E", "1F9C2D37BBCEE795"]
+			icon: {
+				id: "mowziesmobs:wrought_axe"
+			}
+			id: "08942447C07DF8F5"
+			rewards: [
+				{
+					id: "431BC9C14FC7B29A"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "7DCB2BDD761F115F"
+					item: {
+						count: 1
+						id: "mowziesmobs:wrought_axe"
+					}
+					type: "item"
+				}
+				{
+					id: "139A9D66B59FD5BF"
+					item: {
+						count: 1
+						id: "mowziesmobs:wrought_helmet"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 0.92d
+		}
+		{
+			dependencies: ["784FFE5AA9775311"]
+			hide_until_deps_complete: true
+			id: "1A8D52E79F397607"
+			rewards: [
+				{
+					id: "352A52C0E43813E0"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "53119D68689D065F"
+					item: {
+						count: 1
+						id: "mowziesmobs:bluff_rod"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 3.52d
+		}
+		{
+			dependencies: ["1A8D52E79F397607", "22AD74328667EB0E"]
+			id: "5EAFE5A707DDE18A"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "5CDE34845B12A39A"
+					type: "xp"
+					xp: 175
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "10DCD0E029A304DE"
+					item: {
+						count: 1
+						id: "mowziesmobs:earthrend_gauntlet"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 6.25d
+		}
+		{
+			dependencies: ["1A8D52E79F397607", "22AD74328667EB0E"]
+			id: "20E01B8154E80B61"
+			rewards: [
+				{
+					id: "59DA71083CD3EE98"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "2807798708F780CC"
+					item: {
+						count: 1
+						id: "mowziesmobs:sculptor_staff"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 7.8d
+		}
+		{
+			dependencies: ["1A8D52E79F397607", "22AD74328667EB0E"]
+			icon: {
+				id: "mowziesmobs:geomancer_robe"
+			}
+			id: "42D486F4378BAE36"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "554FC383724988D4"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "5C34E36861288C9C"
+					item: {
+						count: 1
+						id: "mowziesmobs:geomancer_beads"
+					}
+					type: "item"
+				}
+				{
+					id: "30459A084FE2A055"
+					item: {
+						count: 1
+						id: "mowziesmobs:geomancer_belt"
+					}
+					type: "item"
+				}
+				{
+					id: "7B7B0CF5891493B0"
+					item: {
+						count: 1
+						id: "mowziesmobs:geomancer_robe"
+					}
+					type: "item"
+				}
+				{
+					id: "2F06AC78E225449F"
+					item: {
+						count: 1
+						id: "mowziesmobs:geomancer_sandals"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 9.35d
+		}
+	]
+}

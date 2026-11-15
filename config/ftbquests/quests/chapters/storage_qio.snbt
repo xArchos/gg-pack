@@ -1,0 +1,525 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "storage_qio"
+	group: "75FCEC97D90BDF93"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "mekanism:qio_drive_array"
+	}
+	id: "438B29B6605BA318"
+	images: [
+		{
+			height: 1.8d
+			id: "25E2CD08CF18DDE6"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -7.3d
+		}
+		{
+			height: 1.8d
+			id: "24948F8F6C39CA3E"
+			image: "mekanism:item/qio_drive_base"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -7.3d
+		}
+		{
+			height: 1.8d
+			id: "08F0CD0AF3891494"
+			image: "mekanism:item/teleportation_core"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -7.3d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "60D099E322FC0B6D"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -5.15d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "179E99388E711593"
+			image: "mekanism:block/bin/front"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -5.15d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "5DEDEE3C1DD49124"
+			image: "mekanism:block/bin/advanced_front"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -5.15d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "48ECD13B2FF896C3"
+			image: "mekanism:block/bin/elite_front"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -5.15d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "45232659FDD7DD4E"
+			image: "mekanism:block/personal_barrel/side"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -5.15d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "3456BB50F9DB17C9"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -1.25d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "57C6E39B6D5B3E39"
+			image: "mekanism:block/qio_drive_array/front"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -1.25d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "44B11DACAE5F98A2"
+			image: "mekanism:item/qio_drive_hyper_dense"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -1.25d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "6264957EB2F94CCD"
+			image: "mekanism:item/qio_drive_time_dilating"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -1.25d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "61C3EA3DDF6E3B37"
+			image: "mekanism:item/portable_qio_dashboard"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -1.25d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.04d
+			id: "785D429FFA408987"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: -1.75d
+		}
+	]
+	order_index: 9
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			hide_until_deps_complete: true
+			id: "3EAB7CF20CCA6468"
+			rewards: [
+				{
+					id: "64B69D06F88DF035"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "5BA21970D7142347"
+					item: {
+						count: 1
+						id: "mekanism:basic_bin"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -3.1d
+		}
+		{
+			dependencies: ["3EAB7CF20CCA6468"]
+			id: "07508BE812932CED"
+			rewards: [
+				{
+					id: "55AA481320B9E806"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "3F4A0A9E5A34DB0B"
+					item: {
+						count: 1
+						id: "mekanism:advanced_bin"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -3.75d
+		}
+		{
+			dependencies: ["07508BE812932CED"]
+			icon: {
+				id: "mekanism:ultimate_bin"
+			}
+			id: "3C772A82C1A69EA2"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "56FB9A2025E47230"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "06E63815025DF7F2"
+					item: {
+						count: 1
+						id: "mekanism:elite_bin"
+					}
+					type: "item"
+				}
+				{
+					id: "1BEFB26DF8805003"
+					item: {
+						count: 1
+						id: "mekanism:ultimate_bin"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -3.1d
+		}
+		{
+			dependencies: ["3EAB7CF20CCA6468"]
+			icon: {
+				id: "mekanism:personal_chest"
+			}
+			id: "4349B5F91B73092B"
+			rewards: [
+				{
+					id: "31162C807C85C97C"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "4A66721F80D2FCDA"
+					item: {
+						count: 1
+						id: "mekanism:personal_chest"
+					}
+					type: "item"
+				}
+				{
+					id: "089278777A41AD0D"
+					item: {
+						count: 1
+						id: "mekanism:personal_barrel"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -2.45d
+		}
+		{
+			dependencies: ["53A32F809B45CAFE"]
+			hide_until_deps_complete: true
+			id: "4B5732B859E520E9"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "0630C11125C60F28"
+					type: "xp"
+					xp: 250
+				}
+			]
+			tags: ["era_atom", "storage"]
+			tasks: [
+				{
+					id: "68A52984239E46B8"
+					item: {
+						count: 1
+						id: "mekanism:qio_drive_array"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.6d
+		}
+		{
+			dependencies: ["4B5732B859E520E9"]
+			id: "01963B8104853A0C"
+			rewards: [
+				{
+					id: "20E3C89A26D0B6BE"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "storage"]
+			tasks: [
+				{
+					id: "58BDD6F10AC51645"
+					item: {
+						count: 1
+						id: "mekanism:qio_drive_base"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 0.28d
+		}
+		{
+			dependencies: ["4B5732B859E520E9"]
+			id: "2A31EA82944F11B9"
+			rewards: [
+				{
+					id: "0ECE077FE2B1FF51"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "storage"]
+			tasks: [
+				{
+					id: "6DE7B1A1CEC13CAE"
+					item: {
+						count: 1
+						id: "mekanism:qio_dashboard"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 1.83d
+		}
+		{
+			dependencies: ["4B5732B859E520E9"]
+			icon: {
+				id: "mekanism:qio_importer"
+			}
+			id: "4FB612026B40E5E6"
+			rewards: [
+				{
+					id: "25C02FB8C19D07B1"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "storage"]
+			tasks: [
+				{
+					id: "59CFAC02F7D0B2F2"
+					item: {
+						count: 1
+						id: "mekanism:qio_importer"
+					}
+					type: "item"
+				}
+				{
+					id: "1B0D3DC5B108C9EB"
+					item: {
+						count: 1
+						id: "mekanism:qio_exporter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 3.38d
+		}
+		{
+			dependencies: ["4B5732B859E520E9"]
+			id: "296BB3AFEB41DF5B"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "7E08D64107B6F1DF"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "storage"]
+			tasks: [
+				{
+					id: "20D825051EDDD220"
+					item: {
+						count: 1
+						id: "mekanism:qio_redstone_adapter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 4.92d
+		}
+		{
+			dependencies: ["2A31EA82944F11B9"]
+			id: "58A474BF45942BE4"
+			rewards: [
+				{
+					id: "304463E3F0918951"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "storage"]
+			tasks: [
+				{
+					id: "6510BF38472600EC"
+					item: {
+						count: 1
+						id: "mekanism:portable_qio_dashboard"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 1.83d
+		}
+		{
+			dependencies: ["01963B8104853A0C"]
+			id: "72F0C6F14125A46B"
+			rewards: [
+				{
+					id: "507B928792AA1BE1"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "storage"]
+			tasks: [
+				{
+					id: "7E2AFA655AC713D1"
+					item: {
+						count: 1
+						id: "mekanism:qio_drive_hyper_dense"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 3.38d
+		}
+		{
+			dependencies: ["72F0C6F14125A46B"]
+			id: "65A50AE4D9110683"
+			rewards: [
+				{
+					id: "4623417D0FF33E20"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "storage"]
+			tasks: [
+				{
+					id: "77C65456084C6B32"
+					item: {
+						count: 1
+						id: "mekanism:qio_drive_time_dilating"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 2.6d
+		}
+		{
+			dependencies: ["65A50AE4D9110683"]
+			id: "166D0D68A4B44E8D"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "5B4A8FF25A482D4F"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "storage"]
+			tasks: [
+				{
+					id: "77C3BB6598A220A8"
+					item: {
+						count: 1
+						id: "mekanism:qio_drive_supermassive"
+					}
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: 2.6d
+		}
+	]
+}

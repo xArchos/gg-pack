@@ -1,0 +1,1366 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tech_create_addons"
+	group: "32C7FC51B44C22EE"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "create_connected:six_way_gearbox"
+	}
+	id: "6BD3C6D3F0823A40"
+	images: [
+		{
+			height: 1.8d
+			id: "3BDB2F04D02B4635"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -20.95d
+		}
+		{
+			height: 1.8d
+			id: "6F6C231BA7067075"
+			image: "create_connected:block/brake_on"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -20.95d
+		}
+		{
+			height: 1.8d
+			id: "0821F4D2844E33C7"
+			image: "create_dragons_plus:block/fluid_hatch"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -20.95d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "1EA2412945E55B5D"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -18.8d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "26101106DB2EBE73"
+			image: "create_connected:block/centrifugal_clutch_on"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -18.8d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "0B0852B7E6760F81"
+			image: "create_connected:block/freewheel_clutch_on"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -18.8d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "2FA1123E2453B0D4"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -12.3d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "034B833DADC10826"
+			image: "create_connected:block/fan_catalyst_core"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -12.3d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "46F8EE85BE947793"
+			image: "create_connected:block/sanding_catalyst"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -12.3d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.04d
+			id: "66BCB21891B21EAB"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -12.8d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "1437685E0F0275A0"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -7.1d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "2BAB3E5E704EC973"
+			image: "create_dragons_plus:block/fragile_fluid_tank"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -7.1d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "5EDA41AD63FE28FD"
+			image: "create_dragons_plus:item/dye_bucket"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -7.1d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "49FE9823E23BB7BD"
+			image: "sliceanddice:block/sprinkler_top"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -7.1d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.04d
+			id: "3CA30C769B6F9C5E"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -7.6d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "0FCBA68747786457"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -0.6d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "248A5FCA5CB9A529"
+			image: "create_connected:block/kinetic_battery/level_5_charge"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -0.6d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "2EC6633365C8D2FC"
+			image: "create_connected:block/kinetic_bridge_source"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -0.6d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "73B22862C18180E2"
+			image: "create_connected:block/inventory_bridge_both"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -0.6d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "49EBFED4196C5EE3"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: -1.1d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "525546E95D678AB8"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 6.9d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "7F707C43741D310B"
+			image: "create_power_loader:block/andesite_chunk_loader_side"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 6.9d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "0CA1AD7CDDF8156D"
+			image: "create_power_loader:block/brass_chunk_loader_side"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 6.9d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "188D4CD00DA28B02"
+			image: "create_power_loader:block/ghast"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 6.9d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "3B62115D0117C671"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 6.4d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "435D57337515867F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 10.8d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "3587F6EDE34256AD"
+			image: "createoreexcavation:item/vein_atlas"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 10.8d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "4B5877D05630F4EB"
+			image: "createoreexcavation:item/diamond_drill"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 10.8d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "4E074D9194F8C3F0"
+			image: "createoreexcavation:item/netherite_drill"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 10.8d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.04d
+			id: "79CF97F3877F25B8"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 10.3d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "29CE2AF91CC0F4F1"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 17.3d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "6250C8D73F801773"
+			image: "create_dragons_plus:item/dragon_breath_bucket"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 17.3d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "2B2864881A49DCC7"
+			image: "create_connected:block/seething_catalyst"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 17.3d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.04d
+			id: "6651BB5AB2E578E1"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 16.8d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["7B472916B8B3515D"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "create_connected:six_way_gearbox"
+			}
+			id: "1DB1DC5013D1F6FB"
+			rewards: [
+				{
+					id: "5D71AECAA94A3968"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "074EFC7356B6612A"
+					item: {
+						count: 1
+						id: "create_connected:parallel_gearbox"
+					}
+					type: "item"
+				}
+				{
+					id: "0447CA93C9EA768A"
+					item: {
+						count: 1
+						id: "create_connected:six_way_gearbox"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -15.45d
+		}
+		{
+			dependencies: ["1DB1DC5013D1F6FB"]
+			id: "6A4A30BDCB0F8E18"
+			rewards: [
+				{
+					id: "182E85C19B9440DA"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "075D9B43D6FF7EE1"
+					item: {
+						count: 1
+						id: "create_connected:cross_connector"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -17.4d
+		}
+		{
+			dependencies: ["1DB1DC5013D1F6FB"]
+			icon: {
+				id: "create_connected:centrifugal_clutch"
+			}
+			id: "5371385A1787DDD8"
+			rewards: [
+				{
+					id: "7A50BCC538C6E4AF"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "65CCFD14B6CE7624"
+					item: {
+						count: 1
+						id: "create_connected:centrifugal_clutch"
+					}
+					type: "item"
+				}
+				{
+					id: "0301A8837A01FFE6"
+					item: {
+						count: 1
+						id: "create_connected:freewheel_clutch"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -16.1d
+		}
+		{
+			dependencies: ["1DB1DC5013D1F6FB"]
+			id: "2C3B730B14D0B5F4"
+			rewards: [
+				{
+					id: "7493502C9A03905B"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "4931A28E6DBFC637"
+					item: {
+						count: 1
+						id: "create_connected:brake"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -14.8d
+		}
+		{
+			dependencies: ["2C3B730B14D0B5F4"]
+			id: "5A1911850C984603"
+			rewards: [
+				{
+					id: "4143DA6957A1A2EA"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "4FA12E6B72B4E5E6"
+					item: {
+						count: 1
+						id: "create_connected:shear_pin"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -15.45d
+		}
+		{
+			dependencies: ["1DB1DC5013D1F6FB"]
+			icon: {
+				id: "create_connected:large_crank_wheel"
+			}
+			id: "55AEB1E9462B828E"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "508F1BDC3D24780F"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "762435E551E80C84"
+					item: {
+						count: 1
+						id: "create_connected:crank_wheel"
+					}
+					type: "item"
+				}
+				{
+					id: "1836712C474056F5"
+					item: {
+						count: 1
+						id: "create_connected:large_crank_wheel"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -13.5d
+		}
+		{
+			dependencies: ["1DB1DC5013D1F6FB"]
+			id: "57A13FC9DC28BBCD"
+			rewards: [
+				{
+					id: "405035C753D7466C"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "383F6FE4F3CEE313"
+					item: {
+						count: 1
+						id: "create_connected:fluid_vessel"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -10.9d
+		}
+		{
+			dependencies: ["1DB1DC5013D1F6FB"]
+			icon: {
+				id: "create_connected:linked_transmitter"
+			}
+			id: "329BC48DABA6EB3C"
+			rewards: [
+				{
+					id: "13C0A6F17693AC57"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "29DDF8000E05C2DF"
+					item: {
+						count: 1
+						id: "create_connected:linked_transmitter"
+					}
+					type: "item"
+				}
+				{
+					id: "7EF7051E0674E46B"
+					item: {
+						count: 1
+						id: "create_connected:redstone_link_wildcard"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -9.6d
+		}
+		{
+			dependencies: ["1DB1DC5013D1F6FB"]
+			icon: {
+				id: "create_connected:fan_blasting_catalyst"
+			}
+			id: "3DE8D8C5006D1A67"
+			rewards: [
+				{
+					id: "51DC13BAC4309AF7"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "6C6943A311E99B7F"
+					item: {
+						count: 1
+						id: "create_connected:fan_splashing_catalyst"
+					}
+					type: "item"
+				}
+				{
+					id: "3D6643034C09013C"
+					item: {
+						count: 1
+						id: "create_connected:fan_blasting_catalyst"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -8.3d
+		}
+		{
+			dependencies: ["7B472916B8B3515D"]
+			hide_until_deps_complete: true
+			id: "4FC90757CEF764F8"
+			rewards: [
+				{
+					id: "1C3ACEDD800D3064"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "641A3610CC08FB84"
+					item: {
+						count: 1
+						id: "create_dragons_plus:fluid_hatch"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -3.75d
+		}
+		{
+			dependencies: ["4FC90757CEF764F8"]
+			icon: {
+				id: "create_connected:fan_freezing_catalyst"
+			}
+			id: "77F54D5DA0D7C74F"
+			rewards: [
+				{
+					id: "42275D4FBB3C1920"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "4E5E29910B9A9B01"
+					item: {
+						count: 1
+						id: "create_connected:fan_freezing_catalyst"
+					}
+					type: "item"
+				}
+				{
+					id: "6DE5B34A18B4C92D"
+					item: {
+						count: 1
+						id: "create_connected:fan_sanding_catalyst"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -5.7d
+		}
+		{
+			dependencies: ["4FC90757CEF764F8"]
+			icon: {
+				id: "create_dragons_plus:red_dye_bucket"
+			}
+			id: "20BF312F78CBF5EE"
+			rewards: [
+				{
+					id: "2C800A2B4ACE083B"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "594C9F57F4A9652C"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "item_tag(c:buckets/dye)"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -4.4d
+		}
+		{
+			dependencies: ["4FC90757CEF764F8"]
+			id: "477B8E03060F5522"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "0DA56A08B0878AFB"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "45F994F30E0AF540"
+					item: {
+						count: 1
+						id: "create_dragons_plus:fragile_fluid_tank"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -3.1d
+		}
+		{
+			dependencies: ["4FC90757CEF764F8"]
+			icon: {
+				id: "sliceanddice:sprinkler"
+			}
+			id: "2BC065FB42C81822"
+			rewards: [
+				{
+					id: "7FB4302576F6F460"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "70B02C2984B3D4EE"
+					item: {
+						count: 1
+						id: "sliceanddice:sprinkler"
+					}
+					type: "item"
+				}
+				{
+					id: "01FF2C8689D84350"
+					item: {
+						count: 1
+						id: "sliceanddice:fertilizer_bucket"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -1.8d
+		}
+		{
+			dependencies: ["4FC90757CEF764F8"]
+			icon: {
+				id: "copycats:copycat_slope"
+			}
+			id: "55F4BBFDB3CEBA21"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "163C0D9B888DA2C7"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "614A7A13DDE53C1B"
+					item: {
+						count: 1
+						id: "create:copycat_panel"
+					}
+					type: "item"
+				}
+				{
+					id: "7E88AF7E9BBCB1CD"
+					item: {
+						count: 1
+						id: "copycats:copycat_slope"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -3.75d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "create_connected:kinetic_battery"
+			}
+			id: "1F363D298EFDAC86"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "336B4A55493F6E72"
+					type: "xp"
+					xp: 125
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "create_connected:kinetic_battery"
+					criterion: ""
+					id: "565A7E2F819CD6E5"
+					type: "advancement"
+				}
+			]
+			x: 0.0d
+			y: 3.25d
+		}
+		{
+			dependencies: ["1F363D298EFDAC86"]
+			id: "765865B802196D5E"
+			rewards: [
+				{
+					id: "737792FBBA19B87B"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "6B06D841183E8562"
+					item: {
+						count: 1
+						id: "create_connected:kinetic_bridge"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 0.92d
+		}
+		{
+			dependencies: ["1F363D298EFDAC86"]
+			id: "323837979728408A"
+			rewards: [
+				{
+					id: "1ACBA0FF16D1C078"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "10CD86D624CCEE4D"
+					item: {
+						count: 1
+						id: "create_connected:brass_gearbox"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 2.47d
+		}
+		{
+			dependencies: ["1F363D298EFDAC86"]
+			id: "0CCA2E9F8F18DC90"
+			rewards: [
+				{
+					id: "0A2BD54CBC253BC1"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "7749B714952791B3"
+					item: {
+						count: 1
+						id: "create_connected:overstress_clutch"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 4.02d
+		}
+		{
+			dependencies: ["1F363D298EFDAC86"]
+			icon: {
+				id: "create_connected:inventory_bridge"
+			}
+			id: "2CFF63705ACC187A"
+			rewards: [
+				{
+					id: "04B5DD271EA1EF86"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "718EFC2B4923CCF6"
+					item: {
+						count: 1
+						id: "create_connected:inventory_access_port"
+					}
+					type: "item"
+				}
+				{
+					id: "789181092AF93C8A"
+					item: {
+						count: 1
+						id: "create_connected:inventory_bridge"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 5.57d
+		}
+		{
+			dependencies: ["1F363D298EFDAC86"]
+			id: "4634716F0CB03CED"
+			rewards: [
+				{
+					id: "58D1A7FEE2CD5937"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "10659D82A0ED186A"
+					item: {
+						count: 1
+						id: "create_connected:brass_chute"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 2.47d
+		}
+		{
+			dependencies: ["1F363D298EFDAC86"]
+			icon: {
+				id: "create_connected:sequenced_pulse_generator"
+			}
+			id: "1E699B28DAB70780"
+			rewards: [
+				{
+					id: "3854CECE2445E212"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "3300D1625440D154"
+					item: {
+						count: 1
+						id: "create_connected:control_chip"
+					}
+					type: "item"
+				}
+				{
+					id: "0E6F687C625816ED"
+					item: {
+						count: 1
+						id: "create_connected:sequenced_pulse_generator"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 4.02d
+		}
+		{
+			dependencies: ["1E699B28DAB70780"]
+			id: "20D3BB5546F198EA"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "739FAFF2327ECC09"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "56AB7BA12CB1B38D"
+					item: {
+						count: 1
+						id: "create_connected:dashboard"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 3.25d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			id: "7C665CA0706A00E7"
+			rewards: [
+				{
+					id: "7DC839E397505941"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "38DF03A9992FA57D"
+					item: {
+						count: 1
+						id: "create_power_loader:andesite_chunk_loader"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 8.95d
+		}
+		{
+			dependencies: ["7C665CA0706A00E7"]
+			id: "69E5637FB98A911E"
+			rewards: [
+				{
+					id: "4F10A25A1FC1BC78"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "43A51D01DD004702"
+					item: {
+						count: 1
+						id: "create_power_loader:brass_chunk_loader"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 8.3d
+		}
+		{
+			dependencies: ["7C665CA0706A00E7"]
+			icon: {
+				id: "create:blaze_burner"
+			}
+			id: "07C7216FD4FB73BE"
+			preset: "info"
+			rewards: [
+				{
+					id: "03D966A21B8398D1"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "6BF06AC792BEA64A"
+					type: "checkmark"
+				}
+			]
+			x: 1.75d
+			y: 9.6d
+		}
+		{
+			dependencies: ["784FFE5AA9775311"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "createoreexcavation:sample_drill"
+			}
+			id: "0013E40F43A6973D"
+			rewards: [
+				{
+					id: "4D297CB1C8F20D89"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "6D812B22F5820E60"
+					item: {
+						count: 1
+						id: "createoreexcavation:sample_drill"
+					}
+					type: "item"
+				}
+				{
+					id: "634F0A27D356C64B"
+					item: {
+						count: 1
+						id: "createoreexcavation:vein_atlas"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 14.15d
+		}
+		{
+			dependencies: ["0013E40F43A6973D"]
+			icon: {
+				id: "createoreexcavation:netherite_drill"
+			}
+			id: "180497A1907FEEFC"
+			rewards: [
+				{
+					id: "1F0F92AF0CB754B6"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "3F8D8E2738AB2352"
+					item: {
+						count: 1
+						id: "createoreexcavation:diamond_drill"
+					}
+					type: "item"
+				}
+				{
+					id: "365C97CDA109C829"
+					item: {
+						count: 1
+						id: "createoreexcavation:netherite_drill"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 12.2d
+		}
+		{
+			dependencies: ["0013E40F43A6973D"]
+			id: "6750A521F50633AA"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "5712CCFAF0293F4E"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "37603D7AB90C218C"
+					item: {
+						count: 1
+						id: "createoreexcavation:extractor"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 13.5d
+		}
+		{
+			dependencies: ["0013E40F43A6973D"]
+			icon: {
+				id: "createoreexcavation:raw_diamond"
+			}
+			id: "04610C7144030208"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "080D137C5084DD6B"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "56F1819CD71B6F4E"
+					item: {
+						count: 1
+						id: "createoreexcavation:raw_diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "49301001A1A3E238"
+					item: {
+						count: 1
+						id: "createoreexcavation:raw_emerald"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 14.8d
+		}
+		{
+			dependencies: ["0013E40F43A6973D"]
+			icon: {
+				id: "createoreexcavation:drilling_machine"
+			}
+			id: "6A21F6AEDA073785"
+			rewards: [
+				{
+					id: "050CFADC14CB0409"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					count: 1024L
+					id: "66BB3A0DE6F46AAC"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "item_tag(c:raw_materials)"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 16.1d
+		}
+		{
+			dependencies: ["53A32F809B45CAFE"]
+			hide_until_deps_complete: true
+			id: "4A11C5CB82918175"
+			rewards: [
+				{
+					id: "5DE3B59630A7F823"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "7F941AD5AB90E449"
+					item: {
+						count: 1
+						id: "create_dragons_plus:dragon_breath_bucket"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 18.7d
+		}
+		{
+			dependencies: ["4A11C5CB82918175"]
+			id: "0234FF67A49B1FBC"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "1E943E9E9672FEE3"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "657F8D7609F690BB"
+					item: {
+						count: 1
+						id: "create_connected:fan_ending_catalyst_dragons_breath"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 18.7d
+		}
+	]
+}

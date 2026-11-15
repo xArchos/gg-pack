@@ -1,0 +1,54 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "era_10_final"
+	group: "3CDFA8C60B58BCC5"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "gg:pieczec_final"
+	}
+	id: "400906042FDA8C93"
+	images: [ ]
+	order_index: 10
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "gg:pieczec_final"
+			}
+			id: "5B1F1DC0044D9AD3"
+			invisible: true
+			preset: "era"
+			tags: ["era_final", "era_start"]
+			tasks: [
+				{
+					id: "5178CD8E3DE4C311"
+					stage: "era_final"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5B1F1DC0044D9AD3"]
+			icon: {
+				id: "minecraft:dragon_head"
+			}
+			id: "22BF57F69C5046CC"
+			preset: "boss"
+			tags: ["era_final", "boss"]
+			tasks: [
+				{
+					id: "5E07DB7EB477B3ED"
+					stage: "boss_final"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 3.5d
+			y: 0.0d
+		}
+	]
+}

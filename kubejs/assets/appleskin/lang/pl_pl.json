@@ -1,0 +1,18 @@
+{
+  "appleskin.configuration.maxHudOverlayFlashAlpha": "Maks. krycie migających ikon HUD",
+  "appleskin.configuration.maxHudOverlayFlashAlpha.tooltip": "Krycie migających ikon w najbardziej widocznym momencie (1.0 = całkiem nieprzezroczyste, 0.0 = całkiem przezroczyste).",
+  "appleskin.configuration.showFoodExhaustionHudUnderlay": "Pokazuj pasek wyczerpania",
+  "appleskin.configuration.showFoodExhaustionHudUnderlay.tooltip": "Jeśli włączone, pokazuje wyczerpanie jako pasek postępu za paskiem głodu.",
+  "appleskin.configuration.showFoodHealthHudOverlay.tooltip": "Jeśli włączone, pasek zdrowia pokazuje szacowane zdrowie, które przywróci jedzenie.",
+  "appleskin.configuration.showFoodStatsInDebugOverlay": "Pokazuj wartości jedzenia na ekranie debugowania",
+  "appleskin.configuration.showFoodStatsInDebugOverlay.tooltip": "Jeśli włączone, ekran debugowania pokazuje poziom głodu, nasycenia i wyczerpania.",
+  "appleskin.configuration.showFoodValuesHudOverlay": "Pokazuj, ile głodu zaspokoi trzymane jedzenie",
+  "appleskin.configuration.showFoodValuesHudOverlay.tooltip": "Jeśli włączone, pokazuje, ile głodu (i nasycenia, gdy włączone jest showSaturationHudOverlay) przywróci jedzenie, które trzymasz.",
+  "appleskin.configuration.showFoodValuesHudOverlayWhenOffhand": "Pokazuj nakładki dla jedzenia w drugiej ręce",
+  "appleskin.configuration.showFoodValuesHudOverlayWhenOffhand.tooltip": "Jeśli włączone, nakładki głodu, nasycenia i zdrowia działają też dla jedzenia w drugiej ręce.",
+  "appleskin.configuration.showFoodValuesInTooltip.tooltip": "Jeśli włączone, podpowiedź jedzenia pokazuje przywracany głód i nasycenie, gdy trzymasz SHIFT.",
+  "appleskin.configuration.showFoodValuesInTooltipAlways.tooltip": "Jeśli włączone, podpowiedź jedzenia zawsze pokazuje przywracany głód i nasycenie (bez trzymania SHIFT).",
+  "appleskin.configuration.showSaturationHudOverlay.tooltip": "Jeśli włączone, pokazuje obecny poziom nasycenia na pasku głodu.",
+  "appleskin.configuration.showVanillaAnimationsOverlay": "Animuj ikony HUD jak w Minecrafcie",
+  "appleskin.configuration.showVanillaAnimationsOverlay.tooltip": "Jeśli włączone, nakładka zdrowia i głodu drga razem z animacjami ikon Minecrafta."
+}

@@ -1,0 +1,13 @@
+name = "Gears & Grimoires"
+author = "Gears & Grimoires"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "28b83e89d90d6e2344f1685d931d0eb6d13f4d1dbc76dbd551406fc454ad679e"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.266"

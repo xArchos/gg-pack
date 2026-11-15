@@ -1,0 +1,9 @@
+version:3955
+renderDistance:10
+simulationDistance:8
+renderClouds:"false"
+maxFps:120
+enableVsync:true
+lang:pl_pl
+resourcePacks:["vanilla","mod_resources","file/FreshAnimations.zip"]
+key_iris.keybind.toggleShaders:key.keyboard.unknown

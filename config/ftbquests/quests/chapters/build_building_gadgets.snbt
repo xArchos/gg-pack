@@ -1,0 +1,397 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "build_building_gadgets"
+	group: "16562C951FE3B019"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "buildinggadgets2:gadget_building"
+	}
+	id: "41963886BF469AF8"
+	images: [
+		{
+			height: 1.8d
+			id: "5ED68E1B3DEECC6D"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -6.65d
+		}
+		{
+			height: 1.8d
+			id: "7CE32AACF2F848DD"
+			image: "buildinggadgets2:item/gadget_copy_paste"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -6.65d
+		}
+		{
+			height: 1.8d
+			id: "3DB8D17D560D1B80"
+			image: "buildinggadgets2:item/gadget_exchanging"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -6.65d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "7D80E0D123276AE6"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -4.5d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "4F7CF7C2BD383697"
+			image: "buildinggadgets2:item/gadget_building"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -4.5d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "45F0660C45BF5C20"
+			image: "buildinggadgets2:item/gadget_destruction"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -4.5d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "210CFB155107DD30"
+			image: "buildinggadgets2:item/gadget_cut_paste"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -4.5d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "5CD4BC579B2DC330"
+			image: "buildinggadgets2:item/template"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -4.5d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "397C73A9DBE92F87"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 3.0d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "1FBEE3B93FAE1977"
+			image: "ae2:block/wireless_access_point"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 3.0d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "51C4DDC7EADB0B42"
+			image: "ae2:item/wireless_receiver"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 3.0d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "19BF08E99392C4F7"
+			image: "ae2:item/fluix_crystal"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 3.0d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "19EF018AAC6BDE79"
+			image: "ae2:block/controller"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: 3.0d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.04d
+			id: "516DC2356D5C616C"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 2.5d
+		}
+	]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			hide_until_deps_complete: true
+			id: "0C34682C23DDE3DE"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "3C9A0EAA2375B7E2"
+					type: "xp"
+					xp: 225
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "41304BBD1F0E8B5C"
+					item: {
+						count: 1
+						id: "buildinggadgets2:gadget_building"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -0.65d
+		}
+		{
+			dependencies: ["0C34682C23DDE3DE"]
+			icon: {
+				id: "buildinggadgets2:gadget_building"
+			}
+			id: "23266B3F8753E129"
+			preset: "info"
+			rewards: [
+				{
+					id: "6C12199C64EC3DAC"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "1F3177D74D4491BF"
+					type: "checkmark"
+				}
+			]
+			x: 1.75d
+			y: -2.98d
+		}
+		{
+			dependencies: ["0C34682C23DDE3DE"]
+			id: "12272A2C2D55DB5C"
+			rewards: [
+				{
+					id: "72E8A57D078BB489"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "0C242F2F5ECF49D5"
+					item: {
+						count: 1
+						id: "buildinggadgets2:gadget_exchanging"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -1.42d
+		}
+		{
+			dependencies: ["0C34682C23DDE3DE"]
+			id: "4285DDCBAFB1B4AD"
+			rewards: [
+				{
+					id: "6A03D00302DBE32F"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "722A150102AFD95A"
+					item: {
+						count: 1
+						id: "buildinggadgets2:gadget_copy_paste"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 0.12d
+		}
+		{
+			dependencies: ["4285DDCBAFB1B4AD"]
+			id: "094F84586A4F7278"
+			rewards: [
+				{
+					id: "6F88E830D9CF6D69"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "79E90BAB3F3FF56F"
+					item: {
+						count: 1
+						id: "buildinggadgets2:gadget_cut_paste"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -1.43d
+		}
+		{
+			dependencies: ["4285DDCBAFB1B4AD"]
+			id: "6EBA68A59BB4001D"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "4A338A510CB43A29"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "1292FCB4011D9902"
+					item: {
+						count: 1
+						id: "buildinggadgets2:template_manager"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 0.13d
+		}
+		{
+			dependencies: ["0C34682C23DDE3DE"]
+			id: "16592ADF7EA541D2"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "76D4B25898381F46"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "5F28F28C4B6C1FC2"
+					item: {
+						count: 1
+						id: "buildinggadgets2:gadget_destruction"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 1.67d
+		}
+		{
+			dependencies: ["53A32F809B45CAFE"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "buildinggadgets2:gadget_building"
+			}
+			id: "296CDA49675D2D41"
+			rewards: [
+				{
+					id: "0081A20132639039"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "60D46ADD810020B0"
+					item: {
+						count: 1
+						id: "ae2:wireless_access_point"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 4.4d
+		}
+		{
+			dependencies: ["296CDA49675D2D41"]
+			icon: {
+				id: "ae2:crafting_accelerator"
+			}
+			id: "389DDDCC2EE1706F"
+			preset: "info"
+			rewards: [
+				{
+					id: "2218D1B252537ADE"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "0EEAFE5363BEBD99"
+					type: "checkmark"
+				}
+			]
+			x: 1.75d
+			y: 4.4d
+		}
+	]
+}

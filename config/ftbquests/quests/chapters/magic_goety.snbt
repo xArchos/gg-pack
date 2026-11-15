@@ -1,0 +1,1413 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "magic_goety"
+	group: "3108D924C31FF1C5"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "goety:dark_wand"
+	}
+	id: "6D3B697593C932E5"
+	images: [
+		{
+			height: 1.8d
+			id: "183227CC8A45B1FA"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 14.0d
+			x: 6.12d
+			y: -18.3d
+		}
+		{
+			height: 1.8d
+			id: "6A5E0844714DC091"
+			image: "goety:item/necro_staff"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.07d
+			y: -18.3d
+		}
+		{
+			height: 1.8d
+			id: "0A18DB915AE712C2"
+			image: "goety:item/soul_emerald"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 14.32d
+			y: -18.3d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "2A65CEED1447F974"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -16.15d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "16FA55CAEDC88EF3"
+			image: "goety:item/magic_emerald"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -16.15d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "5DE248F7C5F8A590"
+			image: "goety:item/cursed_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -16.15d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "3575F53F99E907D1"
+			image: "goety:item/ectoplasm"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -16.15d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "139B3F3CDEBF29EF"
+			image: "goety:item/full_totem"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -16.15d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "43365A54EA44261F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -9.65d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "74C25B5F00CC7091"
+			image: "goety:item/focus/zombie_spell"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -9.65d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "351724BF90A8EADC"
+			image: "goety:item/focus/skeleton_spell"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -9.65d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "3BACEF593BAD859B"
+			image: "goety:item/necro_crown"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -9.65d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "2E2BBBBA484DB998"
+			image: "goety:item/forbidden_piece"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -9.65d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.04d
+			id: "29B3A0253267EC4D"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -10.15d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "06257A25BC220B6B"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -2.15d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "745871BD4A149C93"
+			image: "goety:item/empty_focus"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -2.15d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "676EE9AA8344ABCB"
+			image: "goety:item/brew_bottle"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -2.15d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "285B20E29A088484"
+			image: "goety:item/witch_hat"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -2.15d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "3DEB3586791738B7"
+			image: "goety:item/dark_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -2.15d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.04d
+			id: "59F03F2AB4A52735"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -2.65d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "5C325123C8A5F15E"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 5.35d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "41E52C7E234CFF35"
+			image: "goety:item/soul_ruby"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 5.35d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "7FAD277C5E7E33E6"
+			image: "goety:item/grand_turban"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 5.35d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "74BEFAFCEBBE5344"
+			image: "goety:item/animation_core"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 5.35d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.04d
+			id: "2CE165EBB8DA5032"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 15.25d
+			x: 6.12d
+			y: 4.85d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "09B9D8166166E12C"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 11.3d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "6617453455C5D439"
+			image: "goety:item/void_echo"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 11.3d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "3790160CF879436C"
+			image: "goety:item/philosophers_stone"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 11.3d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "4D54DFB823E3F8E8"
+			image: "goety:item/focus/stellar_spell"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 11.3d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.04d
+			id: "5415E9E97E8C9DE2"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 15.25d
+			x: 6.12d
+			y: 10.8d
+		}
+	]
+	order_index: 11
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["7A875C04743BEF62"]
+			hide_until_deps_complete: true
+			id: "0E60FAA1F3557AF5"
+			rewards: [
+				{
+					id: "038519683D600D87"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "576D3C3F097E0758"
+					item: {
+						count: 1
+						id: "goety:cursed_infuser"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -12.8d
+		}
+		{
+			dependencies: ["0E60FAA1F3557AF5"]
+			id: "06F79FAB0A10065F"
+			rewards: [
+				{
+					id: "1F39D87D7C2C9F28"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "331BBDCCF685B057"
+					item: {
+						count: 1
+						id: "goety:magic_emerald"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -14.75d
+		}
+		{
+			dependencies: ["06F79FAB0A10065F"]
+			id: "5E173B7F25834017"
+			rewards: [
+				{
+					id: "01B4A8119900C20E"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "03AAD49860A7719B"
+					item: {
+						count: 1
+						id: "goety:soul_emerald"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -14.1d
+		}
+		{
+			dependencies: ["0E60FAA1F3557AF5"]
+			icon: {
+				id: "goety:pedestal"
+			}
+			id: "11631356DA4AF263"
+			rewards: [
+				{
+					id: "3FA06CC464AE6F64"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					count: 8L
+					id: "6482A9187463248B"
+					item: {
+						count: 1
+						id: "goety:shade_stone"
+					}
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "596D4BB50C50609B"
+					item: {
+						count: 1
+						id: "goety:pedestal"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -13.45d
+		}
+		{
+			dependencies: ["0E60FAA1F3557AF5"]
+			id: "50C487255D37AE5B"
+			rewards: [
+				{
+					id: "588521A740D2AF19"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "497DA9E9B077391B"
+					item: {
+						count: 1
+						id: "goety:cursed_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -12.15d
+		}
+		{
+			dependencies: ["50C487255D37AE5B"]
+			id: "099D20D0F4E0427F"
+			rewards: [
+				{
+					id: "6A181A0A0B0EAA3F"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "3A96736816627080"
+					item: {
+						count: 1
+						id: "goety:cursed_cage"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -12.8d
+		}
+		{
+			dependencies: ["099D20D0F4E0427F"]
+			id: "472ABD9014318EDC"
+			rewards: [
+				{
+					id: "42705F1598DB8C70"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "50032052FFED4A2B"
+					item: {
+						count: 1
+						id: "goety:soul_candlestick"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -12.8d
+		}
+		{
+			dependencies: ["0E60FAA1F3557AF5"]
+			icon: {
+				id: "goety:magic_fabric"
+			}
+			id: "324C68335146A18D"
+			rewards: [
+				{
+					id: "2EBE6856CD4DBDD5"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "33922A010B10E089"
+					item: {
+						count: 1
+						id: "goety:magic_fabric"
+					}
+					type: "item"
+				}
+				{
+					id: "5A9359AD19BD2DE3"
+					item: {
+						count: 1
+						id: "goety:occult_fabric"
+					}
+					type: "item"
+				}
+				{
+					id: "190E9FF355450DAD"
+					item: {
+						count: 1
+						id: "goety:dark_fabric"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -10.85d
+		}
+		{
+			dependencies: ["324C68335146A18D"]
+			id: "21DA0E50BE31704E"
+			rewards: [
+				{
+					id: "18D2D1F4A65BD6AF"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "4457ED51F36EDFB8"
+					item: {
+						count: 1
+						id: "goety:spirit_fabric"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -11.5d
+		}
+		{
+			dependencies: ["0E60FAA1F3557AF5"]
+			id: "68A579014481680C"
+			rewards: [
+				{
+					id: "21D50175DAC117EC"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "2907408EC02B275D"
+					item: {
+						count: 1
+						id: "goety:animation_core"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -6.57d
+		}
+		{
+			dependencies: ["68A579014481680C"]
+			id: "3F231F29B59523E6"
+			rewards: [
+				{
+					id: "0C5E59C335CB1779"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "761059119C65C44B"
+					item: {
+						count: 1
+						id: "goety:rotting_focus"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -8.12d
+		}
+		{
+			dependencies: ["3F231F29B59523E6"]
+			icon: {
+				id: "goety:rotting_focus"
+			}
+			id: "1B9566B8971E3AF2"
+			rewards: [
+				{
+					id: "6BBA442296F70683"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					advancement: "goety:goety/summon_zombie"
+					criterion: ""
+					id: "4FECF89EE79728FC"
+					type: "advancement"
+				}
+			]
+			x: 7.0d
+			y: -6.57d
+		}
+		{
+			dependencies: ["68A579014481680C"]
+			id: "5012B9756887FF5E"
+			rewards: [
+				{
+					id: "696D191EDA359E18"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "0931CD55A4EE2F5D"
+					item: {
+						count: 1
+						id: "goety:osseous_focus"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -6.57d
+		}
+		{
+			dependencies: ["68A579014481680C"]
+			id: "6F13D8F6ECF2C57A"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "0F757C291F5B35BF"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "44BF96E365191C06"
+					item: {
+						count: 1
+						id: "goety:vexing_focus"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -5.02d
+		}
+		{
+			dependencies: ["3F231F29B59523E6", "5012B9756887FF5E"]
+			id: "53F04FE3A9B7373A"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "5CC64B2E04CB4AD1"
+					type: "xp"
+					xp: 150
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "5D55292D8576CDA7"
+					item: {
+						count: 1
+						id: "goety:necro_staff"
+					}
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: -5.02d
+		}
+		{
+			dependencies: ["53F04FE3A9B7373A"]
+			icon: {
+				id: "goety:necro_crown"
+			}
+			id: "140C6E789E790C5E"
+			rewards: [
+				{
+					id: "78729083C7D3659B"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "44F8A5D56D5D87C9"
+					item: {
+						count: 1
+						id: "goety:necro_crown"
+					}
+					type: "item"
+				}
+				{
+					id: "7316F1B593C5FC01"
+					item: {
+						count: 1
+						id: "goety:necro_cape"
+					}
+					type: "item"
+				}
+			]
+			x: 8.75d
+			y: -6.57d
+		}
+		{
+			dependencies: ["68A579014481680C"]
+			icon: {
+				id: "goety:skull_pile"
+			}
+			id: "29A5035F491CB927"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "74494D7E6DE09163"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					advancement: "goety:goety/summon_grave_golem"
+					criterion: ""
+					id: "1EAE586C16873307"
+					type: "advancement"
+				}
+			]
+			x: 3.5d
+			y: -3.47d
+		}
+		{
+			dependencies: ["68A579014481680C"]
+			icon: {
+				id: "goety:redstone_golem_skull"
+			}
+			id: "2BF8F92CB6FDBD34"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "60AD3810DFB9901D"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					advancement: "goety:goety/summon_redstone_golem"
+					criterion: ""
+					id: "399F1209C8C3C02B"
+					type: "advancement"
+				}
+			]
+			x: 5.25d
+			y: -5.8d
+		}
+		{
+			dependencies: ["0E60FAA1F3557AF5"]
+			icon: {
+				id: "goety:forbidden_scroll"
+			}
+			id: "46DB9505C212992A"
+			rewards: [
+				{
+					id: "34285F09816333B9"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					advancement: "goety:goety/unlock_necromancer"
+					criterion: ""
+					id: "4847CC5CB3BB0725"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: -5.02d
+		}
+		{
+			dependencies: ["46DB9505C212992A", "53F04FE3A9B7373A"]
+			icon: {
+				id: "goety:undeath_potion"
+			}
+			id: "742B79BAED417A1A"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "3D5B473EA52B4B33"
+					type: "xp"
+					xp: 150
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					advancement: "goety:goety/become_lich"
+					criterion: ""
+					id: "07FAFCEDDBA4213B"
+					type: "advancement"
+				}
+			]
+			x: 8.75d
+			y: -5.02d
+		}
+		{
+			dependencies: ["0E60FAA1F3557AF5"]
+			id: "207303221A0D0E34"
+			rewards: [
+				{
+					id: "77A153035C88A522"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "59DA744EFB620058"
+					item: {
+						count: 1
+						id: "goety:fireball_focus"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -0.62d
+		}
+		{
+			dependencies: ["0E60FAA1F3557AF5"]
+			id: "49B037170BF0C4EC"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "68D6220B957C3DBC"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "33859DF6EF7520AE"
+					item: {
+						count: 1
+						id: "goety:ice_spike_focus"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 0.93d
+		}
+		{
+			dependencies: ["0E60FAA1F3557AF5"]
+			id: "0EFFCA13B9A4552B"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "4DD818A47E9AFBEC"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "2254ECFA72FCD126"
+					item: {
+						count: 1
+						id: "goety:thunderbolt_focus"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 2.48d
+		}
+		{
+			dependencies: ["0E60FAA1F3557AF5"]
+			id: "41AB6CCEE0C1499C"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "61FDF47C01959496"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "42D721F4B19D5909"
+					item: {
+						count: 1
+						id: "goety:wind_core"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 4.03d
+		}
+		{
+			dependencies: ["0E60FAA1F3557AF5"]
+			id: "5D62B4CE8C8C46BE"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "3692EC0CCC6E3746"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "02DCA0A63BC0FE83"
+					item: {
+						count: 1
+						id: "goety:focus_bag"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 1.7d
+		}
+		{
+			dependencies: ["472ABD9014318EDC"]
+			id: "1D28580F167502CD"
+			rewards: [
+				{
+					id: "0AB2A3551E8AA60E"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "34DA50BC17DE77CF"
+					item: {
+						count: 1
+						id: "goety:witch_cauldron"
+					}
+					type: "item"
+				}
+			]
+			x: 8.75d
+			y: 1.7d
+		}
+		{
+			dependencies: ["1D28580F167502CD"]
+			id: "2D80529BDE326269"
+			rewards: [
+				{
+					id: "2A0EDE640F19BFF4"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "526DEF67B01F66D2"
+					item: {
+						count: 1
+						id: "goety:brew"
+					}
+					type: "item"
+				}
+			]
+			x: 10.5d
+			y: 1.7d
+		}
+		{
+			dependencies: ["2D80529BDE326269"]
+			icon: {
+				id: "goety:witch_hat"
+			}
+			id: "1DF1B89DF4B3D796"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "5839438B8AAC78ED"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "12FC5BD5BDB4F5C9"
+					item: {
+						count: 1
+						id: "goety:witch_hat"
+					}
+					type: "item"
+				}
+				{
+					id: "1C8D1241F7A7F862"
+					item: {
+						count: 1
+						id: "goety:witch_robe"
+					}
+					type: "item"
+				}
+			]
+			x: 12.25d
+			y: 1.7d
+		}
+		{
+			dependencies: ["50C487255D37AE5B"]
+			id: "6AD4941D7D927187"
+			rewards: [
+				{
+					id: "28F0B25C632842C8"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "33F8FD8301F00982"
+					item: {
+						count: 1
+						id: "goety:dark_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 1.7d
+		}
+		{
+			dependencies: ["6AD4941D7D927187", "21DA0E50BE31704E"]
+			icon: {
+				id: "goety:dark_chestplate"
+			}
+			id: "36D904598742BDBA"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "6432DDF807063944"
+					type: "xp"
+					xp: 150
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "326FAFA5B06CC621"
+					item: {
+						count: 1
+						id: "goety:dark_helmet"
+					}
+					type: "item"
+				}
+				{
+					id: "35E18EB3E3124558"
+					item: {
+						count: 1
+						id: "goety:dark_chestplate"
+					}
+					type: "item"
+				}
+				{
+					id: "64099AFB29E46A0C"
+					item: {
+						count: 1
+						id: "goety:dark_leggings"
+					}
+					type: "item"
+				}
+				{
+					id: "7E3283153B6BF1A7"
+					item: {
+						count: 1
+						id: "goety:dark_boots"
+					}
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: 1.7d
+		}
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			hide_until_deps_complete: true
+			id: "3B8E9C25136466D3"
+			rewards: [
+				{
+					id: "1757CC2CC759E594"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "5019F408EC8A2574"
+					item: {
+						count: 1
+						id: "goety:reinforced_redstone_block"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 7.65d
+		}
+		{
+			dependencies: ["3B8E9C25136466D3"]
+			icon: {
+				id: "goety:redstone_monstrosity_head"
+			}
+			id: "54C0B70CE68A00D0"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "59C633B254A6BE67"
+					type: "xp"
+					xp: 225
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					advancement: "goety:goety/summon_redstone_monstrosity"
+					criterion: ""
+					id: "58DF33674FFD7FAA"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: 6.88d
+		}
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			hide_until_deps_complete: true
+			id: "447C3401F98593FC"
+			rewards: [
+				{
+					id: "7DB1BA2A25AD7B1C"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "10A3562C5F4284CA"
+					item: {
+						count: 1
+						id: "goety:soul_ruby"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 9.2d
+		}
+		{
+			dependencies: ["447C3401F98593FC"]
+			icon: {
+				id: "goety:grand_turban"
+			}
+			id: "376CA5305332149B"
+			rewards: [
+				{
+					id: "29B425038DE077AA"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "0417E5CE97046880"
+					item: {
+						count: 1
+						id: "goety:grand_turban"
+					}
+					type: "item"
+				}
+				{
+					id: "364ECE13B2D562E4"
+					item: {
+						count: 1
+						id: "goety:grand_robe"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 8.43d
+		}
+		{
+			dependencies: ["447C3401F98593FC"]
+			id: "2034878D79D4F673"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "16B0C3BFC53CB78C"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "3319B8651A184CA1"
+					item: {
+						count: 1
+						id: "goety:sonic_boom_focus"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 9.98d
+		}
+		{
+			dependencies: ["53A32F809B45CAFE"]
+			hide_until_deps_complete: true
+			id: "51009F35FA1A7EA6"
+			rewards: [
+				{
+					id: "07FB28D8EC0891DF"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "1863EA17CA33961F"
+					item: {
+						count: 1
+						id: "goety:philosophers_stone"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 14.38d
+		}
+		{
+			dependencies: ["51009F35FA1A7EA6"]
+			id: "661EF6848FAA286A"
+			rewards: [
+				{
+					id: "7ABF17318FA95FF0"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "0C61676FD8DEB446"
+					item: {
+						count: 1
+						id: "goety:flying_focus"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 12.83d
+		}
+		{
+			dependencies: ["51009F35FA1A7EA6"]
+			id: "5FEDA7CCB2D7149D"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "51AA8E4F3F4BE796"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "6FD9D8A1A2E1F87B"
+					item: {
+						count: 1
+						id: "goety:death_scythe"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 14.38d
+		}
+		{
+			dependencies: ["51009F35FA1A7EA6"]
+			id: "7A02EB97A55E6231"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "04D45F98F3D7E9F5"
+					type: "xp"
+					xp: 250
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "3B5BB138FCBAD107"
+					item: {
+						count: 1
+						id: "goety:blade_of_ender"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 15.93d
+		}
+	]
+}

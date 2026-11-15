@@ -1,0 +1,27 @@
+{
+  "parent": "apotheosis:progression/haven",
+  "criteria": {
+    "era": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "background": "apotheosis:textures/advancements/bg/apoth.png",
+    "description": {
+      "text": "Poziom świata przychodzi razem z Erą Run (era 2) drużyny."
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:iron_sword"
+    },
+    "title": {
+      "translate": "advancements.apotheosis.progression.frontier.title"
+    }
+  },
+  "requirements": [
+    [
+      "era"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

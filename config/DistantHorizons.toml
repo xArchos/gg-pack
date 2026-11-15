@@ -1,0 +1,13 @@
+# Partial file: Distant Horizons fills in every missing key with its default and rewrites the file.
+# No _version key on purpose: a lower _version than the mod expects makes DH delete the whole file.
+# No numberOfThreads: DH computes it from the player's CPU on first start.
+
+[client.advanced.graphics]
+	enableSsao = false
+
+[client.advanced.graphics.quality]
+	lodChunkRenderDistanceRadius = 128
+
+[common.logging.warning]
+	# The pack runs G1 deliberately (ZGC was worse when joining), so the chat warning only confuses players.
+	showGarbageCollectorWarning = false

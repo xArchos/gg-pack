@@ -1,0 +1,28 @@
+{
+  "parent": "apotheosis:progression/frontier",
+  "criteria": {
+    "era": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "background": "apotheosis:textures/advancements/bg/apoth.png",
+    "description": {
+      "text": "Poziom świata przychodzi razem z Erą Okultyzmu (era 4) drużyny."
+    },
+    "frame": "goal",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:blaze_powder"
+    },
+    "title": {
+      "translate": "advancements.apotheosis.progression.ascent.title"
+    }
+  },
+  "requirements": [
+    [
+      "era"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

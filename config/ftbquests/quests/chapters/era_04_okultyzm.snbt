@@ -1,0 +1,1936 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "era_04_okultyzm"
+	group: "3CDFA8C60B58BCC5"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "gg:pieczec_okultyzm"
+	}
+	id: "614572473CD308F5"
+	images: [
+		{
+			height: 1.8d
+			id: "747F9A53410AC901"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 14.0d
+			x: 8.88d
+			y: -28.75d
+		}
+		{
+			height: 1.8d
+			id: "5507B25E3B3AAC31"
+			image: "gg:item/pieczec_okultyzm"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 0.68d
+			y: -28.75d
+		}
+		{
+			height: 1.8d
+			id: "14C4622483014B80"
+			image: "occultism:item/pentacle"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 17.07d
+			y: -28.75d
+		}
+		{
+			height: 0.8d
+			id: "5C8817AFA0667C8A"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -26.6d
+		}
+		{
+			height: 0.8d
+			id: "6F1452AAF9FD97D1"
+			image: "occultism:item/datura"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -26.6d
+		}
+		{
+			height: 0.8d
+			id: "22C3CBCB9064CA7A"
+			image: "occultism:item/book_of_binding_bound_foliot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -26.6d
+		}
+		{
+			height: 0.8d
+			id: "1F9AE788E3E681EB"
+			image: "occultism:item/spirit_attuned_gem"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 16.15d
+			y: -26.6d
+		}
+		{
+			height: 0.8d
+			id: "31114414459EA866"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -19.1d
+		}
+		{
+			height: 0.8d
+			id: "7AECC34C9D05B96E"
+			image: "malum:item/crude_scythe"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -19.1d
+		}
+		{
+			height: 0.8d
+			id: "43D75C3128B6B47F"
+			image: "malum:item/soul_stained_steel_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -19.1d
+		}
+		{
+			height: 0.04d
+			id: "2FE91CC742DC76C6"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 20.75d
+			x: 8.88d
+			y: -19.6d
+		}
+		{
+			height: 0.8d
+			id: "191C228DBC327441"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -13.15d
+		}
+		{
+			height: 0.8d
+			id: "337C22F18E99270A"
+			image: "eidolon_repraised:item/arcane_gold_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -13.15d
+		}
+		{
+			height: 0.8d
+			id: "50EDF8D6FC74CA70"
+			image: "goety:item/dark_wand"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -13.15d
+		}
+		{
+			height: 0.04d
+			id: "73A3BAC76D3252B1"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 20.75d
+			x: 8.88d
+			y: -13.65d
+		}
+		{
+			height: 0.8d
+			id: "2143EF3565881CD8"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -5.65d
+		}
+		{
+			height: 0.8d
+			id: "5A38D6BA90D17BAF"
+			image: "create:block/fluid_tank"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -5.65d
+		}
+		{
+			height: 0.04d
+			id: "5ECD0D848F4F6BF8"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 20.75d
+			x: 8.88d
+			y: -6.15d
+		}
+		{
+			height: 0.8d
+			id: "2D6339188F1FCC6C"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 0.3d
+		}
+		{
+			height: 0.8d
+			id: "66EBB44F423889D7"
+			image: "minecraft:block/ancient_debris_side"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 0.3d
+		}
+		{
+			height: 0.8d
+			id: "63AC094B936CDEA9"
+			image: "minecraft:item/netherite_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: 0.3d
+		}
+		{
+			height: 0.04d
+			id: "2749CF7A465456C6"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 20.75d
+			x: 8.88d
+			y: -0.2d
+		}
+		{
+			height: 0.8d
+			id: "5ACAE4BCB93394C9"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 10.6d
+		}
+		{
+			height: 0.8d
+			id: "2C90836028A36361"
+			image: "minecraft:item/nether_star"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 10.6d
+		}
+		{
+			height: 0.04d
+			id: "048FC14F36C348D7"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 20.75d
+			x: 8.88d
+			y: 10.1d
+		}
+		{
+			height: 0.8d
+			id: "757B602F46838580"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 17.3d
+		}
+		{
+			height: 0.04d
+			id: "770A6044919F8B0E"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 20.75d
+			x: 8.88d
+			y: 16.8d
+		}
+		{
+			height: 0.8d
+			id: "71D2012A7E7E5D60"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 22.5d
+		}
+		{
+			height: 0.8d
+			id: "29144D6F17CA6D7F"
+			image: "occultism:block/otherstone_bricks"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 22.5d
+		}
+		{
+			height: 0.04d
+			id: "5464084AEEA8720B"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 20.75d
+			x: 8.88d
+			y: 22.0d
+		}
+		{
+			height: 0.8d
+			id: "512DC3EF9C358646"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 25.1d
+		}
+		{
+			height: 0.8d
+			id: "7CC713E949DF21C2"
+			image: "wands:item/diamond_wand"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 25.1d
+		}
+		{
+			height: 0.04d
+			id: "73709DC3BCDFB27E"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 20.75d
+			x: 8.88d
+			y: 24.6d
+		}
+	]
+	order_index: 4
+	quest_links: [
+		{
+			id: "733E482BFA15BB54"
+			linked_quest: "5FA8A23DA5514B11"
+			x: 10.75d
+			y: 23.9d
+		}
+		{
+			id: "631A97DF90100BD7"
+			linked_quest: "7779B739FE49A31A"
+			x: 12.5d
+			y: -25.08d
+		}
+		{
+			id: "3A1AC437451D0ED4"
+			linked_quest: "0E60FAA1F3557AF5"
+			x: 12.5d
+			y: -23.53d
+		}
+		{
+			id: "67BDFE54691E98FF"
+			linked_quest: "4171FEAB75ADBDFA"
+			x: 12.5d
+			y: -21.98d
+		}
+		{
+			id: "3E315638C51E622F"
+			linked_quest: "599A5336E22779AA"
+			x: 12.5d
+			y: -20.43d
+		}
+		{
+			id: "04294E4D3C654DA1"
+			linked_quest: "180E2CAB7669186E"
+			x: 14.25d
+			y: -22.75d
+		}
+	]
+	quests: [
+		{
+			icon: {
+				id: "gg:pieczec_okultyzm"
+			}
+			id: "7A875C04743BEF62"
+			invisible: true
+			preset: "era"
+			rewards: [ ]
+			tags: ["era_okultyzm", "era_start"]
+			tasks: [
+				{
+					id: "08C3CB4F084D5802"
+					stage: "era_okultyzm"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7A875C04743BEF62"]
+			id: "6991CA280495CBD7"
+			rewards: [
+				{
+					id: "67685DCDEB098D68"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "4C13393D2606232F"
+					item: {
+						count: 1
+						id: "occultism:datura_seeds"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -22.75d
+		}
+		{
+			dependencies: ["6991CA280495CBD7"]
+			id: "50A0B849F5BE4EF6"
+			rewards: [
+				{
+					id: "044EB8D144E24619"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "4E8844EF1A4D5C6E"
+					item: {
+						count: 1
+						id: "occultism:dictionary_of_spirits"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -23.53d
+		}
+		{
+			dependencies: ["6991CA280495CBD7"]
+			icon: {
+				id: "occultism:spirit_fire"
+			}
+			id: "39734C68F06A6EAF"
+			rewards: [
+				{
+					id: "18D74603F8D01CDC"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "61E7A7D956085087"
+					item: {
+						count: 1
+						id: "occultism:taboo_book"
+					}
+					type: "item"
+				}
+				{
+					id: "0F36330A5B072B38"
+					item: {
+						count: 1
+						id: "occultism:purified_ink"
+					}
+					type: "item"
+				}
+				{
+					id: "02736354CD6C23C4"
+					item: {
+						count: 1
+						id: "occultism:awakened_feather"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -21.98d
+		}
+		{
+			dependencies: ["39734C68F06A6EAF"]
+			id: "17F6CE36D1B3D206"
+			rewards: [
+				{
+					id: "45CEF055A4CA20C7"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm", "seal"]
+			tasks: [
+				{
+					count: 2L
+					id: "4DC09A9FEFE2D87E"
+					item: {
+						count: 1
+						id: "occultism:spirit_attuned_gem"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -25.08d
+		}
+		{
+			dependencies: ["39734C68F06A6EAF"]
+			id: "215A96B07E9B2DCE"
+			rewards: [
+				{
+					id: "3876BD7193E9E8F0"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "589D11C90F856C80"
+					item: {
+						count: 1
+						id: "occultism:chalk_white"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -23.53d
+		}
+		{
+			dependencies: ["39734C68F06A6EAF"]
+			icon: {
+				id: "occultism:golden_sacrificial_bowl"
+			}
+			id: "691F25540999137F"
+			rewards: [
+				{
+					id: "26715756DD3B6DD4"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "38560BA62B7986CC"
+					item: {
+						count: 1
+						id: "occultism:golden_sacrificial_bowl"
+					}
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "1B22D282B3429343"
+					item: {
+						count: 1
+						id: "occultism:sacrificial_bowl"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -21.98d
+		}
+		{
+			dependencies: ["39734C68F06A6EAF", "50A0B849F5BE4EF6"]
+			id: "4CED3967C4092533"
+			rewards: [
+				{
+					id: "4CE240707D6DFAA5"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "4C65D3EDEA2DF32D"
+					item: {
+						count: 1
+						id: "occultism:book_of_binding_bound_foliot"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -20.43d
+		}
+		{
+			dependencies: ["4CED3967C4092533", "215A96B07E9B2DCE", "691F25540999137F"]
+			icon: {
+				id: "occultism:book_of_binding_bound_foliot"
+			}
+			id: "4AD2D93CABC3E791"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "5D9C074059E7E440"
+					type: "xp"
+					xp: 150
+				}
+				{
+					id: "782D8EC44C31576A"
+					table_id: 8180175395246822867L
+					type: "random"
+				}
+			]
+			tags: ["era_okultyzm", "milestone"]
+			tasks: [
+				{
+					advancement: "occultism:occultism/summon_foliot_crusher"
+					criterion: ""
+					id: "699B0AA84A576E36"
+					type: "advancement"
+				}
+			]
+			x: 9.0d
+			y: -22.75d
+		}
+		{
+			dependencies: ["4AD2D93CABC3E791"]
+			id: "13EDB8A28E326BE1"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "1E6B13C5BD3902FD"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm", "optional"]
+			tasks: [
+				{
+					id: "552BF25238AF5A60"
+					item: {
+						count: 1
+						id: "occultism:otherworld_goggles"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -23.53d
+		}
+		{
+			dependencies: ["4AD2D93CABC3E791"]
+			id: "0B22DCC034515189"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "399FE36908BF784A"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm", "optional"]
+			tasks: [
+				{
+					id: "379B9243F00587BE"
+					item: {
+						count: 1
+						id: "occultism:dimensional_mineshaft"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -21.98d
+		}
+		{
+			dependencies: ["7A875C04743BEF62"]
+			id: "38FB930EB156032B"
+			rewards: [
+				{
+					id: "4B08DB522C4E17BD"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					count: 8L
+					id: "709738ED1860652F"
+					item: {
+						count: 1
+						id: "malum:raw_soulstone"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -16.8d
+		}
+		{
+			dependencies: ["7A875C04743BEF62"]
+			id: "1D4CD8F88B9414AF"
+			rewards: [
+				{
+					id: "467D79F61DF9A118"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "6B488ACE9D38B73A"
+					item: {
+						count: 1
+						id: "malum:runewood_log"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -15.25d
+		}
+		{
+			dependencies: ["38FB930EB156032B"]
+			id: "192AB4BC3CDED21B"
+			rewards: [
+				{
+					id: "3303A933103EFD92"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "671EAB847734FC46"
+					item: {
+						count: 1
+						id: "malum:crude_scythe"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -17.58d
+		}
+		{
+			dependencies: ["38FB930EB156032B"]
+			id: "627BC61F615AA916"
+			rewards: [
+				{
+					id: "48AEEE9B5C1BCD48"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "024034856636C70B"
+					item: {
+						count: 1
+						id: "malum:encyclopedia_arcana"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -16.03d
+		}
+		{
+			dependencies: ["1D4CD8F88B9414AF", "38FB930EB156032B"]
+			id: "0047DA873A39FB9F"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "43A0B342C4F650DA"
+					type: "xp"
+					xp: 150
+				}
+				{
+					id: "171CF7148C6EB568"
+					table_id: 8180175395246822867L
+					type: "random"
+				}
+			]
+			tags: ["era_okultyzm", "milestone"]
+			tasks: [
+				{
+					id: "73D47DC6ACAFFAF7"
+					item: {
+						count: 1
+						id: "malum:spirit_altar"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -14.48d
+		}
+		{
+			dependencies: ["192AB4BC3CDED21B"]
+			icon: {
+				id: "malum:infernal_spirit"
+			}
+			id: "679EC6A33763BF96"
+			rewards: [
+				{
+					id: "5005F6782CDBED15"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm", "seal"]
+			tasks: [
+				{
+					count: 16L
+					id: "2EF55F3686829066"
+					item: {
+						count: 1
+						id: "malum:infernal_spirit"
+					}
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "10AA84D9C6E3AB2D"
+					item: {
+						count: 1
+						id: "malum:arcane_spirit"
+					}
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "2BDA873951AF3D0F"
+					item: {
+						count: 1
+						id: "malum:wicked_spirit"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -17.58d
+		}
+		{
+			dependencies: ["0047DA873A39FB9F", "192AB4BC3CDED21B"]
+			id: "4DCCC363F74FD2CF"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "495C75D15055FD8B"
+					type: "xp"
+					xp: 150
+				}
+				{
+					id: "77DE514D82482B61"
+					table_id: 8180175395246822867L
+					type: "random"
+				}
+			]
+			tags: ["era_okultyzm", "milestone", "seal"]
+			tasks: [
+				{
+					count: 4L
+					id: "772EFD07B39B7DED"
+					item: {
+						count: 1
+						id: "malum:soul_stained_steel_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -16.03d
+		}
+		{
+			dependencies: ["0047DA873A39FB9F"]
+			id: "1A3B43D388109BB2"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "1C568E6606075C0F"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm", "optional"]
+			tasks: [
+				{
+					id: "460447DA1BC5A930"
+					item: {
+						count: 1
+						id: "malum:spirit_jar"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -14.48d
+		}
+		{
+			dependencies: ["7A875C04743BEF62"]
+			id: "30A0FA9A0678057E"
+			rewards: [
+				{
+					id: "13BB9EC90EB40E51"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "3BF5F31D7F610FA3"
+					item: {
+						count: 1
+						id: "eidolon_repraised:codex"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -10.85d
+		}
+		{
+			dependencies: ["7A875C04743BEF62"]
+			id: "41F4B86B2EF0FA10"
+			rewards: [
+				{
+					id: "009B28DA6D46F33D"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "716F348CC67389AF"
+					item: {
+						count: 1
+						id: "eidolon_repraised:pewter_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -9.3d
+		}
+		{
+			dependencies: ["7A875C04743BEF62"]
+			id: "0678B9632C6A750F"
+			rewards: [
+				{
+					id: "0095AB99E9EED612"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "1D8F45F489EABC85"
+					item: {
+						count: 1
+						id: "goety:totem_of_souls"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -7.75d
+		}
+		{
+			dependencies: ["41F4B86B2EF0FA10"]
+			id: "3E5FD840601E8701"
+			rewards: [
+				{
+					id: "2828E863D20A92FF"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "586BC5EB99D9B16A"
+					item: {
+						count: 1
+						id: "eidolon_repraised:crucible"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -11.63d
+		}
+		{
+			dependencies: ["41F4B86B2EF0FA10"]
+			id: "5006AF1457F1861C"
+			rewards: [
+				{
+					id: "3CED676CE3753670"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "3D1A2D86C4250750"
+					item: {
+						count: 1
+						id: "eidolon_repraised:brazier"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -10.08d
+		}
+		{
+			dependencies: ["0678B9632C6A750F"]
+			id: "39405BD6F08DB507"
+			rewards: [
+				{
+					id: "1A687A9BD6C12731"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "0BDD93DF3EB57E6B"
+					item: {
+						count: 1
+						id: "goety:dark_wand"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -8.53d
+		}
+		{
+			dependencies: ["0678B9632C6A750F"]
+			id: "56FDC002E0BF6894"
+			rewards: [
+				{
+					id: "0F49AF1D83D0AE16"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "795DE55D70FDF955"
+					item: {
+						count: 1
+						id: "goety:dark_altar"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -6.98d
+		}
+		{
+			dependencies: ["5006AF1457F1861C", "30A0FA9A0678057E"]
+			id: "5B9DFFC1AFEC0403"
+			rewards: [
+				{
+					id: "0AADB34FBB703BB8"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "1376BEF16961B04E"
+					item: {
+						count: 1
+						id: "eidolon_repraised:soul_shard"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -9.3d
+		}
+		{
+			dependencies: ["3E5FD840601E8701", "5B9DFFC1AFEC0403"]
+			id: "1BC5B8A6DFDD9BFF"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "1864FE280529686D"
+					type: "xp"
+					xp: 150
+				}
+				{
+					id: "121F56BF25D9FCAE"
+					table_id: 8180175395246822867L
+					type: "random"
+				}
+			]
+			tags: ["era_okultyzm", "milestone", "seal"]
+			tasks: [
+				{
+					count: 4L
+					id: "6EBD1170B7EE8CCB"
+					item: {
+						count: 1
+						id: "eidolon_repraised:arcane_gold_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -9.3d
+		}
+		{
+			dependencies: ["7A875C04743BEF62"]
+			id: "6394638656ECEE87"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "2E49F005E8DF5704"
+					type: "xp"
+					xp: 150
+				}
+				{
+					id: "3FB58F05AEDF5CC4"
+					table_id: 8180175395246822867L
+					type: "random"
+				}
+			]
+			tags: ["era_okultyzm", "milestone", "seal"]
+			tasks: [
+				{
+					id: "60FDF9737235DF45"
+					item: {
+						count: 1
+						id: "create:steam_engine"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -4.13d
+		}
+		{
+			dependencies: ["7A875C04743BEF62"]
+			id: "2077B7B0F2C1E13A"
+			rewards: [
+				{
+					id: "642D5212453B4868"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm", "seal"]
+			tasks: [
+				{
+					count: 2L
+					id: "33EEC2E750BA1DEB"
+					item: {
+						count: 1
+						id: "create:precision_mechanism"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -2.58d
+		}
+		{
+			dependencies: ["7A875C04743BEF62"]
+			icon: {
+				id: "minecraft:soul_sand"
+			}
+			id: "19AB14EE702096F9"
+			rewards: [
+				{
+					id: "0DDAA691F519EEC1"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					count: 512L
+					id: "4D185C762011C170"
+					item: {
+						count: 1
+						id: "minecraft:soul_sand"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -1.03d
+		}
+		{
+			dependencies: ["38FB930EB156032B"]
+			icon: {
+				id: "malum:refined_soulstone"
+			}
+			id: "7E4031A8DD63D3DC"
+			rewards: [
+				{
+					id: "571D2DCFF1BBD6C3"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					count: 256L
+					id: "55A9A6AE34421F39"
+					item: {
+						count: 1
+						id: "malum:refined_soulstone"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -2.58d
+		}
+		{
+			dependencies: ["7A875C04743BEF62"]
+			id: "16066D372D3609DB"
+			rewards: [
+				{
+					id: "2400C90EAFB940AD"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "344DC77FD4400BA4"
+					item: {
+						count: 1
+						id: "minecraft:ancient_debris"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 1.95d
+		}
+		{
+			dependencies: ["7A875C04743BEF62"]
+			id: "7106AD48F9A4986F"
+			rewards: [
+				{
+					id: "7B44E7889977BD35"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					count: 3L
+					id: "4AA07FE1D8141D29"
+					item: {
+						count: 1
+						id: "minecraft:wither_skeleton_skull"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 3.75d
+		}
+		{
+			dependencies: ["7A875C04743BEF62"]
+			icon: {
+				id: "minecraft:blackstone"
+			}
+			id: "19D30CB192B1F221"
+			rewards: [
+				{
+					id: "764F8045615E161B"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "7FFC358C21AFC195"
+					structure: "bosses_of_mass_destruction:gauntlet_arena"
+					type: "structure"
+				}
+			]
+			x: 3.75d
+			y: 5.55d
+		}
+		{
+			dependencies: ["7A875C04743BEF62"]
+			icon: {
+				id: "minecraft:polished_blackstone_bricks"
+			}
+			id: "3DFEE7818FF6CCA9"
+			rewards: [
+				{
+					id: "26E56D77168998D5"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "0C79A6390C0F786A"
+					structure: "irons_spellbooks:citadel"
+					type: "structure"
+				}
+			]
+			x: 3.75d
+			y: 7.35d
+		}
+		{
+			dependencies: ["7A875C04743BEF62"]
+			icon: {
+				id: "minecraft:nether_bricks"
+			}
+			id: "197AE2220D5D840F"
+			rewards: [
+				{
+					id: "0A5F59AAF23E365C"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "229F3A2A491F57BB"
+					structure: "incendium:forbidden_castle"
+					type: "structure"
+				}
+			]
+			x: 3.75d
+			y: 9.15d
+		}
+		{
+			dependencies: ["7106AD48F9A4986F"]
+			icon: {
+				id: "minecraft:nether_star"
+			}
+			id: "7404AAD62E8C2537"
+			preset: "boss"
+			rewards: [
+				{
+					id: "7DEB54A441A958D5"
+					type: "xp"
+					xp: 300
+				}
+			]
+			tags: ["era_okultyzm", "boss"]
+			tasks: [
+				{
+					id: "23E8F966269DD39B"
+					stage: "boss_minecraft_wither"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 5.5d
+			y: 1.95d
+		}
+		{
+			dependencies: ["16066D372D3609DB"]
+			id: "49E08EB34B573131"
+			rewards: [
+				{
+					id: "6102023550FAB8EB"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "1D7A87D6553BB714"
+					item: {
+						count: 1
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 3.75d
+		}
+		{
+			dependencies: ["19D30CB192B1F221"]
+			icon: {
+				id: "bosses_of_mass_destruction:blazing_eye"
+			}
+			id: "299D1E3EB5420A9A"
+			preset: "boss"
+			rewards: [
+				{
+					id: "4FAE50C1ED91BA97"
+					type: "xp"
+					xp: 300
+				}
+			]
+			tags: ["era_okultyzm", "boss"]
+			tasks: [
+				{
+					id: "6BDBC0B437FD74BA"
+					stage: "boss_bosses_of_mass_destruction_gauntlet"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 5.5d
+			y: 5.55d
+		}
+		{
+			dependencies: ["3DFEE7818FF6CCA9", "16066D372D3609DB"]
+			id: "39A0F4A2446C34AB"
+			rewards: [
+				{
+					id: "3757E444B0C3B5C1"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "3CFF2EF4FC1036A9"
+					item: {
+						count: 1
+						id: "irons_spellbooks:cinderous_soulcaller"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 7.35d
+		}
+		{
+			dependencies: ["197AE2220D5D840F"]
+			icon: {
+				id: "minecraft:gold_ingot"
+			}
+			id: "7AE185395A600437"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "4DD84A7D533B9C7D"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm", "optional"]
+			tasks: [
+				{
+					id: "2A641B865D64B904"
+					structure: "incendium:piglin_village"
+					type: "structure"
+				}
+			]
+			x: 5.5d
+			y: 9.15d
+		}
+		{
+			dependencies: ["39A0F4A2446C34AB"]
+			icon: {
+				id: "irons_spellbooks:cinderous_soulcaller"
+			}
+			id: "2E59B8AC37A168E2"
+			preset: "boss"
+			rewards: [
+				{
+					id: "4C65F9492E624448"
+					type: "xp"
+					xp: 300
+				}
+			]
+			tags: ["era_okultyzm", "boss"]
+			tasks: [
+				{
+					id: "72866768CAF45EC4"
+					stage: "boss_irons_spellbooks_fire_boss"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 7.25d
+			y: 4.65d
+		}
+		{
+			dependencies: ["49E08EB34B573131"]
+			id: "122241210B4A87F5"
+			rewards: [
+				{
+					id: "031C285B2C00B7EF"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "358C968CE88D8E12"
+					item: {
+						count: 1
+						id: "minecraft:netherite_pickaxe"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: 6.45d
+		}
+		{
+			dependencies: ["7A875C04743BEF62"]
+			icon: {
+				id: "twilightforest:trophy_pedestal"
+			}
+			id: "46811C915B911C1B"
+			rewards: [
+				{
+					id: "42A5C01F1EFACD22"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "6BA21E9D25856DE8"
+					structure: "twilightforest:knight_stronghold"
+					type: "structure"
+				}
+			]
+			x: 3.75d
+			y: 14.05d
+		}
+		{
+			dependencies: ["46811C915B911C1B"]
+			icon: {
+				id: "twilightforest:knight_phantom_trophy"
+			}
+			id: "5857AAD82B30CC8F"
+			preset: "boss"
+			rewards: [
+				{
+					id: "57DA41BCE564D330"
+					type: "xp"
+					xp: 300
+				}
+			]
+			tags: ["era_okultyzm", "boss"]
+			tasks: [
+				{
+					id: "563AE56723E56DD1"
+					stage: "boss_twilightforest_knight_phantom"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 5.5d
+			y: 14.05d
+		}
+		{
+			dependencies: ["56FDC002E0BF6894", "49E08EB34B573131"]
+			icon: {
+				id: "goety:apostle_spawn_egg"
+			}
+			id: "721E79C1649B6E55"
+			preset: "boss"
+			rewards: [
+				{
+					id: "4CA158E10676337F"
+					type: "xp"
+					xp: 300
+				}
+			]
+			tags: ["era_okultyzm", "boss"]
+			tasks: [
+				{
+					id: "2DB4269E5C42E4A2"
+					stage: "boss_goety_apostle"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 7.25d
+			y: 12.25d
+		}
+		{
+			dependencies: ["5857AAD82B30CC8F"]
+			icon: {
+				id: "twilightforest:carminite"
+			}
+			id: "160A4589914D44F9"
+			rewards: [
+				{
+					id: "7D4B46B0B29590B5"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "6FFEA945BC57FDA3"
+					structure: "twilightforest:dark_tower"
+					type: "structure"
+				}
+			]
+			x: 7.25d
+			y: 14.05d
+		}
+		{
+			dependencies: ["7404AAD62E8C2537", "299D1E3EB5420A9A"]
+			icon: {
+				id: "minecraft:nether_star"
+			}
+			id: "6994230275E5D8EC"
+			min_required_dependencies: 1
+			preset: "milestone"
+			rewards: [
+				{
+					id: "30B1ECAA6A728A32"
+					type: "xp"
+					xp: 150
+				}
+				{
+					id: "56167E06F22F68DA"
+					table_id: 8180175395246822867L
+					type: "random"
+				}
+			]
+			tags: ["era_okultyzm", "milestone"]
+			tasks: [ ]
+			x: 7.25d
+			y: 15.85d
+		}
+		{
+			dependencies: ["160A4589914D44F9"]
+			icon: {
+				id: "twilightforest:ur_ghast_trophy"
+			}
+			id: "3E899BBEACE9736D"
+			preset: "boss"
+			rewards: [
+				{
+					id: "7E6B993F66E80E90"
+					type: "xp"
+					xp: 300
+				}
+			]
+			tags: ["era_okultyzm", "boss"]
+			tasks: [
+				{
+					id: "07C67B33BEE37E68"
+					stage: "boss_twilightforest_ur_ghast"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 9.0d
+			y: 14.05d
+		}
+		{
+			dependencies: ["721E79C1649B6E55", "2E59B8AC37A168E2", "5857AAD82B30CC8F", "3E899BBEACE9736D"]
+			icon: {
+				id: "gg:trofeum"
+			}
+			id: "7E16A6FC1B86D393"
+			min_required_dependencies: 1
+			preset: "milestone"
+			rewards: [
+				{
+					id: "544EC082933504C7"
+					type: "xp"
+					xp: 150
+				}
+				{
+					id: "14A8BBC82B37F689"
+					table_id: 8180175395246822867L
+					type: "random"
+				}
+			]
+			tags: ["era_okultyzm", "milestone"]
+			tasks: [ ]
+			x: 10.75d
+			y: 14.05d
+		}
+		{
+			dependencies: ["7A875C04743BEF62"]
+			id: "1B01C36C0DE071C6"
+			rewards: [
+				{
+					id: "264DF68A8E66CAEE"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "01568DFFC2EDFE9A"
+					item: {
+						count: 1
+						id: "minecolonies:blockhutalchemist"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 18.7d
+		}
+		{
+			dependencies: ["7A875C04743BEF62"]
+			id: "4E98BA31FBC78B91"
+			rewards: [
+				{
+					id: "79B6A961EA9BDB5B"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "1620A73022943EE3"
+					item: {
+						count: 1
+						id: "minecolonies:blockhutgraveyard"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 20.0d
+		}
+		{
+			dependencies: ["7A875C04743BEF62"]
+			id: "6E304D1D827F9F64"
+			rewards: [
+				{
+					id: "69C9DCD594328A2B"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "51096EE12D1E4806"
+					item: {
+						count: 1
+						id: "minecolonies:blockhutnetherworker"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 21.3d
+		}
+		{
+			dependencies: ["4CED3967C4092533"]
+			id: "353C2D82DCE53DB0"
+			rewards: [
+				{
+					id: "0A2B2199320C422D"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "61E0BDC4CD388B2D"
+					item: {
+						count: 1
+						id: "occultism:satchel"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 23.9d
+		}
+		{
+			dependencies: ["7A875C04743BEF62"]
+			id: "74872B61F75042BA"
+			rewards: [
+				{
+					id: "206A64BEBA7DACA5"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "2393276E36C3510D"
+					item: {
+						count: 1
+						id: "wands:diamond_wand"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 26.5d
+		}
+		{
+			dependencies: ["39734C68F06A6EAF"]
+			icon: {
+				id: "occultism:otherstone_bricks"
+			}
+			id: "5591FD6E615737D8"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "57C53FF88349F814"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm", "optional"]
+			tasks: [
+				{
+					count: 64L
+					id: "20BC2F1B858AE1BE"
+					item: {
+						count: 1
+						id: "occultism:otherstone_bricks"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: 26.5d
+		}
+		{
+			dependencies: [
+				"0047DA873A39FB9F"
+				"4DCCC363F74FD2CF"
+				"4AD2D93CABC3E791"
+				"1BC5B8A6DFDD9BFF"
+				"6394638656ECEE87"
+				"6994230275E5D8EC"
+				"7E16A6FC1B86D393"
+			]
+			icon: {
+				id: "gg:pieczec_para"
+			}
+			id: "02418C71BA9EEFA3"
+			preset: "era"
+			rewards: [
+				{
+					auto: "enabled"
+					icon: {
+						id: "gg:pieczec_para"
+					}
+					id: "7E2381E52380A40E"
+					stage: "era_para"
+					team_reward: true
+					type: "gamestage"
+				}
+				{
+					id: "64FC436614462389"
+					type: "xp"
+					xp: 600
+				}
+				{
+					id: "67B5A527C5CF9054"
+					table_id: 3370969676082759243L
+					type: "all_table"
+				}
+			]
+			tags: ["era_okultyzm", "gate"]
+			tasks: [
+				{
+					consume_items: true
+					id: "4EAA6FBE0773504A"
+					item: {
+						count: 1
+						id: "gg:pieczec_para"
+					}
+					type: "item"
+				}
+			]
+			x: 17.75d
+			y: 0.0d
+		}
+	]
+}

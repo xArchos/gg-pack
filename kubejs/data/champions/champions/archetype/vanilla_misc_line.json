@@ -1,0 +1,58 @@
+{
+  "id": "champions:vanilla_misc_line",
+  "entity_filter": {
+    "type": "entity_type",
+    "types": [
+      "minecraft:breeze",
+      "minecraft:piglin",
+      "minecraft:piglin_brute",
+      "minecraft:shulker",
+      "minecraft:giant"
+    ]
+  },
+  "tier_range": {},
+  "affix_pools": [
+    {
+      "tier_range": { "max": 2 },
+      "candidates": [
+        { "affix": "champions:knocking", "weight": 12 },
+        { "affix": "champions:wounding", "weight": 8 },
+        { "affix": "champions:paralyzing", "weight": 6 },
+        { "affix": "champions:dampening" },
+        { "affix": "champions:lively" },
+        { "affix": "champions:hasty" }
+      ]
+    },
+    {
+      "tier_range": { "min": 3, "max": 4 },
+      "max_count": 2,
+      "candidates": [
+        { "affix": "champions:shielding", "max_strength": 2, "weight": 8 },
+        { "affix": "champions:adaptable", "max_strength": 2, "weight": 8 },
+        { "affix": "champions:reflective", "max_strength": 2, "weight": 6 },
+        { "affix": "champions:knocking", "max_strength": 2, "weight": 12 },
+        { "affix": "champions:wounding", "max_strength": 2, "weight": 8 },
+        { "affix": "champions:dampening", "max_strength": 2 },
+        { "affix": "champions:lively", "max_strength": 2 },
+        { "affix": "champions:hasty", "max_strength": 2 }
+      ]
+    },
+    {
+      "tier_range": { "min": 5 },
+      "min_count": 2,
+      "max_count": 3,
+      "candidates": [
+        { "affix": "champions:arctic", "min_strength": 2, "max_strength": 3, "weight": 6 },
+        { "affix": "champions:enkindling", "min_strength": 2, "max_strength": 3, "weight": 6 },
+        { "affix": "champions:molten", "min_strength": 2, "max_strength": 3, "weight": 6 },
+        { "affix": "champions:plagued", "min_strength": 2, "max_strength": 3, "weight": 6 },
+        { "affix": "champions:shielding", "min_strength": 2, "max_strength": 3, "weight": 8 },
+        { "affix": "champions:adaptable", "min_strength": 2, "max_strength": 3, "weight": 8 },
+        { "affix": "champions:reflective", "min_strength": 2, "max_strength": 3, "weight": 6 },
+        { "affix": "champions:knocking", "min_strength": 2, "max_strength": 3 },
+        { "affix": "champions:dampening", "min_strength": 2, "max_strength": 3 },
+        { "affix": "champions:lively", "min_strength": 2, "max_strength": 3 }
+      ]
+    }
+  ]
+}

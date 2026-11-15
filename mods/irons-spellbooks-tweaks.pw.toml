@@ -1,0 +1,13 @@
+name = "Iron's Spellbooks Tweaks"
+filename = "irons_spellbooks_tweaks-1.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3c99ddd04031cd9a9f0f35f2e01ac8d7c61820fd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8204426
+project-id = 1529368

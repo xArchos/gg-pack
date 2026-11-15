@@ -1,0 +1,805 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "magic_theurgy"
+	group: "3108D924C31FF1C5"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "theurgy:mercury_shard"
+	}
+	id: "647A5154278C93F9"
+	images: [
+		{
+			height: 1.8d
+			id: "22E65BF6458C85C7"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -11.2d
+		}
+		{
+			height: 1.8d
+			id: "19A425BE77B03C22"
+			image: "theurgy:item/mercury_shard"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -11.2d
+		}
+		{
+			height: 1.8d
+			id: "480567555EDC1257"
+			image: "theurgy:item/alchemical_salt"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -11.2d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "1E3381ABB8061957"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -9.05d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "1ABB657C9DBD5FF7"
+			image: "theurgy:item/divination_rod_t1/divination_rod_0"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -9.05d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "19C6D800E698ABBB"
+			image: "theurgy:item/divination_rod_t4/divination_rod_0"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -9.05d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "4AF1C639F6A54031"
+			image: "theurgy:item/amethyst_divination_rod/divination_rod_0"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -9.05d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "777C5F8FE5E55C23"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -3.85d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "19FFF9195AB59F2A"
+			image: "theurgy:item/fermentation_starter"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -3.85d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "38DDF507C6A66E8B"
+			image: "theurgy:block/fermentation_vat_side_front"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -3.85d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "7775D093E3C1F9C1"
+			image: "theurgy:item/niters/metals_common"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -3.85d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.04d
+			id: "2E31A2026D080B8D"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -4.35d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "65CE5C0566EDF56A"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 0.55d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "10D655A64310E315"
+			image: "theurgy:block/mercury_catalyst"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 0.55d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "11C179B786D46602"
+			image: "theurgy:block/caloric_flux_emitter"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 0.55d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "4863190E87781392"
+			image: "theurgy:item/mercury_crystal"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 0.55d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "5CD798CB9F85CCAB"
+			image: "theurgy:block/reformation_target_pedestal"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: 0.55d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.04d
+			id: "3B414826462CB8A5"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 0.05d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "36FC78FA25251ACF"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 4.95d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "36ED5E0603409A97"
+			image: "theurgy:item/copper_wire"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 4.95d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "1661BBB03B106DA0"
+			image: "theurgy:block/logistics_item_inserter"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 4.95d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "5F7B44C0CFFFC13D"
+			image: "theurgy:item/list_filter"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 4.95d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.04d
+			id: "66775B8AA8F16033"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 4.45d
+		}
+	]
+	order_index: 13
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["76291927B354F598"]
+			hide_until_deps_complete: true
+			id: "1D12C092653159E4"
+			rewards: [
+				{
+					id: "5826AEE538649EDF"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "3DDB24462CC08E1D"
+					item: {
+						count: 1
+						id: "theurgy:divination_rod_t1"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -6.35d
+		}
+		{
+			dependencies: ["1D12C092653159E4"]
+			icon: {
+				id: "theurgy:divination_rod_t4"
+			}
+			id: "72904B22A8464C33"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "5F20D44A10816EA3"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "4F8C8A85549ED9D9"
+					item: {
+						count: 1
+						id: "theurgy:divination_rod_t2"
+					}
+					type: "item"
+				}
+				{
+					id: "6FFEEC0B063F13EC"
+					item: {
+						count: 1
+						id: "theurgy:divination_rod_t3"
+					}
+					type: "item"
+				}
+				{
+					id: "0993D2CB6E6763FF"
+					item: {
+						count: 1
+						id: "theurgy:divination_rod_t4"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -7.65d
+		}
+		{
+			dependencies: ["1D12C092653159E4"]
+			icon: {
+				id: "theurgy:sulfur_attuned_divination_rod_rare"
+			}
+			id: "4CDBB8A0075E9ED2"
+			rewards: [
+				{
+					id: "417DABA3D7AF51FA"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "5EAA9FAB110A27ED"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(theurgy:sulfur_attuned_divination_rod_abundant)item(theurgy:sulfur_attuned_divination_rod_common)item(theurgy:sulfur_attuned_divination_rod_precious)item(theurgy:sulfur_attuned_divination_rod_rare))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -6.35d
+		}
+		{
+			dependencies: ["1D12C092653159E4"]
+			id: "326A1530E5FB63B5"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "6A91C444B0C561EF"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "612B14663B1983A7"
+					item: {
+						count: 1
+						id: "theurgy:amethyst_divination_rod"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -5.05d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			hide_until_deps_complete: true
+			id: "21910EC2977D2053"
+			rewards: [
+				{
+					id: "728B3826751CD683"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "6B83EFCF96FB5E3C"
+					item: {
+						count: 1
+						id: "theurgy:fermentation_vat"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -1.55d
+		}
+		{
+			dependencies: ["21910EC2977D2053"]
+			id: "361D545118FBE10F"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "557F20CE10A5561E"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "19C0D4FEFA8401B2"
+					item: {
+						count: 1
+						id: "theurgy:fermentation_starter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -2.33d
+		}
+		{
+			dependencies: ["21910EC2977D2053"]
+			id: "14FDE6CE1CB0DA47"
+			rewards: [
+				{
+					id: "06ECE04DD9AFE430"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "40C71CF5C4FA64D3"
+					item: {
+						count: 1
+						id: "theurgy:alchemical_niter_metals_common"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -0.78d
+		}
+		{
+			dependencies: ["14FDE6CE1CB0DA47"]
+			id: "54A27D72882687A4"
+			rewards: [
+				{
+					id: "0328FA8BFF5CE5AC"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "5FDAE2DBADB28C69"
+					item: {
+						count: 1
+						id: "theurgy:digestion_vat"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -1.55d
+		}
+		{
+			dependencies: ["54A27D72882687A4"]
+			id: "50890A13904C4FD2"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "15A56FF9C5E928CF"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "219CF04189522EE8"
+					item: {
+						count: 1
+						id: "theurgy:alchemical_niter_metals_rare"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -1.55d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			hide_until_deps_complete: true
+			id: "1B3F82D1C7ED9A73"
+			rewards: [
+				{
+					id: "59B5D2702876B2D5"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "7CC2F60831ECF509"
+					item: {
+						count: 1
+						id: "theurgy:mercury_catalyst"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.85d
+		}
+		{
+			dependencies: ["1B3F82D1C7ED9A73"]
+			id: "38C84D7F662C57E1"
+			rewards: [
+				{
+					id: "266D338C89C5B81C"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "5BB7B888133F8D35"
+					item: {
+						count: 1
+						id: "theurgy:caloric_flux_emitter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 2.07d
+		}
+		{
+			dependencies: ["1B3F82D1C7ED9A73"]
+			icon: {
+				id: "theurgy:reformation_target_pedestal"
+			}
+			id: "12839D5DA4C084BB"
+			rewards: [
+				{
+					id: "6A74792B97522376"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "576A275525CC1FD5"
+					item: {
+						count: 1
+						id: "theurgy:reformation_source_pedestal"
+					}
+					type: "item"
+				}
+				{
+					id: "502E485C977750CC"
+					item: {
+						count: 1
+						id: "theurgy:reformation_target_pedestal"
+					}
+					type: "item"
+				}
+				{
+					id: "590A766E252E18F4"
+					item: {
+						count: 1
+						id: "theurgy:reformation_result_pedestal"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 3.62d
+		}
+		{
+			dependencies: ["12839D5DA4C084BB"]
+			id: "394E885DF08E66D6"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "1B606E11E477C093"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "34EF303CA0C9E17E"
+					item: {
+						count: 1
+						id: "theurgy:sulfuric_flux_emitter"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 2.85d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "theurgy:copper_wire"
+			}
+			id: "035995539D6360EB"
+			rewards: [
+				{
+					id: "726D1BB4852E6664"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					count: 8L
+					id: "42F1830139B26ACA"
+					item: {
+						count: 1
+						id: "theurgy:copper_wire"
+					}
+					type: "item"
+				}
+				{
+					id: "242EC7E38BDA00FC"
+					item: {
+						count: 1
+						id: "theurgy:logistics_connector_node"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 7.65d
+		}
+		{
+			dependencies: ["035995539D6360EB"]
+			icon: {
+				id: "theurgy:logistics_item_inserter"
+			}
+			id: "332569B85AF86340"
+			rewards: [
+				{
+					id: "0D0FC146317B9B1E"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "4C2A7630ECA85127"
+					item: {
+						count: 1
+						id: "theurgy:logistics_item_extractor"
+					}
+					type: "item"
+				}
+				{
+					id: "281F4A68370D1BEA"
+					item: {
+						count: 1
+						id: "theurgy:logistics_item_inserter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 7.65d
+		}
+		{
+			dependencies: ["332569B85AF86340"]
+			id: "3C0A920447D551DA"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "3D07F569FDD0521F"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "0540A2B4B782452B"
+					item: {
+						count: 1
+						id: "theurgy:list_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 6.35d
+		}
+		{
+			dependencies: ["332569B85AF86340"]
+			icon: {
+				id: "theurgy:logistics_fluid_inserter"
+			}
+			id: "70069CD4972F8AD2"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "38DBF1B88BE14E27"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "7B459521507D73D3"
+					item: {
+						count: 1
+						id: "theurgy:logistics_fluid_extractor"
+					}
+					type: "item"
+				}
+				{
+					id: "1CDE8D6E2746F0BE"
+					item: {
+						count: 1
+						id: "theurgy:logistics_fluid_inserter"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 7.65d
+		}
+		{
+			dependencies: ["332569B85AF86340"]
+			icon: {
+				id: "theurgy:liquefaction_cauldron"
+			}
+			id: "737270BF555FE1CF"
+			rewards: [
+				{
+					id: "47DC5EE8E537B2ED"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					count: 256L
+					id: "0BED4AED3C112BD5"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "item_tag(theurgy:alchemical_sulfurs)"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 8.95d
+		}
+	]
+}

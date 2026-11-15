@@ -1,0 +1,517 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "storage_mega"
+	group: "75FCEC97D90BDF93"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "megacells:cell_component_1m"
+	}
+	id: "40243C8488BD3955"
+	images: [
+		{
+			height: 1.8d
+			id: "0108E062E4FD970A"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -9.1d
+		}
+		{
+			height: 1.8d
+			id: "39E7CDFB3365C651"
+			image: "megacells:item/accumulation_processor"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -9.1d
+		}
+		{
+			height: 1.8d
+			id: "0933948055919F8C"
+			image: "megacells:item/sky_steel_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -9.1d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "285AF730CBF078B1"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -6.95d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "0DFF1F1B9425E28F"
+			image: "megacells:item/cell_component_1m"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -6.95d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "79FE019CC29C2143"
+			image: "megacells:item/mega_item_cell_housing"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -6.95d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "40E7B95C60ACA7E6"
+			image: "megacells:block/sky_steel_block"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -6.95d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "093962ABD238A794"
+			image: "megacells:item/cell_component_16m"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -6.95d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "1D0EAB13F7123235"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 0.55d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "0CCA5750EFA1B073"
+			image: "megacells:block/crafting/accelerator"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 0.55d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "45A9860D48116EAF"
+			image: "megacells:block/mega_pattern_provider"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 0.55d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "13EC5F80F3097195"
+			image: "megacells:block/mega_interface"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 0.55d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "661C630E9E0EBF85"
+			image: "megacells:block/mega_energy_cell_4"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: 0.55d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.04d
+			id: "0C1EE246DEA309E7"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 0.05d
+		}
+	]
+	order_index: 8
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["53A32F809B45CAFE"]
+			hide_until_deps_complete: true
+			id: "4E8E8D7B7C8512D8"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "3267CA87261E14FB"
+					type: "xp"
+					xp: 250
+				}
+			]
+			tags: ["era_atom", "storage"]
+			tasks: [
+				{
+					id: "2120999C06629F05"
+					item: {
+						count: 1
+						id: "megacells:cell_component_1m"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -3.1d
+		}
+		{
+			dependencies: ["4E8E8D7B7C8512D8"]
+			icon: {
+				id: "megacells:sky_steel_ingot"
+			}
+			id: "7A50644B521C28CE"
+			rewards: [
+				{
+					id: "2663B4BF78C6E378"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "storage"]
+			tasks: [
+				{
+					count: 256L
+					id: "7D175B29E69DADCC"
+					item: {
+						count: 1
+						id: "megacells:sky_steel_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -5.42d
+		}
+		{
+			dependencies: ["4E8E8D7B7C8512D8"]
+			icon: {
+				id: "megacells:item_storage_cell_1m"
+			}
+			id: "408F2BDCC4644279"
+			rewards: [
+				{
+					id: "1063E12F2DAE815B"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "storage"]
+			tasks: [
+				{
+					id: "0AA54F28B46BEAB4"
+					item: {
+						count: 1
+						id: "megacells:mega_item_cell_housing"
+					}
+					type: "item"
+				}
+				{
+					id: "108A60D9C612DD65"
+					item: {
+						count: 1
+						id: "megacells:item_storage_cell_1m"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -3.88d
+		}
+		{
+			dependencies: ["408F2BDCC4644279"]
+			icon: {
+				id: "megacells:item_storage_cell_16m"
+			}
+			id: "7F2F64FF607A4878"
+			rewards: [
+				{
+					id: "4ECBA23B24157F91"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "storage"]
+			tasks: [
+				{
+					id: "1678EEE1DD52F903"
+					item: {
+						count: 1
+						id: "megacells:item_storage_cell_4m"
+					}
+					type: "item"
+				}
+				{
+					id: "0DA7425548650AFD"
+					item: {
+						count: 1
+						id: "megacells:item_storage_cell_16m"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -3.88d
+		}
+		{
+			dependencies: ["408F2BDCC4644279"]
+			id: "2C15790615B51709"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "56F3E3F5ECD7BA0E"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "storage"]
+			tasks: [
+				{
+					id: "1CE58C3CAC0C584A"
+					item: {
+						count: 1
+						id: "megacells:fluid_storage_cell_1m"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -2.33d
+		}
+		{
+			dependencies: ["4E8E8D7B7C8512D8"]
+			id: "1D2ACC757F4E5AD1"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "72512E7298170D77"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "storage"]
+			tasks: [
+				{
+					id: "67095FFD2C263F6F"
+					item: {
+						count: 1
+						id: "megacells:bulk_item_cell"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -2.33d
+		}
+		{
+			dependencies: ["4E8E8D7B7C8512D8"]
+			id: "0A6560E2EF3CCF5F"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "6FD8CED3FC7396E4"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "storage"]
+			tasks: [
+				{
+					id: "46281C5BD0F4DAD1"
+					item: {
+						count: 1
+						id: "megacells:cell_dock"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -0.78d
+		}
+		{
+			dependencies: ["4E8E8D7B7C8512D8"]
+			icon: {
+				id: "megacells:mega_crafting_accelerator"
+			}
+			id: "7584663819EB3E25"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "5DDED3772107494C"
+					type: "xp"
+					xp: 250
+				}
+			]
+			tags: ["era_atom", "storage"]
+			tasks: [
+				{
+					id: "493C76B97A41B123"
+					item: {
+						count: 1
+						id: "megacells:mega_crafting_unit"
+					}
+					type: "item"
+				}
+				{
+					id: "3A40748FC4913D28"
+					item: {
+						count: 1
+						id: "megacells:1m_crafting_storage"
+					}
+					type: "item"
+				}
+				{
+					id: "39CA2D1226E0B03C"
+					item: {
+						count: 1
+						id: "megacells:mega_crafting_accelerator"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 2.08d
+		}
+		{
+			dependencies: ["4E8E8D7B7C8512D8"]
+			id: "04FF02A313E6B726"
+			rewards: [
+				{
+					id: "6957CD6C360043AE"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "storage"]
+			tasks: [
+				{
+					id: "05319998F03F51EA"
+					item: {
+						count: 1
+						id: "megacells:mega_pattern_provider"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 3.62d
+		}
+		{
+			dependencies: ["4E8E8D7B7C8512D8"]
+			id: "3B1E0112EC768F9D"
+			rewards: [
+				{
+					id: "331417A47BDD05C4"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "storage"]
+			tasks: [
+				{
+					id: "36D85A1459936486"
+					item: {
+						count: 1
+						id: "megacells:mega_interface"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 5.17d
+		}
+		{
+			dependencies: ["4E8E8D7B7C8512D8"]
+			id: "4E099DD64BBB3C5D"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "37B2EC7E34015C99"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "storage"]
+			tasks: [
+				{
+					id: "1F24E25AC09E83E5"
+					item: {
+						count: 1
+						id: "megacells:mega_energy_cell"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 6.72d
+		}
+		{
+			dependencies: ["408F2BDCC4644279"]
+			id: "77A9ACD05722B00C"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "25A8B791AC5D697A"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "storage"]
+			tasks: [
+				{
+					id: "325846B2AB8BFD79"
+					item: {
+						count: 1
+						id: "megacells:portable_item_cell_1m"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 4.4d
+		}
+	]
+}

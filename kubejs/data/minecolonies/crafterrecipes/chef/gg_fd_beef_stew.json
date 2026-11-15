@@ -1,0 +1,14 @@
+{
+  "type": "recipe",
+  "crafter": "chef_crafting",
+  "inputs": [
+    {"id": "minecraft:beef"},
+    {"id": "minecraft:carrot"},
+    {"id": "minecraft:potato"},
+    {"id": "minecraft:bowl"}
+  ],
+  "intermediate": "minecraft:air",
+  "min-building-level": 1,
+  "result": {"id": "farmersdelight:beef_stew"},
+  "show-tooltip": true
+}

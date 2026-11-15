@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mvs:log_ruin",
+      "required": false
+    }
+  ]
+}

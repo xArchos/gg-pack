@@ -1,0 +1,1956 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "era_03_mosiadz"
+	group: "3CDFA8C60B58BCC5"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "gg:pieczec_mosiadz"
+	}
+	id: "6B0D27F4E458A104"
+	images: [
+		{
+			height: 1.8d
+			id: "003170AC35BEF242"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 14.0d
+			x: 10.62d
+			y: -29.03d
+		}
+		{
+			height: 1.8d
+			id: "3D129646F7EED272"
+			image: "gg:item/pieczec_mosiadz"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 2.43d
+			y: -29.03d
+		}
+		{
+			height: 1.8d
+			id: "32FD7EB5AF6FA034"
+			image: "create:item/precision_mechanism"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 18.82d
+			y: -29.03d
+		}
+		{
+			height: 0.8d
+			id: "668345296368FDA7"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -26.88d
+		}
+		{
+			height: 0.8d
+			id: "1AE8714A51D857A9"
+			image: "create:item/brass_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -26.88d
+		}
+		{
+			height: 0.8d
+			id: "7DE088F772B7CD95"
+			image: "create:block/brass_casing"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -26.88d
+		}
+		{
+			height: 0.8d
+			id: "3B6F4C4E46B2D241"
+			image: "create:item/electron_tube"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 19.65d
+			y: -26.88d
+		}
+		{
+			height: 0.8d
+			id: "3EBCBDAE8238050F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -20.93d
+		}
+		{
+			height: 0.8d
+			id: "10E3F2F36BF25960"
+			image: "create:block/railway_casing"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -20.93d
+		}
+		{
+			height: 0.8d
+			id: "105D72DBEA840DFC"
+			image: "create:item/schedule"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -20.93d
+		}
+		{
+			height: 0.8d
+			id: "485D211F179FBFFC"
+			image: "create:item/package/cardboard"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 19.65d
+			y: -20.93d
+		}
+		{
+			height: 0.04d
+			id: "61E123F3B42BBC1F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 24.25d
+			x: 10.62d
+			y: -21.43d
+		}
+		{
+			height: 0.8d
+			id: "7CFAE6C9AD69BB39"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -17.03d
+		}
+		{
+			height: 0.8d
+			id: "0E30E5AFE3A20D1C"
+			image: "minecraft:item/blaze_rod"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -17.03d
+		}
+		{
+			height: 0.8d
+			id: "0B92CD3C91087BE0"
+			image: "minecraft:item/magma_cream"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -17.03d
+		}
+		{
+			height: 0.04d
+			id: "12E396F6FB314187"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 24.25d
+			x: 10.62d
+			y: -17.53d
+		}
+		{
+			height: 0.8d
+			id: "449FB5DBAF54F402"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -11.83d
+		}
+		{
+			height: 0.8d
+			id: "3F7BDF8674BA05D1"
+			image: "minecraft:block/netherrack"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -11.83d
+		}
+		{
+			height: 0.8d
+			id: "2E10E8F35656FFD4"
+			image: "minecraft:block/nether_bricks"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -11.83d
+		}
+		{
+			height: 0.04d
+			id: "1A9D1BBD34C78D05"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 24.25d
+			x: 10.62d
+			y: -12.33d
+		}
+		{
+			height: 0.8d
+			id: "698C40D30C474FE9"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 5.67d
+		}
+		{
+			height: 0.8d
+			id: "59CF9C0720EA9104"
+			image: "twilightforest:item/diamond_minotaur_axe"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 5.67d
+		}
+		{
+			height: 0.8d
+			id: "15C1EA27A0C41E2F"
+			image: "twilightforest:item/hydra_chop"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: 5.67d
+		}
+		{
+			height: 0.04d
+			id: "5BE1335C274749C0"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 24.25d
+			x: 10.62d
+			y: 5.17d
+		}
+		{
+			height: 0.8d
+			id: "21D233826CFC5347"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 12.37d
+		}
+		{
+			height: 0.8d
+			id: "0DE05965D405750A"
+			image: "minecolonies:item/sceptergold"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 12.37d
+		}
+		{
+			height: 0.04d
+			id: "72AF945F606637F3"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 24.25d
+			x: 10.62d
+			y: 11.87d
+		}
+		{
+			height: 0.8d
+			id: "417EB68C2C7E772D"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 17.57d
+		}
+		{
+			height: 0.8d
+			id: "601383409F211AC0"
+			image: "sophisticatedstorage:block/gold_barrel_side"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 17.57d
+		}
+		{
+			height: 0.04d
+			id: "75FCFE8CA53EB1CB"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 24.25d
+			x: 10.62d
+			y: 17.07d
+		}
+		{
+			height: 0.8d
+			id: "3A257616CD044BED"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 22.77d
+		}
+		{
+			height: 0.8d
+			id: "5EE876199939E8DA"
+			image: "wands:item/iron_wand"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 22.77d
+		}
+		{
+			height: 0.8d
+			id: "66ED6C42EEC164F0"
+			image: "mechtrowel:item/mech_trowel"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: 22.77d
+		}
+		{
+			height: 0.8d
+			id: "09334540C60D971E"
+			image: "constructionstick:item/diamond_stick"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 19.65d
+			y: 22.77d
+		}
+		{
+			height: 0.04d
+			id: "07D612AA281A235B"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 24.25d
+			x: 10.62d
+			y: 22.27d
+		}
+	]
+	order_index: 3
+	quest_links: [
+		{
+			id: "01D42C7869D160EF"
+			linked_quest: "034402F79BBE91EE"
+			x: 5.5d
+			y: 18.97d
+		}
+		{
+			id: "06C8C6CA9C2F9EF0"
+			linked_quest: "50CDEEAE12DF8214"
+			x: 5.5d
+			y: 20.27d
+		}
+		{
+			id: "2916BDDFE035E431"
+			linked_quest: "2D5DB1A8CB01B63C"
+			x: 5.5d
+			y: 21.57d
+		}
+		{
+			id: "6095B33249B243EB"
+			linked_quest: "7B9F90C111570883"
+			x: 7.25d
+			y: 19.62d
+		}
+		{
+			id: "394471C238ED7339"
+			linked_quest: "5D1B7F9FE4054D42"
+			x: 7.25d
+			y: 20.92d
+		}
+		{
+			id: "53BC999545190C14"
+			linked_quest: "6F69FE43BAEE036B"
+			x: 17.75d
+			y: -24.58d
+		}
+		{
+			id: "05FE0FFE05DCFCCC"
+			linked_quest: "734E190F808D8821"
+			x: 17.75d
+			y: -23.03d
+		}
+		{
+			id: "2316EAA1FA6AC4C7"
+			linked_quest: "5965A70AABD940AE"
+			x: 9.0d
+			y: -3.88d
+		}
+		{
+			id: "68F5A68363C5B8C7"
+			linked_quest: "7EBB07EE0E2AA50A"
+			x: 9.0d
+			y: -2.08d
+		}
+		{
+			id: "1DDDD22009E16E0E"
+			linked_quest: "33153CDCEDA8E71A"
+			x: 12.5d
+			y: 7.32d
+		}
+		{
+			id: "6CE77CA2A8A710E6"
+			linked_quest: "3DA31FDEE4F7074E"
+			x: 12.5d
+			y: 9.12d
+		}
+		{
+			id: "7092BE2AC85A1CC4"
+			linked_quest: "7D443D5346F93ADE"
+			x: 12.5d
+			y: 10.92d
+		}
+		{
+			id: "7D26658299D5AC30"
+			linked_quest: "05FC20A15925003A"
+			x: 12.5d
+			y: 25.47d
+		}
+	]
+	quests: [
+		{
+			icon: {
+				id: "gg:pieczec_mosiadz"
+			}
+			id: "280585C62F8445F8"
+			invisible: true
+			preset: "era"
+			rewards: [ ]
+			tags: ["era_mosiadz", "era_start"]
+			tasks: [
+				{
+					id: "67C4E1818A007C39"
+					stage: "era_mosiadz"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			id: "75505D38F4C1C49E"
+			rewards: [
+				{
+					id: "056E0000B597F666"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz", "seal"]
+			tasks: [
+				{
+					id: "7F721A17EA78E9FF"
+					item: {
+						count: 1
+						id: "create:electron_tube"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -24.58d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			id: "4ACA18D1D53973BF"
+			rewards: [
+				{
+					id: "3F8DE404805AA6E7"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz", "seal"]
+			tasks: [
+				{
+					id: "28D8B7D9ED19E25D"
+					item: {
+						count: 1
+						id: "minecraft:lava_bucket"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -23.03d
+		}
+		{
+			dependencies: ["2160E78D87327A77"]
+			id: "2531F54FBEAF72E7"
+			rewards: [
+				{
+					id: "749610ED96958724"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "30E2C209C8291F05"
+					item: {
+						count: 1
+						id: "create:empty_blaze_burner"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -23.8d
+		}
+		{
+			dependencies: ["2531F54FBEAF72E7", "6D23F24EEA01AF37"]
+			id: "2BAE9BE5A39B15E4"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "67567171282FCB91"
+					type: "xp"
+					xp: 125
+				}
+				{
+					id: "45E06BCD8B82AF31"
+					table_id: 7674468022298305480L
+					type: "random"
+				}
+			]
+			tags: ["era_mosiadz", "milestone"]
+			tasks: [
+				{
+					id: "0D896BA63C0DFB00"
+					item: {
+						count: 1
+						id: "create:blaze_burner"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -23.8d
+		}
+		{
+			dependencies: ["2BAE9BE5A39B15E4"]
+			id: "47DC0AC141CBD1D0"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "3B1D3F1C689763A3"
+					type: "xp"
+					xp: 125
+				}
+				{
+					id: "5A0D6350C9DA77D7"
+					table_id: 7674468022298305480L
+					type: "random"
+				}
+			]
+			tags: ["era_mosiadz", "milestone"]
+			tasks: [
+				{
+					count: 64L
+					id: "249F010B5D0CAE94"
+					item: {
+						count: 1
+						id: "create:brass_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -24.58d
+		}
+		{
+			dependencies: ["2BAE9BE5A39B15E4"]
+			icon: {
+				id: "createmetallurgy:foundry_basin"
+			}
+			id: "4D57767128C41D59"
+			rewards: [
+				{
+					id: "000D311185B5CA9D"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "77DE3349CC7A0027"
+					item: {
+						count: 1
+						id: "createmetallurgy:foundry_basin"
+					}
+					type: "item"
+				}
+				{
+					id: "00900D7E74AE43C7"
+					item: {
+						count: 1
+						id: "createmetallurgy:casting_table"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -23.03d
+		}
+		{
+			dependencies: ["47DC0AC141CBD1D0"]
+			id: "558A6E927FC04705"
+			rewards: [
+				{
+					id: "4C7A6D6E2BCEAE57"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz", "seal"]
+			tasks: [
+				{
+					id: "22288578E1D8F455"
+					item: {
+						count: 1
+						id: "create:brass_casing"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -25.35d
+		}
+		{
+			dependencies: ["47DC0AC141CBD1D0"]
+			id: "207B8C89C503B967"
+			rewards: [
+				{
+					id: "29A0D9F2B0784D79"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "0A0F029FCAA40C5C"
+					item: {
+						count: 1
+						id: "create:brass_hand"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -23.8d
+		}
+		{
+			dependencies: ["47DC0AC141CBD1D0"]
+			id: "5D9D6B88DE62D6D0"
+			rewards: [
+				{
+					id: "663FCBA0A921BF2C"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					count: 512L
+					id: "791DA313D4442E3B"
+					item: {
+						count: 1
+						id: "create:brass_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -22.25d
+		}
+		{
+			dependencies: ["207B8C89C503B967", "75505D38F4C1C49E", "558A6E927FC04705"]
+			icon: {
+				id: "create:deployer"
+			}
+			id: "0872CA492305EA2F"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "037A737D8F0EA64C"
+					type: "xp"
+					xp: 125
+				}
+				{
+					id: "0D07F8E2E9ADAEB9"
+					table_id: 7674468022298305480L
+					type: "random"
+				}
+			]
+			tags: ["era_mosiadz", "milestone"]
+			tasks: [
+				{
+					id: "45478E1BFF787EEF"
+					item: {
+						count: 1
+						id: "create:deployer"
+					}
+					type: "item"
+				}
+				{
+					id: "3BB949631E2C9EE7"
+					item: {
+						count: 1
+						id: "create:mechanical_crafter"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -23.8d
+		}
+		{
+			dependencies: ["0872CA492305EA2F"]
+			id: "5F9E25159923F4E4"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "7420953893269B7E"
+					type: "xp"
+					xp: 125
+				}
+				{
+					id: "3BA17A0ACB204110"
+					table_id: 7674468022298305480L
+					type: "random"
+				}
+			]
+			tags: ["era_mosiadz", "milestone", "seal"]
+			tasks: [
+				{
+					id: "77E3E5E65EE3FF33"
+					item: {
+						count: 1
+						id: "create:precision_mechanism"
+					}
+					type: "item"
+				}
+			]
+			x: 14.25d
+			y: -23.8d
+		}
+		{
+			dependencies: ["5F9E25159923F4E4"]
+			id: "0AB8199BD822F5E9"
+			rewards: [
+				{
+					id: "3FFBD62F17694E91"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "201CBCF5DC776EB6"
+					item: {
+						count: 1
+						id: "create:mechanical_arm"
+					}
+					type: "item"
+				}
+			]
+			x: 16.0d
+			y: -23.8d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			id: "6B40B0152114AC03"
+			rewards: [
+				{
+					id: "10644A09CFF2C59A"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "2165DEB5606CFE51"
+					item: {
+						count: 1
+						id: "create:stock_link"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -19.53d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			id: "3403B299F3A18DDE"
+			rewards: [
+				{
+					id: "3B64967375FCB491"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "4EAE19E3898AE85D"
+					item: {
+						count: 1
+						id: "create:package_frogport"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -18.23d
+		}
+		{
+			dependencies: ["47DC0AC141CBD1D0", "75505D38F4C1C49E"]
+			icon: {
+				id: "create:brass_tunnel"
+			}
+			id: "17C8007220406A94"
+			rewards: [
+				{
+					id: "1101086C77DE0951"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "7B70C2CC07E3F06E"
+					item: {
+						count: 1
+						id: "create:brass_funnel"
+					}
+					type: "item"
+				}
+				{
+					id: "535FCB247D6B7D3F"
+					item: {
+						count: 1
+						id: "create:brass_tunnel"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -18.88d
+		}
+		{
+			dependencies: ["558A6E927FC04705"]
+			id: "4BE3D6ECBC1B2E9B"
+			rewards: [
+				{
+					id: "32FA1A1F8350EBF1"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "09165715E4E272BA"
+					item: {
+						count: 1
+						id: "create:railway_casing"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -18.88d
+		}
+		{
+			dependencies: ["0872CA492305EA2F"]
+			icon: {
+				id: "create:track"
+			}
+			id: "717AE319414C1592"
+			rewards: [
+				{
+					id: "4A731E7076E36934"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					count: 256L
+					id: "3EDC1AB91E19FEF6"
+					item: {
+						count: 1
+						id: "create:track"
+					}
+					type: "item"
+				}
+			]
+			x: 14.25d
+			y: -19.53d
+		}
+		{
+			dependencies: ["4BE3D6ECBC1B2E9B"]
+			id: "7AAB10F19BF64E12"
+			rewards: [
+				{
+					id: "792D1E5F10416096"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "22325C8C79DF539D"
+					item: {
+						count: 1
+						id: "create:track_station"
+					}
+					type: "item"
+				}
+			]
+			x: 14.25d
+			y: -18.23d
+		}
+		{
+			dependencies: ["4BE3D6ECBC1B2E9B", "5F9E25159923F4E4"]
+			id: "035BC5C429692AA8"
+			rewards: [
+				{
+					id: "0B21697829957700"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "7792C375D6688590"
+					item: {
+						count: 1
+						id: "create:controls"
+					}
+					type: "item"
+				}
+			]
+			x: 16.0d
+			y: -19.53d
+		}
+		{
+			dependencies: ["6B40B0152114AC03", "5F9E25159923F4E4"]
+			id: "1034402517DAC224"
+			rewards: [
+				{
+					id: "4106A7B0D0268918"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "4D8F344BC3E9689C"
+					item: {
+						count: 1
+						id: "create:factory_gauge"
+					}
+					type: "item"
+				}
+			]
+			x: 16.0d
+			y: -18.23d
+		}
+		{
+			dependencies: ["7AAB10F19BF64E12", "035BC5C429692AA8"]
+			icon: {
+				id: "create:controls"
+			}
+			id: "113A4F48621EAD7A"
+			rewards: [
+				{
+					id: "3161A53BB37CF1DD"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "create:train"
+					criterion: ""
+					id: "02877F74235A9138"
+					type: "advancement"
+				}
+			]
+			x: 17.75d
+			y: -18.88d
+		}
+		{
+			dependencies: ["12823F43BC8A1A70"]
+			id: "3CC3998DD1166A4D"
+			rewards: [
+				{
+					id: "18DEB96FDEFDBE47"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "042CCA52BDE32279"
+					item: {
+						count: 1
+						id: "minecraft:brewing_stand"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -15.63d
+		}
+		{
+			dependencies: ["12823F43BC8A1A70"]
+			id: "2F1140F53A5D0918"
+			rewards: [
+				{
+					id: "771C4642652D4ABA"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "4F562692FB87FCEF"
+					item: {
+						count: 1
+						id: "ars_nouveau:apprentice_spell_book"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -14.33d
+		}
+		{
+			dependencies: ["12823F43BC8A1A70"]
+			id: "1BFC2919E5E3CC0E"
+			rewards: [
+				{
+					id: "2FD5A72A1BD1674C"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "3C4ACAE28FDA71C1"
+					item: {
+						count: 1
+						id: "irons_spellbooks:fire_rune"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -13.03d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			icon: {
+				id: "mowziesmobs:ice_crystal"
+			}
+			id: "61306AE4484A4FE9"
+			preset: "boss"
+			rewards: [
+				{
+					id: "0ABC71136F2D7755"
+					type: "xp"
+					xp: 250
+				}
+			]
+			tags: ["era_mosiadz", "boss"]
+			tasks: [
+				{
+					id: "5641ED931E180A53"
+					stage: "boss_mowziesmobs_frostmaw"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 3.75d
+			y: -10.18d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			id: "2536E4E3E70DC00D"
+			rewards: [
+				{
+					id: "29EE2C98CB5FD988"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "466694659532619D"
+					item: {
+						count: 1
+						id: "minecraft:diamond_pickaxe"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -8.38d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			icon: {
+				id: "mowziesmobs:sol_visage"
+			}
+			id: "7BF870C923925736"
+			preset: "boss"
+			rewards: [
+				{
+					id: "324CF703B6C6676B"
+					type: "xp"
+					xp: 250
+				}
+			]
+			tags: ["era_mosiadz", "boss"]
+			tasks: [
+				{
+					id: "0FE0ED24305A31FA"
+					stage: "boss_mowziesmobs_umvuthi"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 3.75d
+			y: -6.58d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			icon: {
+				id: "minecraft:obsidian"
+			}
+			id: "2160E78D87327A77"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "04649FA17937716B"
+					type: "xp"
+					xp: 125
+				}
+				{
+					id: "5A2EDB0FF9E5EDE4"
+					table_id: 7674468022298305480L
+					type: "random"
+				}
+			]
+			tags: ["era_mosiadz", "milestone"]
+			tasks: [
+				{
+					dimension: "minecraft:the_nether"
+					id: "33A145B886588A72"
+					type: "dimension"
+				}
+			]
+			x: 3.75d
+			y: -4.78d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			icon: {
+				id: "mowziesmobs:wrought_helmet"
+			}
+			id: "1F9C2D37BBCEE795"
+			preset: "boss"
+			rewards: [
+				{
+					id: "377936E0B16E1A90"
+					type: "xp"
+					xp: 250
+				}
+			]
+			tags: ["era_mosiadz", "boss"]
+			tasks: [
+				{
+					id: "42BFDCAF1E31CBEE"
+					stage: "boss_mowziesmobs_ferrous_wroughtnaut"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 3.75d
+			y: -2.98d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			id: "262E98621F8A1CE1"
+			rewards: [
+				{
+					id: "1326C61B3120F7A0"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "3CBCE629AF8F379C"
+					item: {
+						count: 1
+						id: "aquamirae:shell_horn"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -1.18d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			icon: {
+				id: "bosses_of_mass_destruction:void_thorn"
+			}
+			id: "0863DB1B7A0CDFE2"
+			preset: "boss"
+			rewards: [
+				{
+					id: "0525A47E4E3365BC"
+					type: "xp"
+					xp: 250
+				}
+			]
+			tags: ["era_mosiadz", "boss"]
+			tasks: [
+				{
+					id: "7BBE29276F847215"
+					stage: "boss_bosses_of_mass_destruction_void_blossom"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 3.75d
+			y: 0.62d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			icon: {
+				id: "minecraft:dark_oak_log"
+			}
+			id: "12036D0DFF9246D3"
+			rewards: [
+				{
+					id: "262496C394E186FB"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "600D7D6DE9054C7F"
+					structure: "minecraft:mansion"
+					type: "structure"
+				}
+			]
+			x: 3.75d
+			y: 2.42d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			icon: {
+				id: "minecraft:bee_nest"
+			}
+			id: "663CAF3B10334B70"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "34A37C05BA42DDCC"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz", "optional"]
+			tasks: [
+				{
+					dimension: "the_bumblezone:the_bumblezone"
+					id: "0D04B6022C9F48E0"
+					type: "dimension"
+				}
+			]
+			x: 3.75d
+			y: 4.22d
+		}
+		{
+			dependencies: ["262E98621F8A1CE1"]
+			icon: {
+				id: "aquamirae:shell_horn"
+			}
+			id: "72E1E2BC19C49020"
+			preset: "boss"
+			rewards: [
+				{
+					id: "2D8E192D8C5AB5E6"
+					type: "xp"
+					xp: 250
+				}
+			]
+			tags: ["era_mosiadz", "boss"]
+			tasks: [
+				{
+					id: "2870B2351B64AF5E"
+					stage: "boss_aquamirae_captain_cornelia"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 5.5d
+			y: -5.68d
+		}
+		{
+			dependencies: ["2160E78D87327A77"]
+			icon: {
+				id: "minecraft:nether_bricks"
+			}
+			id: "6D23F24EEA01AF37"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "64BB6A3615EFC7C4"
+					type: "xp"
+					xp: 125
+				}
+				{
+					id: "368F0FEAB87E7D30"
+					table_id: 7674468022298305480L
+					type: "random"
+				}
+			]
+			tags: ["era_mosiadz", "milestone"]
+			tasks: [
+				{
+					id: "5B5EB1578A92EF5A"
+					structure: "betterfortresses:fortress"
+					type: "structure"
+				}
+			]
+			x: 5.5d
+			y: -3.88d
+		}
+		{
+			dependencies: ["12036D0DFF9246D3"]
+			icon: {
+				id: "illagerinvasion:primal_essence"
+			}
+			id: "5BD1B40623293600"
+			preset: "boss"
+			rewards: [
+				{
+					id: "07A7E351963F07F2"
+					type: "xp"
+					xp: 250
+				}
+			]
+			tags: ["era_mosiadz", "boss"]
+			tasks: [
+				{
+					id: "4DC6A328125E96FB"
+					stage: "boss_illagerinvasion_invoker"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 5.5d
+			y: -2.08d
+		}
+		{
+			dependencies: ["2160E78D87327A77"]
+			icon: {
+				id: "minecraft:gilded_blackstone"
+			}
+			id: "7B013EE897E11551"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "529AF7F2CA4E7811"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz", "optional"]
+			tasks: [
+				{
+					id: "019893CD622D854E"
+					structure: "minecraft:bastion_remnant"
+					type: "structure"
+				}
+			]
+			x: 5.5d
+			y: -0.28d
+		}
+		{
+			dependencies: ["6D23F24EEA01AF37"]
+			id: "12823F43BC8A1A70"
+			rewards: [
+				{
+					id: "52237702CB1DE38C"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz", "seal"]
+			tasks: [
+				{
+					id: "6F638CDDD23F4E80"
+					item: {
+						count: 1
+						id: "minecraft:blaze_rod"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -2.98d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			icon: {
+				id: "bosses_of_mass_destruction:ancient_anima"
+			}
+			id: "04C1A2A7B07CEF10"
+			preset: "boss"
+			rewards: [
+				{
+					id: "1F8B0F3EF830F904"
+					type: "xp"
+					xp: 250
+				}
+			]
+			tags: ["era_mosiadz", "boss"]
+			tasks: [
+				{
+					id: "6DAD59468EBA8BC0"
+					stage: "boss_bosses_of_mass_destruction_lich"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 3.75d
+			y: 7.32d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			icon: {
+				id: "twilightforest:maze_map"
+			}
+			id: "164E77F58A57B54F"
+			rewards: [
+				{
+					id: "5CFE911ADD0F4D7F"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "6B4FE4F24DA291E9"
+					structure: "twilightforest:labyrinth"
+					type: "structure"
+				}
+			]
+			x: 3.75d
+			y: 9.12d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			icon: {
+				id: "born_in_chaos_v1:lord_pumpkinheads_hat_helmet"
+			}
+			id: "50EB3015AB3CBC40"
+			preset: "boss"
+			rewards: [
+				{
+					id: "32D9A6DD43BCACDC"
+					type: "xp"
+					xp: 250
+				}
+			]
+			tags: ["era_mosiadz", "boss"]
+			tasks: [
+				{
+					id: "570B764EA82A408A"
+					stage: "boss_born_in_chaos_v1_lord_pumpkinhead"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 3.75d
+			y: 10.92d
+		}
+		{
+			dependencies: ["164E77F58A57B54F"]
+			icon: {
+				id: "twilightforest:minoshroom_trophy"
+			}
+			id: "1A48598314F49C49"
+			preset: "boss"
+			rewards: [
+				{
+					id: "5DC0857F5A1416BA"
+					type: "xp"
+					xp: 250
+				}
+			]
+			tags: ["era_mosiadz", "boss"]
+			tasks: [
+				{
+					id: "0419C97F243EAC21"
+					stage: "boss_twilightforest_minoshroom"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 5.5d
+			y: 9.12d
+		}
+		{
+			dependencies: ["1A48598314F49C49"]
+			id: "6E138A18A1B6BB42"
+			rewards: [
+				{
+					id: "1E29359BE22CAAF4"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "1124705D1593C9B1"
+					item: {
+						count: 1
+						id: "twilightforest:meef_stroganoff"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: 8.22d
+		}
+		{
+			dependencies: ["6E138A18A1B6BB42"]
+			icon: {
+				id: "twilightforest:hydra_trophy"
+			}
+			id: "67B2AD661C3E1852"
+			preset: "boss"
+			rewards: [
+				{
+					id: "1CECAEB4142166DC"
+					type: "xp"
+					xp: 250
+				}
+			]
+			tags: ["era_mosiadz", "boss"]
+			tasks: [
+				{
+					id: "40FDAD9F59760445"
+					stage: "boss_twilightforest_hydra"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 9.0d
+			y: 9.12d
+		}
+		{
+			dependencies: ["1A48598314F49C49", "67B2AD661C3E1852"]
+			icon: {
+				id: "twilightforest:minoshroom_trophy"
+			}
+			id: "3A679909B4245D84"
+			min_required_dependencies: 1
+			preset: "milestone"
+			rewards: [
+				{
+					id: "10BD6C870EF71379"
+					type: "xp"
+					xp: 125
+				}
+				{
+					id: "331625AFA120B4F5"
+					table_id: 7674468022298305480L
+					type: "random"
+				}
+			]
+			tags: ["era_mosiadz", "milestone"]
+			tasks: [ ]
+			x: 10.75d
+			y: 9.12d
+		}
+		{
+			dependencies: [
+				"61306AE4484A4FE9"
+				"7BF870C923925736"
+				"1F9C2D37BBCEE795"
+				"0863DB1B7A0CDFE2"
+				"72E1E2BC19C49020"
+				"5BD1B40623293600"
+				"04C1A2A7B07CEF10"
+				"50EB3015AB3CBC40"
+			]
+			icon: {
+				id: "gg:trofeum"
+			}
+			id: "52FE099BC94CFBB9"
+			min_required_dependencies: 1
+			preset: "milestone"
+			rewards: [
+				{
+					id: "5F82D143DA517FAA"
+					type: "xp"
+					xp: 125
+				}
+				{
+					id: "37C352E9E6FD2C6A"
+					table_id: 7674468022298305480L
+					type: "random"
+				}
+			]
+			tags: ["era_mosiadz", "milestone"]
+			tasks: [ ]
+			x: 7.25d
+			y: 10.02d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			icon: {
+				id: "minecolonies:blockhutblacksmith"
+			}
+			id: "3E6647243FAAC6EE"
+			rewards: [
+				{
+					id: "3F9E27DBF48C2350"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "minecolonies:production/build_blacksmith"
+					criterion: ""
+					id: "4187FE2E4E482139"
+					type: "advancement"
+				}
+				{
+					advancement: "minecolonies:production/build_smeltery"
+					criterion: ""
+					id: "6DCF78A6EA85D656"
+					type: "advancement"
+				}
+			]
+			x: 3.75d
+			y: 13.77d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			id: "3D954E7B62F20C8C"
+			rewards: [
+				{
+					id: "0CC8D6AB1B5C7EAE"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "2ECA9F3C351E41A4"
+					item: {
+						count: 1
+						id: "minecolonies:blockhutmechanic"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 15.07d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			icon: {
+				id: "minecolonies:blockhutbarracks"
+			}
+			id: "2964AB534BFA8134"
+			rewards: [
+				{
+					id: "13C720EF649D98B5"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "minecolonies:military/build_barracks"
+					criterion: ""
+					id: "0FB9132DE0795118"
+					type: "advancement"
+				}
+			]
+			x: 3.75d
+			y: 16.37d
+		}
+		{
+			dependencies: ["6B40B0152114AC03"]
+			id: "483F0CC95D6BF23B"
+			rewards: [
+				{
+					id: "63E6A40EB5645A34"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "043A7E9095D8777D"
+					item: {
+						count: 1
+						id: "thesettler_x_create:blockhutcreateshop"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 15.07d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			id: "0920496C458A2339"
+			rewards: [
+				{
+					id: "5468C4AC95962B66"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "48A06489BAA246AF"
+					item: {
+						count: 1
+						id: "wands:iron_wand"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 24.17d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			id: "5D1324ACED9A8423"
+			rewards: [
+				{
+					id: "1B3D92FFB060DC17"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "0A441775171CB59A"
+					item: {
+						count: 1
+						id: "mechtrowel:mech_trowel"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 25.47d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			id: "4C72DFEFF29BF8F2"
+			rewards: [
+				{
+					id: "1DF219737A486737"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "4FFD3B9BDCDE659D"
+					item: {
+						count: 1
+						id: "constructionstick:diamond_stick"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 26.77d
+		}
+		{
+			dependencies: ["47DC0AC141CBD1D0"]
+			icon: {
+				id: "createdeco:brass_window"
+			}
+			id: "58C750F8A589135A"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "2FD1A9A35CA09D62"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz", "optional"]
+			tasks: [
+				{
+					id: "0A017EBC714DBEDB"
+					item: {
+						count: 1
+						id: "createdeco:brass_catwalk"
+					}
+					type: "item"
+				}
+				{
+					id: "4AF03C61A5A8B1FB"
+					item: {
+						count: 1
+						id: "createdeco:brass_window"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: 25.47d
+		}
+		{
+			dependencies: [
+				"2160E78D87327A77"
+				"6D23F24EEA01AF37"
+				"2BAE9BE5A39B15E4"
+				"47DC0AC141CBD1D0"
+				"5F9E25159923F4E4"
+				"0872CA492305EA2F"
+				"3A679909B4245D84"
+				"52FE099BC94CFBB9"
+			]
+			icon: {
+				id: "gg:pieczec_okultyzm"
+			}
+			id: "1E0D88CBD29B6927"
+			preset: "era"
+			rewards: [
+				{
+					auto: "enabled"
+					icon: {
+						id: "gg:pieczec_okultyzm"
+					}
+					id: "59682488551EC859"
+					stage: "era_okultyzm"
+					team_reward: true
+					type: "gamestage"
+				}
+				{
+					id: "21CEDCD375E5A54B"
+					type: "xp"
+					xp: 500
+				}
+				{
+					id: "13D20C6FBD02907D"
+					table_id: 80606577548508905L
+					type: "all_table"
+				}
+			]
+			tags: ["era_mosiadz", "gate"]
+			tasks: [
+				{
+					consume_items: true
+					id: "7230181E84946B61"
+					item: {
+						count: 1
+						id: "gg:pieczec_okultyzm"
+					}
+					type: "item"
+				}
+			]
+			x: 21.25d
+			y: 0.0d
+		}
+	]
+}

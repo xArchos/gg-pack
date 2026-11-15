@@ -1,0 +1,8 @@
+{
+  "type": "lithostitched:set_structure_spawn_condition",
+  "structures": "#gg_world:fit/cold_only",
+  "spawn_condition": {
+    "type": "lithostitched:in_biome",
+    "biomes": "#gg_world:climate/cold"
+  }
+}

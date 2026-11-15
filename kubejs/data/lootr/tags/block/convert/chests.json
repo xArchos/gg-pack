@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "goety:crypt_chest",
+      "required": false
+    },
+    {
+      "id": "undergroundworlds:temple_chest",
+      "required": false
+    },
+    {
+      "id": "undergroundworlds:web_covered_chest",
+      "required": false
+    },
+    {
+      "id": "undergroundworlds:ice_chest",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "lithostitched:set_structure_spawn_condition",
+  "structures": "#gg_world:no_water_start_down40",
+  "spawn_condition": {
+    "type": "lithostitched:height_filter",
+    "range_type": "heightmap_relative",
+    "heightmap": "OCEAN_FLOOR_WG",
+    "permitted_range": {
+      "min_inclusive": -40,
+      "max_inclusive": -39
+    }
+  }
+}

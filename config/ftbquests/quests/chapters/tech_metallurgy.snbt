@@ -1,0 +1,712 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tech_metallurgy"
+	group: "32C7FC51B44C22EE"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "createmetallurgy:foundry_basin"
+	}
+	id: "7037BA2AF592E09D"
+	images: [
+		{
+			height: 1.8d
+			id: "4B353C3102640001"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -8.35d
+		}
+		{
+			height: 1.8d
+			id: "5915B9A621EC67A2"
+			image: "createmetallurgy:item/graphite_ingot_mold"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -8.35d
+		}
+		{
+			height: 1.8d
+			id: "64027687CC9F3987"
+			image: "createmetallurgy:item/tungsten_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -8.35d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "2C603D9178CEF863"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -6.2d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "31CDFAC9E98542B3"
+			image: "createmetallurgy:item/graphite"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -6.2d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "056201857735FD68"
+			image: "createmetallurgy:item/refractory_mortar_ball"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -6.2d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "0DC414D5140B83F5"
+			image: "createmetallurgy:item/graphite_plate_mold"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -6.2d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "3E8B11B15C6A3C99"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -1.0d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "480DDF0D6D79F410"
+			image: "createmetallurgy:item/sturdy_whisk"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -1.0d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "7D1D05E3A038E85A"
+			image: "createmetallurgy:item/raw_tungsten"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -1.0d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "0D3C24E16E6ABF55"
+			image: "createmetallurgy:item/obdurium_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -1.0d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "1D9A263686F7E2EF"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -1.5d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "2A39E29C93777645"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 3.4d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "02D0ABC012D77C88"
+			image: "createmetallurgy:item/steel_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 3.4d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "7C412FCE06F1BD62"
+			image: "createmetallurgy:item/gauge_attachment"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 3.4d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.04d
+			id: "35D02C766FAE5257"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 2.9d
+		}
+	]
+	order_index: 12
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			id: "734E190F808D8821"
+			rewards: [
+				{
+					id: "33FB835B6FC3D2AD"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "4F7ECCC11BBA857F"
+					item: {
+						count: 1
+						id: "createmetallurgy:graphite"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -4.8d
+		}
+		{
+			dependencies: ["734E190F808D8821"]
+			icon: {
+				id: "createmetallurgy:graphite_plate_mold"
+			}
+			id: "3156C0BC641154A4"
+			rewards: [
+				{
+					id: "26A41841849D1D04"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "55116259E901067E"
+					item: {
+						count: 1
+						id: "createmetallurgy:graphite_ingot_mold"
+					}
+					type: "item"
+				}
+				{
+					id: "18212C0F3029BF22"
+					item: {
+						count: 1
+						id: "createmetallurgy:graphite_plate_mold"
+					}
+					type: "item"
+				}
+				{
+					id: "10BF0573CC8C7BD7"
+					item: {
+						count: 1
+						id: "createmetallurgy:graphite_rod_mold"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -4.15d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			id: "4E6950B66E93C8DE"
+			rewards: [
+				{
+					id: "6EE2E04E564CC710"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "56530EDA592EA474"
+					item: {
+						count: 1
+						id: "createmetallurgy:refractory_mortar"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["4E6950B66E93C8DE"]
+			id: "0A11B89B0FFAC847"
+			rewards: [
+				{
+					id: "7501BEF415B7B0E5"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "76A5E9179FBB483C"
+					item: {
+						count: 1
+						id: "createmetallurgy:foundry_lid"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -2.85d
+		}
+		{
+			dependencies: ["0A11B89B0FFAC847"]
+			id: "0692E81AC7B21B70"
+			rewards: [
+				{
+					id: "7D29C961C098725F"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "3130216796067696"
+					item: {
+						count: 1
+						id: "createmetallurgy:faucet"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -4.15d
+		}
+		{
+			dependencies: ["0692E81AC7B21B70"]
+			id: "4A294ABBB64858EE"
+			rewards: [
+				{
+					id: "6029D24C0F390421"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "4D7BC6463E8513D6"
+					item: {
+						count: 1
+						id: "createmetallurgy:casting_basin"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -3.5d
+		}
+		{
+			dependencies: ["0A11B89B0FFAC847"]
+			icon: {
+				id: "createmetallurgy:iron_dust"
+			}
+			id: "33185A0BE53A3282"
+			rewards: [
+				{
+					id: "03B2BEFDAEB308A5"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "1BA834948133B3F3"
+					item: {
+						count: 1
+						id: "createmetallurgy:dirty_iron_dust"
+					}
+					type: "item"
+				}
+				{
+					id: "6F5BFB3CE877CE4E"
+					item: {
+						count: 1
+						id: "createmetallurgy:iron_dust"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -2.85d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			id: "2D093665DFE1A607"
+			rewards: [
+				{
+					id: "7B61932F3015FCD7"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "28E61707E2B14FD6"
+					item: {
+						count: 1
+						id: "createmetallurgy:mechanical_belt_grinder"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -2.2d
+		}
+		{
+			dependencies: ["4A294ABBB64858EE"]
+			icon: {
+				id: "create:brass_casing"
+			}
+			id: "507BD077A63219A4"
+			rewards: [
+				{
+					id: "6A75E1A78B6EF620"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					count: 256L
+					id: "3ED1D22093B60439"
+					item: {
+						count: 1
+						id: "create:brass_casing"
+					}
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["0A11B89B0FFAC847"]
+			icon: {
+				id: "createmetallurgy:foundry_mixer"
+			}
+			id: "38EC208F50A0BAD9"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "7CAF3EAC5704FFC2"
+					type: "xp"
+					xp: 125
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "1B9F9EFD051EEA8C"
+					item: {
+						count: 1
+						id: "createmetallurgy:foundry_mixer"
+					}
+					type: "item"
+				}
+				{
+					id: "7BA9F36403FCF71F"
+					item: {
+						count: 1
+						id: "createmetallurgy:sturdy_whisk"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 1.3d
+		}
+		{
+			dependencies: ["38EC208F50A0BAD9"]
+			icon: {
+				id: "createbigcannons:bronze_ingot"
+			}
+			id: "39D873825657C283"
+			rewards: [
+				{
+					id: "6055796051E174DC"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "433C393398D8B3F5"
+					item: {
+						count: 1
+						id: "createbigcannons:bronze_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "7ABDE51D7AD79D99"
+					item: {
+						count: 1
+						id: "tfmg:constantan_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "3C1E9646CA031E4D"
+					item: {
+						count: 1
+						id: "createaddition:electrum_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 0.53d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			id: "77B4155A554E183A"
+			rewards: [
+				{
+					id: "0835EA2482F1E9DE"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "29C0DED8AFF604A9"
+					item: {
+						count: 1
+						id: "createmetallurgy:raw_tungsten"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 1.3d
+		}
+		{
+			dependencies: ["77B4155A554E183A"]
+			icon: {
+				id: "createmetallurgy:white_light_bulb"
+			}
+			id: "38FD1B3434F75CD4"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "3C315963D30AE5EC"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "28D2B7435BCBAE51"
+					item: {
+						count: 1
+						id: "createmetallurgy:tungsten_wire_spool"
+					}
+					type: "item"
+				}
+				{
+					id: "6F31342D2726A497"
+					item: {
+						count: 1
+						id: "createmetallurgy:white_light_bulb"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 1.3d
+		}
+		{
+			dependencies: ["77B4155A554E183A", "38EC208F50A0BAD9"]
+			id: "070516E1F061620E"
+			rewards: [
+				{
+					id: "603F004B43436375"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "38EC74E20162DECC"
+					item: {
+						count: 1
+						id: "createmetallurgy:obdurium_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 2.08d
+		}
+		{
+			dependencies: ["070516E1F061620E"]
+			id: "3173281FC6A4AD7F"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "5F0E04C2027FF211"
+					type: "xp"
+					xp: 125
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "65892D9831C67FF3"
+					item: {
+						count: 1
+						id: "createmetallurgy:industrial_crucible"
+					}
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: 1.3d
+		}
+		{
+			dependencies: ["784FFE5AA9775311"]
+			hide_until_deps_complete: true
+			id: "0AE845ECD2F24083"
+			rewards: [
+				{
+					id: "3BD8A6C1CF43DA48"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "3519D78CC763CF29"
+					item: {
+						count: 1
+						id: "createmetallurgy:molten_steel_bucket"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 5.45d
+		}
+		{
+			dependencies: ["0AE845ECD2F24083"]
+			id: "66A4D2AE904CE1E3"
+			rewards: [
+				{
+					id: "795358F45A2BF3AE"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "50EB55FD2AEF56E6"
+					item: {
+						count: 1
+						id: "createmetallurgy:molten_netherite_bucket"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 4.8d
+		}
+		{
+			dependencies: ["0AE845ECD2F24083"]
+			id: "5F1E48AF5125A86B"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "513000D5362CCD41"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "5F4FE24073EAF394"
+					item: {
+						count: 1
+						id: "createmetallurgy:gauge_attachment"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 6.1d
+		}
+	]
+}

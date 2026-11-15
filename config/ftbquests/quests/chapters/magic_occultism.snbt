@@ -1,0 +1,998 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "magic_occultism"
+	group: "3108D924C31FF1C5"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "occultism:book_of_binding_bound_djinni"
+	}
+	id: "0D4B7648FC9C4E0E"
+	images: [
+		{
+			height: 1.8d
+			id: "5519A9773270D1B2"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.75d
+			x: 4.38d
+			y: -13.25d
+		}
+		{
+			height: 1.8d
+			id: "5B498588A01DFB51"
+			image: "occultism:item/datura"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -13.25d
+		}
+		{
+			height: 1.8d
+			id: "57BC199068F3CA55"
+			image: "occultism:item/book_of_binding_bound_djinni"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 11.45d
+			y: -13.25d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "24E538C4DAA6CB30"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -11.1d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "6D098A1277A27F54"
+			image: "occultism:item/butcher_knife"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -11.1d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "73F72EB4FF13A17A"
+			image: "occultism:item/ritual_satchel_t1"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -11.1d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "16CFA3DE9FBFDB51"
+			image: "occultism:block/otherstone"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -11.1d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "2FC7009489924D37"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -7.2d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "38E9C61F47B18C0F"
+			image: "occultism:item/book_of_binding_bound_djinni"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -7.2d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "7FB699FC9B05BAB8"
+			image: "occultism:item/soul_gem"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -7.2d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "0EBE1ABB9B899926"
+			image: "occultism:item/familiar_ring"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -7.2d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.04d
+			id: "01B40AA32EC85DD5"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -7.7d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "4B495C8BE8E93AEA"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 0.3d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "06111E294B8CE8AB"
+			image: "occultism:item/afrit_essence"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 0.3d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "7B8BE2E053E34CC1"
+			image: "occultism:item/book_of_binding_bound_afrit"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 0.3d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.04d
+			id: "146211264A4B9F04"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.75d
+			x: 4.38d
+			y: -0.2d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "3C3048A3A0204D9C"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 6.25d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "072FC6D2AC2144E2"
+			image: "occultism:item/marid_essence"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 6.25d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "4C0D37AED2829E23"
+			image: "occultism:item/book_of_binding_bound_marid"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 6.25d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.04d
+			id: "4E1A7D74FC2E33A2"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.75d
+			x: 4.38d
+			y: 5.75d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["7A875C04743BEF62"]
+			hide_until_deps_complete: true
+			id: "180E2CAB7669186E"
+			rewards: [
+				{
+					id: "4BE910DC009D869F"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "44932AF9AE50CF6A"
+					item: {
+						count: 1
+						id: "occultism:butcher_knife"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -9.05d
+		}
+		{
+			dependencies: ["180E2CAB7669186E"]
+			icon: {
+				id: "occultism:book_of_calling_foliot_cleaner"
+			}
+			id: "0CFB231E4EDE8435"
+			rewards: [
+				{
+					id: "424D0864F7E396C2"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "7A34B21920137D24"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(occultism:book_of_calling_foliot_cleaner)item(occultism:book_of_calling_foliot_transport_items)item(occultism:book_of_calling_foliot_lumberjack)item(occultism:book_of_calling_foliot_farmer))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -9.7d
+		}
+		{
+			dependencies: ["0CFB231E4EDE8435"]
+			icon: {
+				id: "occultism:otherstone"
+			}
+			id: "136177C72A318563"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "3E2CAB4D77053027"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					advancement: "occultism:occultism/summon_foliot_otherstone_trader"
+					criterion: ""
+					id: "4468930C79364438"
+					type: "advancement"
+				}
+			]
+			x: 3.5d
+			y: -9.7d
+		}
+		{
+			dependencies: ["180E2CAB7669186E"]
+			id: "0FFE585782E962BE"
+			rewards: [
+				{
+					id: "5FC3F251B16CA733"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "0F157EA4392AB9EF"
+					item: {
+						count: 1
+						id: "occultism:divination_rod"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -8.4d
+		}
+		{
+			dependencies: ["0CFB231E4EDE8435"]
+			id: "023D61F619DF3618"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "7D821D4F52374728"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "625367A8A87600A0"
+					item: {
+						count: 1
+						id: "occultism:ritual_satchel_t1"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -8.4d
+		}
+		{
+			dependencies: ["180E2CAB7669186E"]
+			icon: {
+				id: "occultism:chalk_gold"
+			}
+			id: "31E3AD5655575851"
+			rewards: [
+				{
+					id: "0238F723344C67DB"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "1C17075808E9C046"
+					item: {
+						count: 1
+						id: "occultism:chalk_gold"
+					}
+					type: "item"
+				}
+				{
+					id: "2990B37493A7F585"
+					item: {
+						count: 1
+						id: "occultism:chalk_light_gray"
+					}
+					type: "item"
+				}
+				{
+					id: "4080EB128705AB4B"
+					item: {
+						count: 1
+						id: "occultism:chalk_lime"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -3.35d
+		}
+		{
+			dependencies: ["31E3AD5655575851"]
+			id: "1FB9179434C717E2"
+			rewards: [
+				{
+					id: "63EBA43AFF193EE6"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "74350197836C396B"
+					item: {
+						count: 1
+						id: "occultism:book_of_binding_bound_djinni"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -4.12d
+		}
+		{
+			dependencies: ["1FB9179434C717E2"]
+			icon: {
+				id: "occultism:book_of_binding_bound_djinni"
+			}
+			id: "0071A72D1437A804"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "09E909152C0B30CC"
+					type: "xp"
+					xp: 150
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					advancement: "occultism:occultism/summon_djinni_crusher"
+					criterion: ""
+					id: "23C5C9878CE68AD8"
+					type: "advancement"
+				}
+			]
+			x: 5.25d
+			y: -5.67d
+		}
+		{
+			dependencies: ["31E3AD5655575851"]
+			icon: {
+				id: "occultism:chalk_gold"
+			}
+			id: "2D39FB7DFBE2104D"
+			rewards: [
+				{
+					id: "79AED6A2BBA83E76"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					advancement: "occultism:occultism/possess_endermite"
+					criterion: ""
+					id: "38DF91F37A1151E4"
+					type: "advancement"
+				}
+			]
+			x: 3.5d
+			y: -2.58d
+		}
+		{
+			dependencies: ["1FB9179434C717E2"]
+			id: "3C7CC5DA03AF6EE4"
+			rewards: [
+				{
+					id: "06E866F36F0EBBDE"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "50E247B7C6B4A1B4"
+					item: {
+						count: 1
+						id: "occultism:soul_gem"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -4.12d
+		}
+		{
+			dependencies: ["1FB9179434C717E2"]
+			icon: {
+				id: "occultism:familiar_ring"
+			}
+			id: "06D2626F6306AB16"
+			rewards: [
+				{
+					id: "58DFD703233F85B1"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					advancement: "occultism:occultism/familiar/root"
+					criterion: ""
+					id: "3DD7FBD7BD730A62"
+					type: "advancement"
+				}
+			]
+			x: 5.25d
+			y: -2.58d
+		}
+		{
+			dependencies: ["06D2626F6306AB16"]
+			id: "63188B76682FCBA6"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "060E019512413E1E"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "24D846A9ADFC9420"
+					item: {
+						count: 1
+						id: "occultism:familiar_ring"
+					}
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: -4.12d
+		}
+		{
+			dependencies: ["1FB9179434C717E2"]
+			id: "78CAEB6741926428"
+			rewards: [
+				{
+					id: "5AB46D339869EE63"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "0462BABD7E826186"
+					item: {
+						count: 1
+						id: "occultism:infused_pickaxe"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -1.03d
+		}
+		{
+			dependencies: ["78CAEB6741926428"]
+			id: "526418D7DEB3AC24"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "40F4426B03A3BE22"
+					type: "xp"
+					xp: 150
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "74E21CC75C24458C"
+					item: {
+						count: 1
+						id: "occultism:iesnium_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: -2.58d
+		}
+		{
+			dependencies: ["526418D7DEB3AC24"]
+			id: "218D28B612B42DB0"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "7AA80B51DC7B823D"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "029C79983D4D8ECE"
+					item: {
+						count: 1
+						id: "occultism:miner_djinni_ores"
+					}
+					type: "item"
+				}
+			]
+			x: 8.75d
+			y: -3.35d
+		}
+		{
+			dependencies: ["784FFE5AA9775311"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "occultism:chalk_orange"
+			}
+			id: "2C5D76D2F03E010A"
+			rewards: [
+				{
+					id: "5A0D42BC3F80DBFA"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "667FB47786440F85"
+					item: {
+						count: 1
+						id: "occultism:chalk_gray"
+					}
+					type: "item"
+				}
+				{
+					id: "4634DD259BC36C95"
+					item: {
+						count: 1
+						id: "occultism:chalk_orange"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 3.38d
+		}
+		{
+			dependencies: ["2C5D76D2F03E010A"]
+			id: "7F828C6C83F055B8"
+			rewards: [
+				{
+					id: "4E042FA274049A2B"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "6FE6710342167C71"
+					item: {
+						count: 1
+						id: "occultism:afrit_essence"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 3.38d
+		}
+		{
+			dependencies: ["7F828C6C83F055B8"]
+			icon: {
+				id: "occultism:book_of_binding_bound_afrit"
+			}
+			id: "17A40BEFB145F6E0"
+			rewards: [
+				{
+					id: "687660FFAEEDAE31"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "128C298BE89B6E0E"
+					item: {
+						count: 1
+						id: "occultism:chalk_red"
+					}
+					type: "item"
+				}
+				{
+					id: "76CB21EABE1E16AB"
+					item: {
+						count: 1
+						id: "occultism:book_of_binding_bound_afrit"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 3.38d
+		}
+		{
+			dependencies: ["17A40BEFB145F6E0"]
+			icon: {
+				id: "occultism:afrit_essence"
+			}
+			id: "7BBD147946A9A03F"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "204EAD8A5C248FD6"
+					type: "xp"
+					xp: 175
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					advancement: "occultism:occultism/summon_afrit_crusher"
+					criterion: ""
+					id: "2D090671D4111334"
+					type: "advancement"
+				}
+			]
+			x: 5.25d
+			y: 1.83d
+		}
+		{
+			dependencies: ["17A40BEFB145F6E0"]
+			icon: {
+				id: "occultism:book_of_binding_bound_afrit"
+			}
+			id: "13A3B1CE60BFFB7F"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "7E6E6DF5E2C84C97"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					advancement: "occultism:occultism/summon_afrit_smelter"
+					criterion: ""
+					id: "7E1576F8D4B40BEF"
+					type: "advancement"
+				}
+			]
+			x: 5.25d
+			y: 3.38d
+		}
+		{
+			dependencies: ["17A40BEFB145F6E0"]
+			id: "171820C2A55FBF5D"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "57221BA2AC8FDC5C"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "6B3ED5DE5DB663D2"
+					item: {
+						count: 1
+						id: "occultism:miner_afrit_deeps"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 4.92d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			hide_until_deps_complete: true
+			id: "4DC788C79A2E098A"
+			rewards: [
+				{
+					id: "1C24CCEE71D4A4C4"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "0390209074C9BED1"
+					item: {
+						count: 1
+						id: "occultism:chalk_black"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 9.33d
+		}
+		{
+			dependencies: ["4DC788C79A2E098A"]
+			id: "5B71FE2C6A8F492B"
+			rewards: [
+				{
+					id: "748B79A266FED427"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "1073560E9FB82756"
+					item: {
+						count: 1
+						id: "occultism:book_of_binding_bound_marid"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 9.33d
+		}
+		{
+			dependencies: ["5B71FE2C6A8F492B"]
+			id: "45925D443A5BCC6F"
+			rewards: [
+				{
+					id: "3E944B5AB05D7A82"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "4A5EF1034B40C4D5"
+					item: {
+						count: 1
+						id: "occultism:marid_essence"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 8.55d
+		}
+		{
+			dependencies: ["45925D443A5BCC6F"]
+			icon: {
+				id: "occultism:marid_essence"
+			}
+			id: "441A36E1B4E491FF"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "659F341F06034DAD"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "0D1756FCBBB3A5B3"
+					item: {
+						count: 1
+						id: "occultism:chalk_blue"
+					}
+					type: "item"
+				}
+				{
+					advancement: "occultism:occultism/summon_marid_crusher"
+					criterion: ""
+					id: "191EBB958C5BD833"
+					type: "advancement"
+				}
+			]
+			x: 5.25d
+			y: 7.78d
+		}
+		{
+			dependencies: ["45925D443A5BCC6F"]
+			id: "4A4346823B3DBF20"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "6204F7E150C78893"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "3BD1F03CF806960E"
+					item: {
+						count: 1
+						id: "occultism:miner_marid_master"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 9.32d
+		}
+		{
+			dependencies: ["45925D443A5BCC6F"]
+			id: "7D20C0CDDB6F6D9D"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "4823489A935C2EFD"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "740EAE3B63E228DA"
+					item: {
+						count: 1
+						id: "occultism:iesnium_anvil"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 10.88d
+		}
+		{
+			dependencies: ["5B71FE2C6A8F492B"]
+			id: "24332F4F1D307691"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "6900B6A9FDF8E7B6"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "4862833CB0F6F437"
+					item: {
+						count: 1
+						id: "occultism:true_sight_staff"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 10.1d
+		}
+	]
+}

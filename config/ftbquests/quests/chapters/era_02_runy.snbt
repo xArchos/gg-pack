@@ -1,0 +1,1731 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "era_02_runy"
+	group: "3CDFA8C60B58BCC5"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "gg:pieczec_runy"
+	}
+	id: "478F9F3E2B19D7C1"
+	images: [
+		{
+			height: 1.8d
+			id: "2A2AF8E1123A29E4"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 14.0d
+			x: 9.75d
+			y: -22.08d
+		}
+		{
+			height: 1.8d
+			id: "0D7960064AEE2F59"
+			image: "gg:item/pieczec_runy"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 1.55d
+			y: -22.08d
+		}
+		{
+			height: 1.8d
+			id: "43C267D53E8A0C05"
+			image: "ars_nouveau:item/source_gem"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 17.95d
+			y: -22.08d
+		}
+		{
+			height: 0.8d
+			id: "53FE9CDA964095C3"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -19.93d
+		}
+		{
+			height: 0.8d
+			id: "4127DB9560C0EFFB"
+			image: "ars_nouveau:block/arcane_core"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -19.93d
+		}
+		{
+			height: 0.8d
+			id: "1229720A12685AE3"
+			image: "ars_nouveau:block/source_jar"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -19.93d
+		}
+		{
+			height: 0.8d
+			id: "26C61EC941CF0101"
+			image: "ars_nouveau:item/wand"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 17.9d
+			y: -19.93d
+		}
+		{
+			height: 0.8d
+			id: "05C08FD843AA5365"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -12.43d
+		}
+		{
+			height: 0.8d
+			id: "37AEF6ED34879983"
+			image: "irons_spellbooks:item/scroll"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -12.43d
+		}
+		{
+			height: 0.8d
+			id: "62A9C570B10AEA44"
+			image: "irons_spellbooks:item/arcane_essence"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -12.43d
+		}
+		{
+			height: 0.04d
+			id: "2327B0B5E9D6CC92"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 22.5d
+			x: 9.75d
+			y: -12.93d
+		}
+		{
+			height: 0.8d
+			id: "778E75EA85A22116"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -8.03d
+		}
+		{
+			height: 0.8d
+			id: "5F16DEE93A7B84FF"
+			image: "twilightforest:item/magic_map_focus"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -8.03d
+		}
+		{
+			height: 0.8d
+			id: "7419FA73CFE16C4E"
+			image: "twilightforest:item/raven_feather"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -8.03d
+		}
+		{
+			height: 0.04d
+			id: "3F425D09011F2C9B"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 22.5d
+			x: 9.75d
+			y: -8.53d
+		}
+		{
+			height: 0.8d
+			id: "0971B87C74751E35"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -2.08d
+		}
+		{
+			height: 0.8d
+			id: "341492F83E122DEB"
+			image: "twilightforest:item/naga_scale"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -2.08d
+		}
+		{
+			height: 0.8d
+			id: "3A457AA25AB894AD"
+			image: "ars_nouveau:item/wilden_horn"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -2.08d
+		}
+		{
+			height: 0.8d
+			id: "6255F67DCC67BC65"
+			image: "twilightforest:item/lich_trophy"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 17.9d
+			y: -2.08d
+		}
+		{
+			height: 0.04d
+			id: "284E3F403B98E3DC"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 22.5d
+			x: 9.75d
+			y: -2.58d
+		}
+		{
+			height: 0.8d
+			id: "7164ABE1604B6C2F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 2.82d
+		}
+		{
+			height: 0.8d
+			id: "292F032C6D3400E3"
+			image: "create:block/waterwheel_metal"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 2.82d
+		}
+		{
+			height: 0.04d
+			id: "2374B9FA1E670EDF"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 22.5d
+			x: 9.75d
+			y: 2.32d
+		}
+		{
+			height: 0.8d
+			id: "4A857DE22C809C7F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 6.72d
+		}
+		{
+			height: 0.8d
+			id: "373F70024C67335B"
+			image: "toms_storage:block/terminal_front"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 6.72d
+		}
+		{
+			height: 0.04d
+			id: "5FD76F34A9499EB9"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 22.5d
+			x: 9.75d
+			y: 6.22d
+		}
+		{
+			height: 0.8d
+			id: "7289A485E0B1EA79"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 10.62d
+		}
+		{
+			height: 0.8d
+			id: "5934EB3A97BF6074"
+			image: "wands:item/stone_wand"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 10.62d
+		}
+		{
+			height: 0.8d
+			id: "19653CA68EBFE873"
+			image: "wands:item/copper_wand"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: 10.62d
+		}
+		{
+			height: 0.04d
+			id: "3D29CADD9CAD1828"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 22.5d
+			x: 9.75d
+			y: 10.12d
+		}
+		{
+			height: 0.8d
+			id: "0D4DCBFDDFA25790"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 14.53d
+		}
+		{
+			height: 0.8d
+			id: "09412ACDC558909B"
+			image: "minecolonies:item/ancienttome"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 14.53d
+		}
+		{
+			height: 0.04d
+			id: "397AE649A32060A2"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 22.5d
+			x: 9.75d
+			y: 14.03d
+		}
+	]
+	order_index: 2
+	quest_links: [
+		{
+			id: "11E80E471B0BB0A3"
+			linked_quest: "53C4716BE3EA5FC2"
+			x: 5.5d
+			y: 8.12d
+		}
+		{
+			id: "7C5CDE8A0D1059BF"
+			linked_quest: "3D82324A7CE81778"
+			x: 5.5d
+			y: 9.43d
+		}
+		{
+			id: "7977A7BF5329DBBD"
+			linked_quest: "0821899B97FB57F0"
+			x: 12.5d
+			y: -18.4d
+		}
+		{
+			id: "7DF6F76CC27043F8"
+			linked_quest: "58D1CC10E40C8004"
+			x: 12.5d
+			y: -16.85d
+		}
+		{
+			id: "61DBC2D083F41F69"
+			linked_quest: "3E7F308039DE6345"
+			x: 12.5d
+			y: -15.3d
+		}
+		{
+			id: "0398213AF6D678D6"
+			linked_quest: "6F30D36E116F0630"
+			x: 12.5d
+			y: -13.75d
+		}
+		{
+			id: "705438D36046EFCA"
+			linked_quest: "130E6F658F659203"
+			x: 7.25d
+			y: -4.95d
+		}
+		{
+			id: "6DE9A2B348405B95"
+			linked_quest: "44FF6A6CC350D197"
+			x: 16.0d
+			y: -0.43d
+		}
+		{
+			id: "1B4003C04E86A059"
+			linked_quest: "534CA2E2649BB2FF"
+			x: 16.0d
+			y: 1.37d
+		}
+		{
+			id: "14013959E0630984"
+			linked_quest: "52D69A3C6B95485C"
+			x: 7.25d
+			y: 12.68d
+		}
+	]
+	quests: [
+		{
+			icon: {
+				id: "gg:pieczec_runy"
+			}
+			id: "38EA9BA21F0E366C"
+			invisible: true
+			preset: "era"
+			rewards: [ ]
+			tags: ["era_runy", "era_start"]
+			tasks: [
+				{
+					id: "3452A19F5E8BA527"
+					stage: "era_runy"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["38EA9BA21F0E366C"]
+			icon: {
+				id: "ars_nouveau:green_archwood_log"
+			}
+			id: "097A6887EC9FF0F6"
+			rewards: [
+				{
+					id: "24AA613383AD7FB0"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "70150EE8AF4471E7"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "item_tag(c:logs/archwood)"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -16.08d
+		}
+		{
+			dependencies: ["097A6887EC9FF0F6"]
+			id: "091A7A23E2E0339A"
+			rewards: [
+				{
+					id: "04A1B78EAECC47AB"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "0FE7B16E0582FE60"
+					item: {
+						count: 1
+						id: "ars_nouveau:scribes_table"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -17.63d
+		}
+		{
+			dependencies: ["097A6887EC9FF0F6"]
+			id: "471E49F802C04360"
+			rewards: [
+				{
+					id: "18F9BE781D200BC7"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "7C96A707A0C43CFA"
+					item: {
+						count: 1
+						id: "ars_nouveau:imbuement_chamber"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -16.08d
+		}
+		{
+			dependencies: ["097A6887EC9FF0F6"]
+			id: "5652ECC6C043512A"
+			rewards: [
+				{
+					id: "5F9A10E0863BF1D4"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "64B9E7B9FC20C64B"
+					item: {
+						count: 1
+						id: "ars_nouveau:source_jar"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -14.53d
+		}
+		{
+			dependencies: ["471E49F802C04360"]
+			id: "68473797DF560542"
+			rewards: [
+				{
+					id: "7C600846EC51FF7F"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					count: 8L
+					id: "0CAEFB0BEADF260C"
+					item: {
+						count: 1
+						id: "ars_nouveau:source_gem"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -16.85d
+		}
+		{
+			dependencies: ["5652ECC6C043512A", "68473797DF560542"]
+			id: "39238FC1BE69AD2D"
+			rewards: [
+				{
+					id: "0FD6F63BB658A926"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "599B9AA430698822"
+					item: {
+						count: 1
+						id: "ars_nouveau:volcanic_sourcelink"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -18.4d
+		}
+		{
+			dependencies: ["091A7A23E2E0339A"]
+			icon: {
+				id: "ars_nouveau:novice_spell_book"
+			}
+			id: "4F3358E0232752E9"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "58051E6630CF2D49"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "61D0CA336269B6C5"
+					table_id: 3365084175978468107L
+					type: "random"
+				}
+			]
+			tags: ["era_runy", "milestone"]
+			tasks: [
+				{
+					id: "74173AE741D195C0"
+					item: {
+						count: 1
+						id: "ars_nouveau:novice_spell_book"
+					}
+					type: "item"
+				}
+				{
+					id: "06860DDD4138EA32"
+					item: {
+						count: 1
+						id: "ars_nouveau:glyph_light"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -15.3d
+		}
+		{
+			dependencies: ["39238FC1BE69AD2D"]
+			icon: {
+				id: "ars_nouveau:source_jar"
+			}
+			id: "2D16A038D380644A"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "65B2FBB68911339E"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "719BF19487EA4695"
+					table_id: 3365084175978468107L
+					type: "random"
+				}
+			]
+			tags: ["era_runy", "milestone"]
+			tasks: [
+				{
+					id: "22A564BAA69950CD"
+					observation_type: "block_state"
+					timer: 20L
+					to_observe: "ars_nouveau:source_jar[fill=11]"
+					type: "observation"
+				}
+			]
+			x: 10.75d
+			y: -17.63d
+		}
+		{
+			dependencies: ["68473797DF560542"]
+			icon: {
+				id: "ars_nouveau:enchanting_apparatus"
+			}
+			id: "44374E3108D9D22F"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "5E74F713041EBFFF"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "2F30DDA67B87C3F1"
+					table_id: 3365084175978468107L
+					type: "random"
+				}
+			]
+			tags: ["era_runy", "milestone"]
+			tasks: [
+				{
+					id: "51B21D43274A2554"
+					item: {
+						count: 1
+						id: "ars_nouveau:enchanting_apparatus"
+					}
+					type: "item"
+				}
+				{
+					id: "7E12AA69D5BB98ED"
+					item: {
+						count: 1
+						id: "ars_nouveau:arcane_core"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -16.85d
+		}
+		{
+			dependencies: ["68473797DF560542"]
+			id: "358740A581AB8CF6"
+			rewards: [
+				{
+					id: "4F6339C0FCE3C4BC"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy", "seal"]
+			tasks: [
+				{
+					id: "7AF515AE89B92296"
+					item: {
+						count: 1
+						id: "ars_nouveau:source_gem_block"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -15.3d
+		}
+		{
+			dependencies: ["44374E3108D9D22F"]
+			id: "0D90343C52E65B5F"
+			rewards: [
+				{
+					id: "63ADCA21863F8143"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "33EAD848E02A39E6"
+					item: {
+						count: 1
+						id: "ars_nouveau:starbuncle_charm"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -16.08d
+		}
+		{
+			dependencies: ["68473797DF560542", "5652ECC6C043512A"]
+			icon: {
+				id: "ars_nouveau:source_gem"
+			}
+			id: "1F663FD265E72969"
+			rewards: [
+				{
+					id: "5CD4FF515B0EDD8A"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					count: 256L
+					id: "354EE3580A77232C"
+					item: {
+						count: 1
+						id: "ars_nouveau:source_gem"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -13.75d
+		}
+		{
+			dependencies: ["358740A581AB8CF6", "09B4DAB90AEF07D8"]
+			icon: {
+				id: "ars_nouveau:ritual_brazier"
+			}
+			id: "3258FD13D5F35E82"
+			rewards: [
+				{
+					id: "2D2ADAF14DFE9853"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "18CD1246ACA0C580"
+					item: {
+						count: 1
+						id: "ars_nouveau:ritual_brazier"
+					}
+					type: "item"
+				}
+				{
+					id: "3B313098DBADD30F"
+					item: {
+						count: 1
+						id: "ars_nouveau:ritual_wilden_summon"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -14.53d
+		}
+		{
+			dependencies: ["38EA9BA21F0E366C"]
+			icon: {
+				id: "irons_spellbooks:inscription_table"
+			}
+			id: "444D14F45501B109"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "7152F5ACDD281402"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "723B0D81798739FB"
+					table_id: 3365084175978468107L
+					type: "random"
+				}
+			]
+			tags: ["era_runy", "milestone"]
+			tasks: [
+				{
+					id: "6AE38CC84F5A68D7"
+					item: {
+						count: 1
+						id: "irons_spellbooks:inscription_table"
+					}
+					type: "item"
+				}
+				{
+					id: "31903BECC69B07DE"
+					item: {
+						count: 1
+						id: "irons_spellbooks:scroll"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -10.9d
+		}
+		{
+			dependencies: ["444D14F45501B109"]
+			icon: {
+				id: "irons_spellbooks:copper_spell_book"
+			}
+			id: "54B4156207419686"
+			rewards: [
+				{
+					id: "2B3AFA1FFD46C885"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "75AB1B77033601F6"
+					item: {
+						count: 1
+						id: "irons_spellbooks:copper_spell_book"
+					}
+					type: "item"
+				}
+				{
+					advancement: "irons_spellbooks:irons_spellbooks/spell_book_equip"
+					criterion: ""
+					id: "4B5EBD661C4661FB"
+					type: "advancement"
+				}
+			]
+			x: 5.5d
+			y: -10.9d
+		}
+		{
+			dependencies: ["38EA9BA21F0E366C"]
+			id: "040E6644D17A97BE"
+			rewards: [
+				{
+					id: "67F788D4B12EA85E"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy", "seal"]
+			tasks: [
+				{
+					count: 2L
+					id: "629D12A393D3B5B4"
+					item: {
+						count: 1
+						id: "irons_spellbooks:arcane_essence"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -9.35d
+		}
+		{
+			dependencies: ["444D14F45501B109"]
+			id: "68E36844E15659CE"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "79D8746930F9DABB"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy", "optional"]
+			tasks: [
+				{
+					id: "1517497F2BCB4B11"
+					item: {
+						count: 1
+						id: "irons_spellbooks:scroll_forge"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -9.35d
+		}
+		{
+			dependencies: ["38EA9BA21F0E366C"]
+			icon: {
+				id: "twilightforest:twilight_portal_miniature_structure"
+			}
+			id: "02E867FFAF07C0C2"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "0C52CB9D3B8F972F"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "052FD99A0C915DE0"
+					table_id: 3365084175978468107L
+					type: "random"
+				}
+			]
+			tags: ["era_runy", "milestone"]
+			tasks: [
+				{
+					dimension: "twilightforest:twilight_forest"
+					id: "46C04727E73CA709"
+					type: "dimension"
+				}
+			]
+			x: 3.75d
+			y: -6.5d
+		}
+		{
+			dependencies: ["02E867FFAF07C0C2"]
+			icon: {
+				id: "twilightforest:naga_courtyard_miniature_structure"
+			}
+			id: "03E0508560A59D5E"
+			rewards: [
+				{
+					id: "074C2BAA82D96EE0"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "4D6BBB97899BD449"
+					structure: "twilightforest:naga_courtyard"
+					type: "structure"
+				}
+			]
+			x: 5.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["02E867FFAF07C0C2"]
+			icon: {
+				id: "twilightforest:lich_tower_miniature_structure"
+			}
+			id: "1C3C95F6A58407A8"
+			rewards: [
+				{
+					id: "5BB78B1F46078F95"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "0FC148D946FD6583"
+					structure: "twilightforest:lich_tower"
+					type: "structure"
+				}
+			]
+			x: 5.5d
+			y: -4.95d
+		}
+		{
+			dependencies: ["02E867FFAF07C0C2"]
+			id: "297949C483DAFAE8"
+			rewards: [
+				{
+					id: "11E57B73E5856925"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "4DE5142F2B004870"
+					item: {
+						count: 1
+						id: "twilightforest:ironwood_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -3.4d
+		}
+		{
+			dependencies: ["38EA9BA21F0E366C"]
+			icon: {
+				id: "irons_spellbooks:dead_king_phylactery_shard"
+			}
+			id: "0041CE6328881222"
+			rewards: [
+				{
+					id: "79B02E27F0601A95"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "4BE5F1F9847F5B03"
+					structure: "irons_spellbooks:catacombs"
+					type: "structure"
+				}
+			]
+			x: 3.75d
+			y: -4.95d
+		}
+		{
+			dependencies: ["38EA9BA21F0E366C"]
+			icon: {
+				id: "ars_nouveau:wilden_horn"
+			}
+			id: "09B4DAB90AEF07D8"
+			rewards: [
+				{
+					id: "7B93973B8EAF7415"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "738B25BB88562119"
+					item: {
+						count: 1
+						id: "ars_nouveau:wilden_horn"
+					}
+					type: "item"
+				}
+				{
+					id: "0C9D45EE874160A1"
+					item: {
+						count: 1
+						id: "ars_nouveau:wilden_spike"
+					}
+					type: "item"
+				}
+				{
+					id: "35DF2EBD86E11DD8"
+					item: {
+						count: 1
+						id: "ars_nouveau:wilden_wing"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -3.4d
+		}
+		{
+			dependencies: ["03E0508560A59D5E"]
+			icon: {
+				id: "twilightforest:naga_trophy"
+			}
+			id: "514CBCE88CFFA3A2"
+			preset: "boss"
+			rewards: [
+				{
+					id: "235F679C3626BB32"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tags: ["era_runy", "boss"]
+			tasks: [
+				{
+					id: "5BB67A93451A5F4D"
+					stage: "boss_twilightforest_naga"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 7.25d
+			y: -0.43d
+		}
+		{
+			dependencies: ["1C3C95F6A58407A8"]
+			icon: {
+				id: "twilightforest:lich_trophy"
+			}
+			id: "18F53CEADE99C786"
+			preset: "boss"
+			rewards: [
+				{
+					id: "547CA4D7B32F4FAE"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tags: ["era_runy", "boss"]
+			tasks: [
+				{
+					id: "60307714A196866F"
+					stage: "boss_twilightforest_lich"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 7.25d
+			y: 1.37d
+		}
+		{
+			dependencies: ["514CBCE88CFFA3A2", "18F53CEADE99C786"]
+			icon: {
+				id: "twilightforest:naga_trophy"
+			}
+			id: "5F9670FA9D06E8C2"
+			min_required_dependencies: 1
+			preset: "milestone"
+			rewards: [
+				{
+					id: "2F934F804B2A0476"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "0ED39604C3B58043"
+					table_id: 3365084175978468107L
+					type: "random"
+				}
+			]
+			tags: ["era_runy", "milestone"]
+			tasks: [ ]
+			x: 9.0d
+			y: -0.43d
+		}
+		{
+			dependencies: ["3258FD13D5F35E82"]
+			icon: {
+				id: "ars_nouveau:wilden_tribute"
+			}
+			id: "4342B25F5E9890EA"
+			preset: "boss"
+			rewards: [
+				{
+					id: "3E6C5DCD6B867A9E"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tags: ["era_runy", "boss"]
+			tasks: [
+				{
+					id: "60F0F207418684BF"
+					stage: "boss_ars_nouveau_wilden_boss"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 12.5d
+			y: 0.47d
+		}
+		{
+			dependencies: ["0041CE6328881222"]
+			icon: {
+				id: "irons_spellbooks:dead_king_phylactery"
+			}
+			id: "40C6BDAEC3DDCF37"
+			preset: "boss"
+			rewards: [
+				{
+					id: "003A8339BAC1D4D4"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tags: ["era_runy", "boss"]
+			tasks: [
+				{
+					id: "0F93D0A33CC44185"
+					stage: "boss_irons_spellbooks_dead_king"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 5.5d
+			y: 0.47d
+		}
+		{
+			dependencies: ["4342B25F5E9890EA", "40C6BDAEC3DDCF37"]
+			icon: {
+				id: "ars_nouveau:wilden_tribute"
+			}
+			id: "0DBCD009F6C11515"
+			min_required_dependencies: 1
+			preset: "milestone"
+			rewards: [
+				{
+					id: "3B04408DDA8D1005"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "7262090C4C68ECDB"
+					table_id: 3365084175978468107L
+					type: "random"
+				}
+			]
+			tags: ["era_runy", "milestone"]
+			tasks: [ ]
+			x: 14.25d
+			y: 0.47d
+		}
+		{
+			dependencies: ["514CBCE88CFFA3A2"]
+			id: "0514AD14D33CB401"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "159F1DF8405D1FCF"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy", "optional"]
+			tasks: [
+				{
+					id: "589460FB9054BF12"
+					item: {
+						count: 1
+						id: "twilightforest:naga_chestplate"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 1.37d
+		}
+		{
+			dependencies: ["38EA9BA21F0E366C"]
+			icon: {
+				id: "create:mechanical_press"
+			}
+			id: "58654D9FC8257D1D"
+			rewards: [
+				{
+					id: "7917485214F7D67A"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy", "seal"]
+			tasks: [
+				{
+					id: "61B44B8B76235AFA"
+					item: {
+						count: 1
+						id: "create:andesite_casing"
+					}
+					type: "item"
+				}
+				{
+					id: "36F5CA12F6EE2969"
+					item: {
+						count: 1
+						id: "create:mechanical_press"
+					}
+					type: "item"
+				}
+				{
+					id: "0B17039755B8E0DD"
+					item: {
+						count: 1
+						id: "create:water_wheel"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 4.22d
+		}
+		{
+			dependencies: ["38EA9BA21F0E366C"]
+			id: "7BCDAACC3077F8E2"
+			rewards: [
+				{
+					id: "79861E3EDC15B6C0"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy", "seal"]
+			tasks: [
+				{
+					id: "0D5B9521B27308FF"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 5.52d
+		}
+		{
+			dependencies: ["0D90343C52E65B5F"]
+			id: "4923E04330605183"
+			rewards: [
+				{
+					id: "6BF47B8D210FFEDE"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "57B9264F628C7D7D"
+					item: {
+						count: 1
+						id: "ars_creo:starbuncle_wheel"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: 4.88d
+		}
+		{
+			dependencies: ["44374E3108D9D22F"]
+			icon: {
+				id: "ars_nouveau:magebloom"
+			}
+			id: "6A24B428E6449FAA"
+			rewards: [
+				{
+					id: "69D11681BFE373CC"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					count: 256L
+					id: "4D4303D35916BE2B"
+					item: {
+						count: 1
+						id: "ars_nouveau:magebloom"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: 4.88d
+		}
+		{
+			dependencies: ["38EA9BA21F0E366C"]
+			id: "2BC8BAE4708F569F"
+			rewards: [
+				{
+					id: "532C1B4CE2C5D740"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "35D829A11881DFDA"
+					item: {
+						count: 1
+						id: "toms_storage:inventory_connector"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 8.12d
+		}
+		{
+			dependencies: ["38EA9BA21F0E366C"]
+			id: "749FF4C39EA6DBDF"
+			rewards: [
+				{
+					id: "1870939EFD9CF7AC"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "1AEA20C724A5085F"
+					item: {
+						count: 1
+						id: "toms_storage:crafting_terminal"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 9.43d
+		}
+		{
+			dependencies: ["38EA9BA21F0E366C"]
+			id: "567F9E3A92CFDD01"
+			rewards: [
+				{
+					id: "5A6F01387A20B7BB"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "31FCCF93EEC5BACD"
+					item: {
+						count: 1
+						id: "wands:stone_wand"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 12.68d
+		}
+		{
+			dependencies: ["567F9E3A92CFDD01"]
+			id: "6A31642FC24395C9"
+			rewards: [
+				{
+					id: "67B7A0A37F055996"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "7C95D592982B0E42"
+					item: {
+						count: 1
+						id: "wands:copper_wand"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 12.03d
+		}
+		{
+			dependencies: ["567F9E3A92CFDD01"]
+			id: "4D4D1166E9351E04"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "265CCB81991EF328"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy", "optional"]
+			tasks: [
+				{
+					id: "77896FF5258FC250"
+					item: {
+						count: 1
+						id: "wands:palette"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 13.32d
+		}
+		{
+			dependencies: ["38EA9BA21F0E366C"]
+			icon: {
+				id: "minecolonies:blockhutlibrary"
+			}
+			id: "0EC3DB7D48237142"
+			rewards: [
+				{
+					id: "756E92FD7612E9D5"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					advancement: "minecolonies:production/build_library"
+					criterion: ""
+					id: "43AC3244611FB5A4"
+					type: "advancement"
+				}
+			]
+			x: 3.75d
+			y: 15.93d
+		}
+		{
+			dependencies: ["0EC3DB7D48237142"]
+			id: "290774B0AEFAB021"
+			rewards: [
+				{
+					id: "39E781FDCC29104B"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "7399EDEA8015A5C8"
+					item: {
+						count: 1
+						id: "minecolonies:blockhutschool"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 17.88d
+		}
+		{
+			dependencies: ["38EA9BA21F0E366C"]
+			icon: {
+				id: "minecolonies:blockhutenchanter"
+			}
+			id: "08AC5F8F4454BC61"
+			rewards: [
+				{
+					id: "70BC0E341BDC2917"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					advancement: "minecolonies:production/build_enchanter"
+					criterion: ""
+					id: "1E2F5C45FC68EB8D"
+					type: "advancement"
+				}
+			]
+			x: 3.75d
+			y: 17.23d
+		}
+		{
+			dependencies: ["38EA9BA21F0E366C"]
+			icon: {
+				id: "minecolonies:blockhutmysticalsite"
+			}
+			id: "4DE645DF911A19C7"
+			rewards: [
+				{
+					id: "24DFFC50F03109B3"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					advancement: "minecolonies:minecolonies/build_mysticalsite"
+					criterion: ""
+					id: "77342383140AFA7E"
+					type: "advancement"
+				}
+			]
+			x: 3.75d
+			y: 18.52d
+		}
+		{
+			dependencies: ["38EA9BA21F0E366C"]
+			icon: {
+				id: "minecolonies:blockhutflorist"
+			}
+			id: "0E7971A293912780"
+			rewards: [
+				{
+					id: "655554A888DF56CA"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					advancement: "minecolonies:production/build_florist"
+					criterion: ""
+					id: "61552093A66A4C1F"
+					type: "advancement"
+				}
+			]
+			x: 3.75d
+			y: 19.82d
+		}
+		{
+			dependencies: ["290774B0AEFAB021"]
+			icon: {
+				id: "minecolonies:blockhutcitizen"
+			}
+			id: "5ADFE8A241A4DE13"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "07937B311A3BC1A8"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy", "optional"]
+			tasks: [
+				{
+					advancement: "minecolonies:minecolonies/colony_population_10"
+					criterion: ""
+					id: "481330D760BB0F86"
+					type: "advancement"
+				}
+			]
+			x: 7.25d
+			y: 17.88d
+		}
+		{
+			dependencies: [
+				"02E867FFAF07C0C2"
+				"5F9670FA9D06E8C2"
+				"0DBCD009F6C11515"
+				"4F3358E0232752E9"
+				"444D14F45501B109"
+				"2D16A038D380644A"
+				"44374E3108D9D22F"
+			]
+			icon: {
+				id: "gg:pieczec_mosiadz"
+			}
+			id: "34FCF10413455693"
+			preset: "era"
+			rewards: [
+				{
+					auto: "enabled"
+					icon: {
+						id: "gg:pieczec_mosiadz"
+					}
+					id: "49F9BB49F80230F6"
+					stage: "era_mosiadz"
+					team_reward: true
+					type: "gamestage"
+				}
+				{
+					id: "7976C7696149F45B"
+					type: "xp"
+					xp: 400
+				}
+				{
+					id: "2D6129EBEA67DCBE"
+					table_id: 241930471089751746L
+					type: "all_table"
+				}
+			]
+			tags: ["era_runy", "gate"]
+			tasks: [
+				{
+					consume_items: true
+					id: "6FED8831B300E88C"
+					item: {
+						count: 1
+						id: "gg:pieczec_mosiadz"
+					}
+					type: "item"
+				}
+			]
+			x: 19.5d
+			y: 0.0d
+		}
+	]
+}

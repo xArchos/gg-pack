@@ -1,0 +1,121 @@
+{
+	id: "401FBDDF7FC4D806"
+	loot_size: 2
+	order_index: 0
+	rewards: [
+		{
+			count: 16
+			id: "3BAF159BB2A576FF"
+			item: {
+				count: 1
+				id: "minecraft:torch"
+			}
+			weight: 12.0d
+		}
+		{
+			count: 8
+			id: "07DC85D8DF33517B"
+			item: {
+				count: 1
+				id: "minecraft:bread"
+			}
+			weight: 12.0d
+		}
+		{
+			count: 12
+			id: "03C82766CBAB718D"
+			item: {
+				count: 1
+				id: "minecraft:coal"
+			}
+			weight: 12.0d
+		}
+		{
+			count: 8
+			id: "4254E9BEC56AE770"
+			item: {
+				count: 1
+				id: "minecraft:raw_copper"
+			}
+			weight: 10.0d
+		}
+		{
+			count: 6
+			id: "2E57D1F2D48A63EE"
+			item: {
+				count: 1
+				id: "minecraft:cooked_beef"
+			}
+			weight: 8.0d
+		}
+		{
+			count: 4
+			id: "630F0842E5E83D8E"
+			item: {
+				count: 1
+				id: "minecraft:raw_iron"
+			}
+			weight: 8.0d
+		}
+		{
+			count: 8
+			id: "2498EE0DFFF619BA"
+			item: {
+				count: 1
+				id: "minecraft:string"
+			}
+			weight: 8.0d
+		}
+		{
+			count: 12
+			id: "0C98D5C9A2D32CB6"
+			item: {
+				count: 1
+				id: "minecraft:bone_meal"
+			}
+			weight: 8.0d
+		}
+		{
+			count: 16
+			id: "1FE5195DBE165926"
+			item: {
+				count: 1
+				id: "minecraft:clay_ball"
+			}
+			weight: 6.0d
+		}
+		{
+			count: 16
+			id: "385A664722267B10"
+			item: {
+				count: 1
+				id: "minecraft:arrow"
+			}
+			weight: 6.0d
+		}
+		{
+			id: "65814EFEBE08695C"
+			item: {
+				count: 1
+				id: "minecraft:bucket"
+			}
+			weight: 4.0d
+		}
+		{
+			id: "0423737E6597194E"
+			item: {
+				count: 1
+				id: "minecraft:shield"
+			}
+			weight: 4.0d
+		}
+		{
+			id: "6F25FE83BC0C62A2"
+			item: {
+				count: 1
+				id: "minecraft:name_tag"
+			}
+			weight: 2.0d
+		}
+	]
+}

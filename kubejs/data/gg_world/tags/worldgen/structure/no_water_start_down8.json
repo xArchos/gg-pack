@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "bosses_of_mass_destruction:lich_tower",
+      "required": false
+    },
+    {
+      "id": "dungeons_arise:mushroom_mines",
+      "required": false
+    }
+  ]
+}

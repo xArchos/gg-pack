@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "create:shaft",
+    "create:cogwheel",
+    "create:large_cogwheel",
+    "create:gearbox",
+    "create:belt_connector",
+    "create:water_wheel",
+    "create:hand_crank",
+    "create:depot",
+    "create:basin",
+    "create:chute",
+    "create:fluid_pipe"
+  ]
+}

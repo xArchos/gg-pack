@@ -1,0 +1,1065 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tech_electricity"
+	group: "32C7FC51B44C22EE"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "createaddition:alternator"
+	}
+	id: "53FA178D8A2801EE"
+	images: [
+		{
+			height: 1.8d
+			id: "466C45112CD33C51"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -10.42d
+		}
+		{
+			height: 1.8d
+			id: "6AD2035DB9763A24"
+			image: "createaddition:item/copper_spool"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -10.42d
+		}
+		{
+			height: 1.8d
+			id: "51C89CA795601A7D"
+			image: "create_new_age:item/overcharged_iron"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -10.42d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "03307929119D960F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -8.27d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "1878D9DB1F966903"
+			image: "createaddition:item/connector"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -8.27d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "0BDCF770C490706C"
+			image: "createaddition:item/electrum_spool"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -8.27d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "4584E690A489690E"
+			image: "createaddition:item/capacitor"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -8.27d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "68012E968426D176"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -1.77d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "109E0A476384C502"
+			image: "create_new_age:item/overcharged_gold"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -1.77d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "0DC7C0DC9D2138F6"
+			image: "create_new_age:item/overcharged_diamond"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -1.77d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "3D551A3A9973B4F0"
+			image: "create_new_age:item/copper_circuit"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -1.77d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.04d
+			id: "351D4AFBB61AC487"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -2.27d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "5ACCF39AC1A46D0D"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 3.43d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "35A00F04DFA95184"
+			image: "create_new_age:item/thorium"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 3.43d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "28558F98996AB5EA"
+			image: "create_new_age:item/radioactive_thorium"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 3.43d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "3A61851575175A58"
+			image: "create_new_age:item/nuclear_fuel"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 3.43d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.04d
+			id: "67701A7463432413"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 2.93d
+		}
+	]
+	order_index: 11
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "createaddition:copper_spool"
+			}
+			id: "2D78605463F7CB95"
+			preset: "info"
+			rewards: [
+				{
+					id: "55F21E01C203B512"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "69FF6F2710F26EF2"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: -4.92d
+		}
+		{
+			dependencies: ["2D78605463F7CB95"]
+			id: "26A12B7B06B01A8B"
+			rewards: [
+				{
+					id: "55CC4AE467DD6C59"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "674A9F12968E3672"
+					item: {
+						count: 1
+						id: "createaddition:connector"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -6.87d
+		}
+		{
+			dependencies: ["26A12B7B06B01A8B"]
+			id: "16E6B02C48B651C2"
+			rewards: [
+				{
+					id: "2EC314909179D0DD"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "3B746F10259A2C37"
+					item: {
+						count: 1
+						id: "createaddition:large_connector"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -6.87d
+		}
+		{
+			dependencies: ["26A12B7B06B01A8B"]
+			id: "5D46B11490562A75"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "046EE6035B847D60"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "0CC7F37879D72161"
+					item: {
+						count: 1
+						id: "createaddition:redstone_relay"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -5.57d
+		}
+		{
+			dependencies: ["2D78605463F7CB95"]
+			id: "5BD6936A8792636B"
+			rewards: [
+				{
+					id: "49DE38A1034FF529"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "321C7BEF4D85B4D8"
+					item: {
+						count: 1
+						id: "createaddition:electric_motor"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -5.57d
+		}
+		{
+			dependencies: ["2D78605463F7CB95"]
+			id: "14DC02AE20A7EAA2"
+			rewards: [
+				{
+					id: "2C1E2EC8C5188054"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "050E5BA65ECDCDE9"
+					item: {
+						count: 1
+						id: "createaddition:modular_accumulator"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -4.27d
+		}
+		{
+			dependencies: ["14DC02AE20A7EAA2"]
+			id: "481C508DD5F0E61C"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "5EE2B6D251CA17D2"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "2D34808D492113D0"
+					item: {
+						count: 1
+						id: "createaddition:portable_energy_interface"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -4.27d
+		}
+		{
+			dependencies: ["2D78605463F7CB95"]
+			id: "3BF1845223597B1C"
+			rewards: [
+				{
+					id: "4815130DE7505D00"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "23522DD629BC7338"
+					item: {
+						count: 1
+						id: "createaddition:electrum_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -2.97d
+		}
+		{
+			dependencies: ["3BF1845223597B1C"]
+			icon: {
+				id: "createaddition:electrum_spool"
+			}
+			id: "642CC75CBF755551"
+			rewards: [
+				{
+					id: "6BEFA08578AD9AD0"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "4516D89514697546"
+					item: {
+						count: 1
+						id: "createaddition:gold_spool"
+					}
+					type: "item"
+				}
+				{
+					id: "0CE84EBF2D8333FD"
+					item: {
+						count: 1
+						id: "createaddition:electrum_spool"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -2.97d
+		}
+		{
+			dependencies: ["2D78605463F7CB95"]
+			icon: {
+				id: "createaddition:bioethanol_bucket"
+			}
+			id: "0D16835F39CF3524"
+			rewards: [
+				{
+					id: "302FFCE468787B6F"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "014EAEA3A7128642"
+					item: {
+						count: 1
+						id: "createaddition:seed_oil_bucket"
+					}
+					type: "item"
+				}
+				{
+					id: "60E2E3B412646F0B"
+					item: {
+						count: 1
+						id: "createaddition:bioethanol_bucket"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -4.92d
+		}
+		{
+			dependencies: ["0D16835F39CF3524"]
+			id: "756A665E92CC98C4"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "4D4B032608418C6E"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "256E6C938DA5CFAA"
+					item: {
+						count: 1
+						id: "createaddition:biomass_pellet"
+					}
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: -6.87d
+		}
+		{
+			dependencies: ["5BD6936A8792636B"]
+			id: "2E1E702E3BD75038"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "1A87EEC48931913B"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "411111358EB55F84"
+					item: {
+						count: 1
+						id: "createaddition:servo_motor"
+					}
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: -5.57d
+		}
+		{
+			dependencies: ["3BF1845223597B1C"]
+			id: "002672FCF24869B1"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "0137667ADBC28198"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "2351A523E94DD71A"
+					item: {
+						count: 1
+						id: "createaddition:electrum_amulet"
+					}
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: -4.27d
+		}
+		{
+			dependencies: ["3BF1845223597B1C"]
+			icon: {
+				id: "createaddition:electrum_spool"
+			}
+			id: "41DA6E3A4F2F2021"
+			rewards: [
+				{
+					id: "5B7F25782079EA4C"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					count: 256L
+					id: "3013E2165CFB2C87"
+					item: {
+						count: 1
+						id: "createaddition:electrum_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: -2.97d
+		}
+		{
+			dependencies: ["2D78605463F7CB95"]
+			id: "595A475F2748C272"
+			rewards: [
+				{
+					id: "6BBCB1630FF92666"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "43D8D51757649B4D"
+					item: {
+						count: 1
+						id: "create_new_age:magnetite_block"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -0.37d
+		}
+		{
+			dependencies: ["2D78605463F7CB95"]
+			id: "0FBFA1911DFABEE5"
+			rewards: [
+				{
+					id: "3DFB2AF764DF41A1"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "0D430BF0D3B92DF8"
+					item: {
+						count: 1
+						id: "create_new_age:carbon_brushes"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 0.93d
+		}
+		{
+			dependencies: ["0FBFA1911DFABEE5"]
+			icon: {
+				id: "create_new_age:electrical_connector"
+			}
+			id: "690A3EEA188EBC76"
+			rewards: [
+				{
+					id: "7DC913171EB41F46"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "148B74C2712E852C"
+					item: {
+						count: 1
+						id: "create_new_age:electrical_connector"
+					}
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "345ADCC0A14D8440"
+					item: {
+						count: 1
+						id: "create_new_age:copper_wire"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -0.37d
+		}
+		{
+			dependencies: ["0FBFA1911DFABEE5"]
+			icon: {
+				id: "create_new_age:layered_magnet"
+			}
+			id: "5D25B687E0D447EB"
+			rewards: [
+				{
+					id: "163DF9203C1A5489"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "044DE35D39382AE5"
+					item: {
+						count: 1
+						id: "create_new_age:layered_magnet"
+					}
+					type: "item"
+				}
+				{
+					id: "336132EA92B94992"
+					item: {
+						count: 1
+						id: "create_new_age:netherite_magnet"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 0.93d
+		}
+		{
+			dependencies: ["5D25B687E0D447EB", "595A475F2748C272"]
+			id: "5E1C588E91C5B4A5"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "399E89785DE7224A"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "7B982668D75EAA18"
+					item: {
+						count: 1
+						id: "create_new_age:fluxuated_magnetite"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -0.37d
+		}
+		{
+			dependencies: ["595A475F2748C272"]
+			id: "176B57B72D915C96"
+			rewards: [
+				{
+					id: "434EE509549488F8"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "0879549DF5288FE1"
+					item: {
+						count: 1
+						id: "create_new_age:basic_motor"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 2.23d
+		}
+		{
+			dependencies: ["176B57B72D915C96"]
+			icon: {
+				id: "create_new_age:reinforced_motor"
+			}
+			id: "1E71E31719F33621"
+			rewards: [
+				{
+					id: "2FDFC61D6A31EA9C"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "4AB6FE1AD7FA1154"
+					item: {
+						count: 1
+						id: "create_new_age:advanced_motor"
+					}
+					type: "item"
+				}
+				{
+					id: "021AEA45BDCFF01E"
+					item: {
+						count: 1
+						id: "create_new_age:reinforced_motor"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 0.93d
+		}
+		{
+			dependencies: ["176B57B72D915C96"]
+			id: "1B24A66E1B08939B"
+			rewards: [
+				{
+					id: "0397CDB352C6797B"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "390930E9E826DCDE"
+					item: {
+						count: 1
+						id: "create_new_age:basic_motor_extension"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 2.23d
+		}
+		{
+			dependencies: ["2D78605463F7CB95"]
+			icon: {
+				id: "create_new_age:reinforced_energiser"
+			}
+			id: "4369A96D0CC1C2C6"
+			rewards: [
+				{
+					id: "35B23CE511A9AA2F"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "750C3B5192982403"
+					item: {
+						count: 1
+						id: "create_new_age:advanced_energiser"
+					}
+					type: "item"
+				}
+				{
+					id: "76B4829913BBCDB1"
+					item: {
+						count: 1
+						id: "create_new_age:reinforced_energiser"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 2.23d
+		}
+		{
+			dependencies: ["2D78605463F7CB95"]
+			icon: {
+				id: "create_new_age:stirling_engine"
+			}
+			id: "2A1448693DAA1057"
+			rewards: [
+				{
+					id: "67CE629D0B7BE902"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					count: 8L
+					id: "2731591015D25D13"
+					item: {
+						count: 1
+						id: "create_new_age:heat_pipe"
+					}
+					type: "item"
+				}
+				{
+					id: "56BA5C66E9BDEEDB"
+					item: {
+						count: 1
+						id: "create_new_age:basic_solar_heating_plate"
+					}
+					type: "item"
+				}
+				{
+					id: "7D0E246B5F9C2456"
+					item: {
+						count: 1
+						id: "create_new_age:stirling_engine"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 5.73d
+		}
+		{
+			dependencies: ["2A1448693DAA1057"]
+			id: "7387FAB39513EF18"
+			rewards: [
+				{
+					id: "35A6944F4DD202C4"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "5DFE52AA1F18F279"
+					item: {
+						count: 1
+						id: "create_new_age:heater"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 4.95d
+		}
+		{
+			dependencies: ["2A1448693DAA1057", "7BADFFCFB17142E5"]
+			id: "60D52ABC1C27D732"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "64958F90178992A1"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "361EBAAF6D769ADC"
+					item: {
+						count: 1
+						id: "create_new_age:heat_pump"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["2D78605463F7CB95"]
+			id: "7BADFFCFB17142E5"
+			rewards: [
+				{
+					id: "0291C16624A3F082"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "54A89C1D9896AF79"
+					item: {
+						count: 1
+						id: "create_new_age:thorium"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 7.28d
+		}
+		{
+			dependencies: ["7BADFFCFB17142E5"]
+			id: "37846D9D616D6CE4"
+			rewards: [
+				{
+					id: "39E470E5A428E389"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "43B4626C35625A95"
+					item: {
+						count: 1
+						id: "create_new_age:nuclear_fuel"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 8.05d
+		}
+		{
+			dependencies: ["37846D9D616D6CE4", "7387FAB39513EF18"]
+			icon: {
+				id: "create_new_age:reactor_rod"
+			}
+			id: "7CFF1792EC24E0D4"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "3CBFBC2AC3786C45"
+					type: "xp"
+					xp: 225
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					count: 2L
+					id: "2253EF8E9186EABA"
+					item: {
+						count: 1
+						id: "create_new_age:reactor_rod"
+					}
+					type: "item"
+				}
+				{
+					id: "78100D0957CFE579"
+					item: {
+						count: 1
+						id: "create_new_age:reactor_fuel_acceptor"
+					}
+					type: "item"
+				}
+				{
+					id: "571949C077FD735A"
+					item: {
+						count: 1
+						id: "create_new_age:reactor_heat_vent"
+					}
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "385EBE68ED0D70B4"
+					item: {
+						count: 1
+						id: "create_new_age:reactor_casing"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 5.73d
+		}
+		{
+			dependencies: ["37846D9D616D6CE4"]
+			icon: {
+				id: "create_new_age:radioactive_thorium"
+			}
+			id: "1E54FAB5C7AAB310"
+			rewards: [
+				{
+					id: "49BCB09BCE61B199"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					count: 64L
+					id: "57EF6764DE371880"
+					item: {
+						count: 1
+						id: "create_new_age:nuclear_fuel"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 7.28d
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	chapter_groups: [
+		{
+			id: "3CDFA8C60B58BCC5"
+		}
+		{
+			id: "75FCEC97D90BDF93"
+		}
+		{
+			id: "32C7FC51B44C22EE"
+		}
+		{
+			id: "3108D924C31FF1C5"
+		}
+		{
+			id: "16562C951FE3B019"
+		}
+		{
+			id: "61DE9B33509C7F9A"
+		}
+		{
+			id: "0F1B4D3EF0FB70FA"
+		}
+		{
+			id: "595018FBEA1F1D86"
+		}
+		{
+			id: "2228B5A6199560EB"
+		}
+	]
+}

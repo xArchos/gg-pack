@@ -1,0 +1,388 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "build_effortless"
+	group: "16562C951FE3B019"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "effortlessbuilding:randomizer_tool"
+	}
+	id: "0289E9E1E3E0E340"
+	images: [
+		{
+			height: 1.8d
+			id: "6122EF3AFB562206"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -5.5d
+		}
+		{
+			height: 1.8d
+			id: "4236882E8176A036"
+			image: "effortlessbuilding:item/buildingtechniquesbook"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -5.5d
+		}
+		{
+			height: 1.8d
+			id: "0D19ACFB86DA3DD3"
+			image: "effortlessbuilding:item/elastichand"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -5.5d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "492A433BB2A47656"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -3.35d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "175720CE545F0F6F"
+			image: "effortlessbuilding:item/muscles"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -3.35d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "6C8AF5032E451694"
+			image: "effortlessbuilding:item/reachupgrade1"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -3.35d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "68BF8E18F0E61DDD"
+			image: "effortlessbuilding:item/reachupgrade2"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -3.35d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "14D4A540CB7277D0"
+			image: "effortlessbuilding:item/reachupgrade3"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -3.35d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "41CE3AB5680022D1"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -0.75d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "01F2A640FC4B7B62"
+			image: "effortlessbuilding:item/randomizertool"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -0.75d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "74E421460748FD65"
+			image: "effortlessbuilding:item/randomizerbag"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -0.75d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "30D9732D5747AFCA"
+			image: "effortlessbuilding:item/goldenrandomizerbag"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -0.75d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "1CA25A0DD076AB4F"
+			image: "effortlessbuilding:item/diamondrandomizerbag"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -0.75d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.04d
+			id: "31520BF7FA1AF432"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -1.25d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["61184EB93DBC27D9"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "effortlessbuilding:randomizer_tool"
+			}
+			id: "7DC4DB997C462180"
+			preset: "info"
+			rewards: [
+				{
+					id: "5D58B83D91F7F035"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "7E942EB8A31CFDD6"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: -1.95d
+		}
+		{
+			dependencies: ["7DC4DB997C462180"]
+			icon: {
+				id: "minecraft:stone_bricks"
+			}
+			id: "389613A30B1FEAEF"
+			preset: "info"
+			rewards: [
+				{
+					id: "451D9FCFD271CF35"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "6475E59B5B732524"
+					type: "checkmark"
+				}
+			]
+			x: 1.75d
+			y: -1.95d
+		}
+		{
+			dependencies: ["389613A30B1FEAEF"]
+			icon: {
+				id: "minecraft:bricks"
+			}
+			id: "1B077A339179DBA3"
+			preset: "info"
+			rewards: [
+				{
+					id: "552A2B79D4BB43E5"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "383847DA7CBF05C0"
+					type: "checkmark"
+				}
+			]
+			x: 3.5d
+			y: -1.95d
+		}
+		{
+			dependencies: ["1B077A339179DBA3"]
+			icon: {
+				id: "minecraft:oak_planks"
+			}
+			id: "71A5A31E5BF49CEE"
+			preset: "info"
+			rewards: [
+				{
+					id: "733B50D22C6C3AA1"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "7F234287009B21CD"
+					type: "checkmark"
+				}
+			]
+			x: 5.25d
+			y: -1.95d
+		}
+		{
+			dependencies: ["71A5A31E5BF49CEE"]
+			icon: {
+				id: "minecraft:smooth_stone"
+			}
+			id: "615774FFD60F9C26"
+			preset: "info"
+			rewards: [
+				{
+					id: "7208DE0D0EE842BE"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "41865324B0D1B499"
+					type: "checkmark"
+				}
+			]
+			x: 7.0d
+			y: -1.95d
+		}
+		{
+			dependencies: ["7DC4DB997C462180"]
+			icon: {
+				id: "minecraft:glass"
+			}
+			id: "03D49F116F334AA8"
+			preset: "info"
+			rewards: [
+				{
+					id: "5F2116E21F3E1E78"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "463BFF5A8F02CA45"
+					type: "checkmark"
+				}
+			]
+			x: 1.75d
+			y: 1.95d
+		}
+		{
+			dependencies: ["03D49F116F334AA8"]
+			icon: {
+				id: "minecraft:clock"
+			}
+			id: "261335FB971DA14D"
+			preset: "info"
+			rewards: [
+				{
+					id: "60B7A046D255877F"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "5AADF34D32E62F6D"
+					type: "checkmark"
+				}
+			]
+			x: 3.5d
+			y: 0.65d
+		}
+		{
+			dependencies: ["03D49F116F334AA8"]
+			icon: {
+				id: "minecraft:cobblestone"
+			}
+			id: "0092EB6702CCBCF8"
+			preset: "info"
+			rewards: [
+				{
+					id: "61C6968DAD1C0D2E"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "5C012971E696763A"
+					type: "checkmark"
+				}
+			]
+			x: 3.5d
+			y: 1.95d
+		}
+		{
+			dependencies: ["03D49F116F334AA8"]
+			icon: {
+				id: "effortlessbuilding:randomizer_tool"
+			}
+			id: "171C2103DDB0034D"
+			preset: "info"
+			rewards: [
+				{
+					id: "021C1E152143CD8D"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "72C4CDDBFE41F40E"
+					type: "checkmark"
+				}
+			]
+			x: 3.5d
+			y: 3.25d
+		}
+	]
+}

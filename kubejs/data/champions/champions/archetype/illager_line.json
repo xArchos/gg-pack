@@ -1,0 +1,63 @@
+{
+  "id": "champions:illager_line",
+  "entity_filter": {
+    "type": "entity_type",
+    "types": [
+      "minecraft:pillager",
+      "minecraft:vindicator",
+      "minecraft:evoker",
+      "minecraft:illusioner",
+      "minecraft:vex",
+      "illagerinvasion:alchemist",
+      "illagerinvasion:archivist",
+      "illagerinvasion:basher",
+      "illagerinvasion:firecaller",
+      "illagerinvasion:inquisitor",
+      "illagerinvasion:marauder",
+      "illagerinvasion:necromancer",
+      "illagerinvasion:provoker",
+      "illagerinvasion:sorcerer",
+      "illagerinvasion:surrendered"
+    ]
+  },
+  "tier_range": {},
+  "affix_pools": [
+    {
+      "tier_range": { "max": 2 },
+      "max_count": 2,
+      "candidates": [
+        { "affix": "champions:wounding", "max_strength": 2, "weight": 12 },
+        { "affix": "champions:knocking", "max_strength": 2, "weight": 10 },
+        { "affix": "champions:paralyzing", "max_strength": 2, "weight": 6 },
+        { "affix": "champions:hasty", "max_strength": 2 },
+        { "affix": "champions:dampening", "max_strength": 2 }
+      ]
+    },
+    {
+      "tier_range": { "min": 3, "max": 4 },
+      "max_count": 2,
+      "candidates": [
+        { "affix": "champions:shielding", "max_strength": 2, "weight": 8 },
+        { "affix": "champions:adaptable", "max_strength": 2, "weight": 8 },
+        { "affix": "champions:reflective", "max_strength": 2, "weight": 6 },
+        { "affix": "champions:magnetic", "max_strength": 2, "weight": 6 },
+        { "affix": "champions:enkindling", "max_strength": 2, "weight": 6 },
+        { "affix": "champions:wounding", "max_strength": 2, "weight": 10 }
+      ]
+    },
+    {
+      "tier_range": { "min": 5 },
+      "min_count": 2,
+      "max_count": 3,
+      "candidates": [
+        { "affix": "champions:arctic", "min_strength": 2, "max_strength": 3, "weight": 6 },
+        { "affix": "champions:enkindling", "min_strength": 2, "max_strength": 3, "weight": 6 },
+        { "affix": "champions:magnetic", "min_strength": 2, "max_strength": 3, "weight": 8 },
+        { "affix": "champions:paralyzing", "min_strength": 2, "max_strength": 3, "weight": 6 },
+        { "affix": "champions:shielding", "min_strength": 2, "max_strength": 3, "weight": 8 },
+        { "affix": "champions:adaptable", "min_strength": 2, "max_strength": 3, "weight": 8 },
+        { "affix": "champions:reflective", "min_strength": 2, "max_strength": 3 }
+      ]
+    }
+  ]
+}

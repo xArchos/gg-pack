@@ -1,0 +1,520 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bosses_aether"
+	group: "0F1B4D3EF0FB70FA"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "aether:gold_dungeon_key"
+	}
+	id: "245A89293272A605"
+	images: [
+		{
+			height: 1.8d
+			id: "784A5277E9C83455"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -7.95d
+		}
+		{
+			height: 1.8d
+			id: "60C675E9F3348729"
+			image: "aether:item/miscellaneous/bronze_dungeon_key"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -7.95d
+		}
+		{
+			height: 1.8d
+			id: "1C3A9B4F6D25BC2B"
+			image: "deep_aether:item/brass_dungeon_key"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -7.95d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "7243CF5B3DB6C0F9"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -5.8d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "4EB3B2B06824C80C"
+			image: "aether:block/dungeon/carved_stone"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -5.8d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "78B6395FBEF49A33"
+			image: "aether:block/dungeon/angelic_stone"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -5.8d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "5F28F91A6DB6A9C8"
+			image: "aether:block/dungeon/hellfire_stone"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -5.8d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "7643021D58E5BB6B"
+			image: "deep_aether:block/nimbus_stone"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -5.8d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "7614D5DF86F95E19"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -0.6d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "03196F9583218CB8"
+			image: "aether:item/miscellaneous/silver_dungeon_key"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -0.6d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "1CFCB04DF35EAC93"
+			image: "aether:item/miscellaneous/gold_dungeon_key"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -0.6d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "6FA679A004F6592F"
+			image: "aether:item/weapons/valkyrie_lance"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -0.6d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "57B1A61A990C635C"
+			image: "deep_aether:item/cloud_cape"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -0.6d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.04d
+			id: "54C999AC58DE4A8D"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -1.1d
+		}
+	]
+	order_index: 4
+	quest_links: [
+		{
+			id: "3827C880505BF38F"
+			linked_quest: "788AA0421DA887F2"
+			x: 3.5d
+			y: -4.4d
+		}
+		{
+			id: "669C160A979062E9"
+			linked_quest: "4912FEAAB6B229F8"
+			x: 3.5d
+			y: -3.1d
+		}
+		{
+			id: "639763932783A4BD"
+			linked_quest: "2158674B4C7C444D"
+			x: 3.5d
+			y: -1.8d
+		}
+		{
+			id: "5DEC7D9F56340567"
+			linked_quest: "5F9BEC137397BB8A"
+			x: 5.25d
+			y: -3.1d
+		}
+	]
+	quests: [
+		{
+			dependencies: ["784FFE5AA9775311"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "aether:carved_stone"
+			}
+			id: "2001C65186B84C6B"
+			rewards: [
+				{
+					id: "76FCBBCF462B33C4"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "72D083D75AD72400"
+					structure: "aether:bronze_dungeon"
+					type: "structure"
+				}
+			]
+			x: 0.0d
+			y: -3.1d
+		}
+		{
+			dependencies: ["2001C65186B84C6B"]
+			icon: {
+				id: "aether:angelic_stone"
+			}
+			id: "7CD914D2D3A9716F"
+			rewards: [
+				{
+					id: "25682EA251150A5D"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "5DC4AC7AE8B97DD2"
+					structure: "aether:silver_dungeon"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: -4.4d
+		}
+		{
+			dependencies: ["2001C65186B84C6B"]
+			icon: {
+				id: "aether:hellfire_stone"
+			}
+			id: "68C1C1E0E38BF419"
+			rewards: [
+				{
+					id: "1D1957AC1782BF0D"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "5B9CECE0DDF2F919"
+					structure: "aether:gold_dungeon"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: -3.1d
+		}
+		{
+			dependencies: ["2001C65186B84C6B"]
+			icon: {
+				id: "deep_aether:nimbus_stone"
+			}
+			id: "1A66C559E26F968D"
+			rewards: [
+				{
+					id: "3AA9032F04589F19"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "2FA7FE8242A8C148"
+					structure: "deep_aether:brass_dungeon"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: -1.8d
+		}
+		{
+			dependencies: ["2001C65186B84C6B", "788AA0421DA887F2"]
+			id: "1308134184C91F76"
+			rewards: [
+				{
+					id: "3A786CE090766303"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "457877AA9CF5D36F"
+					item: {
+						count: 1
+						id: "aether:bronze_dungeon_key"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 3.25d
+		}
+		{
+			dependencies: ["1308134184C91F76"]
+			id: "3113D482E74AC6EC"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "6C88229AD824B5E1"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "4A45CB309A41A90E"
+					item: {
+						count: 1
+						id: "aether:hammer_of_kingbdogz"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 0.93d
+		}
+		{
+			dependencies: ["7CD914D2D3A9716F", "4912FEAAB6B229F8"]
+			id: "5F3B675A7597B4AC"
+			rewards: [
+				{
+					id: "533F1FE633F2C137"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "21D896FA66668B65"
+					item: {
+						count: 1
+						id: "aether:silver_dungeon_key"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 2.48d
+		}
+		{
+			dependencies: ["5F3B675A7597B4AC"]
+			icon: {
+				id: "aether:valkyrie_helmet"
+			}
+			id: "0B3B93CE69511A97"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "595FFC042861FB3D"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					advancement: "aether:valkyrie_loot"
+					criterion: ""
+					id: "0EDD3A8B93B31535"
+					type: "advancement"
+				}
+			]
+			x: 7.0d
+			y: 1.7d
+		}
+		{
+			dependencies: ["68C1C1E0E38BF419", "2158674B4C7C444D"]
+			id: "391A056FD94B64A8"
+			rewards: [
+				{
+					id: "1FADEA5219CF492F"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "3E2C63F47E50EDD6"
+					item: {
+						count: 1
+						id: "aether:gold_dungeon_key"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 4.03d
+		}
+		{
+			dependencies: ["68C1C1E0E38BF419", "2158674B4C7C444D"]
+			id: "0822763050A1A8FF"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "6AE2F5FFF72BC79C"
+					type: "xp"
+					xp: 175
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "610CC952B73A0480"
+					item: {
+						count: 1
+						id: "aether:sun_altar"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 5.58d
+		}
+		{
+			dependencies: ["391A056FD94B64A8"]
+			icon: {
+				id: "aether:phoenix_helmet"
+			}
+			id: "118C67708613B190"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "3C0BCE374748A7FE"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					advancement: "aether:phoenix_armor"
+					criterion: ""
+					id: "1431E64A446FA704"
+					type: "advancement"
+				}
+			]
+			x: 7.0d
+			y: 3.25d
+		}
+		{
+			dependencies: ["391A056FD94B64A8"]
+			id: "3C3EFEFFE1B0C98D"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "6BAE9BDE02F06AB6"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "3343FBC338BD00B6"
+					item: {
+						count: 1
+						id: "aether:life_shard"
+					}
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: 4.8d
+		}
+		{
+			dependencies: ["1A66C559E26F968D", "5F9BEC137397BB8A"]
+			id: "53716E06C4EAD701"
+			rewards: [
+				{
+					id: "38A3B0636B1F93A5"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "0F11F62675A493DA"
+					item: {
+						count: 1
+						id: "deep_aether:brass_dungeon_key"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 3.25d
+		}
+	]
+}

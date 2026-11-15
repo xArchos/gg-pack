@@ -1,0 +1,14 @@
+{
+  "type": "recipe",
+  "crafter": "chef_crafting",
+  "inputs": [
+    {"id": "minecraft:mutton"},
+    {"id": "farmersdelight:raw_pasta"},
+    {"id": "farmersdelight:tomato_sauce"},
+    {"id": "minecraft:bowl"}
+  ],
+  "intermediate": "minecraft:air",
+  "min-building-level": 3,
+  "result": {"id": "farmersdelight:pasta_with_mutton_chop"},
+  "show-tooltip": true
+}

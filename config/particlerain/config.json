@@ -1,0 +1,6 @@
+{
+  "configVersion": 8,
+  "perf": {
+    "particleAmount": 1000
+  }
+}

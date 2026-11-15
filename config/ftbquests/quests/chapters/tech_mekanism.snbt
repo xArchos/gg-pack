@@ -1,0 +1,1061 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tech_mekanism"
+	group: "32C7FC51B44C22EE"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "mekanism:enrichment_chamber"
+	}
+	id: "43F6D4E59CEEA5AB"
+	images: [
+		{
+			height: 1.8d
+			id: "4D1F4642E90CFCBD"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 14.0d
+			x: 6.12d
+			y: -13.28d
+		}
+		{
+			height: 1.8d
+			id: "1ABAC4689F5E22E7"
+			image: "mekanism:item/elite_control_circuit"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.07d
+			y: -13.28d
+		}
+		{
+			height: 1.8d
+			id: "47A52E2B9181B514"
+			image: "mekanism:item/crystal_iron"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 14.32d
+			y: -13.28d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "7CD361BFD4AC525F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -11.12d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "3986110A91386013"
+			image: "mekanism:item/ingot_osmium"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -11.12d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "667B6528292288FE"
+			image: "mekanism:item/alloy_infused"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -11.12d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "3F0644D3D9880056"
+			image: "mekanism:item/upgrade_speed"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -11.12d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "5E1B56E3A1E6B56F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -4.63d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "63A7478F740312E5"
+			image: "mekanism:item/salt"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -4.63d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "2FF392411EBBA4D8"
+			image: "mekanism:item/dust_sulfur"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -4.63d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "2C17C0AA62B2CF34"
+			image: "mekanism:item/dust_lithium"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -4.63d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.04d
+			id: "0A1DF4404DAA9752"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -5.13d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "277D0B71D39F44A6"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 1.87d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "5BE0775FEC16B49F"
+			image: "mekanism:item/clump_iron"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 1.87d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "3A070D1E8F090A53"
+			image: "mekanism:item/shard_gold"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 1.87d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "4EE3FE1E3CBFFE5A"
+			image: "mekanism:item/dirty_dust_copper"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 1.87d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.04d
+			id: "77D39F0CAFA254BB"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 1.37d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "36EBD58D8A21BED5"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 4.72d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "061B71D94C7703EF"
+			image: "mekanism:item/crafting_formula"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 4.72d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "5325FDF53C1721FC"
+			image: "mekanism:item/teleportation_core"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 4.72d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "0BD06024C5E24207"
+			image: "mekanism:item/configuration_card"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 4.72d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.04d
+			id: "17C32D78D609DE9E"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 4.22d
+		}
+	]
+	order_index: 14
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			hide_until_deps_complete: true
+			id: "469A32D61ED9194B"
+			rewards: [
+				{
+					id: "1C2BBFDF9390BFA1"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					count: 8L
+					id: "4A56D268C8AB3D1D"
+					item: {
+						count: 1
+						id: "mekanism:basic_universal_cable"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -7.77d
+		}
+		{
+			dependencies: ["469A32D61ED9194B"]
+			id: "477FF4557FF38C2C"
+			rewards: [
+				{
+					id: "243366FD2D58EE5F"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "2DD4AFE0A3652A64"
+					item: {
+						count: 1
+						id: "mekanism:energized_smelter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -9.72d
+		}
+		{
+			dependencies: ["469A32D61ED9194B"]
+			id: "6F0C404F09202805"
+			rewards: [
+				{
+					id: "7CF70B0DA57E8238"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "15810436A3381BC5"
+					item: {
+						count: 1
+						id: "mekanism:crusher"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -8.43d
+		}
+		{
+			dependencies: ["469A32D61ED9194B"]
+			id: "56E30E2228D03001"
+			rewards: [
+				{
+					id: "0B34DB195405B6FB"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "75E63A13E05688DE"
+					item: {
+						count: 1
+						id: "mekanism:configurator"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -7.12d
+		}
+		{
+			dependencies: ["477FF4557FF38C2C"]
+			icon: {
+				id: "mekanism:upgrade_speed"
+			}
+			id: "58237CA7E7D596F1"
+			rewards: [
+				{
+					id: "2DF4F78136E8D179"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "71681CA033025BAA"
+					item: {
+						count: 1
+						id: "mekanism:upgrade_speed"
+					}
+					type: "item"
+				}
+				{
+					id: "434E6336DB2B6D4E"
+					item: {
+						count: 1
+						id: "mekanism:upgrade_energy"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -9.72d
+		}
+		{
+			dependencies: ["477FF4557FF38C2C"]
+			icon: {
+				id: "mekanism:advanced_tier_installer"
+			}
+			id: "67B4FEC3F9C6D751"
+			rewards: [
+				{
+					id: "2FB28FF5DF380680"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "210A87557EC95BDE"
+					item: {
+						count: 1
+						id: "mekanism:basic_tier_installer"
+					}
+					type: "item"
+				}
+				{
+					id: "6E19FE8B0F548E94"
+					item: {
+						count: 1
+						id: "mekanism:advanced_tier_installer"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -8.43d
+		}
+		{
+			dependencies: ["6F0C404F09202805"]
+			icon: {
+				id: "mekanism:ingot_refined_obsidian"
+			}
+			id: "3777F8DAD393B87E"
+			rewards: [
+				{
+					id: "6F98F66371E321F2"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "7F4F391DC0B7CBB8"
+					item: {
+						count: 1
+						id: "mekanism:osmium_compressor"
+					}
+					type: "item"
+				}
+				{
+					id: "77DBD1DA0583447A"
+					item: {
+						count: 1
+						id: "mekanism:ingot_refined_obsidian"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -7.12d
+		}
+		{
+			dependencies: ["469A32D61ED9194B"]
+			id: "3DA37BF540645C19"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "1FF5215F15B67788"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "7747954BB8743498"
+					item: {
+						count: 1
+						id: "mekanism:precision_sawmill"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -5.83d
+		}
+		{
+			dependencies: ["6F0C404F09202805"]
+			id: "412CF0E07D1C721F"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "3C4B5FAF31B809F9"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "4BB4D23C36A035CA"
+					item: {
+						count: 1
+						id: "mekanism:combiner"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -5.83d
+		}
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "mekanism:basic_pressurized_tube"
+			}
+			id: "0FACB23C0ACAE7EA"
+			rewards: [
+				{
+					id: "1BAB31C9B85CDDC7"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					count: 8L
+					id: "42CB15FB1671CD09"
+					item: {
+						count: 1
+						id: "mekanism:basic_pressurized_tube"
+					}
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "7C4F93B6E7D6D8F2"
+					item: {
+						count: 1
+						id: "mekanism:basic_mechanical_pipe"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -1.28d
+		}
+		{
+			dependencies: ["0FACB23C0ACAE7EA"]
+			id: "1F87CDB590D69039"
+			rewards: [
+				{
+					id: "21C960751BB38F8A"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "3E0450D293F3B102"
+					item: {
+						count: 1
+						id: "mekanism:electrolytic_separator"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -3.23d
+		}
+		{
+			dependencies: ["0FACB23C0ACAE7EA"]
+			icon: {
+				id: "mekanism:basic_chemical_tank"
+			}
+			id: "586CEB4A4C9DC7F4"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "49D7C24458F4EB4C"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "1535B072826BCEB0"
+					item: {
+						count: 1
+						id: "mekanism:basic_chemical_tank"
+					}
+					type: "item"
+				}
+				{
+					id: "5BA896B38114E93D"
+					item: {
+						count: 1
+						id: "mekanism:basic_fluid_tank"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -1.93d
+		}
+		{
+			dependencies: ["0FACB23C0ACAE7EA"]
+			icon: {
+				id: "mekanism:thermal_evaporation_controller"
+			}
+			id: "69EE60EE7D5065B9"
+			rewards: [
+				{
+					id: "7C83985BBB2D0669"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "247DC514DCF8C21C"
+					item: {
+						count: 1
+						id: "mekanism:thermal_evaporation_controller"
+					}
+					type: "item"
+				}
+				{
+					id: "1715CB7BA1FE3572"
+					item: {
+						count: 1
+						id: "mekanism:thermal_evaporation_valve"
+					}
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "25D9FF174A28890B"
+					item: {
+						count: 1
+						id: "mekanism:thermal_evaporation_block"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -0.63d
+		}
+		{
+			dependencies: ["1F87CDB590D69039"]
+			id: "23A48EAF4BEDC309"
+			rewards: [
+				{
+					id: "3E43F1046AA31CEF"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "13B566289F0DB787"
+					item: {
+						count: 1
+						id: "mekanism:chemical_infuser"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -1.28d
+		}
+		{
+			dependencies: ["23A48EAF4BEDC309"]
+			id: "760800D6A478D389"
+			rewards: [
+				{
+					id: "3595118F7E0C0D36"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "12BFA46C3A9DF3F6"
+					item: {
+						count: 1
+						id: "mekanism:chemical_oxidizer"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -1.28d
+		}
+		{
+			dependencies: ["0FACB23C0ACAE7EA"]
+			id: "48052DCC9310D768"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "03EA46B8076D050B"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "7522028D83371411"
+					item: {
+						count: 1
+						id: "mekanism:rotary_condensentrator"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 0.67d
+		}
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "mekanism:crystal_iron"
+			}
+			id: "79CCF42D66CA59A7"
+			preset: "info"
+			rewards: [
+				{
+					id: "280095C56CF4C9C7"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "2E597ED27261A1C3"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 3.4d
+		}
+		{
+			dependencies: ["79CCF42D66CA59A7", "760800D6A478D389", "3777F8DAD393B87E"]
+			id: "31747A769E116492"
+			rewards: [
+				{
+					id: "3836E18C956B2258"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "40C4879F1432BE24"
+					item: {
+						count: 1
+						id: "mekanism:chemical_dissolution_chamber"
+					}
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: 3.4d
+		}
+		{
+			dependencies: ["31747A769E116492"]
+			id: "2EC87D5062CBEECD"
+			rewards: [
+				{
+					id: "6FC5BDBB94DBB842"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "1D623B4F2482E7F4"
+					item: {
+						count: 1
+						id: "mekanism:chemical_washer"
+					}
+					type: "item"
+				}
+			]
+			x: 8.75d
+			y: 3.4d
+		}
+		{
+			dependencies: ["2EC87D5062CBEECD"]
+			id: "62B9CC3A9E92DA98"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "4EE9443D65FF2B02"
+					type: "xp"
+					xp: 225
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "63E2C537351B8349"
+					item: {
+						count: 1
+						id: "mekanism:chemical_crystallizer"
+					}
+					type: "item"
+				}
+			]
+			x: 10.5d
+			y: 3.4d
+		}
+		{
+			dependencies: ["62B9CC3A9E92DA98"]
+			icon: {
+				id: "mekanism:crystal_gold"
+			}
+			id: "70B4FD7338043E75"
+			rewards: [
+				{
+					id: "063F51EE655AB848"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					count: 256L
+					id: "1C2A12A5698FD5B2"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "item_tag(mekanism:crystals)"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 12.25d
+			y: 3.4d
+		}
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			hide_until_deps_complete: true
+			id: "48EF32E9240E06EA"
+			rewards: [
+				{
+					id: "6FE28DCD8CD51278"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "7507596D3A925C2D"
+					item: {
+						count: 1
+						id: "mekanism:robit"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 7.8d
+		}
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			hide_until_deps_complete: true
+			id: "5136857AB9394112"
+			rewards: [
+				{
+					id: "48345D203988A611"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "24C014AD9839916B"
+					item: {
+						count: 1
+						id: "mekanism:logistical_sorter"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 9.35d
+		}
+		{
+			dependencies: ["48EF32E9240E06EA", "5136857AB9394112"]
+			id: "7932AF6110364BFA"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "742CE16B4156340A"
+					type: "xp"
+					xp: 225
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "319414923AF03115"
+					item: {
+						count: 1
+						id: "mekanism:digital_miner"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 6.25d
+		}
+		{
+			dependencies: ["5136857AB9394112"]
+			icon: {
+				id: "mekanism:formulaic_assemblicator"
+			}
+			id: "47FE4871B261C131"
+			rewards: [
+				{
+					id: "585745F10B1240E2"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "02734AC1EEF91AE5"
+					item: {
+						count: 1
+						id: "mekanism:formulaic_assemblicator"
+					}
+					type: "item"
+				}
+				{
+					id: "495674D9F6FEA62E"
+					item: {
+						count: 1
+						id: "mekanism:crafting_formula"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 7.8d
+		}
+		{
+			dependencies: ["5136857AB9394112"]
+			id: "52CADEADF5F81F94"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "24476BDF01B2D2C4"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "7F0739585C329094"
+					item: {
+						count: 1
+						id: "mekanism:oredictionificator"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 9.35d
+		}
+		{
+			dependencies: ["48EF32E9240E06EA"]
+			icon: {
+				id: "mekanism:seismic_reader"
+			}
+			id: "06A3B68A4AA1800B"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "70A637C7D10951A4"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "14466926B13D6F3F"
+					item: {
+						count: 1
+						id: "mekanism:seismic_vibrator"
+					}
+					type: "item"
+				}
+				{
+					id: "07A3AD0F51CC79EF"
+					item: {
+						count: 1
+						id: "mekanism:seismic_reader"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 10.9d
+		}
+		{
+			dependencies: ["7932AF6110364BFA"]
+			id: "070717EEFDCBB40F"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "7A91A5907F52264F"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "44C6CDEFAA787DB1"
+					item: {
+						count: 1
+						id: "mekanism:dimensional_stabilizer"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 8.57d
+		}
+	]
+}

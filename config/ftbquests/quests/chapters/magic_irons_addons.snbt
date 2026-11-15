@@ -1,0 +1,809 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "magic_irons_addons"
+	group: "3108D924C31FF1C5"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "irons_jewelry:ring"
+	}
+	id: "31E915EC881A93EA"
+	images: [
+		{
+			height: 1.8d
+			id: "0AA25BE6436B092B"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -12.5d
+		}
+		{
+			height: 1.8d
+			id: "5EF20564104628F7"
+			image: "irons_jewelry:item/ruby"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -12.5d
+		}
+		{
+			height: 1.8d
+			id: "5F1023B45498D6D6"
+			image: "monsterspellbooks:item/necro_rune"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -12.5d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "14CA60F12C693F28"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -10.35d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "347DDF439D53334E"
+			image: "irons_jewelry:item/sapphire"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -10.35d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "0A0F65B7746C6EA0"
+			image: "irons_jewelry:item/topaz"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -10.35d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "519A499E3C9207BA"
+			image: "irons_jewelry:item/recipe"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -10.35d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "66BFC7BEF5670DB6"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -5.15d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "39EB769008F0B3CE"
+			image: "monsterspellbooks:item/aero_rune"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -5.15d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "5809E9188E00B2A0"
+			image: "cataclysm_spellbooks:item/technomancy_rune"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -5.15d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "1B7A94B6D308A153"
+			image: "cataclysm_spellbooks:item/abyssal_rune"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -5.15d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.04d
+			id: "7FCEF30F7027C2A2"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: -5.65d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "7B9269F039407AEE"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 2.35d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "1928F0AC563FF0A1"
+			image: "cataclysm_spellbooks:item/arcane_cog"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 2.35d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "1A47C0FAE8387823"
+			image: "cataclysm_spellbooks:item/ancient_amber"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 2.35d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "7C04152ACCC735E9"
+			image: "cataclysm_spellbooks:item/ignis_spell_book"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 2.35d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.04d
+			id: "268EDDDB0B4A7300"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 1.85d
+		}
+		{
+			dependency: "0762E1C6C8BFC49D"
+			height: 0.8d
+			id: "0D31617F88724C61"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 8.85d
+		}
+		{
+			dependency: "0762E1C6C8BFC49D"
+			height: 0.8d
+			id: "6BAD17F02D9C0E65"
+			image: "cataclysm_spellbooks:item/burning_manuscript"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 8.85d
+		}
+		{
+			dependency: "0762E1C6C8BFC49D"
+			height: 0.04d
+			id: "0A05EDE44481FB89"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 8.35d
+		}
+	]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["38EA9BA21F0E366C"]
+			hide_until_deps_complete: true
+			id: "3E7F308039DE6345"
+			rewards: [
+				{
+					id: "6AD7FE24FF23C1C9"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "6A290D6F798FA3B8"
+					item: {
+						count: 1
+						id: "irons_jewelry:jewelcrafting_station"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -7.65d
+		}
+		{
+			dependencies: ["3E7F308039DE6345"]
+			id: "5D71B2B7D3F25109"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "59B559BE4453663E"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "69FB66DBD6539879"
+					item: {
+						count: 1
+						id: "irons_jewelry:jewelcrafting_guide"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -8.95d
+		}
+		{
+			dependencies: ["3E7F308039DE6345"]
+			icon: {
+				id: "irons_jewelry:ruby"
+			}
+			id: "673FEF8CACB0E5C8"
+			rewards: [
+				{
+					id: "5034BE9477BC2F34"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "6978E503EB790FD6"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(irons_jewelry:ruby)item(irons_jewelry:sapphire)item(irons_jewelry:topaz)item(irons_jewelry:moonstone)item(irons_jewelry:peridot)item(irons_jewelry:onyx)item(irons_jewelry:garnet))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -7.65d
+		}
+		{
+			dependencies: ["3E7F308039DE6345"]
+			id: "53F44E98C4BA341D"
+			rewards: [
+				{
+					id: "476B1AB431809B22"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "027FF30DE0B8AEC9"
+					item: {
+						count: 1
+						id: "irons_jewelry:recipe"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -6.35d
+		}
+		{
+			dependencies: ["3E7F308039DE6345", "673FEF8CACB0E5C8"]
+			id: "58FFC06DD90D9804"
+			rewards: [
+				{
+					id: "7434D98A51929CC1"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "22BCF2B292499738"
+					item: {
+						count: 1
+						id: "irons_jewelry:ring"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -7.65d
+		}
+		{
+			dependencies: ["58FFC06DD90D9804"]
+			id: "3ADA5B79D2C7D9FA"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "12A0710E3D96C222"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "289D609340F2FF31"
+					item: {
+						count: 1
+						id: "irons_jewelry:necklace"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -7.65d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "monsterspellbooks:aero_rune"
+			}
+			id: "03FF31B1E703C976"
+			preset: "info"
+			rewards: [
+				{
+					id: "59DA114AC858AB25"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "567BB4A1EC00E195"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: -1.3d
+		}
+		{
+			dependencies: ["03FF31B1E703C976"]
+			icon: {
+				id: "monsterspellbooks:aero_upgrade_orb"
+			}
+			id: "3A31BE7E9767010E"
+			rewards: [
+				{
+					id: "7B7B2DC58E87099C"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "057FD486B40E8D48"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(monsterspellbooks:aero_upgrade_orb)item(monsterspellbooks:necro_upgrade_orb)item(cataclysm_spellbooks:technomancy_upgrade_orb)item(cataclysm_spellbooks:abyssal_upgrade_orb))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -3.63d
+		}
+		{
+			dependencies: ["03FF31B1E703C976"]
+			icon: {
+				id: "monsterspellbooks:necromancer_chestplate"
+			}
+			id: "727E9B13BCBF1C7D"
+			rewards: [
+				{
+					id: "5F8E4D5C3A903264"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "3F9718469F6A9367"
+					item: {
+						count: 1
+						id: "monsterspellbooks:necromancer_helmet"
+					}
+					type: "item"
+				}
+				{
+					id: "653027ECDA489D90"
+					item: {
+						count: 1
+						id: "monsterspellbooks:necromancer_chestplate"
+					}
+					type: "item"
+				}
+				{
+					id: "6FAA956F88A3AC14"
+					item: {
+						count: 1
+						id: "monsterspellbooks:necromancer_leggings"
+					}
+					type: "item"
+				}
+				{
+					id: "22AD599FFD5DE09E"
+					item: {
+						count: 1
+						id: "monsterspellbooks:necromancer_boots"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -2.08d
+		}
+		{
+			dependencies: ["03FF31B1E703C976"]
+			icon: {
+				id: "cataclysm_spellbooks:engineer_suit"
+			}
+			id: "71786F3F8A5631D5"
+			rewards: [
+				{
+					id: "4006986E5188ADE8"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "5D8F18115D41BA1E"
+					item: {
+						count: 1
+						id: "cataclysm_spellbooks:engineer_hood"
+					}
+					type: "item"
+				}
+				{
+					id: "583B558CBF8B125D"
+					item: {
+						count: 1
+						id: "cataclysm_spellbooks:engineer_suit"
+					}
+					type: "item"
+				}
+				{
+					id: "45BBB6FF687EE47B"
+					item: {
+						count: 1
+						id: "cataclysm_spellbooks:engineer_leggings"
+					}
+					type: "item"
+				}
+				{
+					id: "144D707D1F01D575"
+					item: {
+						count: 1
+						id: "cataclysm_spellbooks:engineer_boots"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -0.53d
+		}
+		{
+			dependencies: ["727E9B13BCBF1C7D"]
+			icon: {
+				id: "monsterspellbooks:death_knight_chestplate"
+			}
+			id: "4B3505E8A8A16522"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "3506471D090C24BA"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "2ACE6919AA5B9475"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(monsterspellbooks:death_knight_chestplate)item(monsterspellbooks:starscourge_chestplate)item(monsterspellbooks:illager_enchanter_chestplate)item(monsterspellbooks:illager_ember_robe_chestplate)item(monsterspellbooks:illager_iceologer_chestplate)item(monsterspellbooks:dwarven_engineer_chestplate)item(monsterspellbooks:forge_masterpiece_chestplate)item(monsterspellbooks:sanguinite_hero_chestplate))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -1.3d
+		}
+		{
+			dependencies: ["03FF31B1E703C976"]
+			icon: {
+				id: "monsterspellbooks:orichalcum_ingot"
+			}
+			id: "45F78B2342A4D844"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "1781ACCE4685D33A"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "5735CE7255417BE3"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(monsterspellbooks:orichalcum_ingot)item(monsterspellbooks:deathsilver_ingot)item(monsterspellbooks:rose_gold_ingot)item(monsterspellbooks:white_gold_ingot))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 1.02d
+		}
+		{
+			dependencies: ["03FF31B1E703C976"]
+			id: "04D971B1C660D665"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "36AAC605B5A75D13"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "068A707534DDCAA0"
+					item: {
+						count: 1
+						id: "gametechbcs_spellbooks:gtbcs_magical_repository"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -1.3d
+		}
+		{
+			dependencies: ["03FF31B1E703C976"]
+			id: "55B51E8ECCA9C9AD"
+			rewards: [
+				{
+					id: "6627CA184C343385"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "49945F0999F78191"
+					item: {
+						count: 1
+						id: "cataclysm_spellbooks:arcane_cog"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 3.75d
+		}
+		{
+			dependencies: ["03FF31B1E703C976"]
+			id: "0617F97E8241671D"
+			rewards: [
+				{
+					id: "095A0CC39181F989"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "076B2AA48E61164B"
+					item: {
+						count: 1
+						id: "cataclysm_spellbooks:ignis_chestplate"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 5.05d
+		}
+		{
+			dependencies: ["03FF31B1E703C976"]
+			id: "0F70AC236CC3ECBB"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "534FC036E0B08359"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "39AB0AC680EFA606"
+					item: {
+						count: 1
+						id: "cataclysm_spellbooks:monstrous_wizard_hat"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 6.35d
+		}
+		{
+			dependencies: ["03FF31B1E703C976"]
+			icon: {
+				id: "cataclysm_spellbooks:amber_staff"
+			}
+			id: "01E135F90DA67028"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "57E8CFBBC0AF6FB2"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "70A99C0C3375FB93"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(cataclysm_spellbooks:pharaoh_chestplate)item(cataclysm_spellbooks:amber_staff))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 7.65d
+		}
+		{
+			dependencies: ["0762E1C6C8BFC49D"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cataclysm_spellbooks:cursium_mage_chestplate"
+			}
+			id: "43EBF74E9E35C90B"
+			rewards: [
+				{
+					id: "36BD4D80570CE547"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "2377BBF1D0DFDBA3"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(cataclysm_spellbooks:cursium_mage_chestplate)item(cataclysm_spellbooks:codex_of_malice_spell_book)item(cataclysm_spellbooks:soul_brazier))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 10.25d
+		}
+		{
+			dependencies: ["43EBF74E9E35C90B"]
+			icon: {
+				id: "cataclysm_spellbooks:excelsius_power_chestplate"
+			}
+			id: "65B024605903E32B"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "3F0D2BDDB618A350"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "7E1687A58CD4B474"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(cataclysm_spellbooks:excelsius_power_chestplate)item(cataclysm_spellbooks:excelsius_resist_chestplate)item(cataclysm_spellbooks:excelsius_speed_chestplate))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 10.25d
+		}
+	]
+}

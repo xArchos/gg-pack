@@ -1,0 +1,12 @@
+{
+  "entity.creeperoverhaul.birch_creeper": "Brzozowy creeper",
+  "gui.creeperoverhaul.cosmetics": "Kosmetyki",
+  "gui.creeperoverhaul.cosmetics.login": "Zaloguj się do Creeper Overhaul",
+  "gui.creeperoverhaul.cosmetics.preview_in_game": "Podgląd kosmetyków działa tylko w grze.",
+  "item.creeperoverhaul.birch_creeper_spawn_egg": "Jajo przyzywające brzozowego creepera",
+  "subtitles.creeperoverhaul.entity.ocean.creeper.hurt": "Creeper zostaje zraniony",
+  "subtitles.creeperoverhaul.entity.plant.creeper.hurt": "Creeper zostaje zraniony",
+  "subtitles.creeperoverhaul.entity.sand.creeper.hurt": "Creeper zostaje zraniony",
+  "subtitles.creeperoverhaul.entity.stone.creeper.hurt": "Creeper zostaje zraniony",
+  "subtitles.creeperoverhaul.entity.wood.creeper.hurt": "Creeper zostaje zraniony"
+}

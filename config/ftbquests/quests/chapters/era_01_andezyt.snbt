@@ -1,0 +1,1778 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "era_01_andezyt"
+	group: "3CDFA8C60B58BCC5"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "gg:pieczec_andezyt"
+	}
+	id: "10F29C35E5B6D81B"
+	images: [
+		{
+			height: 1.8d
+			id: "729D5C227DC2C38D"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 14.0d
+			x: 8.0d
+			y: -21.43d
+		}
+		{
+			height: 1.8d
+			id: "2ED9D7AC04F5C300"
+			image: "gg:item/pieczec_andezyt"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -0.2d
+			y: -21.43d
+		}
+		{
+			height: 1.8d
+			id: "6CF7664611A37152"
+			image: "create:block/andesite_casing"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 16.2d
+			y: -21.43d
+		}
+		{
+			height: 0.8d
+			id: "27DD0A6FF9CAD3C6"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -19.27d
+		}
+		{
+			height: 0.8d
+			id: "2ECEFF7AC752E698"
+			image: "create:block/cogwheel"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -19.27d
+		}
+		{
+			height: 0.8d
+			id: "0EDC7F187817D61A"
+			image: "create:block/millstone"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -19.27d
+		}
+		{
+			height: 0.8d
+			id: "55A42DF16AF270EF"
+			image: "create:item/andesite_alloy"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 14.4d
+			y: -19.27d
+		}
+		{
+			height: 0.8d
+			id: "596EA2B187B4EC6C"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -11.77d
+		}
+		{
+			height: 0.8d
+			id: "51AE623EA5BFB6B6"
+			image: "create:block/copper_casing"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -11.77d
+		}
+		{
+			height: 0.8d
+			id: "0878091365106B49"
+			image: "create:item/honey_bucket"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -11.77d
+		}
+		{
+			height: 0.04d
+			id: "0A5E714AD74EC052"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 19.0d
+			x: 8.0d
+			y: -12.27d
+		}
+		{
+			height: 0.8d
+			id: "2E5A14B3590F95D0"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -6.57d
+		}
+		{
+			height: 0.8d
+			id: "3E5EB10973B81AE4"
+			image: "minecraft:item/iron_pickaxe"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -6.57d
+		}
+		{
+			height: 0.8d
+			id: "1F05EA566A90F9CD"
+			image: "minecraft:item/emerald"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -6.57d
+		}
+		{
+			height: 0.04d
+			id: "71E67E4E76A476E1"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 19.0d
+			x: 8.0d
+			y: -7.07d
+		}
+		{
+			height: 0.8d
+			id: "7B05EF8845ED5278"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 0.93d
+		}
+		{
+			height: 0.8d
+			id: "2DEE0E0D5A744ADD"
+			image: "minecraft:item/honey_bottle"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 0.93d
+		}
+		{
+			height: 0.8d
+			id: "59BE81E0472614F3"
+			image: "create:item/dough"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: 0.93d
+		}
+		{
+			height: 0.04d
+			id: "3B37870EDD3FA053"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 19.0d
+			x: 8.0d
+			y: 0.43d
+		}
+		{
+			height: 0.8d
+			id: "54B3653AE900AB72"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 5.33d
+		}
+		{
+			height: 0.8d
+			id: "705341FC43FFF2E6"
+			image: "create:block/vault/vault_front_small"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 5.33d
+		}
+		{
+			height: 0.8d
+			id: "491CCF7042C690F9"
+			image: "functionalstorage:block/oak_front_1"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: 5.33d
+		}
+		{
+			height: 0.04d
+			id: "030672E0DB3EF44D"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 19.0d
+			x: 8.0d
+			y: 4.83d
+		}
+		{
+			height: 0.8d
+			id: "7E19A76D28FE9993"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 10.53d
+		}
+		{
+			height: 0.8d
+			id: "60F19DD1D4BBE855"
+			image: "constructionstick:item/iron_stick"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 10.53d
+		}
+		{
+			height: 0.04d
+			id: "63FC8BD7A838B940"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 19.0d
+			x: 8.0d
+			y: 10.03d
+		}
+		{
+			height: 0.8d
+			id: "462D88F23A92CBBB"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 14.43d
+		}
+		{
+			height: 0.8d
+			id: "23D2852FB509CD0D"
+			image: "minecolonies:item/clipboard"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 14.43d
+		}
+		{
+			height: 0.04d
+			id: "6446EE0D96345637"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 19.0d
+			x: 8.0d
+			y: 13.93d
+		}
+	]
+	order_index: 1
+	quest_links: [
+		{
+			id: "27B418F4F2B409DC"
+			linked_quest: "370545ACED798316"
+			x: 5.5d
+			y: 6.73d
+		}
+		{
+			id: "2DB02ABCAC8A5753"
+			linked_quest: "3F7281A440F05E75"
+			x: 5.5d
+			y: 8.03d
+		}
+		{
+			id: "7CADB13E2E671D88"
+			linked_quest: "0EB1780FEE5B7D51"
+			x: 5.5d
+			y: 9.33d
+		}
+		{
+			id: "3ECA3A3A7604DEE3"
+			linked_quest: "6D7B78BBF98C9613"
+			x: 7.25d
+			y: 8.03d
+		}
+		{
+			id: "5D813D8EFDAC232F"
+			linked_quest: "1DB1DC5013D1F6FB"
+			x: 12.5d
+			y: -17.75d
+		}
+		{
+			id: "2294D2347FAA152C"
+			linked_quest: "53DF6FCDEC7DAA7C"
+			x: 12.5d
+			y: -16.2d
+		}
+		{
+			id: "274247D849ED5378"
+			linked_quest: "47AA1E5F0349A889"
+			x: 12.5d
+			y: -14.65d
+		}
+		{
+			id: "255EA924E24C1A6A"
+			linked_quest: "6A4F166CB8FAA9B4"
+			x: 12.5d
+			y: -13.1d
+		}
+		{
+			id: "2310036B581A31FC"
+			linked_quest: "730570161AB2FB9C"
+			x: 10.75d
+			y: 15.95d
+		}
+		{
+			id: "588D3B1C5826FA5E"
+			linked_quest: "2C0927F294DFDB57"
+			x: 10.75d
+			y: 17.5d
+		}
+		{
+			id: "4AE46EA840588B63"
+			linked_quest: "29155B47A363AFE4"
+			x: 10.75d
+			y: 19.05d
+		}
+	]
+	quests: [
+		{
+			icon: {
+				id: "gg:pieczec_andezyt"
+			}
+			id: "7B472916B8B3515D"
+			invisible: true
+			preset: "era"
+			rewards: [ ]
+			tags: ["era_andezyt", "era_start"]
+			tasks: [
+				{
+					id: "0341C152265029AD"
+					stage: "era_andezyt"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7B472916B8B3515D"]
+			id: "2D0756D3B8F8F255"
+			rewards: [
+				{
+					id: "16EDC771CE4F5F39"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "31C53B841525837A"
+					item: {
+						count: 1
+						id: "create:hand_crank"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -16.2d
+		}
+		{
+			dependencies: ["2D0756D3B8F8F255"]
+			icon: {
+				id: "create:water_wheel"
+			}
+			id: "39FC2939A12B04D0"
+			rewards: [
+				{
+					id: "46A9179E7B760891"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					advancement: "create:water_wheel"
+					criterion: ""
+					id: "7EB2C1429F29582B"
+					type: "advancement"
+				}
+			]
+			x: 5.5d
+			y: -16.2d
+		}
+		{
+			dependencies: ["2D0756D3B8F8F255"]
+			icon: {
+				id: "create:windmill_bearing"
+			}
+			id: "04D7BE861AE65A1C"
+			rewards: [
+				{
+					id: "30F9277F2A259164"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					advancement: "create:windmill"
+					criterion: ""
+					id: "474D3B39F70AB969"
+					type: "advancement"
+				}
+			]
+			x: 5.5d
+			y: -14.65d
+		}
+		{
+			dependencies: ["39FC2939A12B04D0", "04D7BE861AE65A1C"]
+			icon: {
+				id: "create:water_wheel"
+			}
+			id: "5DF46CB065481F2A"
+			min_required_dependencies: 1
+			preset: "milestone"
+			rewards: [
+				{
+					id: "7CBCE0E58EE94572"
+					type: "xp"
+					xp: 75
+				}
+				{
+					id: "1D253392F8A6793F"
+					table_id: 3022062542940571040L
+					type: "random"
+				}
+			]
+			tags: ["era_andezyt", "milestone"]
+			tasks: [ ]
+			x: 7.25d
+			y: -15.43d
+		}
+		{
+			dependencies: ["7B472916B8B3515D"]
+			id: "3A3B94F8253BF669"
+			rewards: [
+				{
+					id: "1FD4F1C1F4005E2D"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "seal"]
+			tasks: [
+				{
+					id: "4794058AAE8BDA62"
+					item: {
+						count: 1
+						id: "create:andesite_casing"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -14.65d
+		}
+		{
+			dependencies: ["5DF46CB065481F2A", "3A3B94F8253BF669"]
+			icon: {
+				id: "create:millstone"
+			}
+			id: "507507B59617EF3A"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "0C85FE1E3BC41365"
+					type: "xp"
+					xp: 75
+				}
+				{
+					id: "5A4A42DB428F68FE"
+					table_id: 3022062542940571040L
+					type: "random"
+				}
+			]
+			tags: ["era_andezyt", "milestone"]
+			tasks: [
+				{
+					id: "621477F9315FBB0F"
+					item: {
+						count: 1
+						id: "create:millstone"
+					}
+					type: "item"
+				}
+				{
+					id: "6E782987B182048E"
+					item: {
+						count: 1
+						id: "create:wheat_flour"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -17.75d
+		}
+		{
+			dependencies: ["5DF46CB065481F2A", "3A3B94F8253BF669"]
+			icon: {
+				id: "create:mechanical_press"
+			}
+			id: "083E4A9EC23B31B7"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "35A88C573612BD57"
+					type: "xp"
+					xp: 75
+				}
+				{
+					id: "512EA2FF99F91BA0"
+					table_id: 3022062542940571040L
+					type: "random"
+				}
+			]
+			tags: ["era_andezyt", "milestone"]
+			tasks: [
+				{
+					id: "08834C5024DE9126"
+					item: {
+						count: 1
+						id: "create:mechanical_press"
+					}
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "482676DB6CEE4C0C"
+					item: {
+						count: 1
+						id: "create:iron_sheet"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -16.2d
+		}
+		{
+			dependencies: ["5DF46CB065481F2A"]
+			icon: {
+				id: "create:belt_connector"
+			}
+			id: "2F68DCBD341A3C9C"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "1BBB1082419AD1C3"
+					type: "xp"
+					xp: 75
+				}
+				{
+					id: "6BAB7E93FFF6479C"
+					table_id: 3022062542940571040L
+					type: "random"
+				}
+			]
+			tags: ["era_andezyt", "milestone"]
+			tasks: [
+				{
+					advancement: "create:belt"
+					criterion: ""
+					id: "04B19FAF44E86D8D"
+					type: "advancement"
+				}
+			]
+			x: 9.0d
+			y: -14.65d
+		}
+		{
+			dependencies: ["5DF46CB065481F2A", "3A3B94F8253BF669"]
+			id: "7CF24A714E10B089"
+			rewards: [
+				{
+					id: "64D2C66055BD439A"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "2300ADC3CA0B2E46"
+					item: {
+						count: 1
+						id: "create:mechanical_drill"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -13.1d
+		}
+		{
+			dependencies: ["083E4A9EC23B31B7"]
+			icon: {
+				id: "create:mechanical_mixer"
+			}
+			id: "34E295E7E33234F0"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "457C3303544879C8"
+					type: "xp"
+					xp: 75
+				}
+				{
+					id: "7D0EB6A3391788A4"
+					table_id: 3022062542940571040L
+					type: "random"
+				}
+			]
+			tags: ["era_andezyt", "milestone"]
+			tasks: [
+				{
+					id: "0476555D63156ECA"
+					item: {
+						count: 1
+						id: "create:mechanical_mixer"
+					}
+					type: "item"
+				}
+				{
+					id: "3CAF9B5A8D8D774C"
+					item: {
+						count: 1
+						id: "create:basin"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -17.75d
+		}
+		{
+			dependencies: ["083E4A9EC23B31B7"]
+			id: "11FC9196F27DE3E1"
+			rewards: [
+				{
+					id: "4CBB42E9B9B2CABB"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "25BB45280FB1917E"
+					item: {
+						count: 1
+						id: "create:goggles"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -16.2d
+		}
+		{
+			dependencies: ["083E4A9EC23B31B7"]
+			id: "608CF799F30A7569"
+			rewards: [
+				{
+					id: "420D7FBAEC5C40B8"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "12A70D5D6FBECA8E"
+					item: {
+						count: 1
+						id: "create:encased_fan"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -14.65d
+		}
+		{
+			dependencies: ["7CF24A714E10B089"]
+			id: "430851F998CBAD5F"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "45B7AD407E91DE68"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "optional"]
+			tasks: [
+				{
+					id: "475E673597B5CCB7"
+					item: {
+						count: 1
+						id: "create:mechanical_saw"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -13.1d
+		}
+		{
+			dependencies: ["3A3B94F8253BF669"]
+			id: "2CBA2AB760AB478A"
+			rewards: [
+				{
+					id: "3E3B37B800896D64"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "479EACAFC580D8BA"
+					item: {
+						count: 1
+						id: "create:copper_casing"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -9.07d
+		}
+		{
+			dependencies: ["7B472916B8B3515D"]
+			id: "12AD8DE5221F315E"
+			rewards: [
+				{
+					id: "75F3369FED1C9138"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "3BFAD56C6DC5C2F8"
+					item: {
+						count: 1
+						id: "create:raw_zinc"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -9.07d
+		}
+		{
+			dependencies: ["2CBA2AB760AB478A"]
+			id: "090454E4FB72E932"
+			rewards: [
+				{
+					id: "311642E6EF6DFC11"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "4B761F8129F09A6A"
+					item: {
+						count: 1
+						id: "create:fluid_tank"
+					}
+					type: "item"
+				}
+				{
+					id: "44646AF390A8EA9C"
+					item: {
+						count: 1
+						id: "create:mechanical_pump"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -9.72d
+		}
+		{
+			dependencies: ["2CBA2AB760AB478A"]
+			id: "5329A128BFA66887"
+			rewards: [
+				{
+					id: "0F2269ECB1E5AB69"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "2D13DF6FF9B38015"
+					item: {
+						count: 1
+						id: "create:item_drain"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -8.42d
+		}
+		{
+			dependencies: ["090454E4FB72E932"]
+			id: "02868A4D0CA93AF6"
+			rewards: [
+				{
+					id: "62EBE23B243CB6B0"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "16651F0B398C2CE2"
+					item: {
+						count: 1
+						id: "create:spout"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -10.37d
+		}
+		{
+			dependencies: ["090454E4FB72E932"]
+			id: "35E5DC242535A7DC"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "723571FBADBA6BB4"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "optional"]
+			tasks: [
+				{
+					id: "77AA498B58A6C154"
+					item: {
+						count: 1
+						id: "create:copper_backtank"
+					}
+					type: "item"
+				}
+				{
+					id: "61A1D504A8183141"
+					item: {
+						count: 1
+						id: "create:copper_diving_helmet"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -9.07d
+		}
+		{
+			dependencies: ["5329A128BFA66887", "47D49A7F40125D41"]
+			id: "31FC89970B1DD5FD"
+			rewards: [
+				{
+					id: "143BE92DA176876C"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "seal"]
+			tasks: [
+				{
+					id: "0236639867D97D32"
+					item: {
+						count: 1
+						id: "create:honey_bucket"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -7.77d
+		}
+		{
+			dependencies: ["507507B59617EF3A", "2F68DCBD341A3C9C"]
+			icon: {
+				id: "create:wheat_flour"
+			}
+			id: "047BE867076E0079"
+			rewards: [
+				{
+					id: "33610C92CBBEB891"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					count: 256L
+					id: "608273FEE201DA88"
+					item: {
+						count: 1
+						id: "create:wheat_flour"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -9.72d
+		}
+		{
+			dependencies: ["083E4A9EC23B31B7", "2F68DCBD341A3C9C"]
+			icon: {
+				id: "create:iron_sheet"
+			}
+			id: "73CB7C34B6D592E3"
+			rewards: [
+				{
+					id: "21FF2F4A44D1549E"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					count: 256L
+					id: "0D12001735700FB2"
+					item: {
+						count: 1
+						id: "create:iron_sheet"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -8.42d
+		}
+		{
+			dependencies: ["34E295E7E33234F0"]
+			icon: {
+				id: "create:andesite_alloy"
+			}
+			id: "51E31692C16DB5D7"
+			rewards: [
+				{
+					id: "2588017CE8632C2A"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					count: 512L
+					id: "2C116943BB9A93DD"
+					item: {
+						count: 1
+						id: "create:andesite_alloy"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -9.07d
+		}
+		{
+			dependencies: ["7B472916B8B3515D"]
+			icon: {
+				id: "minecraft:emerald"
+			}
+			id: "4E0C7A9BD0A8E44B"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "5CC64DEE3104889E"
+					type: "xp"
+					xp: 75
+				}
+				{
+					id: "370A58C0088FD313"
+					table_id: 3022062542940571040L
+					type: "random"
+				}
+			]
+			tags: ["era_andezyt", "milestone"]
+			tasks: [
+				{
+					advancement: "minecraft:adventure/trade"
+					criterion: ""
+					id: "63AFA13B211E127E"
+					type: "advancement"
+				}
+			]
+			x: 3.75d
+			y: -5.05d
+		}
+		{
+			dependencies: ["7B472916B8B3515D"]
+			icon: {
+				id: "minecraft:trial_key"
+			}
+			id: "03EC0C922F07CE48"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "7BC18A9A88024FD2"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "optional"]
+			tasks: [
+				{
+					id: "6C3B4D860C858030"
+					structure: "minecraft:trial_chambers"
+					type: "structure"
+				}
+			]
+			x: 3.75d
+			y: -3.5d
+		}
+		{
+			dependencies: ["7B472916B8B3515D"]
+			id: "69BF57E1F763134F"
+			rewards: [
+				{
+					id: "58AEC6D4E29E0B5A"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					count: 3L
+					id: "45C6282AB2D8D43A"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -1.95d
+		}
+		{
+			dependencies: ["7B472916B8B3515D"]
+			id: "042B57FBDF439B9F"
+			rewards: [
+				{
+					id: "1A07CD9BBB8747A5"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "seal"]
+			tasks: [
+				{
+					count: 2L
+					id: "0CB34B407A423C25"
+					item: {
+						count: 1
+						id: "minecraft:gold_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -0.4d
+		}
+		{
+			dependencies: ["4E0C7A9BD0A8E44B"]
+			id: "223D3450225DF280"
+			rewards: [
+				{
+					id: "115473939863C77F"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "seal"]
+			tasks: [
+				{
+					id: "1652A83E8368AC12"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -4.27d
+		}
+		{
+			dependencies: ["4E0C7A9BD0A8E44B"]
+			icon: {
+				id: "minecraft:crossbow"
+			}
+			id: "0762E20DA0734934"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "02A6F398EEC099FB"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "optional"]
+			tasks: [
+				{
+					id: "4FCE5EF9EF81BAE7"
+					structure: "minecraft:pillager_outpost"
+					type: "structure"
+				}
+			]
+			x: 5.5d
+			y: -2.72d
+		}
+		{
+			dependencies: ["223D3450225DF280"]
+			id: "260EF6790AB0DD46"
+			rewards: [
+				{
+					id: "24EE52B8843B0F35"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "seal"]
+			tasks: [
+				{
+					id: "7EF19D763CF6A94F"
+					item: {
+						count: 1
+						id: "minecraft:experience_bottle"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -2.72d
+		}
+		{
+			dependencies: ["69BF57E1F763134F"]
+			icon: {
+				id: "minecraft:lapis_lazuli"
+			}
+			id: "2117DD9A2804106D"
+			rewards: [
+				{
+					id: "714619BE11F3C4EB"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "seal"]
+			tasks: [
+				{
+					count: 4L
+					id: "62F958F9D807229C"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "2C0937840773EBF9"
+					item: {
+						count: 1
+						id: "minecraft:amethyst_shard"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -1.17d
+		}
+		{
+			dependencies: ["7CF24A714E10B089"]
+			id: "5701D26C1D823E9E"
+			rewards: [
+				{
+					id: "461A502618F0290C"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					count: 4L
+					id: "2BF928D52CE2D626"
+					item: {
+						count: 1
+						id: "minecraft:obsidian"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -2.72d
+		}
+		{
+			dependencies: ["69BF57E1F763134F", "5701D26C1D823E9E"]
+			id: "098F802EF71CF3A4"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "1D890DEA6121CF39"
+					type: "xp"
+					xp: 75
+				}
+				{
+					id: "799A7C8D5DCEEA3B"
+					table_id: 3022062542940571040L
+					type: "random"
+				}
+			]
+			tags: ["era_andezyt", "milestone"]
+			tasks: [
+				{
+					id: "6D45EDD2448700B2"
+					item: {
+						count: 1
+						id: "minecraft:enchanting_table"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -2.72d
+		}
+		{
+			dependencies: ["7B472916B8B3515D"]
+			icon: {
+				id: "minecraft:honey_bottle"
+			}
+			id: "47D49A7F40125D41"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "601B894E9D54AF17"
+					type: "xp"
+					xp: 75
+				}
+				{
+					id: "5D299C452705FCEB"
+					table_id: 3022062542940571040L
+					type: "random"
+				}
+			]
+			tags: ["era_andezyt", "milestone"]
+			tasks: [
+				{
+					count: 4L
+					id: "3D38DE5E5262799F"
+					item: {
+						count: 1
+						id: "minecraft:honey_bottle"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 3.23d
+		}
+		{
+			dependencies: ["3A3B94F8253BF669"]
+			id: "52374DCF1C7DC049"
+			rewards: [
+				{
+					id: "011FB42E18BD33C6"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "702591D6681A4D63"
+					item: {
+						count: 1
+						id: "sliceanddice:slicer"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 2.45d
+		}
+		{
+			dependencies: ["3A3B94F8253BF669"]
+			id: "150D09B312AC34D8"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "0E120C902BFF84BB"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "optional"]
+			tasks: [
+				{
+					id: "484688EBCB621561"
+					item: {
+						count: 1
+						id: "create:mechanical_harvester"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["608CF799F30A7569", "507507B59617EF3A"]
+			icon: {
+				id: "minecraft:bread"
+			}
+			id: "116414E1FDCFB1BB"
+			rewards: [
+				{
+					id: "0FEFF590A2D9B170"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					advancement: "create:fan_processing"
+					criterion: ""
+					id: "76872990212CA6ED"
+					type: "advancement"
+				}
+			]
+			x: 12.5d
+			y: 3.23d
+		}
+		{
+			dependencies: ["7B472916B8B3515D"]
+			id: "7841500570B9B0BF"
+			rewards: [
+				{
+					id: "63912A5CA3C86C35"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "1283FF6B2F80624A"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:basic_to_iron_tier_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 7.38d
+		}
+		{
+			dependencies: ["7B472916B8B3515D"]
+			id: "5846243BDD48D309"
+			rewards: [
+				{
+					id: "41F819CA7AEDC684"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "43EFDBB962E97247"
+					item: {
+						count: 1
+						id: "functionalstorage:compacting_drawer"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 8.68d
+		}
+		{
+			dependencies: ["7B472916B8B3515D"]
+			id: "771F3169787D4F46"
+			rewards: [
+				{
+					id: "53B7AE77DD706615"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "6A75CF40682F0451"
+					item: {
+						count: 1
+						id: "constructionstick:iron_stick"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 11.93d
+		}
+		{
+			dependencies: ["7B472916B8B3515D"]
+			icon: {
+				id: "create:schematic_and_quill"
+			}
+			id: "128DAD53D949C476"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "23A31BCE88FA8943"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "optional"]
+			tasks: [
+				{
+					id: "46FE3F65FAD6F202"
+					item: {
+						count: 1
+						id: "create:schematic_table"
+					}
+					type: "item"
+				}
+				{
+					id: "230F0B98E0BF30C2"
+					item: {
+						count: 1
+						id: "create:schematic_and_quill"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 13.23d
+		}
+		{
+			dependencies: ["7B472916B8B3515D"]
+			icon: {
+				id: "minecolonies:blockhuttownhall"
+			}
+			id: "732C5B634279DBAD"
+			rewards: [
+				{
+					id: "64EE39170F7EC245"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					advancement: "minecolonies:minecolonies/place_townhall"
+					criterion: ""
+					id: "67D284CF40410237"
+					type: "advancement"
+				}
+			]
+			x: 3.75d
+			y: 17.5d
+		}
+		{
+			dependencies: ["732C5B634279DBAD"]
+			icon: {
+				id: "minecolonies:blockhutbuilder"
+			}
+			id: "6402D9D327AC639A"
+			rewards: [
+				{
+					id: "4A064501B196E406"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					advancement: "minecolonies:minecolonies/build_builder"
+					criterion: ""
+					id: "449D337EEDB6E054"
+					type: "advancement"
+				}
+			]
+			x: 5.5d
+			y: 17.5d
+		}
+		{
+			dependencies: ["6402D9D327AC639A"]
+			icon: {
+				id: "minecolonies:blockhuttownhall"
+			}
+			id: "7AAFA8E8BFFF7FBC"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "2E62864C57CF95F4"
+					type: "xp"
+					xp: 75
+				}
+				{
+					id: "748A06AB9E479AC9"
+					table_id: 3022062542940571040L
+					type: "random"
+				}
+			]
+			tags: ["era_andezyt", "milestone"]
+			tasks: [
+				{
+					advancement: "minecolonies:minecolonies/build_town_hall"
+					criterion: ""
+					id: "3B1A44E9AD7052FF"
+					type: "advancement"
+				}
+			]
+			x: 7.25d
+			y: 16.73d
+		}
+		{
+			dependencies: ["6402D9D327AC639A"]
+			icon: {
+				id: "minecolonies:blockhutfarmer"
+			}
+			id: "5D4815B56228BA21"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "4DED08C946A6DED1"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "optional"]
+			tasks: [
+				{
+					advancement: "minecolonies:production/build_farmer"
+					criterion: ""
+					id: "45922FE2CF5A18F2"
+					type: "advancement"
+				}
+			]
+			x: 7.25d
+			y: 18.28d
+		}
+		{
+			dependencies: ["7AAFA8E8BFFF7FBC"]
+			icon: {
+				id: "minecolonies:blockhutwarehouse"
+			}
+			id: "5CC2444299911699"
+			rewards: [
+				{
+					id: "633EC97FA53E7432"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					advancement: "minecolonies:production/build_warehouse"
+					criterion: ""
+					id: "259C63ED24964948"
+					type: "advancement"
+				}
+			]
+			x: 9.0d
+			y: 15.95d
+		}
+		{
+			dependencies: ["7AAFA8E8BFFF7FBC"]
+			icon: {
+				id: "minecolonies:blockhutcitizen"
+			}
+			id: "2ED9B7D942B426FB"
+			rewards: [
+				{
+					id: "357C321E636802C0"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					advancement: "minecolonies:minecolonies/colony_population_5"
+					criterion: ""
+					id: "71B01878E2BFC1F7"
+					type: "advancement"
+				}
+			]
+			x: 9.0d
+			y: 17.5d
+		}
+		{
+			dependencies: ["7AAFA8E8BFFF7FBC"]
+			icon: {
+				id: "minecolonies:blockhuttavern"
+			}
+			id: "281BEC79A64C38D4"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "5AEF92DBABCA763F"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "optional"]
+			tasks: [
+				{
+					advancement: "minecolonies:minecolonies/build_tavern"
+					criterion: ""
+					id: "79700252393B6D8B"
+					type: "advancement"
+				}
+			]
+			x: 9.0d
+			y: 19.05d
+		}
+		{
+			dependencies: [
+				"5DF46CB065481F2A"
+				"507507B59617EF3A"
+				"083E4A9EC23B31B7"
+				"34E295E7E33234F0"
+				"2F68DCBD341A3C9C"
+				"47D49A7F40125D41"
+				"4E0C7A9BD0A8E44B"
+				"098F802EF71CF3A4"
+				"7AAFA8E8BFFF7FBC"
+			]
+			icon: {
+				id: "gg:pieczec_runy"
+			}
+			id: "7E98DB729D8F2B36"
+			preset: "era"
+			rewards: [
+				{
+					auto: "enabled"
+					icon: {
+						id: "gg:pieczec_runy"
+					}
+					id: "22580F9A7AFABBE2"
+					stage: "era_runy"
+					team_reward: true
+					type: "gamestage"
+				}
+				{
+					id: "5D667BBC3FF505E8"
+					type: "xp"
+					xp: 300
+				}
+				{
+					id: "02B7999AE7A5E5B4"
+					table_id: 822210131562228949L
+					type: "all_table"
+				}
+			]
+			tags: ["era_andezyt", "gate"]
+			tasks: [
+				{
+					consume_items: true
+					id: "36FCC82237CDA4F4"
+					item: {
+						count: 1
+						id: "gg:pieczec_runy"
+					}
+					type: "item"
+				}
+			]
+			x: 16.0d
+			y: 0.0d
+		}
+	]
+}

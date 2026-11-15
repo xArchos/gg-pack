@@ -1,0 +1,77 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "welcome"
+	icon: {
+		id: "ftbquests:book"
+	}
+	id: "0225114A07352F58"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "ftbquests:book"
+			}
+			id: "756C1FAA55994171"
+			preset: "info"
+			tasks: [
+				{
+					id: "516A34D38D47240B"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["756C1FAA55994171"]
+			icon: {
+				id: "minecraft:white_banner"
+			}
+			id: "09D746883C62750A"
+			preset: "info"
+			tasks: [
+				{
+					id: "64D77541AFAAA6A7"
+					type: "checkmark"
+				}
+			]
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["756C1FAA55994171"]
+			icon: {
+				id: "gg:pieczec_final"
+			}
+			id: "48AD12DB989B5C16"
+			preset: "info"
+			tasks: [
+				{
+					id: "7BCD7C7F58B98E4A"
+					type: "checkmark"
+				}
+			]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["756C1FAA55994171"]
+			icon: {
+				id: "minecraft:shield"
+			}
+			id: "50A395C90433A6C1"
+			preset: "info"
+			tasks: [
+				{
+					id: "00C59733F929E08A"
+					type: "checkmark"
+				}
+			]
+			x: 2.5d
+			y: 1.5d
+		}
+	]
+}

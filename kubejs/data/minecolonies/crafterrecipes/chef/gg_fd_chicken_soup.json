@@ -1,0 +1,15 @@
+{
+  "type": "recipe",
+  "crafter": "chef_crafting",
+  "inputs": [
+    {"id": "minecraft:chicken"},
+    {"id": "minecraft:carrot"},
+    {"id": "farmersdelight:cabbage_leaf"},
+    {"id": "minecraft:potato"},
+    {"id": "minecraft:bowl"}
+  ],
+  "intermediate": "minecraft:air",
+  "min-building-level": 2,
+  "result": {"id": "farmersdelight:chicken_soup"},
+  "show-tooltip": true
+}

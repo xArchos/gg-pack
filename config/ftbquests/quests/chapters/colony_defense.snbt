@@ -1,0 +1,465 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "colony_defense"
+	group: "595018FBEA1F1D86"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "minecolonies:blockhutguardtower"
+	}
+	id: "7B82A4857FACA59F"
+	images: [
+		{
+			height: 1.8d
+			id: "5840B1E623F7F09A"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -8.75d
+		}
+		{
+			height: 1.8d
+			id: "5FD12C94AA31D00A"
+			image: "minecolonies:item/scepterguard"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -8.75d
+		}
+		{
+			height: 1.8d
+			id: "1E40820E76A61D71"
+			image: "minecolonies:item/chiefsword"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -8.75d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "63251A299B0FB00A"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -6.6d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "2A0D6C70B85EAC0D"
+			image: "minecolonies:item/banner_rally_guards"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -6.6d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "4894F8547C8C6A8D"
+			image: "minecolonies:item/spear"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -6.6d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "49E2448E2BA9004B"
+			image: "minecolonies:item/questlog"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -6.6d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "620B9EA75464F3DE"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -2.7d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "72E0A05C48CC7DD3"
+			image: "minecolonies:item/iron_scimitar"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -2.7d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "3C6F699CA60E26AC"
+			image: "minecolonies:item/plate_armor_helmet"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -2.7d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "06C456F9DD8247F0"
+			image: "minecolonies:item/plate_armor_legs"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -2.7d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "4B47C228DCF49F70"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: -3.2d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "3DEF53A5767B5162"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 3.8d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "1829E5156724601E"
+			image: "minecolonies:item/plate_armor_chest"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 3.8d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "0E77948BCF414807"
+			image: "minecolonies:item/plate_armor_boots"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 3.8d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.04d
+			id: "6C4AE3292C7B6065"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 3.3d
+		}
+	]
+	order_index: 2
+	quest_links: [
+		{
+			id: "2DF1FCA001D5EF47"
+			linked_quest: "2964AB534BFA8134"
+			x: 3.5d
+			y: 0.65d
+		}
+		{
+			id: "3E1AB3F1E37D4E72"
+			linked_quest: "062F4E5C811A3750"
+			x: 1.75d
+			y: 5.2d
+		}
+		{
+			id: "4B407A837D556702"
+			linked_quest: "64FC21E8D46ED3CA"
+			x: 1.75d
+			y: 6.5d
+		}
+	]
+	quests: [
+		{
+			dependencies: ["7B472916B8B3515D"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecolonies:chiefsword"
+			}
+			id: "2C0927F294DFDB57"
+			preset: "info"
+			rewards: [
+				{
+					id: "48564C4C61C2C266"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "015BD61AE10DB4BD"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: -4.55d
+		}
+		{
+			dependencies: ["2C0927F294DFDB57"]
+			icon: {
+				id: "minecolonies:blockhutguardtower"
+			}
+			id: "4C8681CA861CB331"
+			rewards: [
+				{
+					id: "0B5265D3FBA71259"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					advancement: "minecolonies:minecolonies/build_guard_tower"
+					criterion: ""
+					id: "44906CB47542AB4E"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: -4.55d
+		}
+		{
+			dependencies: ["4C8681CA861CB331"]
+			id: "5436C5ED05292EC8"
+			rewards: [
+				{
+					id: "0EB8D9D5E06573AE"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "3C236641C6A7850C"
+					item: {
+						count: 1
+						id: "minecolonies:scepterguard"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -5.2d
+		}
+		{
+			dependencies: ["4C8681CA861CB331"]
+			id: "1C64A411B4412763"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "0C630689B125FC0A"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "088364F67A4F9C96"
+					item: {
+						count: 1
+						id: "minecolonies:banner_rally_guards"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -3.9d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecolonies:blockhutguardtower"
+			}
+			id: "0D99AD3F3341985E"
+			rewards: [
+				{
+					id: "4EBC0247BD672AD1"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "minecolonies:military/army_8"
+					criterion: ""
+					id: "5BDCAE8F54A5599D"
+					type: "advancement"
+				}
+			]
+			x: 0.0d
+			y: 0.65d
+		}
+		{
+			dependencies: ["0D99AD3F3341985E", "2964AB534BFA8134"]
+			icon: {
+				id: "minecolonies:blockhutbarrackstower"
+			}
+			id: "5ABAFD835E5F9B4B"
+			rewards: [
+				{
+					id: "3B6543CE58076FD3"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "minecolonies:military/build_barracks_tower"
+					criterion: ""
+					id: "4C03D868053587F0"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: -1.3d
+		}
+		{
+			dependencies: ["0D99AD3F3341985E"]
+			icon: {
+				id: "minecolonies:blockhutarchery"
+			}
+			id: "497813C8FE2FC820"
+			rewards: [
+				{
+					id: "7FF199576E9836DC"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "minecolonies:military/build_archery"
+					criterion: ""
+					id: "2B882D23829713FD"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0D99AD3F3341985E"]
+			icon: {
+				id: "minecolonies:blockhutcombatacademy"
+			}
+			id: "10941E05500FD05D"
+			rewards: [
+				{
+					id: "3383747239F4E63F"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "minecolonies:military/build_combat_academy"
+					criterion: ""
+					id: "00A728FE88E2E885"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: 1.3d
+		}
+		{
+			dependencies: ["0D99AD3F3341985E"]
+			icon: {
+				id: "minecolonies:chiefsword"
+			}
+			id: "72E99AAA05838BB0"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "50DCE3CE8307FA4C"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "276DDA50856790C1"
+					structure: "minecolonies:barbarian_camp"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 2.6d
+		}
+		{
+			dependencies: ["53A32F809B45CAFE"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecolonies:blockhutbarracks"
+			}
+			id: "7428D1C8B604F4CD"
+			preset: "info"
+			rewards: [
+				{
+					id: "7CE5D037349BC6DD"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "676BFDDB74F0D604"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 5.85d
+		}
+	]
+}

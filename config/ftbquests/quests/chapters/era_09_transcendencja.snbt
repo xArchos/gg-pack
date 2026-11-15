@@ -1,0 +1,1661 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "era_09_transcendencja"
+	group: "3CDFA8C60B58BCC5"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "gg:pieczec_transcendencja"
+	}
+	id: "3EB93F955F399448"
+	images: [
+		{
+			height: 1.8d
+			id: "185AF6C6EF74C52C"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 14.0d
+			x: 10.62d
+			y: -20.88d
+		}
+		{
+			height: 1.8d
+			id: "18E86011A26D4154"
+			image: "gg:item/pieczec_transcendencja"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 2.43d
+			y: -20.88d
+		}
+		{
+			height: 1.8d
+			id: "6C09DBB01425A431"
+			image: "mahoutsukai:block/mahoujin"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 18.82d
+			y: -20.88d
+		}
+		{
+			height: 0.8d
+			id: "04E1195082501225"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -18.73d
+		}
+		{
+			height: 0.8d
+			id: "31CF1F064E6C3C70"
+			image: "mahoutsukai:item/fae_essence"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -18.73d
+		}
+		{
+			height: 0.8d
+			id: "75037A62EE475C53"
+			image: "mahoutsukai:item/attuned_diamond"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -18.73d
+		}
+		{
+			height: 0.8d
+			id: "2C192AA60614976D"
+			image: "mahoutsukai:item/mortar_and_pestle"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 19.65d
+			y: -18.73d
+		}
+		{
+			height: 0.8d
+			id: "5CFDB905AFABF7E8"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -12.78d
+		}
+		{
+			height: 0.8d
+			id: "3AFFF20D1813191E"
+			image: "mahoutsukai:block/circuit1"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -12.78d
+		}
+		{
+			height: 0.8d
+			id: "4E6940315A12A173"
+			image: "mekanism:item/alloy_atomic"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -12.78d
+		}
+		{
+			height: 0.04d
+			id: "406344D694A7BAAC"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 24.25d
+			x: 10.62d
+			y: -13.28d
+		}
+		{
+			height: 0.8d
+			id: "089E8BF885C64FB6"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -8.38d
+		}
+		{
+			height: 0.8d
+			id: "49E94A3C0532FCB7"
+			image: "cataclysm:item/abyss_eye"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -8.38d
+		}
+		{
+			height: 0.8d
+			id: "6C46CD3D39AD9E12"
+			image: "cataclysm:item/storm_eye"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -8.38d
+		}
+		{
+			height: 0.04d
+			id: "630F6F8BD3965091"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 24.25d
+			x: 10.62d
+			y: -8.88d
+		}
+		{
+			height: 0.8d
+			id: "660FA9CB3E5E3C57"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -0.58d
+		}
+		{
+			height: 0.8d
+			id: "76B5D0F488B0F562"
+			image: "cataclysm:item/witherite_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -0.58d
+		}
+		{
+			height: 0.8d
+			id: "64851E1299B02FCB"
+			image: "cataclysm:item/cursium_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -0.58d
+		}
+		{
+			height: 0.8d
+			id: "28580C1294063B07"
+			image: "cataclysm:item/lacrima"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 19.65d
+			y: -0.58d
+		}
+		{
+			height: 0.04d
+			id: "62E139E888E179B7"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 24.25d
+			x: 10.62d
+			y: -1.08d
+		}
+		{
+			height: 0.8d
+			id: "688A0B1CA722414F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 9.72d
+		}
+		{
+			height: 0.8d
+			id: "7D9EE39AA53D15CC"
+			image: "megacells:item/bulk_item_cell"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 9.72d
+		}
+		{
+			height: 0.04d
+			id: "58AB17DF19A55E22"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 24.25d
+			x: 10.62d
+			y: 9.22d
+		}
+		{
+			height: 0.8d
+			id: "564B6A7309E25972"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 14.12d
+		}
+		{
+			height: 0.8d
+			id: "58397882EE16D087"
+			image: "buildinggadgets2:item/gadget_exchanging"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 14.12d
+		}
+		{
+			height: 0.8d
+			id: "1397EA21988AA0EB"
+			image: "buildinggadgets2:item/gadget_destruction"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: 14.12d
+		}
+		{
+			height: 0.04d
+			id: "545195F629CEAC91"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 24.25d
+			x: 10.62d
+			y: 13.62d
+		}
+		{
+			height: 0.8d
+			id: "4A78744541C236A4"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 16.97d
+		}
+		{
+			height: 0.8d
+			id: "7061B0CC6E59F7EE"
+			image: "minecolonies:item/colonymap"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 16.97d
+		}
+		{
+			height: 0.04d
+			id: "573656BF99F6C0B9"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 24.25d
+			x: 10.62d
+			y: 16.47d
+		}
+	]
+	order_index: 9
+	quest_links: [
+		{
+			id: "220DC77729E50052"
+			linked_quest: "3D09B9FC100C2825"
+			x: 17.75d
+			y: -15.65d
+		}
+	]
+	quests: [
+		{
+			icon: {
+				id: "gg:pieczec_transcendencja"
+			}
+			id: "0762E1C6C8BFC49D"
+			invisible: true
+			preset: "era"
+			rewards: [ ]
+			tags: ["era_transcendencja", "era_start"]
+			tasks: [
+				{
+					id: "28C9B0C2DC950246"
+					stage: "era_transcendencja"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0762E1C6C8BFC49D"]
+			id: "54838E9A3EBAEB40"
+			rewards: [
+				{
+					id: "729DD7548E06B264"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "6F9EC25094AA1011"
+					item: {
+						count: 1
+						id: "mahoutsukai:guidebook"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -15.65d
+		}
+		{
+			dependencies: ["54838E9A3EBAEB40"]
+			id: "408B2E5B80998568"
+			rewards: [
+				{
+					id: "73321F570DD2A472"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "58E963738F3F4626"
+					item: {
+						count: 1
+						id: "mahoutsukai:dagger"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -17.2d
+		}
+		{
+			dependencies: ["408B2E5B80998568"]
+			id: "192206C36D8188F3"
+			rewards: [
+				{
+					id: "40215440CD84FD52"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "016F723128C5269F"
+					item: {
+						count: 1
+						id: "mahoutsukai:spell_cloth"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -16.43d
+		}
+		{
+			dependencies: ["54838E9A3EBAEB40"]
+			id: "2AAE7CE5C05336FE"
+			rewards: [
+				{
+					id: "24C796570368D7C2"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "3455B9B6D3E8526A"
+					item: {
+						count: 1
+						id: "mahoutsukai:mortar_and_pestle"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -15.65d
+		}
+		{
+			dependencies: ["2AAE7CE5C05336FE"]
+			icon: {
+				id: "mahoutsukai:powdered_diamond"
+			}
+			id: "3D077F9A0E102180"
+			rewards: [
+				{
+					id: "276C97F7CF029585"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "26A852E941A5C42A"
+					item: {
+						count: 1
+						id: "mahoutsukai:powdered_iron"
+					}
+					type: "item"
+				}
+				{
+					id: "344BE86209D3F3B6"
+					item: {
+						count: 1
+						id: "mahoutsukai:powdered_gold"
+					}
+					type: "item"
+				}
+				{
+					id: "53B2A34E7218FC1B"
+					item: {
+						count: 1
+						id: "mahoutsukai:powdered_diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "5FBFDBC994B78321"
+					item: {
+						count: 1
+						id: "mahoutsukai:powdered_emerald"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -14.88d
+		}
+		{
+			dependencies: ["192206C36D8188F3", "3D077F9A0E102180"]
+			id: "52555AE7A28D0B48"
+			rewards: [
+				{
+					id: "6BCA3ED667187B3A"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "54BBE9978F493F38"
+					item: {
+						count: 1
+						id: "mahoutsukai:scroll_fay_sight"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -16.43d
+		}
+		{
+			dependencies: ["52555AE7A28D0B48"]
+			id: "1C8331FCF96218E5"
+			rewards: [
+				{
+					id: "44F1835450B2F0E2"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "6FD839A9CC6DF8EC"
+					item: {
+						count: 1
+						id: "mahoutsukai:fae_essence"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -15.65d
+		}
+		{
+			dependencies: ["192206C36D8188F3", "3D077F9A0E102180"]
+			id: "7476B7D7F698B358"
+			rewards: [
+				{
+					id: "62EBD7DB1E715307"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "23F069F9E24AB1B9"
+					item: {
+						count: 1
+						id: "mahoutsukai:mystic_code"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -14.88d
+		}
+		{
+			dependencies: ["1C8331FCF96218E5", "7476B7D7F698B358"]
+			id: "6E6D225C51ACF794"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "61A004D8029B760D"
+					type: "xp"
+					xp: 275
+				}
+				{
+					id: "48407D5486D85136"
+					table_id: 5334275367652752420L
+					type: "random"
+				}
+			]
+			tags: ["era_transcendencja", "milestone"]
+			tasks: [
+				{
+					id: "068F57F39383A9D0"
+					item: {
+						count: 1
+						id: "mahoutsukai:mystic_code_first_sorcery"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -16.43d
+		}
+		{
+			dependencies: ["54838E9A3EBAEB40"]
+			id: "46F970F018AE978F"
+			rewards: [
+				{
+					id: "29FA95A9AFFDA8FC"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja", "seal"]
+			tasks: [
+				{
+					count: 4L
+					id: "598EFF7D348142C6"
+					item: {
+						count: 1
+						id: "mahoutsukai:attuned_diamond"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -14.1d
+		}
+		{
+			dependencies: ["1C8331FCF96218E5", "3D077F9A0E102180"]
+			id: "03A1986679AAB85A"
+			rewards: [
+				{
+					id: "6E176ADAD3099A6D"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja", "seal"]
+			tasks: [
+				{
+					count: 2L
+					id: "0C7F1B3E5F46E842"
+					item: {
+						count: 1
+						id: "mahoutsukai:mana_circuit"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -14.88d
+		}
+		{
+			dependencies: ["6E6D225C51ACF794"]
+			id: "2291593A958925D8"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "20D2E9235B3BC52C"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja", "optional"]
+			tasks: [
+				{
+					id: "0A051841BDB0AB6C"
+					item: {
+						count: 1
+						id: "mahoutsukai:scroll_treasury_projection"
+					}
+					type: "item"
+				}
+			]
+			x: 14.25d
+			y: -16.43d
+		}
+		{
+			dependencies: ["6E6D225C51ACF794"]
+			id: "145C259EF1E9E9DA"
+			rewards: [
+				{
+					id: "207E9E017007C126"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "7A4C36F551106EE1"
+					item: {
+						count: 1
+						id: "mahoutsukai:scroll_reality_marble"
+					}
+					type: "item"
+				}
+			]
+			x: 14.25d
+			y: -14.88d
+		}
+		{
+			dependencies: ["145C259EF1E9E9DA"]
+			icon: {
+				id: "mahoutsukai:scroll_reality_marble"
+			}
+			id: "633026569D92492D"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "2E30FF89679E7C58"
+					type: "xp"
+					xp: 275
+				}
+				{
+					id: "551958A23A403231"
+					table_id: 5334275367652752420L
+					type: "random"
+				}
+			]
+			tags: ["era_transcendencja", "milestone"]
+			tasks: [
+				{
+					dimension: "mahoutsukai:reality_marble"
+					id: "666B41A1B1E87320"
+					type: "dimension"
+				}
+			]
+			x: 16.0d
+			y: -15.65d
+		}
+		{
+			dependencies: ["3D077F9A0E102180"]
+			id: "06970327D8662686"
+			rewards: [
+				{
+					id: "0C4AE7A7B6C6D98F"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja", "seal"]
+			tasks: [
+				{
+					count: 4L
+					id: "5ABA8B5139A876F3"
+					item: {
+						count: 1
+						id: "mahoutsukai:mana_circuit_magitech"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -10.48d
+		}
+		{
+			dependencies: ["06970327D8662686"]
+			id: "30460420DB4243CE"
+			rewards: [
+				{
+					id: "3DE809E299E22CC4"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					count: 256L
+					id: "3153244094BFCE84"
+					item: {
+						count: 1
+						id: "mahoutsukai:mana_circuit_magitech"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -10.48d
+		}
+		{
+			dependencies: ["0762E1C6C8BFC49D"]
+			id: "6263C60A24E1DB06"
+			rewards: [
+				{
+					id: "560757AE57139383"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					count: 256L
+					id: "5AE441251C8CCD45"
+					item: {
+						count: 1
+						id: "mekanism:ultimate_control_circuit"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -11.25d
+		}
+		{
+			dependencies: ["0762E1C6C8BFC49D"]
+			id: "0165DB31B45B1E71"
+			rewards: [
+				{
+					id: "71B966FA8FBC7858"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "340599220C44B1F8"
+					item: {
+						count: 1
+						id: "mekanism:modification_station"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -9.7d
+		}
+		{
+			dependencies: ["0165DB31B45B1E71"]
+			icon: {
+				id: "mekanism:mekasuit_helmet"
+			}
+			id: "5E123B2FAE9A349E"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "36B38A9E703075CC"
+					type: "xp"
+					xp: 275
+				}
+				{
+					id: "1879A35719479A19"
+					table_id: 5334275367652752420L
+					type: "random"
+				}
+			]
+			tags: ["era_transcendencja", "milestone"]
+			tasks: [
+				{
+					id: "1C9F3850A3EE4E7F"
+					item: {
+						count: 1
+						id: "mekanism:mekasuit_helmet"
+					}
+					type: "item"
+				}
+				{
+					id: "639D417666FD0EED"
+					item: {
+						count: 1
+						id: "mekanism:mekasuit_bodyarmor"
+					}
+					type: "item"
+				}
+				{
+					id: "271EFF6193F2DBE8"
+					item: {
+						count: 1
+						id: "mekanism:mekasuit_pants"
+					}
+					type: "item"
+				}
+				{
+					id: "578B67A6448C6F00"
+					item: {
+						count: 1
+						id: "mekanism:mekasuit_boots"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -11.25d
+		}
+		{
+			dependencies: ["0165DB31B45B1E71"]
+			id: "13701853E6C4AC8D"
+			rewards: [
+				{
+					id: "78863E6BA6005721"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "6C9465EACC11ACB0"
+					item: {
+						count: 1
+						id: "mekanism:meka_tool"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -9.7d
+		}
+		{
+			dependencies: ["0762E1C6C8BFC49D"]
+			icon: {
+				id: "cataclysm:abyss_eye"
+			}
+			id: "6F930312662F34A2"
+			rewards: [
+				{
+					id: "71BCDE2D94F3194E"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "2CA340EA62D60AD0"
+					structure: "cataclysm:sunken_city"
+					type: "structure"
+				}
+			]
+			x: 3.75d
+			y: -6.98d
+		}
+		{
+			dependencies: ["0762E1C6C8BFC49D"]
+			icon: {
+				id: "cataclysm:storm_eye"
+			}
+			id: "43EBD79D73F990D2"
+			rewards: [
+				{
+					id: "3128530556F8565B"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "3FE2456B99D7DB95"
+					structure: "cataclysm:acropolis"
+					type: "structure"
+				}
+			]
+			x: 3.75d
+			y: -5.68d
+		}
+		{
+			dependencies: ["0762E1C6C8BFC49D"]
+			icon: {
+				id: "cataclysm:mech_eye"
+			}
+			id: "392A5988468C14B9"
+			rewards: [
+				{
+					id: "0D49DB4C466D9F6A"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "7FF8C53CD64D4D22"
+					structure: "cataclysm:ancient_factory"
+					type: "structure"
+				}
+			]
+			x: 3.75d
+			y: -4.38d
+		}
+		{
+			dependencies: ["0762E1C6C8BFC49D"]
+			icon: {
+				id: "cataclysm:cursed_eye"
+			}
+			id: "3F8D3EB406CC3903"
+			rewards: [
+				{
+					id: "6AA41C3318938773"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "15462C6FB3CC60BB"
+					structure: "cataclysm:frosted_prison"
+					type: "structure"
+				}
+			]
+			x: 3.75d
+			y: -3.08d
+		}
+		{
+			dependencies: ["0762E1C6C8BFC49D"]
+			icon: {
+				id: "irons_spellbooks:scroll"
+			}
+			id: "7A89A0AD1EC3F0BF"
+			rewards: [
+				{
+					id: "0863F5FC5E9B5D6E"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "1755BE5A92E3A5EE"
+					structure: "irons_spellbooks:catacombs"
+					type: "structure"
+				}
+			]
+			x: 3.75d
+			y: -1.78d
+		}
+		{
+			dependencies: ["6F930312662F34A2"]
+			id: "4C5A653D62847D42"
+			rewards: [
+				{
+					id: "626319C4806D417C"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "0B3196E00B362764"
+					item: {
+						count: 1
+						id: "cataclysm:abyssal_sacrifice"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 1.07d
+		}
+		{
+			dependencies: ["4C5A653D62847D42"]
+			icon: {
+				id: "cataclysm:abyssal_egg"
+			}
+			id: "5F3D657BDA4F6CBE"
+			preset: "boss"
+			rewards: [
+				{
+					id: "6F9EB4E2BD741E02"
+					type: "xp"
+					xp: 550
+				}
+			]
+			tags: ["era_transcendencja", "boss"]
+			tasks: [
+				{
+					id: "7776AB477A5EADED"
+					stage: "boss_cataclysm_the_leviathan"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 7.25d
+			y: 1.07d
+		}
+		{
+			dependencies: ["43EBD79D73F990D2"]
+			icon: {
+				id: "cataclysm:lacrima"
+			}
+			id: "4237ECDAFAA60356"
+			preset: "boss"
+			rewards: [
+				{
+					id: "62E771D7EE96E6F7"
+					type: "xp"
+					xp: 550
+				}
+			]
+			tags: ["era_transcendencja", "boss"]
+			tasks: [
+				{
+					id: "4E551291DAC851FD"
+					stage: "boss_cataclysm_scylla"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 5.5d
+			y: 2.87d
+		}
+		{
+			dependencies: ["392A5988468C14B9"]
+			icon: {
+				id: "cataclysm:witherite_ingot"
+			}
+			id: "19C1B88E3715CDEA"
+			preset: "boss"
+			rewards: [
+				{
+					id: "1CFFA2D7C7D48779"
+					type: "xp"
+					xp: 550
+				}
+			]
+			tags: ["era_transcendencja", "boss"]
+			tasks: [
+				{
+					id: "4F59072086EA2965"
+					stage: "boss_cataclysm_the_harbinger"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 5.5d
+			y: 4.67d
+		}
+		{
+			dependencies: ["3F8D3EB406CC3903"]
+			icon: {
+				id: "cataclysm:cursium_ingot"
+			}
+			id: "635F6BA6B972F080"
+			preset: "boss"
+			rewards: [
+				{
+					id: "42600B94B6BC10B4"
+					type: "xp"
+					xp: 550
+				}
+			]
+			tags: ["era_transcendencja", "boss"]
+			tasks: [
+				{
+					id: "45874CDB483F1E82"
+					stage: "boss_cataclysm_maledictus"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 5.5d
+			y: 6.47d
+		}
+		{
+			dependencies: ["7A89A0AD1EC3F0BF"]
+			icon: {
+				id: "irons_spellbooks:scroll"
+			}
+			id: "572CA3255019880B"
+			preset: "boss"
+			rewards: [
+				{
+					id: "1A6BA934498F349E"
+					type: "xp"
+					xp: 550
+				}
+			]
+			tags: ["era_transcendencja", "boss"]
+			tasks: [
+				{
+					id: "7AEB560B36B8954E"
+					stage: "boss_gametechbcs_spellbooks_hard_dead_king"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 5.5d
+			y: 8.27d
+		}
+		{
+			dependencies: ["5F3D657BDA4F6CBE", "4237ECDAFAA60356"]
+			icon: {
+				id: "cataclysm:tidal_claws"
+			}
+			id: "7CDA679033AA642E"
+			min_required_dependencies: 1
+			preset: "milestone"
+			rewards: [
+				{
+					id: "76C677896852CE64"
+					type: "xp"
+					xp: 275
+				}
+				{
+					id: "4C760BF85B5D3780"
+					table_id: 5334275367652752420L
+					type: "random"
+				}
+			]
+			tags: ["era_transcendencja", "milestone"]
+			tasks: [ ]
+			x: 9.0d
+			y: 3.77d
+		}
+		{
+			dependencies: ["19C1B88E3715CDEA", "635F6BA6B972F080", "572CA3255019880B"]
+			icon: {
+				id: "cataclysm:witherite_ingot"
+			}
+			id: "3BD7E7B21E74BFB5"
+			min_required_dependencies: 1
+			preset: "milestone"
+			rewards: [
+				{
+					id: "133DAEC6B4703499"
+					type: "xp"
+					xp: 275
+				}
+				{
+					id: "3DF188ED53FCB433"
+					table_id: 5334275367652752420L
+					type: "random"
+				}
+			]
+			tags: ["era_transcendencja", "milestone"]
+			tasks: [ ]
+			x: 7.25d
+			y: 2.87d
+		}
+		{
+			dependencies: ["5F3D657BDA4F6CBE"]
+			id: "20438A7266ADE336"
+			rewards: [
+				{
+					id: "446C90B43340436E"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "68AAB1B6E10FD55A"
+					item: {
+						count: 1
+						id: "cataclysm:tidal_claws"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 5.57d
+		}
+		{
+			dependencies: ["4237ECDAFAA60356"]
+			id: "4CBC95DBD2FF46F8"
+			rewards: [
+				{
+					id: "7F48C3CE595D5765"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "3FAFF564D4C85584"
+					item: {
+						count: 1
+						id: "cataclysm:essence_of_the_storm"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: 4.67d
+		}
+		{
+			dependencies: ["19C1B88E3715CDEA"]
+			id: "09E2812C6BD3D8BC"
+			rewards: [
+				{
+					id: "74344AC2BE8020AE"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "31769F5ACAE635EC"
+					item: {
+						count: 1
+						id: "cataclysm:witherite_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: 6.47d
+		}
+		{
+			dependencies: ["635F6BA6B972F080"]
+			id: "6DF063684894D56F"
+			rewards: [
+				{
+					id: "00464F037EB94F00"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "6C1E4312E99F3B5A"
+					item: {
+						count: 1
+						id: "cataclysm:cursium_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: 8.27d
+		}
+		{
+			dependencies: ["7CDA679033AA642E", "3BD7E7B21E74BFB5"]
+			icon: {
+				id: "cataclysm:the_annihilator"
+			}
+			id: "1CBB953C35E264BD"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "204AE64D75275490"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja", "optional"]
+			tasks: [
+				{
+					advancement: "cataclysm:kill_all_bosses"
+					criterion: ""
+					id: "08857F431FA1BBB9"
+					type: "advancement"
+				}
+			]
+			x: 10.75d
+			y: 4.67d
+		}
+		{
+			dependencies: ["0762E1C6C8BFC49D"]
+			icon: {
+				id: "ae2:quantum_link"
+			}
+			id: "72352E2E402CB838"
+			rewards: [
+				{
+					id: "7FD7857E770A670B"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					count: 8L
+					id: "44DB343418564B9D"
+					item: {
+						count: 1
+						id: "ae2:quantum_ring"
+					}
+					type: "item"
+				}
+				{
+					id: "2B21B6ACC1372E2D"
+					item: {
+						count: 1
+						id: "ae2:quantum_link"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 11.25d
+		}
+		{
+			dependencies: ["0762E1C6C8BFC49D"]
+			id: "167D828D9FAD0EB8"
+			rewards: [
+				{
+					id: "12C80C21CC13B17E"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "4C7F9881494E0483"
+					item: {
+						count: 1
+						id: "megacells:bulk_item_cell"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 12.8d
+		}
+		{
+			dependencies: ["72352E2E402CB838", "167D828D9FAD0EB8"]
+			icon: {
+				id: "ae2:wireless_crafting_terminal"
+			}
+			id: "6EEDF7F3851CCB41"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "0CAEEEEB005025B0"
+					type: "xp"
+					xp: 275
+				}
+				{
+					id: "2470AE0426EBC66C"
+					table_id: 5334275367652752420L
+					type: "random"
+				}
+			]
+			tags: ["era_transcendencja", "milestone"]
+			tasks: [
+				{
+					id: "09F3189ECB47492A"
+					item: {
+						count: 1
+						id: "ae2:wireless_crafting_terminal"
+					}
+					type: "item"
+				}
+				{
+					id: "5F0F7009F3DA9EFE"
+					item: {
+						count: 1
+						id: "mekanism:portable_qio_dashboard"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 12.02d
+		}
+		{
+			dependencies: ["0762E1C6C8BFC49D"]
+			icon: {
+				id: "buildinggadgets2:gadget_copy_paste"
+			}
+			id: "17CAFF9D89754B99"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "5E956B26A9AA525E"
+					type: "xp"
+					xp: 275
+				}
+				{
+					id: "0C33385A64578157"
+					table_id: 5334275367652752420L
+					type: "random"
+				}
+			]
+			tags: ["era_transcendencja", "milestone"]
+			tasks: [
+				{
+					id: "5FEE013E93DD7BAA"
+					item: {
+						count: 1
+						id: "wands:netherite_wand"
+					}
+					type: "item"
+				}
+				{
+					id: "49F9D5FA81D67B73"
+					item: {
+						count: 1
+						id: "constructionstick:netherite_stick"
+					}
+					type: "item"
+				}
+				{
+					id: "619F314381B21B80"
+					item: {
+						count: 1
+						id: "mechtrowel:mech_trowel"
+					}
+					type: "item"
+				}
+				{
+					id: "3AA7D933D21E7D02"
+					item: {
+						count: 1
+						id: "buildinggadgets2:gadget_exchanging"
+					}
+					type: "item"
+				}
+				{
+					id: "3DB01EBF5538DD83"
+					item: {
+						count: 1
+						id: "buildinggadgets2:gadget_copy_paste"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 15.65d
+		}
+		{
+			dependencies: ["17CAFF9D89754B99"]
+			id: "3B78789C071DDD6B"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "4BA6293D44B2657E"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja", "optional"]
+			tasks: [
+				{
+					id: "61D9CC4AE6C5D1DD"
+					item: {
+						count: 1
+						id: "buildinggadgets2:gadget_destruction"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 15.65d
+		}
+		{
+			dependencies: ["0762E1C6C8BFC49D"]
+			icon: {
+				id: "minecolonies:blockhuttownhall"
+			}
+			id: "2BD989936ADA12DA"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "664AC039EDA206C2"
+					type: "xp"
+					xp: 275
+				}
+				{
+					id: "458F89C0B2A9D61F"
+					table_id: 5334275367652752420L
+					type: "random"
+				}
+			]
+			tags: ["era_transcendencja", "milestone"]
+			tasks: [
+				{
+					advancement: "minecolonies:minecolonies/colony_population_75"
+					criterion: ""
+					id: "5C07E4CA38D9D7ED"
+					type: "advancement"
+				}
+			]
+			x: 3.75d
+			y: 18.5d
+		}
+		{
+			dependencies: ["2BD989936ADA12DA"]
+			icon: {
+				id: "minecraft:totem_of_undying"
+			}
+			id: "32069A099BF772B3"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "696DE3CCE2D59F20"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja", "optional"]
+			tasks: [
+				{
+					advancement: "minecolonies:minecolonies/citizen_resurrect"
+					criterion: ""
+					id: "1954EC53FABBA24F"
+					type: "advancement"
+				}
+			]
+			x: 5.5d
+			y: 18.5d
+		}
+		{
+			dependencies: [
+				"6E6D225C51ACF794"
+				"633026569D92492D"
+				"5E123B2FAE9A349E"
+				"7CDA679033AA642E"
+				"3BD7E7B21E74BFB5"
+				"6EEDF7F3851CCB41"
+				"17CAFF9D89754B99"
+				"2BD989936ADA12DA"
+			]
+			icon: {
+				id: "gg:pieczec_final"
+			}
+			id: "06B7CA3EC95E9756"
+			preset: "era"
+			rewards: [
+				{
+					auto: "enabled"
+					icon: {
+						id: "gg:pieczec_final"
+					}
+					id: "42B657F536D67EDE"
+					stage: "era_final"
+					team_reward: true
+					type: "gamestage"
+				}
+				{
+					id: "15EBADAE3F9A8E77"
+					type: "xp"
+					xp: 1100
+				}
+				{
+					id: "0DBE4E68E9AFA91E"
+					table_id: 2018676822484106393L
+					type: "all_table"
+				}
+			]
+			tags: ["era_transcendencja", "gate"]
+			tasks: [
+				{
+					consume_items: true
+					id: "2AE00818AAB5C777"
+					item: {
+						count: 1
+						id: "gg:pieczec_final"
+					}
+					type: "item"
+				}
+			]
+			x: 21.25d
+			y: 0.0d
+		}
+	]
+}

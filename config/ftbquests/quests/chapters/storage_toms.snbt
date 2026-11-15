@@ -1,0 +1,671 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "storage_toms"
+	group: "75FCEC97D90BDF93"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "toms_storage:storage_terminal"
+	}
+	id: "2C5EC0C038C6644B"
+	images: [
+		{
+			height: 1.8d
+			id: "7A226B41D494B498"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -11.32d
+		}
+		{
+			height: 1.8d
+			id: "510523E60C653E98"
+			image: "toms_storage:block/terminal_front"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -11.32d
+		}
+		{
+			height: 1.8d
+			id: "2FF00E49EE3CEC30"
+			image: "toms_storage:block/inventory_connector"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -11.32d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "46139022779EBBC5"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -9.17d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "1667692108B9F2D4"
+			image: "toms_storage:block/crafting_terminal_front"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -9.17d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "05599E9D65B36535"
+			image: "toms_storage:block/trim"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -9.17d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "6DFBFFB6B7F1875F"
+			image: "toms_storage:item/wireless_terminal"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -9.17d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "400C8AF97A7C055C"
+			image: "toms_storage:block/inventory_hopper_basic"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -9.17d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "14D0709AA1CCD93D"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -3.22d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "7493174C9306BE87"
+			image: "toms_storage:item/item_filter"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -3.22d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "542C959D240D6605"
+			image: "toms_storage:item/tag_item_filter"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -3.22d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "1ED6CABA6FA077D4"
+			image: "toms_storage:block/opencrate_top"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -3.22d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "074325899C4EF72D"
+			image: "toms_storage:item/paint_kit"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -3.22d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.04d
+			id: "74051353F779C8AD"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -3.72d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "6F415C8E67593917"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 3.28d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "545311B663C0D185"
+			image: "toms_storage:block/inventory_cable"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 3.28d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "2FE0E5E66B6F550D"
+			image: "toms_storage:block/inv_cable_connector"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 3.28d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "156AF0A3E3FBDE07"
+			image: "toms_storage:item/inventory_configurator"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 3.28d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "5501AEEC6512AAB5"
+			image: "toms_storage:item/poly_item_filter"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: 3.28d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "1BA7E6A404352B59"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 2.78d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "4C34FBA6C887C946"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 7.68d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "0910355C8A3F091A"
+			image: "toms_storage:item/adv_wireless_terminal"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 7.68d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.04d
+			id: "4F0D44F8F4321738"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 7.18d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["38EA9BA21F0E366C"]
+			hide_until_deps_complete: true
+			id: "3D82324A7CE81778"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "2F2A6BED8A8D855B"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tags: ["era_runy", "storage"]
+			tasks: [
+				{
+					id: "44772F490DCCAC6B"
+					item: {
+						count: 1
+						id: "toms_storage:storage_terminal"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -6.1d
+		}
+		{
+			dependencies: ["3D82324A7CE81778"]
+			id: "246B854E14E11E69"
+			rewards: [
+				{
+					id: "20C06BE2F52CCE01"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy", "storage"]
+			tasks: [
+				{
+					id: "72887B5C4A9259AC"
+					item: {
+						count: 1
+						id: "toms_storage:inventory_connector"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -7.65d
+		}
+		{
+			dependencies: ["3D82324A7CE81778"]
+			id: "3EE79D8D927E2C20"
+			rewards: [
+				{
+					id: "0920CC74B3120F90"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy", "storage"]
+			tasks: [
+				{
+					id: "7A28570239A8C70F"
+					item: {
+						count: 1
+						id: "toms_storage:crafting_terminal"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -6.1d
+		}
+		{
+			dependencies: ["246B854E14E11E69"]
+			id: "756DBE5C2167C273"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "39751C5A588F993C"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy", "storage"]
+			tasks: [
+				{
+					id: "4811D273CCAE3EF1"
+					item: {
+						count: 1
+						id: "toms_storage:trim"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -6.1d
+		}
+		{
+			dependencies: ["3D82324A7CE81778"]
+			id: "66807641845B5012"
+			rewards: [
+				{
+					id: "19105AC744F8B047"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy", "storage"]
+			tasks: [
+				{
+					id: "064CAE7062CC324E"
+					item: {
+						count: 1
+						id: "toms_storage:wireless_terminal"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -4.55d
+		}
+		{
+			dependencies: ["246B854E14E11E69"]
+			id: "39259A7487173A83"
+			rewards: [
+				{
+					id: "4643922C3AE7F9D2"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy", "storage"]
+			tasks: [
+				{
+					id: "044B1BFC3A138040"
+					item: {
+						count: 1
+						id: "toms_storage:basic_inventory_hopper"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -1.82d
+		}
+		{
+			dependencies: ["246B854E14E11E69"]
+			icon: {
+				id: "toms_storage:item_filter"
+			}
+			id: "6E34413BB3C06079"
+			rewards: [
+				{
+					id: "4148A133FA55F7F1"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy", "storage"]
+			tasks: [
+				{
+					id: "499CFC7D60F8090C"
+					item: {
+						count: 1
+						id: "toms_storage:item_filter"
+					}
+					type: "item"
+				}
+				{
+					id: "609825F092722F1F"
+					item: {
+						count: 1
+						id: "toms_storage:tag_item_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -0.52d
+		}
+		{
+			dependencies: ["246B854E14E11E69"]
+			id: "73FC15973C7D49B0"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "3658A316E742D218"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy", "storage"]
+			tasks: [
+				{
+					id: "5E76CB2AC712F9BF"
+					item: {
+						count: 1
+						id: "toms_storage:level_emitter"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 0.78d
+		}
+		{
+			dependencies: ["246B854E14E11E69"]
+			id: "206C25125206B59F"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "50B4FCAD5557D779"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy", "storage"]
+			tasks: [
+				{
+					id: "0034F5F825B96CDB"
+					item: {
+						count: 1
+						id: "toms_storage:open_crate"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 2.08d
+		}
+		{
+			dependencies: ["246B854E14E11E69"]
+			id: "71878DD66B276DD9"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "41516E2155EE2D0E"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy", "storage"]
+			tasks: [
+				{
+					id: "2651AE4D1E60882F"
+					item: {
+						count: 1
+						id: "toms_storage:inventory_proxy"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 0.13d
+		}
+		{
+			dependencies: ["3D82324A7CE81778"]
+			id: "0FCFB4BFCDC40A72"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "1BD097FDA94737A1"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy", "storage"]
+			tasks: [
+				{
+					id: "1BAE16FB673C93C6"
+					item: {
+						count: 1
+						id: "toms_storage:paint_kit"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 0.13d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "toms_storage:inventory_cable_connector"
+			}
+			id: "5D1B7F9FE4054D42"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "74538C8F996F293A"
+					type: "xp"
+					xp: 125
+				}
+			]
+			tags: ["era_mosiadz", "storage"]
+			tasks: [
+				{
+					id: "6D02CE0FE1585AA8"
+					item: {
+						count: 1
+						id: "toms_storage:inventory_cable_connector"
+					}
+					type: "item"
+				}
+				{
+					id: "478D003C975916E9"
+					item: {
+						count: 1
+						id: "toms_storage:inventory_cable"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 5.58d
+		}
+		{
+			dependencies: ["5D1B7F9FE4054D42"]
+			id: "7C034B8DAFC220D1"
+			rewards: [
+				{
+					id: "2F6396752FD1D111"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz", "storage"]
+			tasks: [
+				{
+					id: "4088A479A58FF76A"
+					item: {
+						count: 1
+						id: "toms_storage:inventory_configurator"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 4.8d
+		}
+		{
+			dependencies: ["5D1B7F9FE4054D42"]
+			id: "77A646BE63F42A6E"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "0213B9D4536A78AC"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz", "storage"]
+			tasks: [
+				{
+					id: "358BF8FFB066F36F"
+					item: {
+						count: 1
+						id: "toms_storage:polymorphic_item_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 6.35d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			hide_until_deps_complete: true
+			id: "13CAE7E894DBEA2C"
+			rewards: [
+				{
+					id: "5D95EE11573D9C05"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana", "storage"]
+			tasks: [
+				{
+					id: "156DE2A953768CA1"
+					item: {
+						count: 1
+						id: "toms_storage:adv_wireless_terminal"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 9.08d
+		}
+	]
+}

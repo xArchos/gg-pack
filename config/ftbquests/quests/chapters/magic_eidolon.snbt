@@ -1,0 +1,969 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "magic_eidolon"
+	group: "3108D924C31FF1C5"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "eidolon_repraised:codex"
+	}
+	id: "2F5E13C3488237F3"
+	images: [
+		{
+			height: 1.8d
+			id: "46315870E93FDE7A"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.75d
+			x: 4.38d
+			y: -12.07d
+		}
+		{
+			height: 1.8d
+			id: "2743CE41DAB4AF13"
+			image: "eidolon_repraised:item/soul_shard"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -12.07d
+		}
+		{
+			height: 1.8d
+			id: "1BF792FD0A0F90A9"
+			image: "eidolon_repraised:item/shadow_gem"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 11.45d
+			y: -12.07d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "3EF67C20434AB775"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -9.92d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "71BA441FD23A1052"
+			image: "eidolon_repraised:item/pewter_inlay"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -9.92d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "37DEB3696FAD04BC"
+			image: "eidolon_repraised:item/gold_inlay"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -9.92d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "046B16A26D2EF36F"
+			image: "eidolon_repraised:item/lesser_soul_gem"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -9.92d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "43C11FB8B26D227D"
+			image: "eidolon_repraised:item/essence_of_death"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -9.92d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "1A12C1D2D5EA66A0"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -2.42d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "367DD03B9025E025"
+			image: "eidolon_repraised:item/holy_symbol"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -2.42d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "057EAC4A55BFD01D"
+			image: "eidolon_repraised:item/unholy_symbol"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -2.42d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "3021BD5BF1692459"
+			image: "eidolon_repraised:item/magic_candle"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -2.42d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "4168021E75459D52"
+			image: "eidolon_repraised:item/offering_incense"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -2.42d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.04d
+			id: "460798B7623DF86D"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -2.92d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "7D934857E47C3538"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 5.08d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "1A8A90FF1D281DA2"
+			image: "eidolon_repraised:item/reaper_scythe"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 5.08d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "6E0FCEA339EAFDA8"
+			image: "eidolon_repraised:item/soulfire_wand"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 5.08d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "0B37B1B01A28664D"
+			image: "eidolon_repraised:item/warlock_hat"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 5.08d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "559EBEEB5A3E7AA9"
+			image: "eidolon_repraised:item/basic_amulet"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: 5.08d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.04d
+			id: "5AEF417937844FA5"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 4.58d
+		}
+	]
+	order_index: 10
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["7A875C04743BEF62"]
+			hide_until_deps_complete: true
+			id: "7779B739FE49A31A"
+			rewards: [
+				{
+					id: "6F854220B951B5FF"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "1552C70F70552055"
+					item: {
+						count: 1
+						id: "eidolon_repraised:worktable"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -6.07d
+		}
+		{
+			dependencies: ["7779B739FE49A31A"]
+			icon: {
+				id: "eidolon_repraised:gold_inlay"
+			}
+			id: "01EEA33AC67E1C6C"
+			rewards: [
+				{
+					id: "6C8C7AA966FB0E50"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "5A9818AB50408AD6"
+					item: {
+						count: 1
+						id: "eidolon_repraised:pewter_inlay"
+					}
+					type: "item"
+				}
+				{
+					id: "54DCB09B22D178D6"
+					item: {
+						count: 1
+						id: "eidolon_repraised:gold_inlay"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -8.4d
+		}
+		{
+			dependencies: ["7779B739FE49A31A"]
+			id: "6B13DD9520E77C56"
+			rewards: [
+				{
+					id: "4E74A47808F740AF"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "11ED8E10FE6D45CE"
+					item: {
+						count: 1
+						id: "eidolon_repraised:athame"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -6.85d
+		}
+		{
+			dependencies: ["6B13DD9520E77C56"]
+			icon: {
+				id: "eidolon_repraised:merammer_resin"
+			}
+			id: "65F36FC939EE202F"
+			rewards: [
+				{
+					id: "5A4D35AF4A761968"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "160E5392509EBDF6"
+					item: {
+						count: 1
+						id: "eidolon_repraised:merammer_resin"
+					}
+					type: "item"
+				}
+				{
+					id: "0EBFA35AE560E398"
+					item: {
+						count: 1
+						id: "eidolon_repraised:avennian_sprig"
+					}
+					type: "item"
+				}
+				{
+					id: "5237CB45004B232B"
+					item: {
+						count: 1
+						id: "eidolon_repraised:oanna_bloom"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -7.62d
+		}
+		{
+			dependencies: ["7779B739FE49A31A"]
+			id: "2E3B395333FA06C5"
+			rewards: [
+				{
+					id: "68C06163F84A3851"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "7740199174451895"
+					item: {
+						count: 1
+						id: "eidolon_repraised:notetaking_tools"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -5.3d
+		}
+		{
+			dependencies: ["2E3B395333FA06C5"]
+			id: "2AB33C998F600675"
+			rewards: [
+				{
+					id: "33DAB181EBAF9B80"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "1C9C97D1096419CD"
+					item: {
+						count: 1
+						id: "eidolon_repraised:research_table"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -6.07d
+		}
+		{
+			dependencies: ["2AB33C998F600675"]
+			id: "0D7583BE0EA11CB2"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "18DCE287D304F866"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "17A8E76D4BE69041"
+					item: {
+						count: 1
+						id: "eidolon_repraised:arcane_seal"
+					}
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: -6.07d
+		}
+		{
+			dependencies: ["7779B739FE49A31A"]
+			id: "14F6F6F85A662A17"
+			rewards: [
+				{
+					id: "7C18130698DFA4D0"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "5DB84EA818E1DD31"
+					item: {
+						count: 1
+						id: "eidolon_repraised:lesser_soul_gem"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -3.75d
+		}
+		{
+			dependencies: ["7779B739FE49A31A"]
+			id: "6C20F8E8EB812A70"
+			rewards: [
+				{
+					id: "664CF1C20874089E"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "4AD79D700B28E63E"
+					item: {
+						count: 1
+						id: "eidolon_repraised:death_essence"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -6.07d
+		}
+		{
+			dependencies: ["6C20F8E8EB812A70"]
+			id: "52C1030ED76BE8F9"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "6884122637BFCEE8"
+					type: "xp"
+					xp: 150
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "1680DCA8FECFA76E"
+					item: {
+						count: 1
+						id: "eidolon_repraised:shadow_gem"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -4.52d
+		}
+		{
+			dependencies: ["7779B739FE49A31A"]
+			id: "6D25845F83D38B09"
+			rewards: [
+				{
+					id: "785D3220B43998AF"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "24B268090D07D0E3"
+					item: {
+						count: 1
+						id: "eidolon_repraised:straw_effigy"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 1.43d
+		}
+		{
+			dependencies: ["6D25845F83D38B09"]
+			id: "25F4A771BFBB0972"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "555C7ABA84818458"
+					type: "xp"
+					xp: 150
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "3F8D2A64A219E34D"
+					item: {
+						count: 1
+						id: "eidolon_repraised:wooden_altar"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 1.43d
+		}
+		{
+			dependencies: ["25F4A771BFBB0972"]
+			icon: {
+				id: "eidolon_repraised:goblet"
+			}
+			id: "3D066A987EFE623D"
+			rewards: [
+				{
+					id: "2CC981EBDA018198"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "00815CBDE5F0ED79"
+					item: {
+						count: 1
+						id: "eidolon_repraised:candlestick"
+					}
+					type: "item"
+				}
+				{
+					id: "096FDB82906AB6F5"
+					item: {
+						count: 1
+						id: "eidolon_repraised:goblet"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -0.9d
+		}
+		{
+			dependencies: ["25F4A771BFBB0972"]
+			icon: {
+				id: "eidolon_repraised:unholy_symbol"
+			}
+			id: "2D740FB6E14D841B"
+			rewards: [
+				{
+					id: "11214878568F463D"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "6DFF1C04DFE222D3"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(eidolon_repraised:holy_symbol)item(eidolon_repraised:unholy_symbol))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 0.65d
+		}
+		{
+			dependencies: ["25F4A771BFBB0972"]
+			id: "35EDFF3F0B54D7A7"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "72A9C68B2AF3E02A"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "0B892E050B4A32F4"
+					item: {
+						count: 1
+						id: "eidolon_repraised:stone_altar"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 2.2d
+		}
+		{
+			dependencies: ["2D740FB6E14D841B"]
+			id: "68652025D552D06F"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "5DD955636673BEF9"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "1E282AD857B6187F"
+					item: {
+						count: 1
+						id: "eidolon_repraised:unholy_effigy"
+					}
+					type: "item"
+				}
+			]
+			x: 8.75d
+			y: 0.65d
+		}
+		{
+			dependencies: ["25F4A771BFBB0972"]
+			id: "62CA3903B2D1D3C4"
+			rewards: [
+				{
+					id: "52A8339220B108B8"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "1FE707396B1560FA"
+					item: {
+						count: 1
+						id: "eidolon_repraised:censer"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 3.75d
+		}
+		{
+			dependencies: ["62CA3903B2D1D3C4", "65F36FC939EE202F"]
+			icon: {
+				id: "eidolon_repraised:restoration_incense"
+			}
+			id: "5205A6722A1B0524"
+			rewards: [
+				{
+					id: "74C9C3A9941C561E"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "20A5B9ECAD14EA05"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(eidolon_repraised:restoration_incense)item(eidolon_repraised:gloom_incense)item(eidolon_repraised:offering_incense)item(eidolon_repraised:deathbane_incense)item(eidolon_repraised:undeath_incense)item(eidolon_repraised:purity_incense)item(eidolon_repraised:quicken_incense)item(eidolon_repraised:tough_incense)item(eidolon_repraised:frail_incense)item(eidolon_repraised:frostbind_incense)item(eidolon_repraised:tether_incense)item(eidolon_repraised:soul_harvest_incense)item(eidolon_repraised:bloodlust_incense)item(eidolon_repraised:warding_incense))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 8.75d
+			y: 2.2d
+		}
+		{
+			dependencies: ["25F4A771BFBB0972"]
+			id: "78FEA7C19FF81FFB"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "7182A13AD7DC46C7"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "720F751EA421872B"
+					item: {
+						count: 1
+						id: "eidolon_repraised:summoning_staff"
+					}
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: 1.43d
+		}
+		{
+			dependencies: ["7779B739FE49A31A"]
+			id: "426755395D657D20"
+			rewards: [
+				{
+					id: "060526B938313E9B"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "58D62260269698C7"
+					item: {
+						count: 1
+						id: "eidolon_repraised:reaper_scythe"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 8.15d
+		}
+		{
+			dependencies: ["426755395D657D20"]
+			id: "1143EE893CA328E4"
+			rewards: [
+				{
+					id: "5A385144F25DDA09"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "1E5BB3629873809F"
+					item: {
+						count: 1
+						id: "eidolon_repraised:soul_enchanter"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 6.6d
+		}
+		{
+			dependencies: ["426755395D657D20", "52C1030ED76BE8F9"]
+			icon: {
+				id: "eidolon_repraised:warlock_hat"
+			}
+			id: "54356F890014B79D"
+			rewards: [
+				{
+					id: "04E160E0E9125E88"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "503E6135035479BC"
+					item: {
+						count: 1
+						id: "eidolon_repraised:warlock_hat"
+					}
+					type: "item"
+				}
+				{
+					id: "0A44FC7A563C18CF"
+					item: {
+						count: 1
+						id: "eidolon_repraised:warlock_cloak"
+					}
+					type: "item"
+				}
+				{
+					id: "2CDD1C42B509804D"
+					item: {
+						count: 1
+						id: "eidolon_repraised:warlock_boots"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 6.6d
+		}
+		{
+			dependencies: ["426755395D657D20", "52C1030ED76BE8F9", "14F6F6F85A662A17"]
+			id: "491623F08799E87C"
+			rewards: [
+				{
+					id: "2A146130CFC6F72D"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "0F53ACE21635263A"
+					item: {
+						count: 1
+						id: "eidolon_repraised:soulfire_wand"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 8.15d
+		}
+		{
+			dependencies: ["426755395D657D20", "14F6F6F85A662A17"]
+			id: "5320796741B160F7"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "6206300D2F73DF07"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "09198D1FA4BF0510"
+					item: {
+						count: 1
+						id: "eidolon_repraised:bonechill_wand"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 8.15d
+		}
+		{
+			dependencies: ["426755395D657D20"]
+			icon: {
+				id: "eidolon_repraised:basic_amulet"
+			}
+			id: "4A5690414BCAAD82"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "759058B9A08F186F"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "121465F6A78997DA"
+					item: {
+						count: 1
+						id: "eidolon_repraised:basic_amulet"
+					}
+					type: "item"
+				}
+				{
+					id: "3A1E1D4CB93CBEBB"
+					item: {
+						count: 1
+						id: "eidolon_repraised:basic_ring"
+					}
+					type: "item"
+				}
+				{
+					id: "1DFB4247BA7DB980"
+					item: {
+						count: 1
+						id: "eidolon_repraised:basic_belt"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 9.7d
+		}
+		{
+			dependencies: ["426755395D657D20", "52C1030ED76BE8F9"]
+			id: "6AFCAA604FAF558C"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "5CF5A7FAD9F45474"
+					type: "xp"
+					xp: 150
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "3B7902123B8032A1"
+					item: {
+						count: 1
+						id: "eidolon_repraised:deathbringer_scythe"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 9.7d
+		}
+	]
+}

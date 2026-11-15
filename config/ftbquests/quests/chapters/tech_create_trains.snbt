@@ -1,0 +1,798 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tech_create_trains"
+	group: "32C7FC51B44C22EE"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "create:track_station"
+	}
+	id: "25B63A982B38D0B7"
+	images: [
+		{
+			height: 1.8d
+			id: "523D93100268A26C"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -10.55d
+		}
+		{
+			height: 1.8d
+			id: "4EC01B209236788D"
+			image: "create:item/schedule"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -10.55d
+		}
+		{
+			height: 1.8d
+			id: "15D5955BD788E497"
+			image: "railways:item/handcar"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -10.55d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "7A77B264A9180EFF"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -8.4d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "439A68F66E4E2125"
+			image: "create:block/railway_casing"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -8.4d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "5035806B50DB2433"
+			image: "create:block/signal_box"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -8.4d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "5D158300CBC00B92"
+			image: "create:block/station"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -8.4d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "4E6BA48F1C8B7F53"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -0.9d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "7C315C673DC22A0E"
+			image: "railways:block/coupler_box_dual"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -0.9d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "15C2D7D509EF1E0E"
+			image: "railways:block/monorail/monorail"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -0.9d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "3038C7440CEAAA5C"
+			image: "railways:item/conductor_whistle"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -0.9d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "4E214072C6EF6294"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -1.4d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "03B8700EFFC03C43"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 5.6d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "57981971233E7849"
+			image: "bellsandwhistles:block/headlight"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 5.6d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "7B334EC8B23F668E"
+			image: "bellsandwhistles:block/cowcatchers/brass_cowcatcher"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 5.6d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "6F675F33B53234A5"
+			image: "interiors:block/seatwood_planks"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 5.6d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "02505603565FF017"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 5.1d
+		}
+	]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "create:schedule"
+			}
+			id: "6F69FE43BAEE036B"
+			rewards: [
+				{
+					id: "30BF2ADC881BF2E9"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "create:conductor"
+					criterion: ""
+					id: "22290C92984D738C"
+					type: "advancement"
+				}
+			]
+			x: 0.0d
+			y: -4.55d
+		}
+		{
+			dependencies: ["6F69FE43BAEE036B"]
+			id: "513D91C74C54CD80"
+			rewards: [
+				{
+					id: "7AAC93BA3926C306"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "19AF79457A90F0D8"
+					item: {
+						count: 1
+						id: "create:track_signal"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -6.87d
+		}
+		{
+			dependencies: ["6F69FE43BAEE036B"]
+			id: "269935BB659540D5"
+			rewards: [
+				{
+					id: "477BD201F590C832"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "7AB84958D151F891"
+					item: {
+						count: 1
+						id: "create:track_observer"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -5.32d
+		}
+		{
+			dependencies: ["513D91C74C54CD80"]
+			icon: {
+				id: "create:display_board"
+			}
+			id: "69E9BF65AD30C871"
+			rewards: [
+				{
+					id: "5F13B59839725D60"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "create:display_board_0"
+					criterion: ""
+					id: "4095EEE84CC0D52E"
+					type: "advancement"
+				}
+			]
+			x: 5.25d
+			y: -6.1d
+		}
+		{
+			dependencies: ["513D91C74C54CD80"]
+			icon: {
+				id: "create:railway_casing"
+			}
+			id: "020C11EF4965F285"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "244FB47499D5524B"
+					type: "xp"
+					xp: 125
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "create:long_train"
+					criterion: ""
+					id: "2AEA9633FCBB8E05"
+					type: "advancement"
+				}
+			]
+			x: 5.25d
+			y: -4.55d
+		}
+		{
+			dependencies: ["513D91C74C54CD80"]
+			icon: {
+				id: "minecraft:obsidian"
+			}
+			id: "15A7A9BF29AE4352"
+			rewards: [
+				{
+					id: "64C53889345E7C9E"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "create:train_portal"
+					criterion: ""
+					id: "375D55DD3A9A3BAF"
+					type: "advancement"
+				}
+			]
+			x: 5.25d
+			y: -3.0d
+		}
+		{
+			dependencies: ["6F69FE43BAEE036B"]
+			icon: {
+				id: "create:track"
+			}
+			id: "2E0363E27CEE1AD6"
+			rewards: [
+				{
+					id: "454B831A5A0EB66C"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "create:track_crafting_factory"
+					criterion: ""
+					id: "5C3C503BFDE7EFCC"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: -3.77d
+		}
+		{
+			dependencies: ["020C11EF4965F285"]
+			icon: {
+				id: "create:controls"
+			}
+			id: "6621100F24C04595"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "7EC633078F8B3C1F"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "create:long_travel"
+					criterion: ""
+					id: "4B24258A51778935"
+					type: "advancement"
+				}
+			]
+			x: 7.0d
+			y: -4.55d
+		}
+		{
+			dependencies: ["6F69FE43BAEE036B"]
+			icon: {
+				id: "create:steam_whistle"
+			}
+			id: "1D95F5B90CF3879F"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "37DF3ACA33000639"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "create:train_whistle"
+					criterion: ""
+					id: "704AC31848D661C1"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: -2.22d
+		}
+		{
+			dependencies: ["6F69FE43BAEE036B"]
+			icon: {
+				id: "create:train_door"
+			}
+			id: "3DFBCE899F41064E"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "5FCB951573F7BDA2"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "56ED810F14683D0D"
+					item: {
+						count: 1
+						id: "create:train_door"
+					}
+					type: "item"
+				}
+				{
+					id: "19AFE096ECBE021E"
+					item: {
+						count: 1
+						id: "create:train_trapdoor"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -4.55d
+		}
+		{
+			dependencies: ["6F69FE43BAEE036B"]
+			id: "3D8AD0AC7FA6631E"
+			rewards: [
+				{
+					id: "696CF7D5FD65B155"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "060602C1CF3DEF71"
+					item: {
+						count: 1
+						id: "railways:track_coupler"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 0.5d
+		}
+		{
+			dependencies: ["6F69FE43BAEE036B"]
+			icon: {
+				id: "railways:track_switch_brass"
+			}
+			id: "6C049420F9FD2E73"
+			rewards: [
+				{
+					id: "4D06C936240B0AC6"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "78E4B0A6228D90B1"
+					item: {
+						count: 1
+						id: "railways:track_switch_andesite"
+					}
+					type: "item"
+				}
+				{
+					id: "2CE1E66AFBA0C9BF"
+					item: {
+						count: 1
+						id: "railways:track_switch_brass"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 1.8d
+		}
+		{
+			dependencies: ["6C049420F9FD2E73"]
+			id: "77D9833101CB4077"
+			rewards: [
+				{
+					id: "642120B8F2B607FC"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "412A5BC30E71C120"
+					item: {
+						count: 1
+						id: "railways:semaphore"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 1.15d
+		}
+		{
+			dependencies: ["6F69FE43BAEE036B"]
+			id: "72DB2B4AE2EEBF27"
+			rewards: [
+				{
+					id: "39200D2ED95C45CC"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "2433BFD5DE7D1107"
+					item: {
+						count: 1
+						id: "railways:handcar"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 3.1d
+		}
+		{
+			dependencies: ["6F69FE43BAEE036B"]
+			icon: {
+				id: "railways:white_conductor_cap"
+			}
+			id: "328C755D0FA95CA1"
+			rewards: [
+				{
+					id: "355533A796D5ACB2"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "36000060260B95CA"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "item_tag(railways:conductor_caps)"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 4.4d
+		}
+		{
+			dependencies: ["6C049420F9FD2E73"]
+			icon: {
+				id: "railways:track_monorail"
+			}
+			id: "2ACD88810219671D"
+			rewards: [
+				{
+					id: "2C39E89BA6DA4420"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "51D3229EA5F810C6"
+					item: {
+						count: 1
+						id: "railways:track_create_andesite_narrow"
+					}
+					type: "item"
+				}
+				{
+					id: "0D0A029D369FDF7D"
+					item: {
+						count: 1
+						id: "railways:track_create_andesite_wide"
+					}
+					type: "item"
+				}
+				{
+					id: "53DB7E2AAFED0E20"
+					item: {
+						count: 1
+						id: "railways:track_monorail"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 2.45d
+		}
+		{
+			dependencies: ["328C755D0FA95CA1"]
+			icon: {
+				id: "railways:smokestack_coalburner"
+			}
+			id: "5294DE711B59AFEB"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "0EC42D410D74451D"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "014899CA3C431FA2"
+					item: {
+						count: 1
+						id: "railways:locometal_boiler"
+					}
+					type: "item"
+				}
+				{
+					id: "6FF9E8C3AE1BDBA2"
+					item: {
+						count: 1
+						id: "railways:smokestack_coalburner"
+					}
+					type: "item"
+				}
+				{
+					id: "50074CF3F72EA6F2"
+					item: {
+						count: 1
+						id: "railways:buffer"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 3.75d
+		}
+		{
+			dependencies: ["6F69FE43BAEE036B"]
+			icon: {
+				id: "interiors:red_chair"
+			}
+			id: "59B7032A9B64E5CE"
+			rewards: [
+				{
+					id: "7749B904E43B8A99"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "3F5E32D16BCAFD39"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "item_tag(interiors:chairs)"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 7.0d
+		}
+		{
+			dependencies: ["6F69FE43BAEE036B"]
+			icon: {
+				id: "bellsandwhistles:headlight"
+			}
+			id: "677502BBACE73971"
+			rewards: [
+				{
+					id: "5E45012610BBF914"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "0498DE4216928425"
+					item: {
+						count: 1
+						id: "bellsandwhistles:headlight"
+					}
+					type: "item"
+				}
+				{
+					id: "441805B0D0B93F29"
+					item: {
+						count: 1
+						id: "bellsandwhistles:brass_pilot"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 8.3d
+		}
+		{
+			dependencies: ["677502BBACE73971"]
+			icon: {
+				id: "bellsandwhistles:station_platform"
+			}
+			id: "5B3DCC5D47CB5A13"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "730B0919945A724F"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "7808D942EF4D8FCA"
+					item: {
+						count: 1
+						id: "bellsandwhistles:station_platform"
+					}
+					type: "item"
+				}
+				{
+					id: "2A8AEAAC025AC28A"
+					item: {
+						count: 1
+						id: "bellsandwhistles:metro_casing"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 7.65d
+		}
+	]
+}

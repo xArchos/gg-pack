@@ -1,0 +1,1173 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tech_silent_gear"
+	group: "32C7FC51B44C22EE"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "silentgear:pickaxe_blueprint"
+	}
+	id: "66A0C6830C137ED4"
+	images: [
+		{
+			height: 1.8d
+			id: "639D7D28CE2139ED"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -13.25d
+		}
+		{
+			height: 1.8d
+			id: "74BED91492E56AE4"
+			image: "silentgear:item/blueprint_pickaxe"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -13.25d
+		}
+		{
+			height: 1.8d
+			id: "3F4C6EA61033167B"
+			image: "silentgear:item/tyrian_steel_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -13.25d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "1291AEAB3B5C9513"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -11.1d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "549BACA7BE18465D"
+			image: "silentgear:block/stone_anvil"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -11.1d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "3171D2B4BB73C2F3"
+			image: "silentgear:item/template_board"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -11.1d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "639D500D169BA720"
+			image: "silentgear:item/flax_fiber"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -11.1d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "7B2C7C96D8262FE0"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -7.2d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "1EED56674944793F"
+			image: "silentgear:item/blueprint_hammer"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -7.2d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "1E55ACB9F885DB3B"
+			image: "silentgear:item/upgrade_base"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -7.2d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "6087536B5186F028"
+			image: "silentgear:item/jeweler_tools"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -7.2d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.04d
+			id: "2A61BB9A256C493D"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: -7.7d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "7FBCA549E401E472"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 0.3d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "75F32AF3D164468D"
+			image: "silentgear:item/crimson_iron_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 0.3d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "337B7D7DC9456513"
+			image: "silentgear:item/blaze_gold_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 0.3d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "3C0FC8809A70EE72"
+			image: "silentgear:item/glowing_dust"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 0.3d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "30D4937AE71AEE24"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: -0.2d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "6B37C3E6E02BEB64"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 7.8d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "2B80D29D22B098C2"
+			image: "silentgear:item/azure_silver_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 7.8d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "3DF05CF005AEF25B"
+			image: "silentgear:item/azure_electrum_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 7.8d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "7758734A4902E5DA"
+			image: "silentgear:item/crushed_shulker_shell"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 7.8d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.04d
+			id: "322B5EC9A749617F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 7.3d
+		}
+	]
+	order_index: 13
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["61184EB93DBC27D9"]
+			hide_until_deps_complete: true
+			id: "16E45F1D64C85295"
+			rewards: [
+				{
+					id: "3A75B014A2599FAD"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "1098A3339A35D37F"
+					item: {
+						count: 1
+						id: "silentgear:stone_anvil"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -9.7d
+		}
+		{
+			dependencies: ["16E45F1D64C85295"]
+			icon: {
+				id: "silentgear:crude_knife"
+			}
+			id: "3355EAD0EB36560D"
+			rewards: [
+				{
+					id: "618365D26CE083A2"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "715C44208E7BED49"
+					item: {
+						count: 1
+						id: "silentgear:crude_knife"
+					}
+					type: "item"
+				}
+				{
+					id: "364BE8C69CD9FACF"
+					item: {
+						count: 1
+						id: "silentgear:crude_hammer"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -9.7d
+		}
+		{
+			dependencies: ["16E45F1D64C85295", "3355EAD0EB36560D"]
+			id: "691F2A29902F728E"
+			rewards: [
+				{
+					id: "7248B11DF72856B0"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "007D93868C4EF309"
+					item: {
+						count: 1
+						id: "silentgear:template_board"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -9.05d
+		}
+		{
+			dependencies: ["16E45F1D64C85295"]
+			id: "5A725536D35042F2"
+			rewards: [
+				{
+					id: "0A746BE61930EACD"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "0B852D5374A7408E"
+					item: {
+						count: 1
+						id: "silentgear:blueprint_paper"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -8.4d
+		}
+		{
+			dependencies: ["691F2A29902F728E"]
+			id: "4E90EA74BC90D0EC"
+			rewards: [
+				{
+					id: "73EB0504D67FB443"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "616BAB3A490D68B6"
+					item: {
+						count: 1
+						id: "silentgear:axe"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -9.7d
+		}
+		{
+			dependencies: ["4E90EA74BC90D0EC"]
+			id: "1A865097F19FA04C"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "53D604A1F38A5DDF"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "3911447B93C7A0EA"
+					item: {
+						count: 1
+						id: "silentgear:sword"
+					}
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: -9.7d
+		}
+		{
+			dependencies: ["4E90EA74BC90D0EC"]
+			id: "2E3DD95B3CF7A241"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "6556516E5080D8C9"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "046500487D78B022"
+					item: {
+						count: 1
+						id: "silentgear:very_crude_repair_kit"
+					}
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: -8.4d
+		}
+		{
+			dependencies: ["61184EB93DBC27D9"]
+			hide_until_deps_complete: true
+			id: "62C584E8CB3394CA"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "399803FB4FE8377B"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "5E405A5E0EBB34FA"
+					item: {
+						count: 1
+						id: "silentgear:flax_string"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -8.4d
+		}
+		{
+			dependencies: ["691F2A29902F728E"]
+			id: "0E2A921B22008D0B"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "188DAB387B3B75B4"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "48620CA14393833B"
+					item: {
+						count: 1
+						id: "silentgear:guide_book"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -8.4d
+		}
+		{
+			dependencies: ["7B472916B8B3515D"]
+			hide_until_deps_complete: true
+			id: "77050A57A7BD2041"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "3078BA5813F1E144"
+					type: "xp"
+					xp: 75
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "301CA13A75A777D9"
+					item: {
+						count: 1
+						id: "silentgear:pickaxe"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -4.9d
+		}
+		{
+			dependencies: ["77050A57A7BD2041"]
+			icon: {
+				id: "silentgear:hammer"
+			}
+			id: "4890F88AA38D7683"
+			rewards: [
+				{
+					id: "6FB39C96C3586895"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "615E58130A24467E"
+					item: {
+						count: 1
+						id: "silentgear:hammer"
+					}
+					type: "item"
+				}
+				{
+					id: "5E183A4515CBADBF"
+					item: {
+						count: 1
+						id: "silentgear:excavator"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -5.67d
+		}
+		{
+			dependencies: ["77050A57A7BD2041"]
+			id: "0FF473892D3EC29F"
+			rewards: [
+				{
+					id: "3ED8C106B42A07BB"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "395DA53B3F21DF10"
+					item: {
+						count: 1
+						id: "silentgear:prospector_hammer"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -4.12d
+		}
+		{
+			dependencies: ["77050A57A7BD2041"]
+			id: "1EC7E29A1A665D4C"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "6510C22B903B7BBD"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "5E06CCA17B63A3B3"
+					item: {
+						count: 1
+						id: "silentgear:paxel"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -2.58d
+		}
+		{
+			dependencies: ["7B472916B8B3515D"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "silentgear:chestplate"
+			}
+			id: "2022A89AAD55C22E"
+			rewards: [
+				{
+					id: "4C6F7DF427F7E993"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "7857FC1C1310EE56"
+					item: {
+						count: 1
+						id: "silentgear:helmet"
+					}
+					type: "item"
+				}
+				{
+					id: "4BD8486EFE2283AF"
+					item: {
+						count: 1
+						id: "silentgear:chestplate"
+					}
+					type: "item"
+				}
+				{
+					id: "656AFE68C0DDD9FE"
+					item: {
+						count: 1
+						id: "silentgear:leggings"
+					}
+					type: "item"
+				}
+				{
+					id: "612C6781759564EE"
+					item: {
+						count: 1
+						id: "silentgear:boots"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -3.35d
+		}
+		{
+			dependencies: ["77050A57A7BD2041"]
+			icon: {
+				id: "silentgear:spoon_upgrade"
+			}
+			id: "6A16A2359DAD868E"
+			rewards: [
+				{
+					id: "05B17085D805123A"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "7749FCD7C66B5A02"
+					item: {
+						count: 1
+						id: "silentgear:advanced_upgrade_base"
+					}
+					type: "item"
+				}
+				{
+					id: "4E7E8B44149E03C8"
+					item: {
+						count: 1
+						id: "silentgear:spoon_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -1.03d
+		}
+		{
+			dependencies: ["77050A57A7BD2041"]
+			id: "5EDD91AC87AC75E1"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "1F5EB72F48927393"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "21F50F41ED41FDFE"
+					item: {
+						count: 1
+						id: "silentgear:tip"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -4.12d
+		}
+		{
+			dependencies: ["7B472916B8B3515D"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "silentgear:ring"
+			}
+			id: "2F55A92371BC96A8"
+			rewards: [
+				{
+					id: "28F2727418CA6F64"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "3B0554B989701FB3"
+					item: {
+						count: 1
+						id: "silentgear:jeweler_tools"
+					}
+					type: "item"
+				}
+				{
+					id: "2EE2D062CE7A25A5"
+					item: {
+						count: 1
+						id: "silentgear:ring"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -1.8d
+		}
+		{
+			dependencies: ["77050A57A7BD2041"]
+			id: "4817397C64364879"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "332BA4A54DAEDBBF"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "786099157F1AFD1B"
+					item: {
+						count: 1
+						id: "silentgear:mod_kit"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -2.58d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			id: "32D259A034E9AF5A"
+			rewards: [
+				{
+					id: "269D1BE43241BA34"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "59D397BFABC6DDE7"
+					item: {
+						count: 1
+						id: "silentgear:crimson_iron_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.6d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			id: "153601AC543F67BC"
+			rewards: [
+				{
+					id: "0DFAC53CA67CA3FC"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "70B49140C25FE4D9"
+					item: {
+						count: 1
+						id: "silentgear:blaze_gold_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 4.15d
+		}
+		{
+			dependencies: ["32D259A034E9AF5A"]
+			id: "430F68B6F75A455E"
+			rewards: [
+				{
+					id: "2AB2385D41DB40A2"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "06148A6880EEBDDB"
+					item: {
+						count: 1
+						id: "silentgear:crimson_steel_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 1.83d
+		}
+		{
+			dependencies: ["430F68B6F75A455E"]
+			id: "5C71D86C98FA0D26"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "60AE0A8A589C9396"
+					type: "xp"
+					xp: 125
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "2B78FCFECF071147"
+					item: {
+						count: 1
+						id: "silentgear:alloy_forge"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 3.38d
+		}
+		{
+			dependencies: ["32D259A034E9AF5A"]
+			id: "090580AC7CCC7809"
+			rewards: [
+				{
+					id: "30D83E12E69B7732"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "6BE5E1A2647F2E36"
+					item: {
+						count: 1
+						id: "silentgear:salvager"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 3.38d
+		}
+		{
+			dependencies: ["153601AC543F67BC"]
+			icon: {
+				id: "silentgear:material_grader"
+			}
+			id: "2CD4C3892F51E589"
+			rewards: [
+				{
+					id: "50FF2D149CD6B7CF"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "3D038E57B7DF3AEF"
+					item: {
+						count: 1
+						id: "silentgear:material_grader"
+					}
+					type: "item"
+				}
+				{
+					id: "2B5917B6A4C0AD9F"
+					item: {
+						count: 1
+						id: "silentgear:glowing_dust"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 4.92d
+		}
+		{
+			dependencies: ["153601AC543F67BC"]
+			id: "16E1F5DBF3F8ECD8"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "285F6786ACB3EE05"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "5066C473E2E2FACA"
+					item: {
+						count: 1
+						id: "silentgear:starlight_charger"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 6.47d
+		}
+		{
+			dependencies: ["430F68B6F75A455E"]
+			id: "7595BDE341FB0531"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "4DBA6F29ED7554D5"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "52A6C115A287C9DA"
+					item: {
+						count: 1
+						id: "silentgear:wide_plate_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 4.92d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			id: "4436ECBC0A7AF774"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "2DC72F50D8364228"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "2D2D366B3C2E0B7E"
+					item: {
+						count: 1
+						id: "silentgear:coating_smithing_template"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 5.7d
+		}
+		{
+			dependencies: ["53A32F809B45CAFE"]
+			hide_until_deps_complete: true
+			id: "7E510C892B528E5E"
+			rewards: [
+				{
+					id: "248F5565666A1FF5"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "023BD13180620E71"
+					item: {
+						count: 1
+						id: "silentgear:azure_silver_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 10.1d
+		}
+		{
+			dependencies: ["7E510C892B528E5E"]
+			id: "6B922455932772B7"
+			rewards: [
+				{
+					id: "094283E6210CF2DB"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "0F2A3F2C9C8659B3"
+					item: {
+						count: 1
+						id: "silentgear:azure_electrum_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 10.1d
+		}
+		{
+			dependencies: ["6B922455932772B7"]
+			id: "49472A325F39AA35"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "093038A2B127015D"
+					type: "xp"
+					xp: 250
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "150B76F8B623870D"
+					item: {
+						count: 1
+						id: "silentgear:tyrian_steel_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 9.33d
+		}
+		{
+			dependencies: ["6B922455932772B7"]
+			id: "0D3104FB78E7C018"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "0FBFC4F3DD1767C1"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "0FDCCFE161BB7C64"
+					item: {
+						count: 1
+						id: "silentgear:recrystallizer"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 10.88d
+		}
+		{
+			dependencies: ["49472A325F39AA35"]
+			id: "513CD380495A2428"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "6F4492586B7E0B25"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "78A6CEF0376644A5"
+					item: {
+						count: 1
+						id: "silentgear:metal_press"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 9.33d
+		}
+		{
+			dependencies: ["49472A325F39AA35"]
+			id: "5003C3B4B511E07B"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "6017310BFD29FFD3"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "3D828223386558EF"
+					item: {
+						count: 1
+						id: "silentgear:super_mixer"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 10.88d
+		}
+	]
+}

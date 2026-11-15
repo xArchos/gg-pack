@@ -1,0 +1,558 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "build_construction_sticks"
+	group: "16562C951FE3B019"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "constructionstick:wooden_stick"
+	}
+	id: "099707DE590CF108"
+	images: [
+		{
+			height: 1.8d
+			id: "53C62A875CDDE874"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -9.53d
+		}
+		{
+			height: 1.8d
+			id: "2CD7DDE3B678368F"
+			image: "constructionstick:item/template_angel"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -9.53d
+		}
+		{
+			height: 1.8d
+			id: "2C1FA8B7FFB80A63"
+			image: "constructionstick:item/template_destruction"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -9.53d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "77D4FAF3C6019BB2"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -7.38d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "1A7466FABD17295E"
+			image: "constructionstick:item/wooden_stick"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -7.38d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "5E3E2A9F6F4DC88C"
+			image: "constructionstick:item/copper_stick"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -7.38d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "16D9C5106214FC46"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -3.48d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "7B072E2E117E9123"
+			image: "constructionstick:item/iron_stick"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -3.48d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "3C1C92B433D957F2"
+			image: "constructionstick:item/template_angel"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -3.48d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.04d
+			id: "473456DFFD5DAFEF"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: -3.98d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "42B059FD96F358EB"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -0.88d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "668639407D4CC503"
+			image: "constructionstick:item/diamond_stick"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -0.88d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "20D49C42BDE5681E"
+			image: "constructionstick:item/template_destruction"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -0.88d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "52C00DDD7AC8ABDB"
+			image: "constructionstick:item/template_replacement"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -0.88d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "59F691EC4B63D8AE"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: -1.38d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "74CE9B38FC846B0A"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 3.03d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "6EBD4DA7307F6045"
+			image: "constructionstick:item/netherite_stick"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 3.03d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "7BBB3828943DAA63"
+			image: "constructionstick:item/template_unbreakable"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 3.03d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.04d
+			id: "03EA15B833C45144"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 2.52d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "4DE355A21421FA40"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 5.88d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "13A070229D98D0EC"
+			image: "constructionstick:item/template_battery"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 5.88d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.04d
+			id: "7106057EE1C936F4"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 5.38d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["61184EB93DBC27D9"]
+			hide_until_deps_complete: true
+			id: "7E93624FCC714F4B"
+			rewards: [
+				{
+					id: "19E0AB5C1D2E2F3C"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "31CAFE50EF97DFF6"
+					item: {
+						count: 1
+						id: "constructionstick:wooden_stick"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -5.33d
+		}
+		{
+			dependencies: ["7E93624FCC714F4B"]
+			icon: {
+				id: "constructionstick:wooden_stick"
+			}
+			id: "77DE00273F050959"
+			preset: "info"
+			rewards: [
+				{
+					id: "389FCB124D88CDDD"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "7D0A90BD722DEBAE"
+					type: "checkmark"
+				}
+			]
+			x: 1.75d
+			y: -5.98d
+		}
+		{
+			dependencies: ["7E93624FCC714F4B"]
+			id: "0D1BD2927DCF013C"
+			rewards: [
+				{
+					id: "1D51F518081E2568"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "107A161196669597"
+					item: {
+						count: 1
+						id: "constructionstick:copper_stick"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -4.68d
+		}
+		{
+			dependencies: ["7B472916B8B3515D"]
+			hide_until_deps_complete: true
+			id: "7B740AD0D7800932"
+			rewards: [
+				{
+					id: "5719DD5DA8ED6A19"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "7F0A2C248539C6A6"
+					item: {
+						count: 1
+						id: "constructionstick:iron_stick"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -2.08d
+		}
+		{
+			dependencies: ["7B740AD0D7800932"]
+			id: "42406B5E2D1EEA61"
+			rewards: [
+				{
+					id: "4B719B8B37119B58"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "331A04EBD031F96F"
+					item: {
+						count: 1
+						id: "constructionstick:template_angel"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -2.08d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			id: "5A416D9BE26B1DF0"
+			rewards: [
+				{
+					id: "0AC976C42FF6AC7F"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "45111201ECD9AEBF"
+					item: {
+						count: 1
+						id: "constructionstick:diamond_stick"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 1.17d
+		}
+		{
+			dependencies: ["5A416D9BE26B1DF0"]
+			id: "621FAD3E217119C8"
+			rewards: [
+				{
+					id: "305BAE4083B51A07"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "5DCE360143D3B4B5"
+					item: {
+						count: 1
+						id: "constructionstick:template_destruction"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 0.52d
+		}
+		{
+			dependencies: ["5A416D9BE26B1DF0"]
+			id: "290DB10E94EF7B78"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "0FAA9FB00175ACEE"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "12E0F901BF2BDA5C"
+					item: {
+						count: 1
+						id: "constructionstick:template_replacement"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 1.82d
+		}
+		{
+			dependencies: ["621FAD3E217119C8"]
+			icon: {
+				id: "constructionstick:template_angel"
+			}
+			id: "601348DB24457802"
+			preset: "info"
+			rewards: [
+				{
+					id: "015F4CD8947B5183"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "6A6F6B8C2F743898"
+					type: "checkmark"
+				}
+			]
+			x: 3.5d
+			y: 1.17d
+		}
+		{
+			dependencies: ["784FFE5AA9775311"]
+			hide_until_deps_complete: true
+			id: "3DF428EBF85FFFFA"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "46F0E67FCF89E3FB"
+					type: "xp"
+					xp: 175
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "716A3B73D2847C87"
+					item: {
+						count: 1
+						id: "constructionstick:netherite_stick"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 4.55d
+		}
+		{
+			dependencies: ["3DF428EBF85FFFFA"]
+			id: "6BBC4AAA6C6481C3"
+			rewards: [
+				{
+					id: "5034E53089E2F1AB"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "2FB4216A2F00EB42"
+					item: {
+						count: 1
+						id: "constructionstick:template_unbreakable"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 4.55d
+		}
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			hide_until_deps_complete: true
+			id: "019C1CDD2E5991C4"
+			rewards: [
+				{
+					id: "6DAF819830174A6E"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "53538E6480D377B8"
+					item: {
+						count: 1
+						id: "constructionstick:template_battery"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 7.28d
+		}
+	]
+}

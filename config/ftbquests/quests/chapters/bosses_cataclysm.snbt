@@ -1,0 +1,1238 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bosses_cataclysm"
+	group: "0F1B4D3EF0FB70FA"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "cataclysm:ignitium_ingot"
+	}
+	id: "1453829B19154A56"
+	images: [
+		{
+			height: 1.8d
+			id: "0C63E795161C5E2E"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -16.9d
+		}
+		{
+			height: 1.8d
+			id: "6709518ED77A1174"
+			image: "cataclysm:item/flame_eye"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -16.9d
+		}
+		{
+			height: 1.8d
+			id: "6C89B6CE617324D8"
+			image: "cataclysm:item/cursed_eye"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -16.9d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "2CBDD4B4643EC8BF"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -14.75d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "735DD767FE229101"
+			image: "cataclysm:item/burning_ashes"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -14.75d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "576E75D1E3B88618"
+			image: "cataclysm:item/necklace_of_the_desert"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -14.75d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "62959CAEC66C7A27"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -9.55d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "40ACAE3259B4FE61"
+			image: "cataclysm:item/ignitium_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -9.55d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "4E4B04F4E19EC2C2"
+			image: "cataclysm:item/monstrous_horn"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -9.55d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "7AFFBD96FFFB3E11"
+			image: "cataclysm:item/ancient_metal_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -9.55d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.04d
+			id: "7644EEF40711EA2F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -10.05d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "52AA0DE4AE62B5F0"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -2.05d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "5D339907E9C4CD00"
+			image: "cataclysm:item/void_eye"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -2.05d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "3381FFDE5363113F"
+			image: "cataclysm:item/gauntlet_of_guard"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -2.05d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.04d
+			id: "7DE3F9F641CFE087"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: -2.55d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "718EFE53FE07D1BE"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 0.55d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "6E493C64D2F97F67"
+			image: "cataclysm:item/void_core"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 0.55d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.04d
+			id: "36DBE8E8D4D1BF0D"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 0.05d
+		}
+		{
+			dependency: "0762E1C6C8BFC49D"
+			height: 0.8d
+			id: "0F21193EEF772B04"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 3.15d
+		}
+		{
+			dependency: "0762E1C6C8BFC49D"
+			height: 0.8d
+			id: "0C7FB5D988082A35"
+			image: "cataclysm:item/abyss_eye"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 3.15d
+		}
+		{
+			dependency: "0762E1C6C8BFC49D"
+			height: 0.8d
+			id: "14F3866843570744"
+			image: "cataclysm:item/storm_eye"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 3.15d
+		}
+		{
+			dependency: "0762E1C6C8BFC49D"
+			height: 0.8d
+			id: "48AF313D79ACFA4B"
+			image: "cataclysm:item/mech_eye"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 3.15d
+		}
+		{
+			dependency: "0762E1C6C8BFC49D"
+			height: 0.04d
+			id: "514DD314F175E2CF"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 2.65d
+		}
+		{
+			dependency: "0762E1C6C8BFC49D"
+			height: 0.8d
+			id: "19FA95055233768C"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 8.35d
+		}
+		{
+			dependency: "0762E1C6C8BFC49D"
+			height: 0.8d
+			id: "10E5659C4E456B13"
+			image: "cataclysm:item/witherite_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 8.35d
+		}
+		{
+			dependency: "0762E1C6C8BFC49D"
+			height: 0.8d
+			id: "097BFD2989102CF0"
+			image: "cataclysm:item/cursium_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 8.35d
+		}
+		{
+			dependency: "0762E1C6C8BFC49D"
+			height: 0.8d
+			id: "5E2A825F97FE3621"
+			image: "cataclysm:item/lacrima"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 8.35d
+		}
+		{
+			dependency: "0762E1C6C8BFC49D"
+			height: 0.04d
+			id: "71FA0770D2D93FEE"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 7.85d
+		}
+	]
+	order_index: 1
+	quest_links: [
+		{
+			id: "4D358774334D71EC"
+			linked_quest: "5635F21BAE39B284"
+			x: 5.25d
+			y: -13.35d
+		}
+		{
+			id: "4D4FB1D99152D048"
+			linked_quest: "187FE4540ADA5811"
+			x: 5.25d
+			y: -12.05d
+		}
+		{
+			id: "0867F9E2F4C9E0B3"
+			linked_quest: "2921C903D0EDCF42"
+			x: 5.25d
+			y: -10.75d
+		}
+		{
+			id: "3E9D63EDD58F1F7D"
+			linked_quest: "00255CAC3A53A55A"
+			x: 5.25d
+			y: -0.65d
+		}
+		{
+			id: "51A4DF3E84AFF250"
+			linked_quest: "5F3D657BDA4F6CBE"
+			x: 3.5d
+			y: 4.55d
+		}
+		{
+			id: "4C4DBA7E45FCCA5D"
+			linked_quest: "4237ECDAFAA60356"
+			x: 3.5d
+			y: 5.85d
+		}
+		{
+			id: "7621273C4BE72D87"
+			linked_quest: "19C1B88E3715CDEA"
+			x: 3.5d
+			y: 7.15d
+		}
+		{
+			id: "20D909D00C3871A6"
+			linked_quest: "635F6BA6B972F080"
+			x: 5.25d
+			y: 5.85d
+		}
+	]
+	quests: [
+		{
+			dependencies: ["76291927B354F598"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cataclysm:flame_eye"
+			}
+			id: "1AAF0591F053FE48"
+			preset: "info"
+			rewards: [
+				{
+					id: "5F3F2FA418851FDA"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "62246DC2945FACBD"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: -12.05d
+		}
+		{
+			dependencies: ["1AAF0591F053FE48"]
+			icon: {
+				id: "cataclysm:flame_eye"
+			}
+			id: "4CE206D5F54AC011"
+			rewards: [
+				{
+					id: "5D28CAF715ABE308"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "0A52CDC98D28D5E1"
+					structure: "cataclysm:burning_arena"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: -13.35d
+		}
+		{
+			dependencies: ["4CE206D5F54AC011"]
+			id: "2E263735BD640A91"
+			rewards: [
+				{
+					id: "44728496428C7ED1"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "0F1E497148D1696D"
+					item: {
+						count: 1
+						id: "cataclysm:burning_ashes"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -12.7d
+		}
+		{
+			dependencies: ["1AAF0591F053FE48"]
+			icon: {
+				id: "cataclysm:monstrous_eye"
+			}
+			id: "00F12BA90B13DE6F"
+			rewards: [
+				{
+					id: "5475DA7E3E96F3E7"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "33293BD725DA8F56"
+					structure: "cataclysm:soul_black_smith"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: -12.05d
+		}
+		{
+			dependencies: ["1AAF0591F053FE48"]
+			icon: {
+				id: "cataclysm:desert_eye"
+			}
+			id: "0E9E80A3F1EBFC45"
+			rewards: [
+				{
+					id: "7E82D019CB8C6BFF"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "6EBECC144C162495"
+					structure: "cataclysm:cursed_pyramid"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: -10.75d
+		}
+		{
+			dependencies: ["0E9E80A3F1EBFC45"]
+			id: "2DBDE26CE7155469"
+			rewards: [
+				{
+					id: "2AFF8A9867CB0116"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "0EEBB3A798F4C935"
+					item: {
+						count: 1
+						id: "cataclysm:necklace_of_the_desert"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -11.4d
+		}
+		{
+			dependencies: ["1AAF0591F053FE48", "5635F21BAE39B284"]
+			id: "4A5E316C6DB55078"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "59E4A2C06F909ECB"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "1E00039069498921"
+					item: {
+						count: 1
+						id: "cataclysm:ignitium_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -8.03d
+		}
+		{
+			dependencies: ["4A5E316C6DB55078"]
+			icon: {
+				id: "cataclysm:ignitium_chestplate"
+			}
+			id: "61C4ED7DF630F6CB"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "6DCDFE2E400E4448"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "5505693016E9C616"
+					item: {
+						count: 1
+						id: "cataclysm:ignitium_helmet"
+					}
+					type: "item"
+				}
+				{
+					id: "4B2B8285E70698C4"
+					item: {
+						count: 1
+						id: "cataclysm:ignitium_chestplate"
+					}
+					type: "item"
+				}
+				{
+					id: "7A6E520C04FA73FB"
+					item: {
+						count: 1
+						id: "cataclysm:ignitium_leggings"
+					}
+					type: "item"
+				}
+				{
+					id: "6396A815EDC0C853"
+					item: {
+						count: 1
+						id: "cataclysm:ignitium_boots"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -8.03d
+		}
+		{
+			dependencies: ["4A5E316C6DB55078"]
+			id: "4048FC365A78209B"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "434609ECB2807592"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "5058539AECD5E45E"
+					item: {
+						count: 1
+						id: "cataclysm:the_incinerator"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -6.48d
+		}
+		{
+			dependencies: ["4A5E316C6DB55078"]
+			id: "791A76947B4455A4"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "5BAB73715149F6E6"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "23370D4F9BBC55DE"
+					item: {
+						count: 1
+						id: "cataclysm:bulwark_of_the_flame"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -4.93d
+		}
+		{
+			dependencies: ["1AAF0591F053FE48", "187FE4540ADA5811"]
+			id: "43715FC0EC59A07B"
+			rewards: [
+				{
+					id: "67F760451A8D5EC7"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "4A94DBF059B57F41"
+					item: {
+						count: 1
+						id: "cataclysm:monstrous_horn"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -6.48d
+		}
+		{
+			dependencies: ["43715FC0EC59A07B"]
+			id: "53E6DDB7F5E10E60"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "0EA4B5178B64DA25"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "1B963747053A6400"
+					item: {
+						count: 1
+						id: "cataclysm:monstrous_helm"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -3.38d
+		}
+		{
+			dependencies: ["1AAF0591F053FE48", "187FE4540ADA5811"]
+			id: "691298B561F65994"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "42614AB024A55469"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "2276BDB18E2A8021"
+					item: {
+						count: 1
+						id: "cataclysm:infernal_forge"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -4.93d
+		}
+		{
+			dependencies: ["1AAF0591F053FE48", "2921C903D0EDCF42"]
+			id: "5BF342198B2E3854"
+			rewards: [
+				{
+					id: "65C415E7A1BC1769"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "3136A65EDEC3CA88"
+					item: {
+						count: 1
+						id: "cataclysm:ancient_metal_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -3.38d
+		}
+		{
+			dependencies: ["1AAF0591F053FE48", "2921C903D0EDCF42"]
+			id: "39285D0B4C57342B"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "6E8FBC713B825554"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "4F5F602CDED3F809"
+					item: {
+						count: 1
+						id: "cataclysm:sandstorm_in_a_bottle"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -5.7d
+		}
+		{
+			dependencies: ["53A32F809B45CAFE"]
+			hide_until_deps_complete: true
+			id: "69A9A194EC6D19BC"
+			rewards: [
+				{
+					id: "779E00BA84CDDD39"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "3F651E66C02DE9D9"
+					item: {
+						count: 1
+						id: "cataclysm:void_eye"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -0.65d
+		}
+		{
+			dependencies: ["69A9A194EC6D19BC"]
+			icon: {
+				id: "cataclysm:void_eye"
+			}
+			id: "21EE8EDBCFE599FA"
+			rewards: [
+				{
+					id: "1209C3BB446D59AC"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "699484C642F2241C"
+					structure: "cataclysm:ruined_citadel"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: -0.65d
+		}
+		{
+			dependencies: ["21EE8EDBCFE599FA"]
+			id: "2346A65B464D6FC8"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "66413C1433110B51"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "1C90FEBFFEE524D2"
+					item: {
+						count: 1
+						id: "cataclysm:void_core"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -0.65d
+		}
+		{
+			dependencies: ["21EE8EDBCFE599FA", "00255CAC3A53A55A"]
+			id: "555CCD4FDF89891B"
+			rewards: [
+				{
+					id: "6C7744BFE9593A2B"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "5ADDB62352BDFE3F"
+					item: {
+						count: 1
+						id: "cataclysm:gauntlet_of_guard"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 1.95d
+		}
+		{
+			dependencies: ["0762E1C6C8BFC49D"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cataclysm:abyss_eye"
+			}
+			id: "340FA0F3FA52DF21"
+			rewards: [
+				{
+					id: "546187C9C3E3CDBC"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "5DDAECC1B9903B41"
+					item: {
+						count: 1
+						id: "cataclysm:abyss_eye"
+					}
+					type: "item"
+				}
+				{
+					id: "3FDFCDD2FDEFA25B"
+					item: {
+						count: 1
+						id: "cataclysm:storm_eye"
+					}
+					type: "item"
+				}
+				{
+					id: "5F01CD0FBBA896D5"
+					item: {
+						count: 1
+						id: "cataclysm:mech_eye"
+					}
+					type: "item"
+				}
+				{
+					id: "020BB03DD09F4A55"
+					item: {
+						count: 1
+						id: "cataclysm:cursed_eye"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 5.85d
+		}
+		{
+			dependencies: ["340FA0F3FA52DF21"]
+			id: "4E307DC1657ACB96"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "36FDDC217EF74D9A"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "4504DBF5FD52F8C2"
+					item: {
+						count: 1
+						id: "cataclysm:black_steel_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 5.85d
+		}
+		{
+			dependencies: ["340FA0F3FA52DF21", "09E2812C6BD3D8BC"]
+			id: "2727899B40E6FCB5"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "4DF83E1006AE8CDA"
+					type: "xp"
+					xp: 275
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "3C8CB650CD4E6EBA"
+					item: {
+						count: 1
+						id: "cataclysm:mechanical_fusion_anvil"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 9.88d
+		}
+		{
+			dependencies: ["340FA0F3FA52DF21", "09E2812C6BD3D8BC"]
+			icon: {
+				id: "cataclysm:laser_gatling"
+			}
+			id: "3444696FE5AB66F7"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "03193A4F8D4C7738"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "5858E0AD979A0A44"
+					item: {
+						count: 1
+						id: "cataclysm:laser_gatling"
+					}
+					type: "item"
+				}
+				{
+					id: "424B6EF86CE03B60"
+					item: {
+						count: 1
+						id: "cataclysm:wither_assault_shoulder_weapon"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 11.43d
+		}
+		{
+			dependencies: ["2727899B40E6FCB5", "2346A65B464D6FC8"]
+			id: "7B8AA5496ED950D6"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "7185391D890CBEB1"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "760647586321794C"
+					item: {
+						count: 1
+						id: "cataclysm:void_assault_shoulder_weapon"
+					}
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: 11.43d
+		}
+		{
+			dependencies: ["340FA0F3FA52DF21", "5F3D657BDA4F6CBE"]
+			id: "6E0545E13434316F"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "6CA857213A072C69"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "1B6E51F2E8048FE1"
+					item: {
+						count: 1
+						id: "cataclysm:abyssal_egg"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 12.97d
+		}
+		{
+			dependencies: ["340FA0F3FA52DF21", "4CBC95DBD2FF46F8"]
+			icon: {
+				id: "cataclysm:astrape"
+			}
+			id: "7E8E8E6098F09484"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "340885A2BB76A4F7"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "7E150C4A968F6A3B"
+					item: {
+						count: 1
+						id: "cataclysm:astrape"
+					}
+					type: "item"
+				}
+				{
+					id: "5AF43AAC9BD5C7CB"
+					item: {
+						count: 1
+						id: "cataclysm:ceraunus"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 14.52d
+		}
+		{
+			dependencies: ["340FA0F3FA52DF21", "4237ECDAFAA60356"]
+			id: "00404F7D865B29DD"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "4ACA3B0224BDE723"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "79892141898C3F9E"
+					item: {
+						count: 1
+						id: "cataclysm:azure_sea_shield"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 11.43d
+		}
+		{
+			dependencies: ["340FA0F3FA52DF21", "6DF063684894D56F"]
+			icon: {
+				id: "cataclysm:cursium_chestplate"
+			}
+			id: "1751A8D7234136F6"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "447C484A3E7A48D9"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "16D26A8BD471AFA4"
+					item: {
+						count: 1
+						id: "cataclysm:cursium_helmet"
+					}
+					type: "item"
+				}
+				{
+					id: "3D290CA32891AB08"
+					item: {
+						count: 1
+						id: "cataclysm:cursium_chestplate"
+					}
+					type: "item"
+				}
+				{
+					id: "16194D8235B9962C"
+					item: {
+						count: 1
+						id: "cataclysm:cursium_leggings"
+					}
+					type: "item"
+				}
+				{
+					id: "0B4A1D7F6348C6A8"
+					item: {
+						count: 1
+						id: "cataclysm:cursium_boots"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 12.98d
+		}
+		{
+			dependencies: ["4E307DC1657ACB96", "6DF063684894D56F"]
+			id: "7D2D00BD3856EE8C"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "38D73468B25CA49C"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "04AC802E2E181ABA"
+					item: {
+						count: 1
+						id: "cataclysm:the_annihilator"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 12.2d
+		}
+		{
+			dependencies: ["7D2D00BD3856EE8C", "2727899B40E6FCB5"]
+			id: "45ABA8C627F4D586"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "3C4E1FDC630C97B2"
+					type: "xp"
+					xp: 55
+				}
+			]
+			tags: ["era_transcendencja"]
+			tasks: [
+				{
+					id: "1EEA76B53E8AA529"
+					item: {
+						count: 1
+						id: "cataclysm:the_immolator"
+					}
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: 12.98d
+		}
+	]
+}

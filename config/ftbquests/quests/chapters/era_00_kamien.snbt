@@ -1,0 +1,1289 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "era_00_kamien"
+	group: "3CDFA8C60B58BCC5"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "minecraft:flint"
+	}
+	id: "7EA340CEAACA1B61"
+	images: [
+		{
+			height: 1.8d
+			id: "486739474490786A"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 14.0d
+			x: 14.12d
+			y: -12.88d
+		}
+		{
+			height: 1.8d
+			id: "0204945B6B6202B2"
+			image: "minecraft:item/flint"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 5.93d
+			y: -12.88d
+		}
+		{
+			height: 1.8d
+			id: "2BA59B9C68977358"
+			image: "notreepunchingremastered:item/tool/flint_knife"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 22.32d
+			y: -12.88d
+		}
+		{
+			height: 0.8d
+			id: "3104EAC852977D5B"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -10.72d
+		}
+		{
+			height: 0.8d
+			id: "11461C5DEED35B91"
+			image: "minecraft:item/spyglass"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -10.72d
+		}
+		{
+			height: 0.8d
+			id: "1E053F78903818DB"
+			image: "minecraft:block/deepslate"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -10.72d
+		}
+		{
+			height: 0.8d
+			id: "5D1CF0BA3AD9FC22"
+			image: "minecraft:item/amethyst_shard"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 26.65d
+			y: -10.72d
+		}
+		{
+			height: 0.8d
+			id: "75CD54D5FF81E680"
+			image: "minecraft:block/lapis_block"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 25.65d
+			y: -10.72d
+		}
+		{
+			height: 0.8d
+			id: "794F9752C05522BD"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -4.78d
+		}
+		{
+			height: 0.8d
+			id: "51600E5655DCDB90"
+			image: "notreepunchingremastered:item/tool/flint_axe"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -4.78d
+		}
+		{
+			height: 0.8d
+			id: "3E49D6C4B4829AB6"
+			image: "notreepunchingremastered:item/tool/flint_pickaxe"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -4.78d
+		}
+		{
+			height: 0.8d
+			id: "6C3DBD5F31788579"
+			image: "notreepunchingremastered:item/tool/copper_saw"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 26.65d
+			y: -4.78d
+		}
+		{
+			height: 0.8d
+			id: "7EC690AD5E60E129"
+			image: "minecraft:item/iron_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 25.65d
+			y: -4.78d
+		}
+		{
+			height: 0.04d
+			id: "4FCEF3C807603E9D"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 31.25d
+			x: 14.12d
+			y: -5.28d
+		}
+		{
+			height: 0.8d
+			id: "7F8707CDEE08F0C5"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 1.18d
+		}
+		{
+			height: 0.8d
+			id: "489998D85CC32C99"
+			image: "farmersdelight:item/tomato"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 1.18d
+		}
+		{
+			height: 0.8d
+			id: "57C8F3137F8E7075"
+			image: "minecraft:block/campfire_log_lit"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: 1.18d
+		}
+		{
+			height: 0.8d
+			id: "2327142F2CFEA8D6"
+			image: "farmersdelight:item/beef_stew"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 26.65d
+			y: 1.18d
+		}
+		{
+			height: 0.8d
+			id: "54A1DF2673AF9B02"
+			image: "minecraft:item/bread"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 25.65d
+			y: 1.18d
+		}
+		{
+			height: 0.04d
+			id: "7BE2EAD1F8008058"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 31.25d
+			x: 14.12d
+			y: 0.68d
+		}
+		{
+			height: 0.8d
+			id: "3DE692608373BF5F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 4.03d
+		}
+		{
+			height: 0.8d
+			id: "26F7AFFA84E7BB80"
+			image: "minecraft:block/barrel_side"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 4.03d
+		}
+		{
+			height: 0.04d
+			id: "6CACD74AB02F7D6F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 31.25d
+			x: 14.12d
+			y: 3.52d
+		}
+		{
+			height: 0.8d
+			id: "1AC972CF4BF38DA3"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 6.62d
+		}
+		{
+			height: 0.8d
+			id: "21836BF3F6070C4E"
+			image: "constructionstick:item/wooden_stick"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 6.62d
+		}
+		{
+			height: 0.8d
+			id: "61C460093DFC0A15"
+			image: "constructionstick:item/copper_stick"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: 6.62d
+		}
+		{
+			height: 0.04d
+			id: "78ADAAB4DA453064"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 31.25d
+			x: 14.12d
+			y: 6.12d
+		}
+	]
+	order_index: 0
+	quest_links: [
+		{
+			id: "7B0CDFCBD4F73719"
+			linked_quest: "193EC08916094BD3"
+			x: 17.75d
+			y: 5.43d
+		}
+		{
+			id: "1ADF418A1716DB81"
+			linked_quest: "16E45F1D64C85295"
+			x: 24.75d
+			y: -1.7d
+		}
+		{
+			id: "3C648BCE813C4216"
+			linked_quest: "51720D57B1E30245"
+			x: 23.0d
+			y: -9.2d
+		}
+		{
+			id: "1F03E57C8F15C284"
+			linked_quest: "6AC8C8D0A65424C9"
+			x: 23.0d
+			y: -7.65d
+		}
+		{
+			id: "063CAC3988FE8217"
+			linked_quest: "165C4F4398AB9EE6"
+			x: 23.0d
+			y: -6.1d
+		}
+		{
+			id: "07247A478CE0840E"
+			linked_quest: "7E93624FCC714F4B"
+			x: 24.75d
+			y: 8.03d
+		}
+		{
+			id: "26C0E64C86B81FCA"
+			linked_quest: "729ACA147B872878"
+			x: 24.75d
+			y: 9.32d
+		}
+		{
+			id: "457CD1B92F0E3396"
+			linked_quest: "7DC4DB997C462180"
+			x: 24.75d
+			y: 10.62d
+		}
+	]
+	quests: [
+		{
+			icon: {
+				id: "minecraft:flint"
+			}
+			id: "61184EB93DBC27D9"
+			preset: "era"
+			rewards: [ ]
+			tags: ["era_kamien", "era_start"]
+			tasks: [
+				{
+					id: "2836CFD0002C2279"
+					stat: "minecraft:play_time"
+					type: "stat"
+					value: 1
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["61184EB93DBC27D9"]
+			id: "3D2110748D7E9189"
+			rewards: [
+				{
+					id: "6FDE964D14CCDA1A"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					count: 4L
+					id: "14B9465135074004"
+					item: {
+						count: 1
+						id: "minecraft:stick"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -2.48d
+		}
+		{
+			dependencies: ["61184EB93DBC27D9"]
+			id: "262FFF670ED3B561"
+			rewards: [
+				{
+					id: "29DCCF283B93FCDC"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					count: 2L
+					id: "7CF9335910ABED2C"
+					item: {
+						count: 1
+						id: "minecraft:flint"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -0.93d
+		}
+		{
+			dependencies: ["262FFF670ED3B561"]
+			id: "008F894F4B06067D"
+			rewards: [
+				{
+					id: "15667B3B94E3EF67"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					count: 4L
+					id: "15D85BF94D9290DF"
+					item: {
+						count: 1
+						id: "notreepunchingremastered:flint_shard"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -1.7d
+		}
+		{
+			dependencies: ["3D2110748D7E9189", "008F894F4B06067D"]
+			id: "65A6BDAFE7A86DE1"
+			rewards: [
+				{
+					id: "04538A24033448D9"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "758665FD934B8952"
+					item: {
+						count: 1
+						id: "notreepunchingremastered:flint_knife"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -1.7d
+		}
+		{
+			dependencies: ["65A6BDAFE7A86DE1"]
+			id: "2DCBC72C3F944226"
+			rewards: [
+				{
+					id: "42A06B5E667F6944"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					count: 6L
+					id: "1AFE2C149DC143EB"
+					item: {
+						count: 1
+						id: "notreepunchingremastered:grass_fiber"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -1.7d
+		}
+		{
+			dependencies: ["2DCBC72C3F944226"]
+			id: "6C62731D6A5A7821"
+			rewards: [
+				{
+					id: "11A6FFCC04FF5FF7"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					count: 2L
+					id: "54742B18F6E41B3F"
+					item: {
+						count: 1
+						id: "notreepunchingremastered:plant_string"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -1.7d
+		}
+		{
+			dependencies: ["6C62731D6A5A7821"]
+			id: "75015D413FFE1814"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "7511F0FD87435794"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "6C84CDB270CE94F6"
+					table_id: 4620620510324381702L
+					type: "random"
+				}
+			]
+			tags: ["era_kamien", "milestone"]
+			tasks: [
+				{
+					id: "1FDA58D69CEEE1AC"
+					item: {
+						count: 1
+						id: "notreepunchingremastered:flint_axe"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -1.7d
+		}
+		{
+			dependencies: ["75015D413FFE1814"]
+			id: "3F7BB169259FAD98"
+			rewards: [
+				{
+					id: "2FDC0A5EDEF48203"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "0911A44E2616E6C6"
+					item: {
+						count: 1
+						id: "minecraft:crafting_table"
+					}
+					type: "item"
+				}
+			]
+			x: 14.25d
+			y: -1.7d
+		}
+		{
+			dependencies: ["3F7BB169259FAD98"]
+			id: "0102DB2C8864510D"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "4752762F2503D79F"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien", "optional"]
+			tasks: [
+				{
+					id: "15C74F17412FFE1E"
+					item: {
+						count: 1
+						id: "notreepunchingremastered:flint_hoe"
+					}
+					type: "item"
+				}
+			]
+			x: 16.0d
+			y: -3.25d
+		}
+		{
+			dependencies: ["3F7BB169259FAD98"]
+			id: "1FD8A8C1E74823F4"
+			rewards: [
+				{
+					id: "7A9D1E492F92EF3B"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "348BB308144FE5C2"
+					item: {
+						count: 1
+						id: "notreepunchingremastered:flint_shovel"
+					}
+					type: "item"
+				}
+			]
+			x: 16.0d
+			y: -1.7d
+		}
+		{
+			dependencies: ["3F7BB169259FAD98"]
+			id: "6961698E7E0F1D82"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "0ED954DEA6A2C2C3"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "630A651117003470"
+					table_id: 4620620510324381702L
+					type: "random"
+				}
+			]
+			tags: ["era_kamien", "milestone"]
+			tasks: [
+				{
+					id: "36E2EFF7409DE4D1"
+					item: {
+						count: 1
+						id: "notreepunchingremastered:flint_pickaxe"
+					}
+					type: "item"
+				}
+			]
+			x: 16.0d
+			y: -0.15d
+		}
+		{
+			dependencies: ["6961698E7E0F1D82"]
+			id: "4A7C47B6ED7DC4D7"
+			rewards: [
+				{
+					id: "3DB4EB3A8286B284"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "5AA860BE0FF67775"
+					item: {
+						count: 1
+						id: "minecraft:furnace"
+					}
+					type: "item"
+				}
+			]
+			x: 17.75d
+			y: -1.7d
+		}
+		{
+			dependencies: ["4A7C47B6ED7DC4D7"]
+			id: "3466C6850CF3CB85"
+			rewards: [
+				{
+					id: "3627D9F56FD58BE1"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "7297A27BBD3FBF4E"
+					item: {
+						count: 1
+						id: "notreepunchingremastered:copper_pickaxe"
+					}
+					type: "item"
+				}
+			]
+			x: 19.5d
+			y: -1.7d
+		}
+		{
+			dependencies: ["3466C6850CF3CB85"]
+			id: "0EFA83C85873D316"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "0A69CE8576EA2B9D"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "4009CF7A8A7A2775"
+					table_id: 4620620510324381702L
+					type: "random"
+				}
+			]
+			tags: ["era_kamien", "milestone"]
+			tasks: [
+				{
+					id: "37F6AB93AED69DE3"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "3E3D02FED2EC0F89"
+					item: {
+						count: 1
+						id: "minecraft:copper_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 21.25d
+			y: -2.48d
+		}
+		{
+			dependencies: ["3466C6850CF3CB85"]
+			id: "7F14F4FE3911EE51"
+			rewards: [
+				{
+					id: "1C9A409D9D673094"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien", "seal"]
+			tasks: [
+				{
+					id: "4C211F46B233D9FF"
+					item: {
+						count: 1
+						id: "notreepunchingremastered:copper_saw"
+					}
+					type: "item"
+				}
+			]
+			x: 21.25d
+			y: -0.93d
+		}
+		{
+			dependencies: ["0EFA83C85873D316"]
+			id: "7146641FF103ED55"
+			rewards: [
+				{
+					id: "6134A74178C066B1"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien", "seal"]
+			tasks: [
+				{
+					count: 4L
+					id: "0522E9BFEB66F2D4"
+					item: {
+						count: 1
+						id: "create:andesite_alloy"
+					}
+					type: "item"
+				}
+			]
+			x: 23.0d
+			y: -1.7d
+		}
+		{
+			dependencies: ["61184EB93DBC27D9"]
+			icon: {
+				id: "minecraft:bell"
+			}
+			id: "08428227089A4522"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "1A9D50123F496A31"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "26E7E49C3C635B7D"
+					table_id: 4620620510324381702L
+					type: "random"
+				}
+			]
+			tags: ["era_kamien", "milestone"]
+			tasks: [
+				{
+					id: "12CB3F9615A6A925"
+					structure: "#minecraft:village"
+					type: "structure"
+				}
+			]
+			x: 3.75d
+			y: -7.65d
+		}
+		{
+			dependencies: ["65A6BDAFE7A86DE1"]
+			icon: {
+				id: "minecraft:zombie_head"
+			}
+			id: "6A4DF85CE7DAB2FF"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "2DE4D9BC2DDFEEF8"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "32733F8899E23120"
+					table_id: 4620620510324381702L
+					type: "random"
+				}
+			]
+			tags: ["era_kamien", "milestone"]
+			tasks: [
+				{
+					entity: "minecraft:zombie"
+					id: "416A22FCE626FD18"
+					type: "kill"
+					value: 10L
+				}
+				{
+					entity: "minecraft:skeleton"
+					id: "35C6D947C6AB918A"
+					type: "kill"
+					value: 10L
+				}
+			]
+			x: 9.0d
+			y: -7.65d
+		}
+		{
+			dependencies: ["3F7BB169259FAD98"]
+			icon: {
+				id: "minecraft:red_bed"
+			}
+			id: "58BF072F912D136C"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "2850D27AF9D64D5A"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "6418CC056DD2AC20"
+					table_id: 4620620510324381702L
+					type: "random"
+				}
+			]
+			tags: ["era_kamien", "milestone"]
+			tasks: [
+				{
+					id: "7454DBF9219483D9"
+					observation_type: "block_tag"
+					timer: 20L
+					to_observe: "minecraft:beds"
+					type: "observation"
+				}
+			]
+			x: 16.0d
+			y: -7.65d
+		}
+		{
+			dependencies: ["6961698E7E0F1D82"]
+			icon: {
+				id: "minecraft:deepslate"
+			}
+			id: "7B71184C39C5C508"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "046010B1AC8AAB8C"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "26631E58B8ABC3EB"
+					table_id: 4620620510324381702L
+					type: "random"
+				}
+			]
+			tags: ["era_kamien", "milestone"]
+			tasks: [
+				{
+					id: "159DC6DF849BDE80"
+					item: {
+						count: 1
+						id: "minecraft:cobbled_deepslate"
+					}
+					type: "item"
+				}
+			]
+			x: 17.75d
+			y: -7.65d
+		}
+		{
+			dependencies: ["7B71184C39C5C508"]
+			id: "34720DBA5808E08F"
+			rewards: [
+				{
+					id: "2A42DD37617D81F1"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					count: 4L
+					id: "2D8FB424AB6ACB6E"
+					item: {
+						count: 1
+						id: "minecraft:amethyst_shard"
+					}
+					type: "item"
+				}
+			]
+			x: 19.5d
+			y: -7.65d
+		}
+		{
+			dependencies: ["34720DBA5808E08F", "3466C6850CF3CB85"]
+			id: "1C7C92E32AC85633"
+			rewards: [
+				{
+					id: "35C4703BA1D6E016"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien", "seal"]
+			tasks: [
+				{
+					id: "064792BAC2392CEA"
+					item: {
+						count: 1
+						id: "minecraft:spyglass"
+					}
+					type: "item"
+				}
+			]
+			x: 21.25d
+			y: -8.42d
+		}
+		{
+			dependencies: ["7B71184C39C5C508", "3466C6850CF3CB85"]
+			id: "2AEDE412A25C4EB7"
+			rewards: [
+				{
+					id: "6C741418418A9460"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien", "seal"]
+			tasks: [
+				{
+					id: "2B34CA3C6C12BC1A"
+					item: {
+						count: 1
+						id: "minecraft:lapis_block"
+					}
+					type: "item"
+				}
+			]
+			x: 21.25d
+			y: -6.87d
+		}
+		{
+			dependencies: ["61184EB93DBC27D9"]
+			icon: {
+				id: "farmersdelight:tomato"
+			}
+			id: "0820DDC5B7E8B24E"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "0431E71301404411"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "085BBF83510AD230"
+					table_id: 4620620510324381702L
+					type: "random"
+				}
+			]
+			tags: ["era_kamien", "milestone"]
+			tasks: [
+				{
+					id: "1342F8EA4B0221BE"
+					item: {
+						count: 1
+						id: "farmersdelight:tomato"
+					}
+					type: "item"
+				}
+				{
+					id: "3E0D5E4E326BDCD6"
+					item: {
+						count: 1
+						id: "farmersdelight:cabbage"
+					}
+					type: "item"
+				}
+				{
+					id: "204142D31CABCD53"
+					item: {
+						count: 1
+						id: "farmersdelight:onion"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 2.7d
+		}
+		{
+			dependencies: ["75015D413FFE1814"]
+			id: "6AF504E67C1AF9EE"
+			rewards: [
+				{
+					id: "5FCE519B9375D2C1"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "587532932420306F"
+					item: {
+						count: 1
+						id: "minecraft:campfire"
+					}
+					type: "item"
+				}
+			]
+			x: 14.25d
+			y: 2.7d
+		}
+		{
+			dependencies: ["65A6BDAFE7A86DE1"]
+			id: "68995561F0A8AE93"
+			rewards: [
+				{
+					id: "0A12827F618EBD3C"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					count: 3L
+					id: "3312B3F9D89DB848"
+					item: {
+						count: 1
+						id: "minecraft:leather"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 2.7d
+		}
+		{
+			dependencies: ["3F7BB169259FAD98"]
+			id: "28E41894AEB979A9"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "5ABAE07CF7F9BF5F"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien", "optional"]
+			tasks: [
+				{
+					id: "0D8E173C75BBBFB6"
+					item: {
+						count: 1
+						id: "farmersdelight:cutting_board"
+					}
+					type: "item"
+				}
+			]
+			x: 16.0d
+			y: 2.7d
+		}
+		{
+			dependencies: ["1FD8A8C1E74823F4", "0EFA83C85873D316", "6AF504E67C1AF9EE"]
+			id: "3979A9602B7C68CD"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "6ED1CED483943681"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "3A5DEA8C0BA9C576"
+					table_id: 4620620510324381702L
+					type: "random"
+				}
+			]
+			tags: ["era_kamien", "milestone"]
+			tasks: [
+				{
+					id: "4155E2876E5791E9"
+					item: {
+						count: 1
+						id: "farmersdelight:cooking_pot"
+					}
+					type: "item"
+				}
+			]
+			x: 23.0d
+			y: 2.7d
+		}
+		{
+			dependencies: ["3979A9602B7C68CD", "68995561F0A8AE93"]
+			id: "56FCFB3D4482DC11"
+			rewards: [
+				{
+					id: "11113A5752DB32FD"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien", "seal"]
+			tasks: [
+				{
+					id: "01A3807B574C83BC"
+					item: {
+						count: 1
+						id: "farmersdelight:beef_stew"
+					}
+					type: "item"
+				}
+			]
+			x: 24.75d
+			y: 2.7d
+		}
+		{
+			dependencies: ["3F7BB169259FAD98"]
+			id: "113F367C40825ACE"
+			rewards: [
+				{
+					id: "67DD94B3F81C7DF3"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "4B3348A7EDCE544C"
+					item: {
+						count: 1
+						id: "minecraft:chest"
+					}
+					type: "item"
+				}
+			]
+			x: 16.0d
+			y: 5.43d
+		}
+		{
+			dependencies: ["3F7BB169259FAD98"]
+			id: "2868536622BA4FFD"
+			rewards: [
+				{
+					id: "581C28309BDB8D9C"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "1D61C059649AF07A"
+					item: {
+						count: 1
+						id: "constructionstick:wooden_stick"
+					}
+					type: "item"
+				}
+			]
+			x: 16.0d
+			y: 9.33d
+		}
+		{
+			dependencies: ["2868536622BA4FFD", "0EFA83C85873D316"]
+			id: "4093464697116D46"
+			rewards: [
+				{
+					id: "367CD22C75B92E73"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "3B029EDBDFCB39F4"
+					item: {
+						count: 1
+						id: "constructionstick:copper_stick"
+					}
+					type: "item"
+				}
+			]
+			x: 23.0d
+			y: 9.33d
+		}
+		{
+			dependencies: [
+				"75015D413FFE1814"
+				"6961698E7E0F1D82"
+				"0EFA83C85873D316"
+				"08428227089A4522"
+				"6A4DF85CE7DAB2FF"
+				"58BF072F912D136C"
+				"7B71184C39C5C508"
+				"0820DDC5B7E8B24E"
+				"3979A9602B7C68CD"
+				"193EC08916094BD3"
+			]
+			icon: {
+				id: "gg:pieczec_andezyt"
+			}
+			id: "1837BA9CA203D7BF"
+			preset: "era"
+			rewards: [
+				{
+					auto: "enabled"
+					icon: {
+						id: "gg:pieczec_andezyt"
+					}
+					id: "0A17EAACB1D9D8C2"
+					stage: "era_andezyt"
+					team_reward: true
+					type: "gamestage"
+				}
+				{
+					id: "3B8836AA3B444F75"
+					type: "xp"
+					xp: 200
+				}
+				{
+					id: "060D13DF4D115F47"
+					table_id: 1515420231437163604L
+					type: "all_table"
+				}
+			]
+			tags: ["era_kamien", "gate"]
+			tasks: [
+				{
+					consume_items: true
+					id: "45F4E30476ABDECB"
+					item: {
+						count: 1
+						id: "gg:pieczec_andezyt"
+					}
+					type: "item"
+				}
+			]
+			x: 28.25d
+			y: 0.0d
+		}
+	]
+}

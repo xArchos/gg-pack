@@ -1,0 +1,1047 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "magic_ars_addons"
+	group: "3108D924C31FF1C5"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "ars_elemental:mark_of_mastery"
+	}
+	id: "1B0DCA96D7402ABB"
+	images: [
+		{
+			height: 1.8d
+			id: "66663EAD23BA5555"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -13.15d
+		}
+		{
+			height: 1.8d
+			id: "0EFE6EBD5357C671"
+			image: "ars_elemental:item/mark_of_mastery"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -13.15d
+		}
+		{
+			height: 1.8d
+			id: "2597A882D89EC3A0"
+			image: "ars_technica:item/calibrated_precision_mechanism"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -13.15d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "480F218CE3FD19CD"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -11.0d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "18BCAAEB75656F14"
+			image: "ars_additions:item/night_vision_charm"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -11.0d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "351DAD9822843893"
+			image: "ars_additions:item/handy_haversack"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -11.0d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "7A74BB5E59DF4189"
+			image: "ars_additions:item/exploration_warp_scroll"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -11.0d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "562D9C10DBD9903C"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -4.5d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "7E7B17B3908FC61C"
+			image: "ars_additions:item/undying_charm"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -4.5d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "55FF56B37E1D27DF"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: -5.0d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "31C6D34BFF518367"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -1.9d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "587EE74E5FE1D6F4"
+			image: "ars_ocultas:block/altar_top"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -1.9d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.04d
+			id: "7D0B972239EF6D23"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: -2.4d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "22F7ADA0F488F837"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 0.7d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "0668D1B4964A6E9F"
+			image: "ars_elemental:item/fire_focus"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 0.7d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "29829BE9AB97E3C6"
+			image: "ars_elemental:item/water_focus"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 0.7d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "47EA071D4B9C1CD2"
+			image: "ars_elemental:item/earth_focus"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 0.7d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "1E847A1038D32160"
+			image: "ars_elemental:item/air_focus"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: 0.7d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.04d
+			id: "2E1A393C40AEAF22"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 0.2d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "3AFD46F99107BFF9"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 8.2d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "47099E9FB9A602CC"
+			image: "ars_technica:item/mark_of_technomancy"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 8.2d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "098CA91164D435CD"
+			image: "ars_technica:item/transmutation_focus"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 8.2d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.04d
+			id: "3B8A55C7E5073695"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 7.7d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["38EA9BA21F0E366C"]
+			hide_until_deps_complete: true
+			id: "0821899B97FB57F0"
+			rewards: [
+				{
+					id: "1B5A6FC3FEC11AEE"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "3F74942710B4805F"
+					item: {
+						count: 1
+						id: "ars_additions:wayfinder"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -7.65d
+		}
+		{
+			dependencies: ["0821899B97FB57F0"]
+			id: "065DB739B1ACFB21"
+			rewards: [
+				{
+					id: "0ABF6E2052986D07"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "62B0BFF7C4AB734E"
+					item: {
+						count: 1
+						id: "ars_additions:ritual_locate_structure"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -9.6d
+		}
+		{
+			dependencies: ["065DB739B1ACFB21"]
+			icon: {
+				id: "ars_nouveau:worn_notebook"
+			}
+			id: "25C9537871EC57AD"
+			rewards: [
+				{
+					id: "4610D439015CBF0B"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "62C174F494CDA354"
+					structure: "ars_additions:arcane_library"
+					type: "structure"
+				}
+			]
+			x: 5.25d
+			y: -8.3d
+		}
+		{
+			dependencies: ["0821899B97FB57F0"]
+			icon: {
+				id: "ars_additions:exploration_warp_scroll"
+			}
+			id: "6F768ADA63B6D761"
+			rewards: [
+				{
+					id: "4A14E22DAA02B3F0"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "2461287C02A37605"
+					structure: "ars_additions:ruined_portal"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: -8.3d
+		}
+		{
+			dependencies: ["6F768ADA63B6D761"]
+			icon: {
+				id: "ars_additions:warp_nexus"
+			}
+			id: "58EA7307AD2C3346"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "65C56C816120B80F"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "74EA508B312EA353"
+					structure: "ars_additions:nexus_tower"
+					type: "structure"
+				}
+			]
+			x: 5.25d
+			y: -7.0d
+		}
+		{
+			dependencies: ["0821899B97FB57F0"]
+			id: "52C43052B583CAE2"
+			rewards: [
+				{
+					id: "4F1FD9B1385E8144"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "100249C9311CE4FD"
+					item: {
+						count: 1
+						id: "ars_additions:advanced_dominion_wand"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -7.0d
+		}
+		{
+			dependencies: ["0821899B97FB57F0"]
+			icon: {
+				id: "ars_additions:night_vision_charm"
+			}
+			id: "1D160A16409DE198"
+			rewards: [
+				{
+					id: "305A623DAAEEE626"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "190812B4D82490CC"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(ars_additions:night_vision_charm)item(ars_additions:fall_prevention_charm)item(ars_additions:water_breathing_charm)item(ars_additions:powdered_snow_walk_charm))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -5.7d
+		}
+		{
+			dependencies: ["0821899B97FB57F0"]
+			id: "4762391CC1A8D060"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "5FBD02FEC534EF3B"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "7908D48B7C1A68DF"
+					item: {
+						count: 1
+						id: "ars_additions:handy_haversack"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -8.95d
+		}
+		{
+			dependencies: ["0821899B97FB57F0"]
+			icon: {
+				id: "ars_additions:unstable_reliquary"
+			}
+			id: "220D99ADA2A46ECE"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "3D68ECE15166B3F3"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "1B40D8A2BF20BA82"
+					item: {
+						count: 1
+						id: "ars_additions:unstable_reliquary"
+					}
+					type: "item"
+				}
+				{
+					id: "7357C93BA4332253"
+					item: {
+						count: 1
+						id: "ars_additions:glyph_mark"
+					}
+					type: "item"
+				}
+				{
+					id: "711D65037BABB038"
+					item: {
+						count: 1
+						id: "ars_additions:glyph_recall"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -7.65d
+		}
+		{
+			dependencies: ["0821899B97FB57F0"]
+			id: "6040FC8DCAE63763"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "00727B84D153053E"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "36667704492D077D"
+					item: {
+						count: 1
+						id: "ars_additions:thread_reach"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -6.35d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "ars_additions:fire_resistance_charm"
+			}
+			id: "25AE29D7257C1471"
+			rewards: [
+				{
+					id: "199DB9F6F95B1EB7"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "7E66DF5D2A0B7614"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(ars_additions:fire_resistance_charm)item(ars_additions:golden_charm))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -3.1d
+		}
+		{
+			dependencies: ["25AE29D7257C1471"]
+			id: "41A9C912CD4AF3D1"
+			rewards: [
+				{
+					id: "71E6CFF3DF1716F9"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "0533BE48A4F44AAE"
+					item: {
+						count: 1
+						id: "ars_additions:undying_charm"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -3.1d
+		}
+		{
+			dependencies: ["7A875C04743BEF62"]
+			hide_until_deps_complete: true
+			id: "77E8995D40487E15"
+			rewards: [
+				{
+					id: "4C03E3263FE2B23E"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "13039D5BBB6169E5"
+					item: {
+						count: 1
+						id: "ars_ocultas:altar"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["77E8995D40487E15"]
+			icon: {
+				id: "ars_nouveau:mob_jar"
+			}
+			id: "28E71E107FD72750"
+			preset: "info"
+			rewards: [
+				{
+					id: "348EE47160037D34"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "0AC26911970AEB9A"
+					type: "checkmark"
+				}
+			]
+			x: 1.75d
+			y: -0.5d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "ars_elemental:mark_of_mastery"
+			}
+			id: "0B906638E5B9FCA1"
+			preset: "info"
+			rewards: [
+				{
+					id: "299F3F4C9D4B8051"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "399FDBC3CA305FAB"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 4.55d
+		}
+		{
+			dependencies: ["0B906638E5B9FCA1"]
+			icon: {
+				id: "ars_elemental:fire_robes"
+			}
+			id: "6282AF35BD8D267D"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "0A6655F8C8A4E525"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "7BFC062B39CB9271"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(ars_elemental:fire_tunic)item(ars_elemental:fire_robes)item(ars_elemental:fire_chestplate)item(ars_elemental:aqua_tunic)item(ars_elemental:aqua_robes)item(ars_elemental:aqua_chestplate)item(ars_elemental:earth_tunic)item(ars_elemental:earth_robes)item(ars_elemental:earth_chestplate)item(ars_elemental:air_tunic)item(ars_elemental:air_robes)item(ars_elemental:air_chestplate))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 2.22d
+		}
+		{
+			dependencies: ["0B906638E5B9FCA1"]
+			icon: {
+				id: "ars_elemental:glyph_spark"
+			}
+			id: "6BA7D86838453BC1"
+			rewards: [
+				{
+					id: "616F71B59521E2D0"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "47D525D93324F81F"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(ars_elemental:glyph_spark)item(ars_elemental:glyph_conflagrate)item(ars_elemental:glyph_water_jet)item(ars_elemental:glyph_geyser)item(ars_elemental:glyph_watery_grave)item(ars_elemental:glyph_poison_spores))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 3.77d
+		}
+		{
+			dependencies: ["6282AF35BD8D267D"]
+			icon: {
+				id: "ars_elemental:fire_turret"
+			}
+			id: "2177ADD7300AA308"
+			rewards: [
+				{
+					id: "25129CFE79435AE5"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "07D165381864BCB5"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(ars_elemental:fire_turret)item(ars_elemental:water_turret)item(ars_elemental:earth_turret)item(ars_elemental:air_turret))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0B906638E5B9FCA1"]
+			icon: {
+				id: "ars_elemental:fire_relay"
+			}
+			id: "261539431DEB222E"
+			rewards: [
+				{
+					id: "74EFFB904990B38D"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "35C566E541062F23"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(ars_elemental:fire_relay)item(ars_elemental:water_relay)item(ars_elemental:earth_relay)item(ars_elemental:air_relay))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 5.32d
+		}
+		{
+			dependencies: ["0B906638E5B9FCA1"]
+			icon: {
+				id: "ars_elemental:siren_charm"
+			}
+			id: "543B64F6A5C22D46"
+			rewards: [
+				{
+					id: "1BACEAA9AF4E75F9"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "28D2725EC0B9C2ED"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(ars_elemental:flashjack_charm)item(ars_elemental:siren_charm)item(ars_elemental:firenando_charm))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 6.87d
+		}
+		{
+			dependencies: ["261539431DEB222E"]
+			id: "721DD6D33E898DC7"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "312CA6E480DAA2F4"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "4189BC1115CB8981"
+					item: {
+						count: 1
+						id: "ars_elemental:everfull_urn"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 4.55d
+		}
+		{
+			dependencies: ["261539431DEB222E"]
+			icon: {
+				id: "ars_elemental:water_upstream"
+			}
+			id: "2CEC560B19A80EEB"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "713E4839F6E9792C"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "55A53D0E4962FD7E"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(ars_elemental:water_upstream)item(ars_elemental:magma_upstream))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 6.1d
+		}
+		{
+			dependencies: ["0B906638E5B9FCA1"]
+			id: "3760C9F3F8F4AF5B"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "7497D2BC1B94F6BD"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "23E973271B0CC1C0"
+					item: {
+						count: 1
+						id: "ars_elemental:curio_bag"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 3.77d
+		}
+		{
+			dependencies: ["0B906638E5B9FCA1"]
+			icon: {
+				id: "ars_nouveau:starbuncle_charm"
+			}
+			id: "74DA58C86CD7C5B1"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "53EF5FA3A3060A5F"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "1E8533CA08706081"
+					structure: "ars_elemental:starbuncle_shrine"
+					type: "structure"
+				}
+			]
+			x: 3.5d
+			y: 5.32d
+		}
+		{
+			dependencies: ["0B906638E5B9FCA1"]
+			icon: {
+				id: "ars_technica:technomancer_chestplate"
+			}
+			id: "438252F33363AE09"
+			rewards: [
+				{
+					id: "2783ADDFB2D44C20"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "24D6F0ADD17D2AA8"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(ars_technica:artificer_tunic)item(ars_technica:technomancer_chestplate)item(ars_technica:machinaguard_chestplate))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 9.6d
+		}
+		{
+			dependencies: ["0B906638E5B9FCA1"]
+			icon: {
+				id: "ars_technica:glyph_press"
+			}
+			id: "44928AA0937E885E"
+			rewards: [
+				{
+					id: "474E285D820ACF14"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "7DEFBD8AE13A7968"
+					item: {
+						count: 1
+						id: "ars_technica:glyph_press"
+					}
+					type: "item"
+				}
+				{
+					id: "5742CEA81ECC02D3"
+					item: {
+						count: 1
+						id: "ars_technica:glyph_polish"
+					}
+					type: "item"
+				}
+				{
+					id: "40813B2B715838D7"
+					item: {
+						count: 1
+						id: "ars_technica:glyph_whirl"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 10.9d
+		}
+		{
+			dependencies: ["44928AA0937E885E"]
+			icon: {
+				id: "ars_technica:glyph_fuse"
+			}
+			id: "3C5A977308DB2BE9"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "6F50AFDDCACA26F5"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "4964252493FABF2B"
+					item: {
+						count: 1
+						id: "ars_technica:glyph_fuse"
+					}
+					type: "item"
+				}
+				{
+					id: "62B9434582BD584D"
+					item: {
+						count: 1
+						id: "ars_technica:glyph_superheat"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 10.25d
+		}
+	]
+}

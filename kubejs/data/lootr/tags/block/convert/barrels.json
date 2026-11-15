@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "goety:spider_sac",
+      "required": false
+    },
+    {
+      "id": "neovitae:spirit_cache",
+      "required": false
+    },
+    {
+      "id": "eternal_starlight:golem_steel_crate",
+      "required": false
+    },
+    {
+      "id": "supplementaries:sack",
+      "required": false
+    },
+    {
+      "id": "supplementaries:safe",
+      "required": false
+    }
+  ]
+}

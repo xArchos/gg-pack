@@ -1,0 +1,676 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bosses_bomd"
+	group: "0F1B4D3EF0FB70FA"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "bosses_of_mass_destruction:obsidian_heart"
+	}
+	id: "42FC6F01D986E947"
+	images: [
+		{
+			height: 1.8d
+			id: "45131E0D20B193CB"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -12.5d
+		}
+		{
+			height: 1.8d
+			id: "53C694A2620D856C"
+			image: "bosses_of_mass_destruction:item/soul_star"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -12.5d
+		}
+		{
+			height: 1.8d
+			id: "69508A7B677BB3E6"
+			image: "bosses_of_mass_destruction:item/obsidian_heart"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -12.5d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "68877D1BD743C872"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -10.35d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "33575AAC5D7A9EA1"
+			image: "bosses_of_mass_destruction:block/vine_wall"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -10.35d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "1FAA2A3FCCFB4AFB"
+			image: "bosses_of_mass_destruction:item/crystal_fruit"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -10.35d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "3BD13A64AF5E0EB8"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -6.45d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "7B75899100ADFD90"
+			image: "bosses_of_mass_destruction:item/ancient_anima"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -6.45d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "5400ABF0C7209F9A"
+			image: "bosses_of_mass_destruction:item/void_thorn"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -6.45d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "66937EC7EE5EE255"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -6.95d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "0D989F5314DEE811"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -2.55d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "5C6631F9EB69D52A"
+			image: "bosses_of_mass_destruction:block/gauntlet_blackstone"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -2.55d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "053847FF540F2E50"
+			image: "bosses_of_mass_destruction:item/blazing_eye"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -2.55d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.04d
+			id: "4107E02FE88D3890"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: -3.05d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "1E62276DFF64CF6A"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 1.35d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "20833C1DA554BCB1"
+			image: "bosses_of_mass_destruction:block/obsidilith_rune"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 1.35d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "19313063C8B5552E"
+			image: "bosses_of_mass_destruction:block/obsidilith_end_frame"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 1.35d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.04d
+			id: "3BE0DE1F3123A5F1"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 0.85d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "39D77944EA2EB6D3"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 3.95d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "1E09F974E34014BF"
+			image: "bosses_of_mass_destruction:item/earthdive_spear"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 3.95d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "4D5F40275247EFCE"
+			image: "bosses_of_mass_destruction:item/mob_ward"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 3.95d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "471E77B37A86BBD7"
+			image: "bosses_of_mass_destruction:item/brimstone_nectar"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 3.95d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.04d
+			id: "230D65001ED22332"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 3.45d
+		}
+	]
+	order_index: 2
+	quest_links: [
+		{
+			id: "61F4461E519E6826"
+			linked_quest: "04C1A2A7B07CEF10"
+			x: 3.5d
+			y: -8.95d
+		}
+		{
+			id: "059AD56C0EE990A5"
+			linked_quest: "0863DB1B7A0CDFE2"
+			x: 3.5d
+			y: -7.65d
+		}
+		{
+			id: "7409378895C48EC9"
+			linked_quest: "299D1E3EB5420A9A"
+			x: 5.25d
+			y: -0.5d
+		}
+		{
+			id: "51A52155EB802BBE"
+			linked_quest: "0C41880C1863CD23"
+			x: 1.75d
+			y: 2.75d
+		}
+	]
+	quests: [
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "bosses_of_mass_destruction:ancient_anima"
+			}
+			id: "33153CDCEDA8E71A"
+			rewards: [
+				{
+					id: "06F9CA6BCD9CB78C"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "7B62C48D6849D9E7"
+					structure: "bosses_of_mass_destruction:lich_tower"
+					type: "structure"
+				}
+			]
+			x: 0.0d
+			y: -8.3d
+		}
+		{
+			dependencies: ["33153CDCEDA8E71A"]
+			icon: {
+				id: "bosses_of_mass_destruction:void_thorn"
+			}
+			id: "7A543BA189EDB4F4"
+			rewards: [
+				{
+					id: "208C6CB9499A7DD1"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "39D7DAE5348982C9"
+					structure: "bosses_of_mass_destruction:void_blossom"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: -8.3d
+		}
+		{
+			dependencies: ["33153CDCEDA8E71A", "04C1A2A7B07CEF10"]
+			id: "00A15B1D6BBDC43C"
+			rewards: [
+				{
+					id: "51464AD8ADE6A1A7"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "60D14D508E0FBA5C"
+					item: {
+						count: 1
+						id: "bosses_of_mass_destruction:ancient_anima"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -4.4d
+		}
+		{
+			dependencies: ["7A543BA189EDB4F4", "0863DB1B7A0CDFE2"]
+			id: "6AC6911C37465994"
+			rewards: [
+				{
+					id: "1AE4B54AF1696605"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "57D00005D23102E1"
+					item: {
+						count: 1
+						id: "bosses_of_mass_destruction:void_thorn"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -5.05d
+		}
+		{
+			dependencies: ["7A543BA189EDB4F4", "0863DB1B7A0CDFE2"]
+			id: "6D0DE9C189A8CF2D"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "6FD5BC8769DD0E40"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "014797892170FB85"
+					item: {
+						count: 1
+						id: "bosses_of_mass_destruction:crystal_fruit"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -3.75d
+		}
+		{
+			dependencies: ["7A875C04743BEF62"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "bosses_of_mass_destruction:blazing_eye"
+			}
+			id: "6C3A01FD4D195B20"
+			preset: "info"
+			rewards: [
+				{
+					id: "3EAA64B34D9F8150"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "52D0E36E063CB607"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["6C3A01FD4D195B20"]
+			id: "621F0B31303C0C4C"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "73ABE58FD3FB3C99"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "1B1F157228A4BA02"
+					item: {
+						count: 1
+						id: "bosses_of_mass_destruction:charged_ender_pearl"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -1.15d
+		}
+		{
+			dependencies: ["6C3A01FD4D195B20", "299D1E3EB5420A9A"]
+			id: "146F3AF7E206039C"
+			rewards: [
+				{
+					id: "4D1C62AD5DF76AF4"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "52DDB1F43AFF4D9A"
+					item: {
+						count: 1
+						id: "bosses_of_mass_destruction:blazing_eye"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 0.15d
+		}
+		{
+			dependencies: ["146F3AF7E206039C"]
+			id: "0876B2C3A61440D3"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "7B901B9D7AB24C13"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "5350CF2851B78B05"
+					item: {
+						count: 1
+						id: "bosses_of_mass_destruction:levitation_block"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["53A32F809B45CAFE"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:crying_obsidian"
+			}
+			id: "786967513C9B04D7"
+			rewards: [
+				{
+					id: "555B23FB1A6DD83D"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "29EB7F1F9FD93AB8"
+					structure: "bosses_of_mass_destruction:obsidilith_arena"
+					type: "structure"
+				}
+			]
+			x: 0.0d
+			y: 2.75d
+		}
+		{
+			dependencies: ["786967513C9B04D7", "0C41880C1863CD23"]
+			id: "474DB46D480C706A"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "2B8C32325F9B45F6"
+					type: "xp"
+					xp: 250
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "1BBB8391FD9AA28E"
+					item: {
+						count: 1
+						id: "bosses_of_mass_destruction:obsidian_heart"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 7.8d
+		}
+		{
+			dependencies: ["474DB46D480C706A"]
+			id: "0F3008D30DAE11A8"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "65C0862494752A6C"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "206F34AAA311110D"
+					item: {
+						count: 1
+						id: "bosses_of_mass_destruction:earthdive_spear"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 5.48d
+		}
+		{
+			dependencies: ["474DB46D480C706A"]
+			id: "2DE9D74BD0C6DF02"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "59286E4B4F154901"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "283B989212E2341C"
+					item: {
+						count: 1
+						id: "bosses_of_mass_destruction:mob_ward"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 7.03d
+		}
+		{
+			dependencies: ["474DB46D480C706A"]
+			id: "360452A7B13077A2"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "27A5E854A583628F"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "65BD4FB31F6F94BE"
+					item: {
+						count: 1
+						id: "bosses_of_mass_destruction:monolith_block"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 8.58d
+		}
+		{
+			dependencies: ["474DB46D480C706A"]
+			id: "4D61EB706C24398C"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "787508DB7D1E004A"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "70AF2B1157A1EBAD"
+					item: {
+						count: 1
+						id: "bosses_of_mass_destruction:brimstone_nectar"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 10.12d
+		}
+	]
+}

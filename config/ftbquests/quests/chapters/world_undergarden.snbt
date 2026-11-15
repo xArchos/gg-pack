@@ -1,0 +1,650 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "world_undergarden"
+	group: "61DE9B33509C7F9A"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "undergarden:catalyst"
+	}
+	id: "6380537292A85A52"
+	images: [
+		{
+			height: 1.8d
+			id: "74B82BAC45E6E723"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -9.9d
+		}
+		{
+			height: 1.8d
+			id: "6CEB7D3F702E2695"
+			image: "undergarden:item/utherium_crystal"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -9.9d
+		}
+		{
+			height: 1.8d
+			id: "4AF906CD7BE816F3"
+			image: "undergarden:item/cloggrum_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -9.9d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "05E9262C91DE6FC5"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -7.75d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "0115E265E5D5F003"
+			image: "undergarden:block/depthrock"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -7.75d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "7A21DCE5324D1F2E"
+			image: "undergarden:item/underbeans"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -7.75d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "5C46E7E45E824369"
+			image: "undergarden:block/gloomgourd_side"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -7.75d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "39DB5F4E03D000AC"
+			image: "undergarden:item/droopvine_item"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -7.75d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "62FDACAECC94DBF6"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -2.55d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "767496B00071FB87"
+			image: "undergarden:item/froststeel_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -2.55d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "6DB19F14D9C898CF"
+			image: "undergarden:item/regalium_crystal"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -2.55d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "2BDDC7C6FC1E8DD3"
+			image: "undergarden:item/rogdorium"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -2.55d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.04d
+			id: "5E1D2244DF5689CC"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -3.05d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "1B5CDD39705A7105"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 4.95d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "0CBE03BEB3868DC3"
+			image: "undergarden:block/shiverstone"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 4.95d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "023645F659A549CE"
+			image: "undergarden:item/ditchbulb"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 4.95d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.04d
+			id: "5F22C3E0F34F7747"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 4.45d
+		}
+	]
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "undergarden:catalyst"
+			}
+			id: "062EC956A271670A"
+			rewards: [
+				{
+					id: "71E63CA106046607"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					dimension: "undergarden:undergarden"
+					id: "27D5169F6CB8846E"
+					type: "dimension"
+				}
+			]
+			x: 0.0d
+			y: -5.05d
+		}
+		{
+			dependencies: ["062EC956A271670A"]
+			icon: {
+				id: "undergarden:deepturf_block"
+			}
+			id: "6876B0FE11BE8D1D"
+			rewards: [
+				{
+					id: "37729F096C182EB2"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					biome: "undergarden:forgotten_field"
+					id: "2F5468DB01CEAB95"
+					type: "biome"
+				}
+				{
+					biome: "undergarden:smogstem_forest"
+					id: "732408C7B6875CC9"
+					type: "biome"
+				}
+				{
+					biome: "undergarden:wigglewood_forest"
+					id: "46187ED2CBB2FC92"
+					type: "biome"
+				}
+				{
+					biome: "undergarden:frostfields"
+					id: "4BEAE11C80C69401"
+					type: "biome"
+				}
+			]
+			x: 1.75d
+			y: -6.35d
+		}
+		{
+			dependencies: ["6876B0FE11BE8D1D"]
+			icon: {
+				id: "undergarden:dreadrock"
+			}
+			id: "1EF868965F3BF0A9"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "508E468D448FFFF5"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					advancement: "undergarden:undergarden/enter_depths"
+					criterion: ""
+					id: "0337D265A53025EA"
+					type: "advancement"
+				}
+			]
+			x: 3.5d
+			y: -5.7d
+		}
+		{
+			dependencies: ["062EC956A271670A"]
+			id: "1D6F35160BB3C0C7"
+			rewards: [
+				{
+					id: "0DC5AE48826D3C9D"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "5EFB620EDC0E91B1"
+					item: {
+						count: 1
+						id: "undergarden:underbeans"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -5.05d
+		}
+		{
+			dependencies: ["1D6F35160BB3C0C7"]
+			icon: {
+				id: "undergarden:gloomgourd"
+			}
+			id: "6D1FFED7A276D0DC"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "0386B649E0020897"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					advancement: "undergarden:undergarden/plant_gloomgourd"
+					criterion: ""
+					id: "2EC0BE81225166EB"
+					type: "advancement"
+				}
+			]
+			x: 3.5d
+			y: -4.4d
+		}
+		{
+			dependencies: ["062EC956A271670A"]
+			icon: {
+				id: "undergarden:gwibling_bucket"
+			}
+			id: "1CC15FAF8EE76424"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "6D1F1DD1A8032090"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					advancement: "undergarden:undergarden/catch_gwibling"
+					criterion: ""
+					id: "4B12608A50AD1A91"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: -3.75d
+		}
+		{
+			dependencies: ["062EC956A271670A"]
+			id: "616B0AE26BCC0C3B"
+			rewards: [
+				{
+					id: "22D664AD2A3EFCFA"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "713C931A01175664"
+					item: {
+						count: 1
+						id: "undergarden:shard_torch"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -0.25d
+		}
+		{
+			dependencies: ["062EC956A271670A"]
+			id: "0AFF48208CAFC601"
+			rewards: [
+				{
+					id: "09958790CF9D7235"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "4473DADB48F71E69"
+					item: {
+						count: 1
+						id: "undergarden:cloggrum_pickaxe"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 1.3d
+		}
+		{
+			dependencies: ["0AFF48208CAFC601"]
+			icon: {
+				id: "undergarden:cloggrum_chestplate"
+			}
+			id: "72B8182AEEAEBA8E"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "18970C3619BFBCE6"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "08E15BA06873086D"
+					item: {
+						count: 1
+						id: "undergarden:cloggrum_helmet"
+					}
+					type: "item"
+				}
+				{
+					id: "0F2B570C95EAD7FD"
+					item: {
+						count: 1
+						id: "undergarden:cloggrum_chestplate"
+					}
+					type: "item"
+				}
+				{
+					id: "27BA330DD42C454C"
+					item: {
+						count: 1
+						id: "undergarden:cloggrum_leggings"
+					}
+					type: "item"
+				}
+				{
+					id: "575D07732C512EFE"
+					item: {
+						count: 1
+						id: "undergarden:cloggrum_boots"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -1.03d
+		}
+		{
+			dependencies: ["0AFF48208CAFC601"]
+			id: "620282C2039670CC"
+			rewards: [
+				{
+					id: "5E948DEF9F92DCF9"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "7D152010D4ECA6BD"
+					item: {
+						count: 1
+						id: "undergarden:froststeel_sword"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 0.52d
+		}
+		{
+			dependencies: ["0AFF48208CAFC601"]
+			id: "4D959560C1084634"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "6A44CE63ECA8A38A"
+					type: "xp"
+					xp: 225
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "75C86A710252E485"
+					item: {
+						count: 1
+						id: "undergarden:utherium_sword"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 2.07d
+		}
+		{
+			dependencies: ["0AFF48208CAFC601"]
+			id: "5F17F7AF7E6422E1"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "5F475D4513A09207"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "1EBB489812C0E732"
+					item: {
+						count: 1
+						id: "undergarden:regalium_crystal"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 3.62d
+		}
+		{
+			dependencies: ["062EC956A271670A"]
+			id: "6BCA36B155FEAF5F"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "1BA1449C89172FD5"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "27DBCC450C485529"
+					item: {
+						count: 1
+						id: "undergarden:slingshot"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 2.85d
+		}
+		{
+			dependencies: ["062EC956A271670A"]
+			icon: {
+				id: "undergarden:denizen_mask"
+			}
+			id: "11E06B20EEA05823"
+			rewards: [
+				{
+					id: "070F308A8BDA7B73"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "7713281C9DB0D1CD"
+					structure: "undergarden:denizen_camp"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 6.35d
+		}
+		{
+			dependencies: ["11E06B20EEA05823"]
+			id: "29FA9B52AECFE9B0"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "119FE228598AB2AB"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "07DCB7644D3F5E38"
+					item: {
+						count: 1
+						id: "undergarden:denizen_mask"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["062EC956A271670A"]
+			icon: {
+				id: "undergarden:depthrock_pot"
+			}
+			id: "15AF1C92938E0B2F"
+			rewards: [
+				{
+					id: "408658D0E87F92D4"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "088D1ACCC8866F53"
+					structure: "undergarden:forgotten_vestige"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 7.65d
+		}
+	]
+}

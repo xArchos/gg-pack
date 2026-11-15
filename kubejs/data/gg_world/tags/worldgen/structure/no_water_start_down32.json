@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "dungeons_arise:infested_temple",
+      "required": false
+    },
+    {
+      "id": "dungeons_arise:kisegi_sanctuary",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,988 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "build_decoration"
+	group: "16562C951FE3B019"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "chipped:mason_table"
+	}
+	id: "35386EC8A2E14617"
+	images: [
+		{
+			height: 1.8d
+			id: "2BD1B47278A7EE17"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -14.6d
+		}
+		{
+			height: 1.8d
+			id: "1DCC22778F8E62C4"
+			image: "chipped:block/workbench/carpenters_table"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -14.6d
+		}
+		{
+			height: 1.8d
+			id: "2F5836BD0486AD50"
+			image: "rechiseled:item/chisel"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -14.6d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "5B1272DA48769327"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -12.45d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "1AFEA1C543D16589"
+			image: "chipped:block/workbench/mason_table"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -12.45d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "71E78C523D7E6011"
+			image: "chipped:block/workbench/loom_table"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -12.45d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "67FF0432E456E0C6"
+			image: "framedblocks:item/framed_hammer"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -12.45d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "4824371371E81FD6"
+			image: "framedblocks:block/framed_block"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -12.45d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "3E9BB7CE2CA72C62"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -7.25d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "69508C31AA963B47"
+			image: "handcrafted:item/hammer"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -7.25d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "242CDB9786AD7866"
+			image: "another_furniture:item/furniture_hammer"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -7.25d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "31F95C86DCA2F47F"
+			image: "supplementaries:item/hourglass"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -7.25d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "26B231C43CDF5BDC"
+			image: "supplementaries:item/globe"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -7.25d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.04d
+			id: "606C48E0116FCD69"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -7.75d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "57B8B77C69A0963F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -0.75d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "69061D7520409A6B"
+			image: "mcwlights:block/chain_lantern"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -0.75d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "17E4067D41B1E190"
+			image: "mcwroofs:block/thatch"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -0.75d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "73B79CB6783AFC9D"
+			image: "mcwroofs:block/red_gutter"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -0.75d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "668C594597328215"
+			image: "supplementaries:block/rope"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -0.75d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.04d
+			id: "0E7B9AA2DD4496A4"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -1.25d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "498AA68C2CA448FB"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 5.75d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "03DD297170973DB2"
+			image: "createdeco:block/palettes/catwalks/andesite_catwalk"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 5.75d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "62E4AB12B09A7BEE"
+			image: "createdeco:block/palettes/cage_lamp/andesite_lamp"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 5.75d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "01380C13D6CB6349"
+			image: "create:block/copycat_base"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 5.75d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "0F32218D3A2AD6A1"
+			image: "copycats:block/copycat_slope"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: 5.75d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.04d
+			id: "0759D2E5DB83BBE5"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 5.25d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "2F1164724C5ACEE5"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 9.65d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "6D2EDCA59C0BEF16"
+			image: "createdeco:block/palettes/cage_lamp/brass_lamp"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 9.65d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "1A8C2946393A8338"
+			image: "createdeco:block/palettes/catwalks/brass_catwalk"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 9.65d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "579C64DD6C520F1F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 9.15d
+		}
+	]
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["61184EB93DBC27D9"]
+			hide_until_deps_complete: true
+			id: "729ACA147B872878"
+			rewards: [
+				{
+					id: "7529CA4B8E3ABD2D"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "2234F86564E2DEB2"
+					item: {
+						count: 1
+						id: "chipped:mason_table"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -11.05d
+		}
+		{
+			dependencies: ["729ACA147B872878"]
+			icon: {
+				id: "chipped:carpenters_table"
+			}
+			id: "79252FF3E5D61315"
+			rewards: [
+				{
+					id: "3C4E6652AC06E3C8"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "73E5127696F40B43"
+					item: {
+						count: 1
+						id: "chipped:carpenters_table"
+					}
+					type: "item"
+				}
+				{
+					id: "15BD3A35EBC33C97"
+					item: {
+						count: 1
+						id: "chipped:loom_table"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -10.4d
+		}
+		{
+			dependencies: ["729ACA147B872878"]
+			icon: {
+				id: "chipped:glassblower"
+			}
+			id: "3AEE36E47EFE6486"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "776DEF56FDE9AEFD"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "22ED2C693130B236"
+					item: {
+						count: 1
+						id: "chipped:glassblower"
+					}
+					type: "item"
+				}
+				{
+					id: "6E261C33DD5F3CF1"
+					item: {
+						count: 1
+						id: "chipped:botanist_workbench"
+					}
+					type: "item"
+				}
+				{
+					id: "04E48AA8A4D6B60A"
+					item: {
+						count: 1
+						id: "chipped:tinkering_table"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -9.1d
+		}
+		{
+			dependencies: ["61184EB93DBC27D9"]
+			hide_until_deps_complete: true
+			id: "4E8E9A5A48D1B3F7"
+			rewards: [
+				{
+					id: "13A9D85DF0681DEA"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "7793B4C914447CC9"
+					item: {
+						count: 1
+						id: "rechiseled:chisel"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -9.75d
+		}
+		{
+			dependencies: ["61184EB93DBC27D9"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "framedblocks:framed_cube"
+			}
+			id: "13E1023B98EED92C"
+			rewards: [
+				{
+					id: "692A4D34DD810D8A"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "037BB438E380525F"
+					item: {
+						count: 1
+						id: "framedblocks:framed_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "6359E3E207D0AD17"
+					item: {
+						count: 1
+						id: "framedblocks:framed_hammer"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -8.45d
+		}
+		{
+			dependencies: ["61184EB93DBC27D9"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "handcrafted:oak_chair"
+			}
+			id: "23E0C8406D19EB10"
+			rewards: [
+				{
+					id: "65B2321D9FB54C69"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "6F8051A74A75673B"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "item_tag(handcrafted:chairs)"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+				{
+					id: "4B09BB79173B030B"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "item_tag(handcrafted:tables)"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -5.85d
+		}
+		{
+			dependencies: ["61184EB93DBC27D9"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "another_furniture:oak_chair"
+			}
+			id: "38D51382CFDC27AE"
+			rewards: [
+				{
+					id: "37A54F43E53E1B21"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "5A1A06F8CE457E68"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "item_tag(another_furniture:chairs)"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -4.55d
+		}
+		{
+			dependencies: ["61184EB93DBC27D9"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "supplementaries:jar"
+			}
+			id: "20349EC44D285471"
+			rewards: [
+				{
+					id: "531704962B6345C8"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "7F69E29DC050DDC4"
+					item: {
+						count: 1
+						id: "supplementaries:jar"
+					}
+					type: "item"
+				}
+				{
+					id: "0158371D89156E96"
+					item: {
+						count: 1
+						id: "supplementaries:item_shelf"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -3.25d
+		}
+		{
+			dependencies: ["61184EB93DBC27D9"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:lantern"
+			}
+			id: "74A29DF9B4DFE34A"
+			preset: "info"
+			rewards: [
+				{
+					id: "042271E5E66C0A60"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "0C48C67838169EFF"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: -1.95d
+		}
+		{
+			dependencies: ["61184EB93DBC27D9"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "mcwfurnitures:oak_chair"
+			}
+			id: "43E27B5107E91049"
+			rewards: [
+				{
+					id: "4B6B5E6722645D92"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "12B040A27F62A8BC"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "mod(mcwfurnitures)"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.6d
+		}
+		{
+			dependencies: ["43E27B5107E91049"]
+			icon: {
+				id: "mcwroofs:oak_roof"
+			}
+			id: "04A36EF3F26D6261"
+			rewards: [
+				{
+					id: "6F1A85EE5B7ECCEC"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "3C61FD930942E4DB"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "mod(mcwroofs)"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 0.65d
+		}
+		{
+			dependencies: ["43E27B5107E91049"]
+			icon: {
+				id: "mcwwindows:oak_window"
+			}
+			id: "226B5E9871BD4B07"
+			rewards: [
+				{
+					id: "1DCE0B0685A06BEF"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "068CF907261A6D42"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "mod(mcwwindows)"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+				{
+					id: "3804ED5F3EF4B042"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "mod(mcwdoors)"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 1.95d
+		}
+		{
+			dependencies: ["43E27B5107E91049"]
+			icon: {
+				id: "mcwfences:oak_picket_fence"
+			}
+			id: "3D0B9BE5D4B15F6E"
+			rewards: [
+				{
+					id: "59641D1EEE784814"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "6C6423122AFDA2B5"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "mod(mcwpaths)"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+				{
+					id: "52B022DBC5E00418"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "mod(mcwfences)"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 3.25d
+		}
+		{
+			dependencies: ["43E27B5107E91049"]
+			icon: {
+				id: "mcwlights:chain_lantern"
+			}
+			id: "49D45418C8713BE5"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "26DED9CEF56EC07F"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "242689185B056919"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "mod(mcwbridges)"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+				{
+					id: "65EE8DC08558B313"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "mod(mcwstairs)"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+				{
+					id: "10994762A5CF66C7"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "mod(mcwlights)"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+				{
+					id: "21961EC90F99D35F"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "mod(mcwtrpdoors)"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 4.55d
+		}
+		{
+			dependencies: ["7B472916B8B3515D"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "createdeco:andesite_catwalk"
+			}
+			id: "411E0DEDA4971DCA"
+			rewards: [
+				{
+					id: "7D5C7E48B37DEC5E"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "7A9714E0357EC0AD"
+					item: {
+						count: 1
+						id: "createdeco:andesite_window"
+					}
+					type: "item"
+				}
+				{
+					id: "7AF859384622C7AC"
+					item: {
+						count: 1
+						id: "createdeco:andesite_catwalk"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 7.15d
+		}
+		{
+			dependencies: ["7B472916B8B3515D"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "copycats:copycat_block"
+			}
+			id: "491077D1F54DE545"
+			rewards: [
+				{
+					id: "5FB8613373FAD068"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "79274156E79DD239"
+					item: {
+						count: 1
+						id: "create:copycat_panel"
+					}
+					type: "item"
+				}
+				{
+					id: "4C176A956BEA722E"
+					item: {
+						count: 1
+						id: "copycats:copycat_block"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 8.45d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			id: "062C848C3DEA7A46"
+			rewards: [
+				{
+					id: "3D905F49610BA2BF"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "5DF87F9AD3EEA9AF"
+					item: {
+						count: 1
+						id: "createdeco:yellow_brass_lamp"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 11.05d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "interiors:white_floor_chair"
+			}
+			id: "56D0A53AFC644F79"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "50A3FC8A5461574B"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "1BEAE6FDCACC9333"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "mod(interiors)"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 12.35d
+		}
+	]
+}

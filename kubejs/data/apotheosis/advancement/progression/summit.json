@@ -1,0 +1,28 @@
+{
+  "parent": "apotheosis:progression/ascent",
+  "criteria": {
+    "era": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "background": "apotheosis:textures/advancements/bg/apoth.png",
+    "description": {
+      "text": "Poziom świata przychodzi razem z Erą Arkanów (era 6) drużyny."
+    },
+    "frame": "goal",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:netherite_sword"
+    },
+    "title": {
+      "translate": "advancements.apotheosis.progression.summit.title"
+    }
+  },
+  "requirements": [
+    [
+      "era"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

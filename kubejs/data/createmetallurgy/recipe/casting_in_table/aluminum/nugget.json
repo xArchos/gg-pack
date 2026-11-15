@@ -1,0 +1,29 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:nuggets/aluminum"
+      }
+    }
+  ],
+  "type": "createmetallurgy:casting_in_table",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "amount": 10,
+      "fluid": "createmetallurgy:molten_aluminum"
+    },
+    {
+      "item": "createmetallurgy:graphite_nugget_mold"
+    }
+  ],
+  "processing_time": 6,
+  "result": {
+    "item": {
+      "id": "tfmg:aluminum_nugget",
+      "count": 1
+    }
+  }
+}

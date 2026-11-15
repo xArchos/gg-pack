@@ -1,0 +1,11 @@
+{
+  "sources": [
+    {
+      "type": "filter",
+      "pattern": {
+        "namespace": "^create$",
+        "path": "^fluid/(air|butane|carbon_dioxide|cooling_fluid_flow|cooling_fluid_still|creosote_flow|creosote_still|crude_oil_flow|ethylene|gasoline_flow|gasoline_still|heavy_oil_flow|heavy_oil_still|kerosene_flow|kerosene_still|liquid_concrete|liquid_plastic_flow|liquid_plastic_still|lpg|lubrication_oil_flow|lubrication_oil_still|molten_slag_flow|molten_slag_still|molten_steel_flow|molten_steel_still|napalm_flow|napalm_still|naphtha_flow|naphtha_still|propane|propylene)$"
+      }
+    }
+  ]
+}

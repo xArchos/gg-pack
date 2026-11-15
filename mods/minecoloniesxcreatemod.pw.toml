@@ -1,0 +1,14 @@
+name = "MineColoniesXCreateMod"
+filename = "thesettler_x_create-0.7.2.jar"
+side = "both"
+pin = true
+
+[download]
+hash-format = "sha1"
+hash = "df8a951166922e48c1b74516e235db8225a3638c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9061734
+project-id = 1454088

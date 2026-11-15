@@ -1,0 +1,29 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:ingots/bronze"
+      }
+    }
+  ],
+  "type": "createmetallurgy:casting_in_table",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "amount": 90,
+      "fluid": "createmetallurgy:molten_bronze"
+    },
+    {
+      "item": "createmetallurgy:graphite_ingot_mold"
+    }
+  ],
+  "processing_time": 60,
+  "result": {
+    "item": {
+      "id": "mekanism:ingot_bronze",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:nuggets/electrum"
+      }
+    }
+  ],
+  "type": "createmetallurgy:casting_in_table",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "amount": 10,
+      "fluid": "createmetallurgy:molten_electrum"
+    },
+    {
+      "item": "createmetallurgy:graphite_nugget_mold"
+    }
+  ],
+  "processing_time": 6,
+  "result": {
+    "item": {
+      "id": "createaddition:electrum_nugget",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,640 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "world_eternal_starlight"
+	group: "61DE9B33509C7F9A"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "eternal_starlight:orb_of_prophecy"
+	}
+	id: "718B7E53FF01F2CA"
+	images: [
+		{
+			height: 1.8d
+			id: "52013EFE4CC14364"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -10.92d
+		}
+		{
+			height: 1.8d
+			id: "1AFD54D1431DBD93"
+			image: "eternal_starlight:item/blue_starlight_crystal_shard"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -10.92d
+		}
+		{
+			height: 1.8d
+			id: "20130B64D86F5390"
+			image: "eternal_starlight:item/red_starlight_crystal_shard"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -10.92d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "5B628BAA39942CBA"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -8.77d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "5C66C2DBFD34EA19"
+			image: "eternal_starlight:block/lunar_log"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -8.77d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "0E81000772821C8E"
+			image: "eternal_starlight:item/seeking_eye"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -8.77d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "36A8BE53565745E7"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -2.82d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "19C011923B77C67E"
+			image: "eternal_starlight:item/deepsilver_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -2.82d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "383B7338968D5305"
+			image: "eternal_starlight:item/saltpeter_powder"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -2.82d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "47D804066D2061F3"
+			image: "eternal_starlight:item/malarite"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -2.82d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "5C158E9765B28893"
+			image: "eternal_starlight:item/thermal_springstone_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -2.82d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.04d
+			id: "379BB69316DBF6A3"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -3.32d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "23AC08B3BD6613DF"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 4.68d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "5DBCE0B5DAF242E9"
+			image: "eternal_starlight:item/glacite_shard"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 4.68d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "2280A9F80BA4764F"
+			image: "eternal_starlight:item/amaramber_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 4.68d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "3496599B98EF2863"
+			image: "eternal_starlight:item/orb_of_prophecy"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 4.68d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.04d
+			id: "3A266CA9DB5016DA"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 4.18d
+		}
+	]
+	order_index: 8
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["53A32F809B45CAFE"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "eternal_starlight:orb_of_prophecy"
+			}
+			id: "36E6453ABC7C316F"
+			rewards: [
+				{
+					id: "118FFC81A86D10DF"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					dimension: "eternal_starlight:starlight"
+					id: "22DEDE486F1F0CEC"
+					type: "dimension"
+				}
+			]
+			x: 0.0d
+			y: -5.7d
+		}
+		{
+			dependencies: ["36E6453ABC7C316F"]
+			icon: {
+				id: "eternal_starlight:lunar_log"
+			}
+			id: "6AA609A7C2E49926"
+			rewards: [
+				{
+					id: "4EBBCD9A4D5C3441"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					biome: "eternal_starlight:starlight_forest"
+					id: "471A197291134313"
+					type: "biome"
+				}
+				{
+					biome: "eternal_starlight:dark_swamp"
+					id: "0CFE6E6A905B20D3"
+					type: "biome"
+				}
+				{
+					biome: "eternal_starlight:scarlet_forest"
+					id: "7C573BE72E1A77BC"
+					type: "biome"
+				}
+				{
+					biome: "eternal_starlight:torreya_forest"
+					id: "79B408913B03B90E"
+					type: "biome"
+				}
+			]
+			x: 1.75d
+			y: -7.25d
+		}
+		{
+			dependencies: ["6AA609A7C2E49926"]
+			icon: {
+				id: "eternal_starlight:glacite_shard"
+			}
+			id: "3A45BE25E27884E8"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "4F5DBB2BC0F7B22E"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					biome: "eternal_starlight:starlight_permafrost_forest"
+					id: "60CDDBC3CCBDABE1"
+					type: "biome"
+				}
+				{
+					biome: "eternal_starlight:crystallized_desert"
+					id: "669AB78426722ECB"
+					type: "biome"
+				}
+			]
+			x: 3.5d
+			y: -5.7d
+		}
+		{
+			dependencies: ["36E6453ABC7C316F"]
+			icon: {
+				id: "eternal_starlight:aethersent_ingot"
+			}
+			id: "653DD7C6E4237E8A"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "0D57D873FCC43D62"
+					type: "xp"
+					xp: 250
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					advancement: "eternal_starlight:witness_meteor_shower"
+					criterion: ""
+					id: "636B0B0209C30AA8"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: -5.7d
+		}
+		{
+			dependencies: ["36E6453ABC7C316F"]
+			id: "7226DC15E5450115"
+			rewards: [
+				{
+					id: "2A7634A83380AD3A"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "45062D5E52A86006"
+					item: {
+						count: 1
+						id: "eternal_starlight:seeking_eye"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -4.15d
+		}
+		{
+			dependencies: ["36E6453ABC7C316F"]
+			icon: {
+				id: "eternal_starlight:blue_starlight_crystal_shard"
+			}
+			id: "25766DCD8399424B"
+			rewards: [
+				{
+					id: "3554DE4172CF8DE9"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "1D5BBD8E5C65D2A7"
+					item: {
+						count: 1
+						id: "eternal_starlight:red_starlight_crystal_shard"
+					}
+					type: "item"
+				}
+				{
+					id: "2313C99DD2BF745C"
+					item: {
+						count: 1
+						id: "eternal_starlight:blue_starlight_crystal_shard"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -1.3d
+		}
+		{
+			dependencies: ["36E6453ABC7C316F"]
+			id: "403CEF635859CB24"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "3F7E0CD5214CDA27"
+					type: "xp"
+					xp: 250
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "5D493FF2706B9958"
+					item: {
+						count: 1
+						id: "eternal_starlight:deepsilver_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 0.25d
+		}
+		{
+			dependencies: ["36E6453ABC7C316F"]
+			id: "22A3C26E3E0D39FE"
+			rewards: [
+				{
+					id: "15F95077F8D3D596"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "3D044124AE4E5464"
+					item: {
+						count: 1
+						id: "eternal_starlight:saltpeter_powder"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 1.8d
+		}
+		{
+			dependencies: ["36E6453ABC7C316F"]
+			id: "28E3C603D54E2B74"
+			rewards: [
+				{
+					id: "00C63FE61AEA015B"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "6B219916944B432D"
+					item: {
+						count: 1
+						id: "eternal_starlight:malarite"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 3.35d
+		}
+		{
+			dependencies: ["36E6453ABC7C316F"]
+			id: "76C395675A66797C"
+			rewards: [
+				{
+					id: "307E4C4EDDCF327A"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "6FB653EC16A6BBC4"
+					item: {
+						count: 1
+						id: "eternal_starlight:glacite_shard"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -1.3d
+		}
+		{
+			dependencies: ["36E6453ABC7C316F"]
+			id: "55514DCA32B43CDF"
+			rewards: [
+				{
+					id: "281A859DBF57A85D"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "023E5DF672CEEA7D"
+					item: {
+						count: 1
+						id: "eternal_starlight:thermal_springstone_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 0.25d
+		}
+		{
+			dependencies: ["36E6453ABC7C316F"]
+			icon: {
+				id: "eternal_starlight:amaramber_ingot"
+			}
+			id: "2C8D0FB62F8121E4"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "0AA994F231CE1C66"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					advancement: "eternal_starlight:obtain_raw_amaramber"
+					criterion: ""
+					id: "6D2D91DF626F467D"
+					type: "advancement"
+				}
+			]
+			x: 3.5d
+			y: 1.8d
+		}
+		{
+			dependencies: ["36E6453ABC7C316F"]
+			icon: {
+				id: "eternal_starlight:starlit_diamond_pickaxe"
+			}
+			id: "59FE85A5E327CDB2"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "5E396988A108D9A5"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					advancement: "eternal_starlight:obtain_starlit_diamond"
+					criterion: ""
+					id: "0C6FF23901EEFE6B"
+					type: "advancement"
+				}
+			]
+			x: 3.5d
+			y: 3.35d
+		}
+		{
+			dependencies: ["36E6453ABC7C316F"]
+			icon: {
+				id: "eternal_starlight:red_starlight_crystal_shard"
+			}
+			id: "0683988BF5F919D4"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "45C67BC6149E72DD"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					advancement: "eternal_starlight:tame_crystallized_moth"
+					criterion: ""
+					id: "3032F3A7FD71E1A6"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: 6.08d
+		}
+		{
+			dependencies: ["36E6453ABC7C316F"]
+			icon: {
+				id: "eternal_starlight:oak_starfire_bird_aviary"
+			}
+			id: "33A0091499FC8F36"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "1D4B7A49EAEB787E"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					advancement: "eternal_starlight:put_seeds_into_starfire_bird_nest"
+					criterion: ""
+					id: "4F7AEC3D55118620"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: 7.38d
+		}
+		{
+			dependencies: ["36E6453ABC7C316F"]
+			icon: {
+				id: "eternal_starlight:malarite"
+			}
+			id: "1DB5E1B3659E0D2B"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "2B72D546CD075657"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "351D3804D7A9B3BC"
+					structure: "eternal_starlight:stranghoul_den"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 8.68d
+		}
+	]
+}

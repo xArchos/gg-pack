@@ -1,0 +1,537 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "storage_occultism"
+	group: "75FCEC97D90BDF93"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "occultism:storage_controller"
+	}
+	id: "782806F2296D069B"
+	images: [
+		{
+			height: 1.8d
+			id: "7A9785F8BDCA567E"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -7.18d
+		}
+		{
+			height: 1.8d
+			id: "0EB95FAEF3273009"
+			image: "occultism:block/dimensional_matrix"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -7.18d
+		}
+		{
+			height: 1.8d
+			id: "1D824A501D5F2678"
+			image: "occultism:item/spirit_attuned_gem"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -7.18d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "0D1E3B877D9F0543"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -5.03d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "07389EFCD7D8ADA5"
+			image: "occultism:block/otherstone_bricks"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -5.03d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "22C92783FF4C09FF"
+			image: "occultism:block/spirit_attuned_crystal"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -5.03d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "41F3607AE4F52113"
+			image: "occultism:block/iesnium_block"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -5.03d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "3A6489354069F02B"
+			image: "occultism:item/otherstone_tablet"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -5.03d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "323E452B7DB367E6"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -0.62d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "2698F9F66DCFC9E5"
+			image: "occultism:item/book_of_calling_transport_items"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -0.62d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "1046708AE4373BB4"
+			image: "occultism:item/book_of_calling_cleaner"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -0.62d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "3B62264F798D5965"
+			image: "occultism:item/book_of_calling_manage_machine"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -0.62d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "34728F9D462A6DF0"
+			image: "occultism:item/satchel"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -0.62d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.04d
+			id: "3A2E404CAB0C30C9"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -1.12d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "6C6A6B7F6FE6F8E3"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 3.28d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "17A811632F451831"
+			image: "occultism:block/otherstone_bricks"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 3.28d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "39E82D6A440E2286"
+			image: "occultism:block/stable_wormhole_frame"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 3.28d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.04d
+			id: "07303BB1DA131B6E"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 2.78d
+		}
+	]
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["7A875C04743BEF62"]
+			hide_until_deps_complete: true
+			id: "5FA8A23DA5514B11"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "7016F85F811EC4B7"
+					type: "xp"
+					xp: 150
+				}
+			]
+			tags: ["era_okultyzm", "storage"]
+			tasks: [
+				{
+					id: "7112C876DF3D018D"
+					item: {
+						count: 1
+						id: "occultism:storage_controller"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -2.73d
+		}
+		{
+			dependencies: ["5FA8A23DA5514B11"]
+			id: "6791A156DA492C69"
+			rewards: [
+				{
+					id: "66107DC65BC768D5"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm", "storage"]
+			tasks: [
+				{
+					id: "552E67EF285C345A"
+					item: {
+						count: 1
+						id: "occultism:storage_stabilizer_tier1"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -3.5d
+		}
+		{
+			dependencies: ["6791A156DA492C69"]
+			id: "4F2963CEBC70FC54"
+			rewards: [
+				{
+					id: "3FA13A731013F7C0"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm", "storage"]
+			tasks: [
+				{
+					id: "670C14CDCCF86805"
+					item: {
+						count: 1
+						id: "occultism:storage_stabilizer_tier2"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["4F2963CEBC70FC54"]
+			id: "504233A9D5A41735"
+			rewards: [
+				{
+					id: "1F563A3D4E4087E9"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm", "storage"]
+			tasks: [
+				{
+					id: "719CDF6ABB41FD9C"
+					item: {
+						count: 1
+						id: "occultism:storage_stabilizer_tier3"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -2.73d
+		}
+		{
+			dependencies: ["504233A9D5A41735"]
+			id: "47C175CF5CE4EAB9"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "36D8C9DB041DF1C8"
+					type: "xp"
+					xp: 150
+				}
+			]
+			tags: ["era_okultyzm", "storage"]
+			tasks: [
+				{
+					id: "5100C3BFCBE586FF"
+					item: {
+						count: 1
+						id: "occultism:storage_stabilizer_tier4"
+					}
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: -2.73d
+		}
+		{
+			dependencies: ["5FA8A23DA5514B11"]
+			id: "38C7D9C19571B0D3"
+			rewards: [
+				{
+					id: "452C63C0CC5C6DBE"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm", "storage"]
+			tasks: [
+				{
+					id: "268289D4C9AC1C85"
+					item: {
+						count: 1
+						id: "occultism:storage_remote"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -1.95d
+		}
+		{
+			dependencies: ["38C7D9C19571B0D3"]
+			id: "14221090700CFA35"
+			rewards: [
+				{
+					id: "108C6B3448E6FEF0"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm", "storage"]
+			tasks: [
+				{
+					id: "0662330C278273FC"
+					item: {
+						count: 1
+						id: "occultism:stable_wormhole"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -1.95d
+		}
+		{
+			dependencies: ["5FA8A23DA5514B11"]
+			id: "04BAB86ABD1C5247"
+			rewards: [
+				{
+					id: "7980D12F3673663D"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm", "storage"]
+			tasks: [
+				{
+					id: "6E6185134BA42410"
+					item: {
+						count: 1
+						id: "occultism:book_of_calling_foliot_transport_items"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 0.78d
+		}
+		{
+			dependencies: ["04BAB86ABD1C5247"]
+			id: "5FBA1A088DCE0781"
+			rewards: [
+				{
+					id: "1DD56B344BA55766"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm", "storage"]
+			tasks: [
+				{
+					id: "76599B9D7DAF9C6F"
+					item: {
+						count: 1
+						id: "occultism:book_of_calling_foliot_cleaner"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 0.78d
+		}
+		{
+			dependencies: ["04BAB86ABD1C5247"]
+			id: "07C866FBAFDBC314"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "6AAB1A410DF8949D"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm", "storage"]
+			tasks: [
+				{
+					id: "7F1F0453D83766C3"
+					item: {
+						count: 1
+						id: "occultism:book_of_calling_djinni_manage_machine"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 2.08d
+		}
+		{
+			dependencies: ["5FA8A23DA5514B11"]
+			id: "4C164F51C9723F62"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "5181C7E689C4BA90"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm", "storage"]
+			tasks: [
+				{
+					id: "7EA9A5C4C9684CE9"
+					item: {
+						count: 1
+						id: "occultism:satchel"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 2.08d
+		}
+		{
+			dependencies: ["53A32F809B45CAFE"]
+			hide_until_deps_complete: true
+			id: "00C0A5479AEB1949"
+			rewards: [
+				{
+					id: "49DACDC1E5B28E1E"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "storage"]
+			tasks: [
+				{
+					id: "47ED42843D58B3A4"
+					item: {
+						count: 1
+						id: "occultism:storage_stabilizer_tier5"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 4.8d
+		}
+		{
+			dependencies: ["00C0A5479AEB1949"]
+			id: "744B57DD1079C2D3"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "361502C1B7F4C463"
+					type: "xp"
+					xp: 250
+				}
+			]
+			tags: ["era_atom", "storage"]
+			tasks: [
+				{
+					id: "1F73E3E1F0E13BA5"
+					item: {
+						count: 1
+						id: "occultism:storage_controller_stabilized"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 4.8d
+		}
+	]
+}

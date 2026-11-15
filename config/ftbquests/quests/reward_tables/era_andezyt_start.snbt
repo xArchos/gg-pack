@@ -1,0 +1,53 @@
+{
+	id: "1507DAABE4409C54"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			count: 16
+			id: "7B4FEAABD65B0AE6"
+			item: {
+				count: 1
+				id: "create:andesite_alloy"
+			}
+		}
+		{
+			count: 16
+			id: "10352732E37BA004"
+			item: {
+				count: 1
+				id: "create:shaft"
+			}
+		}
+		{
+			count: 8
+			id: "1A8E785A49E6B948"
+			item: {
+				count: 1
+				id: "create:cogwheel"
+			}
+		}
+		{
+			count: 2
+			id: "47CB176950B8D4CB"
+			item: {
+				count: 1
+				id: "create:large_cogwheel"
+			}
+		}
+		{
+			id: "16A3B5592DEFF435"
+			item: {
+				count: 1
+				id: "create:wrench"
+			}
+		}
+		{
+			id: "1796FFB378EF0F58"
+			item: {
+				count: 1
+				id: "minecraft:iron_pickaxe"
+			}
+		}
+	]
+}

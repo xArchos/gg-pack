@@ -1,0 +1,1334 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "world_overworld"
+	group: "61DE9B33509C7F9A"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "minecraft:filled_map"
+	}
+	id: "0E3BAE0DD260CEDB"
+	images: [
+		{
+			height: 1.8d
+			id: "5F44BF367EE30571"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -21.33d
+		}
+		{
+			height: 1.8d
+			id: "7D61EDEB8EECA353"
+			image: "biomesoplenty:block/lavender"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -21.33d
+		}
+		{
+			height: 1.8d
+			id: "0DB70C626F3C4DAB"
+			image: "regions_unexplored:block/baobab_sapling"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -21.33d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "1D5D35302EA9BE2D"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -19.18d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "55E40F24FAFE40E5"
+			image: "biomeswevegone:block/sakura/white_sapling"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -19.18d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "6852B7A3A824EF74"
+			image: "natures_spirit:block/sugi_sapling"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -19.18d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "164FEA60AD7EC858"
+			image: "biomesoplenty:block/redwood_log"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -19.18d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "7467AD35B5422FD2"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -12.68d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "781C996E83AA7FB9"
+			image: "minecraft:item/bell"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -12.68d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "26070B749D978CA0"
+			image: "minecraft:item/brush"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -12.68d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "7E97890CF47DE19B"
+			image: "minecraft:block/crying_obsidian"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -12.68d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.04d
+			id: "73B5FB3EF8AB8BD6"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -13.18d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "25FB485AF5C0BB08"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -6.18d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "503AEBFD2297CB4B"
+			image: "minecraft:block/spawner"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -6.18d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "35337CD25116569A"
+			image: "minecraft:block/mossy_cobblestone"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -6.18d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "0C3B569C639F16E4"
+			image: "minecraft:item/bone"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -6.18d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.04d
+			id: "3A232EA95E00F2D2"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: -6.68d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "25C710078FBEA9F8"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 0.32d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "05A1B2F7D6E1FB48"
+			image: "minecraft:block/sandstone_top"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 0.32d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "10EC0B021DF2FE71"
+			image: "minecraft:item/crossbow_standby"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 0.32d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.04d
+			id: "643D89AC35E9077A"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: -0.18d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "07356FEE4E6A5542"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 7.82d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "191E90226320404E"
+			image: "minecraft:block/stone_bricks"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 7.82d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "12F013AC00834D54"
+			image: "minecraft:block/cracked_stone_bricks"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 7.82d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "7ACA0711EBB5F262"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 7.32d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "5FC85E752DE475DC"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 14.32d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "3D54BCBD8EA6AC15"
+			image: "minecraft:block/blackstone"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 14.32d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "01EC8C43C53CFBB7"
+			image: "minecraft:item/totem_of_undying"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 14.32d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.04d
+			id: "253B14077D85B986"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 13.82d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["61184EB93DBC27D9"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:spyglass"
+			}
+			id: "6AC8C8D0A65424C9"
+			preset: "info"
+			rewards: [
+				{
+					id: "04BAEA7BB93D1B91"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "568D4B04AF7F04BF"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: -15.83d
+		}
+		{
+			dependencies: ["6AC8C8D0A65424C9"]
+			icon: {
+				id: "biomesoplenty:lavender"
+			}
+			id: "0D30671E03A6EAC6"
+			rewards: [
+				{
+					id: "407B193741A1F1A9"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					biome: "biomesoplenty:lavender_field"
+					id: "3B0AA19DACEF068B"
+					type: "biome"
+				}
+				{
+					biome: "biomesoplenty:maple_woods"
+					id: "516EF94F21AFA039"
+					type: "biome"
+				}
+				{
+					biome: "biomesoplenty:redwood_forest"
+					id: "12056A844E7979EC"
+					type: "biome"
+				}
+			]
+			x: 1.75d
+			y: -17.78d
+		}
+		{
+			dependencies: ["6AC8C8D0A65424C9"]
+			icon: {
+				id: "biomeswevegone:white_sakura_sapling"
+			}
+			id: "11F5FF463FFB7DA8"
+			rewards: [
+				{
+					id: "2F2DF122B6C96C75"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					biome: "biomeswevegone:sakura_grove"
+					id: "7B24CC86885D0E8A"
+					type: "biome"
+				}
+				{
+					biome: "biomeswevegone:pumpkin_valley"
+					id: "3A880E09D96C3A21"
+					type: "biome"
+				}
+				{
+					biome: "biomeswevegone:weeping_witch_forest"
+					id: "12E682E9A3F5DFE2"
+					type: "biome"
+				}
+			]
+			x: 1.75d
+			y: -16.48d
+		}
+		{
+			dependencies: ["6AC8C8D0A65424C9"]
+			icon: {
+				id: "natures_spirit:sugi_sapling"
+			}
+			id: "5012967720B78C97"
+			rewards: [
+				{
+					id: "5833FFC96F82BFF5"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					biome: "natures_spirit:sugi_forest"
+					id: "6137C7D277D2FB52"
+					type: "biome"
+				}
+				{
+					biome: "natures_spirit:carnation_fields"
+					id: "13711D62CF48FFFB"
+					type: "biome"
+				}
+				{
+					biome: "natures_spirit:cypress_fields"
+					id: "005CA76DAAFC566B"
+					type: "biome"
+				}
+			]
+			x: 1.75d
+			y: -15.18d
+		}
+		{
+			dependencies: ["6AC8C8D0A65424C9"]
+			icon: {
+				id: "regions_unexplored:baobab_sapling"
+			}
+			id: "449CBC79E6ACFC9A"
+			rewards: [
+				{
+					id: "20F67D331097FF0E"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					biome: "regions_unexplored:baobab_savanna"
+					id: "1F2BABEFE2C7958C"
+					type: "biome"
+				}
+				{
+					biome: "regions_unexplored:joshua_desert"
+					id: "3D56E30B2524728A"
+					type: "biome"
+				}
+				{
+					biome: "regions_unexplored:bamboo_forest"
+					id: "15506A32E4BD2C16"
+					type: "biome"
+				}
+			]
+			x: 1.75d
+			y: -13.88d
+		}
+		{
+			dependencies: ["6AC8C8D0A65424C9"]
+			icon: {
+				id: "minecraft:grass_block"
+			}
+			id: "0C2EBF819E476084"
+			rewards: [
+				{
+					id: "2C799420B81128B6"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					biome: "terralith:brushland"
+					id: "5429F27DFD1B364E"
+					type: "biome"
+				}
+				{
+					biome: "terralith:yellowstone"
+					id: "2AF2243307E101A9"
+					type: "biome"
+				}
+				{
+					biome: "terralith:highlands"
+					id: "5D88D914F7F037B2"
+					type: "biome"
+				}
+			]
+			x: 3.5d
+			y: -17.13d
+		}
+		{
+			dependencies: ["6AC8C8D0A65424C9"]
+			icon: {
+				id: "minecraft:pink_petals"
+			}
+			id: "5C2E2D24EC32DB10"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "12839B72C57CE247"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					biome: "environmental:blossom_woods"
+					id: "60D8A125C5F7E8FA"
+					type: "biome"
+				}
+				{
+					biome: "environmental:pine_barrens"
+					id: "13A6F443C30ACBE8"
+					type: "biome"
+				}
+			]
+			x: 3.5d
+			y: -15.83d
+		}
+		{
+			dependencies: ["6AC8C8D0A65424C9"]
+			icon: {
+				id: "minecraft:mycelium"
+			}
+			id: "74E3EAED329E6090"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "453C7720BF32AC5A"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					biome: "minecraft:mushroom_fields"
+					id: "4304C5CB6A4783CC"
+					type: "biome"
+				}
+			]
+			x: 3.5d
+			y: -14.53d
+		}
+		{
+			dependencies: ["6AC8C8D0A65424C9"]
+			icon: {
+				id: "minecraft:bell"
+			}
+			id: "3B08AA83EFC7BBF8"
+			rewards: [
+				{
+					id: "68FDF5249175DEB2"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "51DF011D8DCC2B07"
+					structure: "minecraft:village_desert"
+					type: "structure"
+				}
+				{
+					id: "3F746A145640FDAC"
+					structure: "minecraft:village_snowy"
+					type: "structure"
+				}
+				{
+					id: "095DA9913F5DCC11"
+					structure: "minecraft:village_taiga"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: -11.28d
+		}
+		{
+			dependencies: ["6AC8C8D0A65424C9"]
+			icon: {
+				id: "minecraft:stone_bricks"
+			}
+			id: "35D86A31BD39AA70"
+			rewards: [
+				{
+					id: "474F80929D8457D7"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "6A6307EE73A93F38"
+					structure: "#terralith:fortified_villages"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: -9.98d
+		}
+		{
+			dependencies: ["6AC8C8D0A65424C9"]
+			icon: {
+				id: "biomeswevegone:white_sakura_sapling"
+			}
+			id: "039117A30BF5DFF7"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "3D61A3920EE5A5BB"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "59A3ECEBDECE361F"
+					structure: "#biomeswevegone:village"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: -8.68d
+		}
+		{
+			dependencies: ["6AC8C8D0A65424C9"]
+			icon: {
+				id: "minecraft:crying_obsidian"
+			}
+			id: "6F8D2D54DCC426A5"
+			rewards: [
+				{
+					id: "5B3FA4395CE3C29E"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "1B1110305D16F717"
+					structure: "minecraft:ruined_portal"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: -7.38d
+		}
+		{
+			dependencies: ["6AC8C8D0A65424C9"]
+			icon: {
+				id: "minecraft:brush"
+			}
+			id: "3BB1C234B16D2345"
+			rewards: [
+				{
+					id: "2682D44C1493983B"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "29D20985AF06BC76"
+					structure: "minecraft:trail_ruins"
+					type: "structure"
+				}
+			]
+			x: 3.5d
+			y: -10.62d
+		}
+		{
+			dependencies: ["6AC8C8D0A65424C9"]
+			icon: {
+				id: "minecraft:spruce_log"
+			}
+			id: "3A6D23379D9C3EE1"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "185133C87B076830"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "592F1257AC6D5049"
+					structure: "#nova_structures:firewatch_tower"
+					type: "structure"
+				}
+			]
+			x: 3.5d
+			y: -9.33d
+		}
+		{
+			dependencies: ["6AC8C8D0A65424C9"]
+			icon: {
+				id: "minecraft:mossy_cobblestone"
+			}
+			id: "42727D580844C4DB"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "39B1492DC682947E"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "5C42BB48F28BC8DC"
+					structure: "structory:abandoned_chapel"
+					type: "structure"
+				}
+			]
+			x: 3.5d
+			y: -8.03d
+		}
+		{
+			dependencies: ["7B472916B8B3515D"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:spawner"
+			}
+			id: "6670F04259034690"
+			rewards: [
+				{
+					id: "142EDFEC2BAB9F6F"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "046C0E72419BEADC"
+					structure: "betterdungeons:zombie_dungeon"
+					type: "structure"
+				}
+				{
+					id: "6325126BBAA71680"
+					structure: "betterdungeons:skeleton_dungeon"
+					type: "structure"
+				}
+				{
+					id: "4312E22FD82BC26C"
+					structure: "betterdungeons:spider_dungeon"
+					type: "structure"
+				}
+			]
+			x: 0.0d
+			y: -2.83d
+		}
+		{
+			dependencies: ["6670F04259034690"]
+			icon: {
+				id: "minecraft:mossy_cobblestone"
+			}
+			id: "602A6DCEC704669E"
+			rewards: [
+				{
+					id: "49BD2650927C9140"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "0CACDB0D98465ED1"
+					structure: "betterjungletemples:jungle_temple"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: -4.78d
+		}
+		{
+			dependencies: ["6670F04259034690"]
+			icon: {
+				id: "minecraft:barrel"
+			}
+			id: "797FA3A5C3DAD91E"
+			rewards: [
+				{
+					id: "65E84A4631F90050"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "0E56CE934331FADE"
+					structure: "#nova_structures:taverns"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: -3.48d
+		}
+		{
+			dependencies: ["6670F04259034690"]
+			icon: {
+				id: "minecraft:crossbow"
+			}
+			id: "63CA9CBF64812D61"
+			rewards: [
+				{
+					id: "2DB2744FDC6F55F7"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "5439AB2BB3AD65EC"
+					structure: "nova_structures:illager_camp"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: -2.18d
+		}
+		{
+			dependencies: ["6670F04259034690"]
+			icon: {
+				id: "minecraft:chiseled_stone_bricks"
+			}
+			id: "105089649D8E3755"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "72D2BD507B8AE40D"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "41877C45211DE8A7"
+					structure: "explorify:mausoleum"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: -0.88d
+		}
+		{
+			dependencies: ["6670F04259034690"]
+			icon: {
+				id: "minecraft:dark_oak_planks"
+			}
+			id: "319B11EE740F7AD2"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "6EEFA96021DFF105"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "2A0FA69F09E544CE"
+					structure: "structory:old_manor"
+					type: "structure"
+				}
+			]
+			x: 3.5d
+			y: -2.83d
+		}
+		{
+			dependencies: ["38EA9BA21F0E366C"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:chiseled_sandstone"
+			}
+			id: "14F513B8AA7F697B"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "7CBA702B572B7431"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "341060597C7C7EF8"
+					structure: "betterdeserttemples:desert_temple"
+					type: "structure"
+				}
+			]
+			x: 0.0d
+			y: 4.17d
+		}
+		{
+			dependencies: ["14F513B8AA7F697B"]
+			icon: {
+				id: "minecraft:white_wool"
+			}
+			id: "497276E913CE7B0E"
+			rewards: [
+				{
+					id: "1383B8FCEA9CC723"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "48B73B4E8719B2F8"
+					structure: "dungeons_arise:illager_windmill"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 1.85d
+		}
+		{
+			dependencies: ["14F513B8AA7F697B"]
+			icon: {
+				id: "minecraft:red_mushroom_block"
+			}
+			id: "18EAEF743BF99699"
+			rewards: [
+				{
+					id: "27E9B5BB1CE71A42"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "7E3A251DAA693573"
+					structure: "dungeons_arise:mushroom_house"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 3.4d
+		}
+		{
+			dependencies: ["14F513B8AA7F697B"]
+			icon: {
+				id: "minecraft:jungle_log"
+			}
+			id: "002F3E5F190A3061"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "5DE7D6D0EF33C0DB"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "103FB6C4EBA6A88A"
+					structure: "dungeons_arise:jungle_tree_house"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 4.95d
+		}
+		{
+			dependencies: ["14F513B8AA7F697B"]
+			icon: {
+				id: "minecraft:barrel"
+			}
+			id: "3DAFED48E313520A"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "6CCF2F5D6EA76DB2"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "73471954038F6ADE"
+					structure: "dungeons_arise:greenwood_pub"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 6.5d
+		}
+		{
+			dependencies: ["14F513B8AA7F697B"]
+			icon: {
+				id: "minecraft:crossbow"
+			}
+			id: "287BFFDA5AC66887"
+			rewards: [
+				{
+					id: "5E7BFA839090CE40"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "2ED84AEFF57D370E"
+					structure: "dungeons_arise:bandit_towers"
+					type: "structure"
+				}
+			]
+			x: 3.5d
+			y: 4.17d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:bell"
+			}
+			id: "5145B3F784329175"
+			rewards: [
+				{
+					id: "32E500F53B59C5DF"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "00668757A680CF0B"
+					structure: "dungeons_arise:monastery"
+					type: "structure"
+				}
+			]
+			x: 0.0d
+			y: 11.18d
+		}
+		{
+			dependencies: ["5145B3F784329175"]
+			icon: {
+				id: "minecraft:crossbow"
+			}
+			id: "388BBC84224C1CDD"
+			rewards: [
+				{
+					id: "157DBD75D28CC081"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "528B89B1825D6988"
+					structure: "dungeons_arise:illager_fort"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 9.22d
+		}
+		{
+			dependencies: ["5145B3F784329175"]
+			icon: {
+				id: "minecraft:cobweb"
+			}
+			id: "20A43CD1F5CF7C0F"
+			rewards: [
+				{
+					id: "14E3923DA0EA380B"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "04893363991B97B6"
+					structure: "dungeons_arise:infested_temple"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 10.52d
+		}
+		{
+			dependencies: ["5145B3F784329175"]
+			icon: {
+				id: "minecraft:iron_sword"
+			}
+			id: "0E15935A7DF78162"
+			rewards: [
+				{
+					id: "3FFF66EE1D4FCBCC"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "0D9B685BF54ABAAF"
+					structure: "dungeons_arise:coliseum"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 11.82d
+		}
+		{
+			dependencies: ["5145B3F784329175"]
+			icon: {
+				id: "minecraft:brown_mushroom_block"
+			}
+			id: "4FD99E2AF448654D"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "478BD30A9FEAB7E9"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "24B959FFD0D3136F"
+					structure: "dungeons_arise:mushroom_mines"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 13.12d
+		}
+		{
+			dependencies: ["5145B3F784329175"]
+			icon: {
+				id: "minecraft:rail"
+			}
+			id: "0BF1CC17B83FCBA0"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "5D33D9EBF7F765F9"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "7C70EC38A9F26298"
+					structure: "dungeons_arise:mining_complex"
+					type: "structure"
+				}
+			]
+			x: 3.5d
+			y: 11.18d
+		}
+		{
+			dependencies: ["7A875C04743BEF62"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:blast_furnace"
+			}
+			id: "22EEE101E48BF0D3"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "7DEB1EC070252F6F"
+					type: "xp"
+					xp: 150
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "4E1D1337DA1E44EC"
+					structure: "dungeons_arise:foundry"
+					type: "structure"
+				}
+			]
+			x: 0.0d
+			y: 17.4d
+		}
+		{
+			dependencies: ["22EEE101E48BF0D3"]
+			icon: {
+				id: "minecraft:rotten_flesh"
+			}
+			id: "11281FFDBA69F1AE"
+			rewards: [
+				{
+					id: "0194D6B46B435E4D"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "5D0183B376D03724"
+					structure: "dungeons_arise:plague_asylum"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 15.85d
+		}
+		{
+			dependencies: ["22EEE101E48BF0D3"]
+			icon: {
+				id: "minecraft:gold_block"
+			}
+			id: "2852B3A9FFBC1CBC"
+			rewards: [
+				{
+					id: "2847013B7C6871BD"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "7C0569BF80244242"
+					structure: "dungeons_arise:shiraz_palace"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 17.4d
+		}
+		{
+			dependencies: ["22EEE101E48BF0D3"]
+			icon: {
+				id: "minecraft:netherite_scrap"
+			}
+			id: "3FD6C1E37EADC441"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "4D557ACC45DF0CAE"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "364C2C199406E197"
+					structure: "dungeons_arise:typhon"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 18.95d
+		}
+	]
+}

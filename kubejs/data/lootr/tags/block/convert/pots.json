@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "goety:crypt_urn",
+      "required": false
+    },
+    {
+      "id": "goety:stash_urn",
+      "required": false
+    },
+    {
+      "id": "goety:pithos",
+      "required": false
+    },
+    {
+      "id": "undergarden:depthrock_pot",
+      "required": false
+    }
+  ]
+}

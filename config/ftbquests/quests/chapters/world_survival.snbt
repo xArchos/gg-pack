@@ -1,0 +1,697 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "world_survival"
+	group: "61DE9B33509C7F9A"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "sereneseasons:calendar"
+	}
+	id: "6D43547D871FC7EE"
+	images: [
+		{
+			height: 1.8d
+			id: "6DC2AE8A5899E940"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -12.88d
+		}
+		{
+			height: 1.8d
+			id: "0527BB6A66195DF6"
+			image: "sereneseasons:item/calendar_00"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -12.88d
+		}
+		{
+			height: 1.8d
+			id: "7040357FCDA08D83"
+			image: "waystones:item/warp_scroll"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -12.88d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "3DBF841AC9124E93"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -10.72d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "7551C65C21DC96EF"
+			image: "farmersdelight:item/vegetable_soup"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -10.72d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "6CF762D8EF4AD95C"
+			image: "solcarrot:item/food_book"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -10.72d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "49C4079C8613DBD8"
+			image: "farmersdelight:block/rich_soil"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -10.72d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "2DEEB22F78BB636A"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -3.23d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "3D46ECDF37484309"
+			image: "minecraft:item/golden_apple"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -3.23d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "6901117D8119BAF9"
+			image: "minecraft:item/bone"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -3.23d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.04d
+			id: "6582E92F67271F38"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -3.73d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "36F4A978DAEC2E4B"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 1.97d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "4CC25AA6A1D7330C"
+			image: "waystones:item/warp_dust"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 1.97d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.8d
+			id: "50D6C92748CA48A3"
+			image: "waystones:item/attuned_shard"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 1.97d
+		}
+		{
+			dependency: "61184EB93DBC27D9"
+			height: 0.04d
+			id: "2337093841366404"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 1.47d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "6670B5027E807F9E"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 4.83d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "607143EE520EE1AD"
+			image: "naturescompass:item/naturescompass_00"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 4.83d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "05D3C7A60371E8AC"
+			image: "explorerscompass:item/explorerscompass_00"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 4.83d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.04d
+			id: "3CC3F202CAF3EB67"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 4.33d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "24F34C87A3EBADF9"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 9.23d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "7D2F3ABBE449A06A"
+			image: "waystones:item/dormant_shard"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 9.23d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "4B775D2B3585F176"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 8.73d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["61184EB93DBC27D9"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "sereneseasons:calendar"
+			}
+			id: "165C4F4398AB9EE6"
+			preset: "info"
+			rewards: [
+				{
+					id: "3C968F249689C892"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "6112D378797B6AC4"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: -6.87d
+		}
+		{
+			dependencies: ["165C4F4398AB9EE6"]
+			id: "16AFBF8CDD6DE71E"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "662409BAFFEF9550"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "179068197B0E9255"
+					item: {
+						count: 1
+						id: "solcarrot:food_book"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -9.2d
+		}
+		{
+			dependencies: ["165C4F4398AB9EE6"]
+			icon: {
+				id: "farmersdelight:vegetable_soup"
+			}
+			id: "490421CD4368201E"
+			rewards: [
+				{
+					id: "3AFE52F75A79BC85"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					advancement: "farmersdelight:main/eat_nourishing_food"
+					criterion: ""
+					id: "00068D1D0B74C0A8"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: -7.65d
+		}
+		{
+			dependencies: ["165C4F4398AB9EE6"]
+			icon: {
+				id: "farmersdelight:roast_chicken_block"
+			}
+			id: "106859CA3013FCFA"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "1AEECAB5A4389C7D"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					advancement: "farmersdelight:main/place_feast"
+					criterion: ""
+					id: "1830CDDEC7735BF5"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: -6.1d
+		}
+		{
+			dependencies: ["165C4F4398AB9EE6"]
+			id: "799A2FD189BF1CDB"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "13FC4E4647180A3B"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "0980D79E9FA5ADDA"
+					item: {
+						count: 1
+						id: "farmersdelight:organic_compost"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -4.55d
+		}
+		{
+			dependencies: ["165C4F4398AB9EE6"]
+			icon: {
+				id: "minecraft:golden_apple"
+			}
+			id: "2947E65344724C83"
+			preset: "info"
+			rewards: [
+				{
+					id: "1F54371CE09897C9"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "5A36FB66E06D8784"
+					type: "checkmark"
+				}
+			]
+			x: 1.75d
+			y: -1.83d
+		}
+		{
+			dependencies: ["165C4F4398AB9EE6"]
+			icon: {
+				id: "minecraft:skeleton_skull"
+			}
+			id: "29E3E195EC322300"
+			preset: "info"
+			rewards: [
+				{
+					id: "083234114CC9F014"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "715B4D865A73929E"
+					type: "checkmark"
+				}
+			]
+			x: 1.75d
+			y: -0.53d
+		}
+		{
+			dependencies: ["165C4F4398AB9EE6"]
+			id: "2B08D966141A354F"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "2432DDEC9483AAB2"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "5BDCF89D9D69F130"
+					item: {
+						count: 1
+						id: "upgrade_aquatic:bedroll"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 0.77d
+		}
+		{
+			dependencies: ["165C4F4398AB9EE6"]
+			icon: {
+				id: "waystones:waystone"
+			}
+			id: "5A9B278AE2E15BB8"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "5112ABEC88E095EA"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "4417F0B2D2B33104"
+					observation_type: "block_tag"
+					timer: 20L
+					to_observe: "waystones:waystones"
+					type: "observation"
+				}
+			]
+			x: 1.75d
+			y: 3.5d
+		}
+		{
+			dependencies: ["5A9B278AE2E15BB8"]
+			id: "0F346A4EECEE8263"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "08BFE89573AB52E2"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tags: ["era_kamien"]
+			tasks: [
+				{
+					id: "2F8858E41F280279"
+					item: {
+						count: 1
+						id: "waystones:warp_scroll"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["7B472916B8B3515D"]
+			hide_until_deps_complete: true
+			id: "30F4963AED57C58E"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "338A5E72A2A0287D"
+					type: "xp"
+					xp: 75
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "1E892B7B6B3704F0"
+					item: {
+						count: 1
+						id: "naturescompass:naturescompass"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 7.13d
+		}
+		{
+			dependencies: ["30F4963AED57C58E"]
+			id: "52E2147A3049BCC7"
+			rewards: [
+				{
+					id: "6B4E42660C73B1C0"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "2F4CE8E8FC37E99A"
+					item: {
+						count: 1
+						id: "explorerscompass:explorerscompass"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 6.35d
+		}
+		{
+			dependencies: ["30F4963AED57C58E", "165C4F4398AB9EE6"]
+			id: "6830D44BCD85AC2A"
+			rewards: [
+				{
+					id: "2B51F5534F79AD4A"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "0BA2B2F3CB2CCDB5"
+					item: {
+						count: 1
+						id: "sereneseasons:calendar"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 7.9d
+		}
+		{
+			dependencies: ["30F4963AED57C58E", "5A9B278AE2E15BB8"]
+			id: "75FD615300C441C1"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "376D2A0868E93717"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "47AA92546A7F75B6"
+					item: {
+						count: 1
+						id: "waystones:warp_stone"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 7.13d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			id: "68C9ABB319EBE472"
+			rewards: [
+				{
+					id: "30396C6C910396D3"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "6670E462EC2D45D7"
+					item: {
+						count: 1
+						id: "waystones:waystone"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 10.63d
+		}
+		{
+			dependencies: ["68C9ABB319EBE472"]
+			icon: {
+				id: "waystones:red_sharestone"
+			}
+			id: "2685C26F4B824914"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "2096EE0B45AF6E81"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "232152B844455FE9"
+					item: {
+						count: 1
+						id: "waystones:red_sharestone"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 10.63d
+		}
+		{
+			dependencies: ["68C9ABB319EBE472", "6830D44BCD85AC2A"]
+			id: "172014DD1BAA5299"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "4E6302E770C786D8"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "4C81801EA857C929"
+					item: {
+						count: 1
+						id: "sereneseasons:season_sensor"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 10.63d
+		}
+	]
+}

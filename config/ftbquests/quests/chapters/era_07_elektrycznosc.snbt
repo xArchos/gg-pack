@@ -1,0 +1,1984 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "era_07_elektrycznosc"
+	group: "3CDFA8C60B58BCC5"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "gg:pieczec_elektrycznosc"
+	}
+	id: "3D16C43ACA029FC1"
+	images: [
+		{
+			height: 1.8d
+			id: "6D3AC01A476239DF"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 14.0d
+			x: 10.62d
+			y: -21.28d
+		}
+		{
+			height: 1.8d
+			id: "57AEE2471CFEBFD9"
+			image: "gg:item/pieczec_elektrycznosc"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 2.43d
+			y: -21.28d
+		}
+		{
+			height: 1.8d
+			id: "4AA56FC53289955A"
+			image: "createaddition:item/capacitor"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 18.82d
+			y: -21.28d
+		}
+		{
+			height: 0.8d
+			id: "653D2BB52A22434C"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -19.12d
+		}
+		{
+			height: 0.8d
+			id: "281B1B3287697E05"
+			image: "createaddition:item/copper_spool"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -19.12d
+		}
+		{
+			height: 0.8d
+			id: "55DD86D480B2D092"
+			image: "create_new_age:block/generator_coil"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -19.12d
+		}
+		{
+			height: 0.8d
+			id: "751A75D1DAD40A4E"
+			image: "create_new_age:item/overcharged_iron"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 19.65d
+			y: -19.12d
+		}
+		{
+			height: 0.8d
+			id: "5897EAEE657C9DA5"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -13.18d
+		}
+		{
+			height: 0.8d
+			id: "3DD693F82DBAC75E"
+			image: "mekanism:item/elite_control_circuit"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -13.18d
+		}
+		{
+			height: 0.8d
+			id: "03F11A4BDE87F925"
+			image: "mekanism:item/ingot_osmium"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -13.18d
+		}
+		{
+			height: 0.04d
+			id: "56F97E85A7171079"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 24.25d
+			x: 10.62d
+			y: -13.68d
+		}
+		{
+			height: 0.8d
+			id: "0BC042BEE17BCFB6"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -7.23d
+		}
+		{
+			height: 0.8d
+			id: "413F06AF46A58708"
+			image: "malum:item/hallowed_gold_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -7.23d
+		}
+		{
+			height: 0.04d
+			id: "64E2F44CA69FFBCE"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 24.25d
+			x: 10.62d
+			y: -7.73d
+		}
+		{
+			height: 0.8d
+			id: "7000E1ACDA73AC15"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: -3.33d
+		}
+		{
+			height: 0.8d
+			id: "6292286128BFC53F"
+			image: "undergarden:item/catalyst"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: -3.33d
+		}
+		{
+			height: 0.8d
+			id: "4F6DA6913BCE56F0"
+			image: "deeperdarker:item/heart_of_the_deep"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: -3.33d
+		}
+		{
+			height: 0.8d
+			id: "4815ED9E200395DA"
+			image: "undergarden:item/cloggrum_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 19.65d
+			y: -3.33d
+		}
+		{
+			height: 0.04d
+			id: "6AEAA26CE03AA66C"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 24.25d
+			x: 10.62d
+			y: -3.83d
+		}
+		{
+			height: 0.8d
+			id: "78BC96048F50C84C"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 2.62d
+		}
+		{
+			height: 0.8d
+			id: "06EA43C6F62AC2D8"
+			image: "deeperdarker:item/warden_carapace"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 2.62d
+		}
+		{
+			height: 0.8d
+			id: "7B523D27FB3E7064"
+			image: "undergarden:item/forgotten_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: 2.62d
+		}
+		{
+			height: 0.04d
+			id: "5B227B6F1DBD2F72"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 24.25d
+			x: 10.62d
+			y: 2.12d
+		}
+		{
+			height: 0.8d
+			id: "2E3C67DD2719F9A2"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 9.32d
+		}
+		{
+			height: 0.8d
+			id: "14064CB4BEE06E53"
+			image: "ae2:item/fluix_crystal"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 9.32d
+		}
+		{
+			height: 0.8d
+			id: "330526DDE65C5AE1"
+			image: "ae2:item/engineering_processor"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: 9.32d
+		}
+		{
+			height: 0.04d
+			id: "25D20BA3AEAD221C"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 24.25d
+			x: 10.62d
+			y: 8.82d
+		}
+		{
+			height: 0.8d
+			id: "12F0FACC594FC16D"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 13.72d
+		}
+		{
+			height: 0.8d
+			id: "3361AEE4E5A7376D"
+			image: "buildinggadgets2:item/gadget_building"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 13.72d
+		}
+		{
+			height: 0.8d
+			id: "72BF037C70775D3C"
+			image: "buildinggadgets2:item/gadget_copy_paste"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.2d
+			y: 13.72d
+		}
+		{
+			height: 0.04d
+			id: "66B12207290B0831"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 24.25d
+			x: 10.62d
+			y: 13.22d
+		}
+		{
+			height: 0.8d
+			id: "447A21403F4EA39D"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 6.5d
+			x: 5.25d
+			y: 17.62d
+		}
+		{
+			height: 0.8d
+			id: "7E654A6E2871F9EA"
+			image: "minecolonies:item/build_goggles"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.3d
+			y: 17.62d
+		}
+		{
+			height: 0.04d
+			id: "4A686EB06624A4D0"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 24.25d
+			x: 10.62d
+			y: 17.12d
+		}
+	]
+	order_index: 7
+	quest_links: [
+		{
+			id: "01730E9AD1CBFF4C"
+			linked_quest: "0499EEF40E246643"
+			x: 17.75d
+			y: 10.85d
+		}
+		{
+			id: "49DA96C279ECC781"
+			linked_quest: "3EAB7CF20CCA6468"
+			x: 17.75d
+			y: 12.4d
+		}
+		{
+			id: "26A40D2380E23BEA"
+			linked_quest: "2D78605463F7CB95"
+			x: 14.25d
+			y: -17.6d
+		}
+		{
+			id: "24D8CEEDB9AA49A9"
+			linked_quest: "469A32D61ED9194B"
+			x: 14.25d
+			y: -16.05d
+		}
+		{
+			id: "4227E4EDE4EBE345"
+			linked_quest: "3FCC56C1A42554E7"
+			x: 14.25d
+			y: -14.5d
+		}
+		{
+			id: "2DA431F5F74F51D6"
+			linked_quest: "0AEAED1C255BB1BC"
+			x: 16.0d
+			y: -16.05d
+		}
+		{
+			id: "01EF287679D6E621"
+			linked_quest: "4E72AB01B83217F5"
+			x: 12.5d
+			y: -1.03d
+		}
+		{
+			id: "03B91F2B33B33A88"
+			linked_quest: "062EC956A271670A"
+			x: 12.5d
+			y: 0.52d
+		}
+		{
+			id: "43391382391A8A28"
+			linked_quest: "0C34682C23DDE3DE"
+			x: 17.75d
+			y: 15.78d
+		}
+	]
+	quests: [
+		{
+			icon: {
+				id: "gg:pieczec_elektrycznosc"
+			}
+			id: "74C281A272FD6D6D"
+			invisible: true
+			preset: "era"
+			rewards: [ ]
+			tags: ["era_elektrycznosc", "era_start"]
+			tasks: [
+				{
+					id: "73A6EB2D9F0A6401"
+					stage: "era_elektrycznosc"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			id: "7DC67F351CDCAD4D"
+			rewards: [
+				{
+					id: "7F620994AECCD5B8"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "43F48DA5F7079E2E"
+					item: {
+						count: 1
+						id: "createaddition:rolling_mill"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -17.6d
+		}
+		{
+			dependencies: ["7DC67F351CDCAD4D"]
+			id: "36115C5C4E728E80"
+			rewards: [
+				{
+					id: "69B5D064F9E95687"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "413EA3525E13ACE6"
+					item: {
+						count: 1
+						id: "createaddition:copper_spool"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -16.83d
+		}
+		{
+			dependencies: ["36115C5C4E728E80"]
+			id: "491E574EABA5BBA0"
+			rewards: [
+				{
+					id: "1E84CC787C94D75E"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "05DB8EBA41B92924"
+					item: {
+						count: 1
+						id: "createaddition:alternator"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -16.05d
+		}
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			id: "444EE09EBF742773"
+			rewards: [
+				{
+					id: "1DB9140E5F74E1BC"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "6CF21A08F51B7F3F"
+					item: {
+						count: 1
+						id: "create_new_age:generator_coil"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -16.05d
+		}
+		{
+			dependencies: ["491E574EABA5BBA0", "444EE09EBF742773"]
+			icon: {
+				id: "createaddition:alternator"
+			}
+			id: "41BCFE74B5FC717C"
+			min_required_dependencies: 1
+			preset: "milestone"
+			rewards: [
+				{
+					id: "14716F7A5B13B087"
+					type: "xp"
+					xp: 225
+				}
+				{
+					id: "0CF440C57900748E"
+					table_id: 6877466544649014986L
+					type: "random"
+				}
+			]
+			tags: ["era_elektrycznosc", "milestone"]
+			tasks: [ ]
+			x: 9.0d
+			y: -16.05d
+		}
+		{
+			dependencies: ["7DC67F351CDCAD4D"]
+			id: "49186F5EB0E72BA7"
+			rewards: [
+				{
+					id: "4ABED323060D06C7"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "seal"]
+			tasks: [
+				{
+					id: "0509BC951C9F3CBF"
+					item: {
+						count: 1
+						id: "createaddition:capacitor"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -15.28d
+		}
+		{
+			dependencies: ["41BCFE74B5FC717C", "49186F5EB0E72BA7"]
+			id: "19634E871E4254E7"
+			rewards: [
+				{
+					id: "14810250CF32D52B"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "52F0BCD879243CC7"
+					item: {
+						count: 1
+						id: "createaddition:tesla_coil"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -16.83d
+		}
+		{
+			dependencies: ["41BCFE74B5FC717C"]
+			id: "4D788DFE12C766B3"
+			rewards: [
+				{
+					id: "0724ABC0AE999D22"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "270D41D531881165"
+					item: {
+						count: 1
+						id: "create_new_age:basic_energiser"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -15.28d
+		}
+		{
+			dependencies: ["4D788DFE12C766B3"]
+			id: "70E7DC4726E742B6"
+			rewards: [
+				{
+					id: "2191B67EF08ABAD8"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					count: 256L
+					id: "201C712B8B37DAB9"
+					item: {
+						count: 1
+						id: "create_new_age:overcharged_iron"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -16.05d
+		}
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			id: "3EC453AB636328FF"
+			rewards: [
+				{
+					id: "527AFB7FFC00D6D8"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "seal"]
+			tasks: [
+				{
+					id: "25585ED01FCAF346"
+					item: {
+						count: 1
+						id: "create_new_age:copper_circuit"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -14.5d
+		}
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			id: "097BC53951A8ECCA"
+			rewards: [
+				{
+					id: "51E4A4D168C5DFAF"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					count: 8L
+					id: "120F82E8C6CACEE2"
+					item: {
+						count: 1
+						id: "mekanism:raw_osmium"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -10.1d
+		}
+		{
+			dependencies: ["097BC53951A8ECCA"]
+			id: "6145486686129ED1"
+			rewards: [
+				{
+					id: "75FB4DAE4682DD7B"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "1E830D91A599125D"
+					item: {
+						count: 1
+						id: "mekanism:metallurgic_infuser"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -10.1d
+		}
+		{
+			dependencies: ["6145486686129ED1"]
+			id: "1C0B751453CFEBA3"
+			rewards: [
+				{
+					id: "51E9845E07753C6D"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "seal"]
+			tasks: [
+				{
+					id: "08708249319F0A1E"
+					item: {
+						count: 1
+						id: "mekanism:steel_casing"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -10.88d
+		}
+		{
+			dependencies: ["6145486686129ED1"]
+			icon: {
+				id: "mekanism:advanced_control_circuit"
+			}
+			id: "33F85A892ECD3628"
+			rewards: [
+				{
+					id: "5DD5D794F95E6417"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "164D46CF9FA8129A"
+					item: {
+						count: 1
+						id: "mekanism:basic_control_circuit"
+					}
+					type: "item"
+				}
+				{
+					id: "07533D84D9A7CBFD"
+					item: {
+						count: 1
+						id: "mekanism:advanced_control_circuit"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -9.33d
+		}
+		{
+			dependencies: ["1C0B751453CFEBA3", "33F85A892ECD3628"]
+			id: "2CDB41D811879C85"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "30CC20731200737C"
+					type: "xp"
+					xp: 225
+				}
+				{
+					id: "3EF1AC6E016C8CE6"
+					table_id: 6877466544649014986L
+					type: "random"
+				}
+			]
+			tags: ["era_elektrycznosc", "milestone"]
+			tasks: [
+				{
+					id: "1B2C1AE08EEC86D7"
+					item: {
+						count: 1
+						id: "mekanism:enrichment_chamber"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -10.88d
+		}
+		{
+			dependencies: ["2CDB41D811879C85"]
+			id: "4272245B725F5412"
+			rewards: [
+				{
+					id: "58888F3B7FB72F86"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "5E7144C85FA444FF"
+					item: {
+						count: 1
+						id: "mekanism:purification_chamber"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -11.65d
+		}
+		{
+			dependencies: ["33F85A892ECD3628"]
+			id: "255E891A81367224"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "1BABEEAEFE9537EB"
+					type: "xp"
+					xp: 225
+				}
+				{
+					id: "3491ECDDC836D350"
+					table_id: 6877466544649014986L
+					type: "random"
+				}
+			]
+			tags: ["era_elektrycznosc", "milestone", "seal"]
+			tasks: [
+				{
+					id: "1EA47D6CD3E591CF"
+					item: {
+						count: 1
+						id: "mekanism:elite_control_circuit"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -9.33d
+		}
+		{
+			dependencies: ["4272245B725F5412", "255E891A81367224"]
+			id: "5F1EA8FA6531E9CC"
+			rewards: [
+				{
+					id: "63F883CD23AF3DDC"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "67D4216344BAFCAB"
+					item: {
+						count: 1
+						id: "mekanism:chemical_injection_chamber"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -10.1d
+		}
+		{
+			dependencies: ["2CDB41D811879C85"]
+			id: "216543B04D6E3261"
+			rewards: [
+				{
+					id: "504A9635D10D5984"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					count: 512L
+					id: "4024B1985470C912"
+					item: {
+						count: 1
+						id: "mekanism:ingot_osmium"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -10.1d
+		}
+		{
+			dependencies: ["2CDB41D811879C85"]
+			icon: {
+				id: "mekanism:basic_enriching_factory"
+			}
+			id: "6250BAE606DB10A4"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "7B5BD65E0E176C5C"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "optional"]
+			tasks: [
+				{
+					advancement: "mekanism:factory"
+					criterion: ""
+					id: "20FADAC36A93608E"
+					type: "advancement"
+				}
+			]
+			x: 10.75d
+			y: -8.55d
+		}
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			id: "5E06FAA2FCFC47C6"
+			rewards: [
+				{
+					id: "5A7B2230C4EE176F"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "seal"]
+			tasks: [
+				{
+					id: "6666D19CA48A2CA9"
+					item: {
+						count: 1
+						id: "malum:hallowed_gold_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -5.83d
+		}
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			id: "1CD64F1F2177B833"
+			rewards: [
+				{
+					id: "4B100A0E8357623C"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "6A4E687F464D879B"
+					item: {
+						count: 1
+						id: "goety:dark_scroll"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -4.53d
+		}
+		{
+			dependencies: ["27E650F71B02D6DE", "671959A34C149691"]
+			id: "60132F93531E1A5A"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "4CC1FEF0E75B9F53"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "optional"]
+			tasks: [
+				{
+					id: "2F401AA6C0367D9C"
+					item: {
+						count: 1
+						id: "deeperdarker:sonorous_staff"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -5.18d
+		}
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			id: "2AC141506FCAD20B"
+			rewards: [
+				{
+					id: "2FF7AA39A85DB2FF"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "2F0E821B7891A841"
+					item: {
+						count: 1
+						id: "undergarden:catalyst"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -1.03d
+		}
+		{
+			dependencies: ["2AC141506FCAD20B"]
+			icon: {
+				id: "undergarden:catalyst"
+			}
+			id: "7EE6274B35D74035"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "7E61A4DE2E94CE55"
+					type: "xp"
+					xp: 225
+				}
+				{
+					id: "12C3DF14ADE78F58"
+					table_id: 6877466544649014986L
+					type: "random"
+				}
+			]
+			tags: ["era_elektrycznosc", "milestone"]
+			tasks: [
+				{
+					dimension: "undergarden:undergarden"
+					id: "1FBF0C242741ECB6"
+					type: "dimension"
+				}
+			]
+			x: 5.5d
+			y: -0.25d
+		}
+		{
+			dependencies: ["7EE6274B35D74035"]
+			icon: {
+				id: "undergarden:cloggrum_ingot"
+			}
+			id: "0382C88FA6EA89A4"
+			rewards: [
+				{
+					id: "376DC1C4B4C963CD"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "1CBBA2CB2AD091F9"
+					item: {
+						count: 1
+						id: "undergarden:cloggrum_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "15BE5E8178DCE3A5"
+					item: {
+						count: 1
+						id: "undergarden:froststeel_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "754B18E02CFF82F5"
+					item: {
+						count: 1
+						id: "undergarden:utherium_crystal"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: -1.8d
+		}
+		{
+			dependencies: ["7EE6274B35D74035"]
+			icon: {
+				id: "undergarden:forgotten_ingot"
+			}
+			id: "6194A0F65340FEED"
+			rewards: [
+				{
+					id: "18A893552B2283B3"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "62BB9208F1FD6FFF"
+					structure: "undergarden:catacombs"
+					type: "structure"
+				}
+			]
+			x: 7.25d
+			y: -0.25d
+		}
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			icon: {
+				id: "minecraft:echo_shard"
+			}
+			id: "305D66011DB67B70"
+			rewards: [
+				{
+					id: "075D1C47D3DE8360"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "1C1F14AE79EA7C6B"
+					structure: "minecraft:ancient_city"
+					type: "structure"
+				}
+			]
+			x: 3.75d
+			y: 0.52d
+		}
+		{
+			dependencies: ["0CEC8654540CE3AB"]
+			id: "27E650F71B02D6DE"
+			rewards: [
+				{
+					id: "540E5A1FAF9EB9DF"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "41564D2E00C3E108"
+					item: {
+						count: 1
+						id: "deeperdarker:heart_of_the_deep"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: 1.3d
+		}
+		{
+			dependencies: ["27E650F71B02D6DE"]
+			icon: {
+				id: "deeperdarker:heart_of_the_deep"
+			}
+			id: "23750D7C810A77A0"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "57B954D170D1ADA8"
+					type: "xp"
+					xp: 225
+				}
+				{
+					id: "012B7F26F355E097"
+					table_id: 6877466544649014986L
+					type: "random"
+				}
+			]
+			tags: ["era_elektrycznosc", "milestone"]
+			tasks: [
+				{
+					dimension: "deeperdarker:otherside"
+					id: "6D8ECAB94FF1073A"
+					type: "dimension"
+				}
+			]
+			x: 9.0d
+			y: -0.25d
+		}
+		{
+			dependencies: ["23750D7C810A77A0"]
+			id: "2C73C77BEC4833AF"
+			rewards: [
+				{
+					id: "203038E12FA4CE9E"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "3F27AE2786DE04BC"
+					item: {
+						count: 1
+						id: "deeperdarker:resonarium"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: -0.25d
+		}
+		{
+			dependencies: ["305D66011DB67B70"]
+			icon: {
+				id: "deeperdarker:warden_carapace"
+			}
+			id: "0CEC8654540CE3AB"
+			preset: "boss"
+			rewards: [
+				{
+					id: "1FE0C147084221B4"
+					type: "xp"
+					xp: 450
+				}
+			]
+			tags: ["era_elektrycznosc", "boss"]
+			tasks: [
+				{
+					id: "4022DBB9D5DF16ED"
+					stage: "boss_minecraft_warden"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 5.5d
+			y: 5.17d
+		}
+		{
+			dependencies: ["6194A0F65340FEED"]
+			icon: {
+				id: "undergarden:forgotten_ingot"
+			}
+			id: "6F084A4C80C949B3"
+			preset: "boss"
+			rewards: [
+				{
+					id: "462C8F5257E1587A"
+					type: "xp"
+					xp: 450
+				}
+			]
+			tags: ["era_elektrycznosc", "boss"]
+			tasks: [
+				{
+					id: "6166F97A98ADD54B"
+					stage: "boss_undergarden_forgotten_guardian"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 9.0d
+			y: 6.07d
+		}
+		{
+			dependencies: ["23750D7C810A77A0"]
+			icon: {
+				id: "deeperdarker:soul_crystal"
+			}
+			id: "671959A34C149691"
+			preset: "boss"
+			rewards: [
+				{
+					id: "1B633760B866180A"
+					type: "xp"
+					xp: 450
+				}
+			]
+			tags: ["era_elektrycznosc", "boss"]
+			tasks: [
+				{
+					id: "135B563B5FEC38AB"
+					stage: "boss_deeperdarker_stalker"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 10.75d
+			y: 4.27d
+		}
+		{
+			dependencies: ["1CD64F1F2177B833"]
+			icon: {
+				id: "goety:soul_ruby"
+			}
+			id: "7BC43F3F809F769A"
+			preset: "boss"
+			rewards: [
+				{
+					id: "547F48FA13FE59E2"
+					type: "xp"
+					xp: 450
+				}
+			]
+			tags: ["era_elektrycznosc", "boss"]
+			tasks: [
+				{
+					id: "2F0EA304CF97AB76"
+					stage: "boss_goety_vizier"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 5.5d
+			y: 6.97d
+		}
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			icon: {
+				id: "minecraft:redstone_block"
+			}
+			id: "5A71C5EA9533AA40"
+			preset: "boss"
+			rewards: [
+				{
+					id: "006AF99867933ABB"
+					type: "xp"
+					xp: 450
+				}
+			]
+			tags: ["era_elektrycznosc", "boss"]
+			tasks: [
+				{
+					id: "319CF5B79ED4393A"
+					stage: "boss_goety_hostile_redstone_monstrosity"
+					team_stage: true
+					type: "gamestage"
+				}
+			]
+			x: 3.75d
+			y: 6.07d
+		}
+		{
+			dependencies: ["6F084A4C80C949B3", "0CEC8654540CE3AB"]
+			icon: {
+				id: "deeperdarker:warden_carapace"
+			}
+			id: "482018338FB73459"
+			min_required_dependencies: 1
+			preset: "milestone"
+			rewards: [
+				{
+					id: "35DD6CAA0D7CC4F6"
+					type: "xp"
+					xp: 225
+				}
+				{
+					id: "090C98C1DD550E76"
+					table_id: 6877466544649014986L
+					type: "random"
+				}
+			]
+			tags: ["era_elektrycznosc", "milestone"]
+			tasks: [ ]
+			x: 10.75d
+			y: 6.07d
+		}
+		{
+			dependencies: ["671959A34C149691", "7BC43F3F809F769A", "5A71C5EA9533AA40"]
+			icon: {
+				id: "deeperdarker:soul_crystal"
+			}
+			id: "4F2D7F2DEBE79B75"
+			min_required_dependencies: 1
+			preset: "milestone"
+			rewards: [
+				{
+					id: "13D3446907A99C4A"
+					type: "xp"
+					xp: 225
+				}
+				{
+					id: "5291D3DA0186F039"
+					table_id: 6877466544649014986L
+					type: "random"
+				}
+			]
+			tags: ["era_elektrycznosc", "milestone"]
+			tasks: [ ]
+			x: 12.5d
+			y: 6.07d
+		}
+		{
+			dependencies: ["6F084A4C80C949B3"]
+			id: "5EC7B7B95A593E93"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "00AA67F846F1207D"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "optional"]
+			tasks: [
+				{
+					id: "1D728B8580D2C2BD"
+					item: {
+						count: 1
+						id: "undergarden:forgotten_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: 7.87d
+		}
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			icon: {
+				id: "ae2:sky_stone_block"
+			}
+			id: "746E83CAEFA0D10E"
+			rewards: [
+				{
+					id: "60E74E8F3C4770DE"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "426AAEFB93312BBB"
+					structure: "ae2:meteorite"
+					type: "structure"
+				}
+			]
+			x: 3.75d
+			y: 11.62d
+		}
+		{
+			dependencies: ["746E83CAEFA0D10E"]
+			icon: {
+				id: "ae2:engineering_processor_press"
+			}
+			id: "6E149B0A7A322983"
+			rewards: [
+				{
+					id: "2439D20A0A2DD9B3"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "3A62FF30840B0082"
+					item: {
+						count: 1
+						id: "ae2:silicon_press"
+					}
+					type: "item"
+				}
+				{
+					id: "0EE403662B116C7F"
+					item: {
+						count: 1
+						id: "ae2:logic_processor_press"
+					}
+					type: "item"
+				}
+				{
+					id: "783B248486079AFA"
+					item: {
+						count: 1
+						id: "ae2:calculation_processor_press"
+					}
+					type: "item"
+				}
+				{
+					id: "4D3C2C51DC115C20"
+					item: {
+						count: 1
+						id: "ae2:engineering_processor_press"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 10.85d
+		}
+		{
+			dependencies: ["746E83CAEFA0D10E"]
+			id: "781B686B918890DB"
+			rewards: [
+				{
+					id: "348DB03D055BCE1C"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "193F81BCBBB9B8CB"
+					item: {
+						count: 1
+						id: "ae2:inscriber"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 12.4d
+		}
+		{
+			dependencies: ["746E83CAEFA0D10E", "41BCFE74B5FC717C"]
+			id: "235048A9649248B7"
+			rewards: [
+				{
+					id: "4D7679B1F7349A20"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "776CA439F25799DC"
+					item: {
+						count: 1
+						id: "ae2:charger"
+					}
+					type: "item"
+				}
+			]
+			x: 10.75d
+			y: 11.62d
+		}
+		{
+			dependencies: ["235048A9649248B7"]
+			id: "4E8AA1EDFE6CB7C9"
+			rewards: [
+				{
+					id: "77067F96EDF76DC4"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "334E0A2A8A5602C6"
+					item: {
+						count: 1
+						id: "ae2:fluix_crystal"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: 11.62d
+		}
+		{
+			dependencies: ["781B686B918890DB", "6E149B0A7A322983"]
+			icon: {
+				id: "ae2:calculation_processor"
+			}
+			id: "7412A95FC4A07D54"
+			rewards: [
+				{
+					id: "48B3978B338902FF"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "37AED33A4AE5F682"
+					item: {
+						count: 1
+						id: "ae2:logic_processor"
+					}
+					type: "item"
+				}
+				{
+					id: "1846CB9C1195300C"
+					item: {
+						count: 1
+						id: "ae2:calculation_processor"
+					}
+					type: "item"
+				}
+			]
+			x: 7.25d
+			y: 11.62d
+		}
+		{
+			dependencies: ["7412A95FC4A07D54"]
+			id: "1D93B9C7003F1F15"
+			rewards: [
+				{
+					id: "0E4723BFF9D70E91"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "seal"]
+			tasks: [
+				{
+					id: "269AFE2A566482CC"
+					item: {
+						count: 1
+						id: "ae2:engineering_processor"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 11.62d
+		}
+		{
+			dependencies: ["1D93B9C7003F1F15", "4E8AA1EDFE6CB7C9"]
+			icon: {
+				id: "ae2:drive"
+			}
+			id: "772875E33A91B129"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "1C185242681A4683"
+					type: "xp"
+					xp: 225
+				}
+				{
+					id: "33918D9919B76BC5"
+					table_id: 6877466544649014986L
+					type: "random"
+				}
+			]
+			tags: ["era_elektrycznosc", "milestone"]
+			tasks: [
+				{
+					id: "7FF19CDC78B3D109"
+					item: {
+						count: 1
+						id: "ae2:controller"
+					}
+					type: "item"
+				}
+				{
+					id: "09F9CD5A9C7CA1D6"
+					item: {
+						count: 1
+						id: "ae2:drive"
+					}
+					type: "item"
+				}
+				{
+					id: "0C7AA0020B69695E"
+					item: {
+						count: 1
+						id: "ae2:item_storage_cell_1k"
+					}
+					type: "item"
+				}
+				{
+					id: "70A21D85D6CDE98B"
+					item: {
+						count: 1
+						id: "ae2:terminal"
+					}
+					type: "item"
+				}
+			]
+			x: 14.25d
+			y: 10.85d
+		}
+		{
+			dependencies: ["772875E33A91B129"]
+			icon: {
+				id: "ae2:molecular_assembler"
+			}
+			id: "51BE14859D8ECCCC"
+			rewards: [
+				{
+					id: "64734CA43C5D0746"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "2722F9EAF0C22EFB"
+					item: {
+						count: 1
+						id: "ae2:pattern_provider"
+					}
+					type: "item"
+				}
+				{
+					id: "566D4ABD6276E912"
+					item: {
+						count: 1
+						id: "ae2:molecular_assembler"
+					}
+					type: "item"
+				}
+				{
+					id: "494BF5CCB29C1CC8"
+					item: {
+						count: 1
+						id: "ae2:1k_crafting_storage"
+					}
+					type: "item"
+				}
+			]
+			x: 16.0d
+			y: 11.62d
+		}
+		{
+			dependencies: ["4E8AA1EDFE6CB7C9"]
+			id: "56C8A918170C2319"
+			rewards: [
+				{
+					id: "485C0155E38C3741"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					count: 256L
+					id: "1A31B6050CF12D5E"
+					item: {
+						count: 1
+						id: "ae2:fluix_crystal"
+					}
+					type: "item"
+				}
+			]
+			x: 14.25d
+			y: 12.4d
+		}
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			id: "5F78F20E1B068EDF"
+			rewards: [
+				{
+					id: "067D5D4A83D174E2"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "29EB5AA1B3E839DB"
+					item: {
+						count: 1
+						id: "buildinggadgets2:gadget_building"
+					}
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 15.78d
+		}
+		{
+			dependencies: ["5F78F20E1B068EDF"]
+			id: "47987C4573FAE888"
+			rewards: [
+				{
+					id: "40CB07980088238B"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "7946236D36008923"
+					item: {
+						count: 1
+						id: "buildinggadgets2:gadget_exchanging"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 15.12d
+		}
+		{
+			dependencies: ["5F78F20E1B068EDF"]
+			id: "39DAC81CDF25F2E4"
+			rewards: [
+				{
+					id: "396BD889E4A5E628"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "42DA46531FF715B2"
+					item: {
+						count: 1
+						id: "buildinggadgets2:gadget_copy_paste"
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 16.43d
+		}
+		{
+			dependencies: ["772875E33A91B129"]
+			id: "67ED85E29B059067"
+			rewards: [
+				{
+					id: "5CBD58578917CE0F"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "570306072EA2B59B"
+					item: {
+						count: 1
+						id: "mechtrowel:ae2_template"
+					}
+					type: "item"
+				}
+			]
+			x: 16.0d
+			y: 15.78d
+		}
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			icon: {
+				id: "minecolonies:blockhuttownhall"
+			}
+			id: "07C5E55BA72E853C"
+			rewards: [
+				{
+					id: "4226CE6301E6F1A7"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					advancement: "minecolonies:minecolonies/build_town_hall_5"
+					criterion: ""
+					id: "358EAE85C6DD9C1C"
+					type: "advancement"
+				}
+			]
+			x: 3.75d
+			y: 19.02d
+		}
+		{
+			dependencies: ["07C5E55BA72E853C"]
+			icon: {
+				id: "minecolonies:blockhutsmeltery"
+			}
+			id: "45C8C2E1843B20EE"
+			rewards: [
+				{
+					id: "15D21A63616FD1E3"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					advancement: "minecolonies:production/build_smeltery_5"
+					criterion: ""
+					id: "2317D0D7CBF99F04"
+					type: "advancement"
+				}
+			]
+			x: 5.5d
+			y: 19.02d
+		}
+		{
+			dependencies: [
+				"41BCFE74B5FC717C"
+				"2CDB41D811879C85"
+				"772875E33A91B129"
+				"255E891A81367224"
+				"7EE6274B35D74035"
+				"23750D7C810A77A0"
+				"482018338FB73459"
+				"4F2D7F2DEBE79B75"
+			]
+			icon: {
+				id: "gg:pieczec_atom"
+			}
+			id: "70323C5A34F8FAE4"
+			preset: "era"
+			rewards: [
+				{
+					auto: "enabled"
+					icon: {
+						id: "gg:pieczec_atom"
+					}
+					id: "65908FA6AC834476"
+					stage: "era_atom"
+					team_reward: true
+					type: "gamestage"
+				}
+				{
+					id: "02EC366E4CF33D3A"
+					type: "xp"
+					xp: 900
+				}
+				{
+					id: "597E3CF78D6862DA"
+					table_id: 2914331126840048914L
+					type: "all_table"
+				}
+			]
+			tags: ["era_elektrycznosc", "gate"]
+			tasks: [
+				{
+					consume_items: true
+					id: "26D86AC3AB79DD69"
+					item: {
+						count: 1
+						id: "gg:pieczec_atom"
+					}
+					type: "item"
+				}
+			]
+			x: 21.25d
+			y: 0.0d
+		}
+	]
+}

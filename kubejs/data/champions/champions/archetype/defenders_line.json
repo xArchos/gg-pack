@@ -1,0 +1,45 @@
+{
+  "id": "champions:defenders_line",
+  "entity_filter": {
+    "type": "entity_tag",
+    "tag": "gg:champion_allowed",
+    "whitelist": true
+  },
+  "tier_range": {},
+  "affix_pools": [
+    {
+      "tier_range": { "max": 2 },
+      "candidates": [
+        { "affix": "champions:knocking", "max_strength": 2, "weight": 10 },
+        { "affix": "champions:shielding", "max_strength": 2, "weight": 8 },
+        { "affix": "champions:lively", "max_strength": 2 },
+        { "affix": "champions:hasty", "max_strength": 2 },
+        { "affix": "champions:dampening", "max_strength": 2 }
+      ]
+    },
+    {
+      "tier_range": { "min": 3, "max": 4 },
+      "max_count": 2,
+      "candidates": [
+        { "affix": "champions:shielding", "max_strength": 2, "weight": 8 },
+        { "affix": "champions:adaptable", "max_strength": 2, "weight": 8 },
+        { "affix": "champions:reflective", "max_strength": 2, "weight": 6 },
+        { "affix": "champions:knocking", "max_strength": 2, "weight": 10 },
+        { "affix": "champions:lively", "max_strength": 2 },
+        { "affix": "champions:dampening", "max_strength": 2 }
+      ]
+    },
+    {
+      "tier_range": { "min": 5 },
+      "min_count": 2,
+      "max_count": 3,
+      "candidates": [
+        { "affix": "champions:shielding", "min_strength": 2, "max_strength": 3, "weight": 8 },
+        { "affix": "champions:adaptable", "min_strength": 2, "max_strength": 3, "weight": 8 },
+        { "affix": "champions:reflective", "min_strength": 2, "max_strength": 3, "weight": 6 },
+        { "affix": "champions:lively", "min_strength": 2, "max_strength": 3 },
+        { "affix": "champions:dampening", "min_strength": 2, "max_strength": 3 }
+      ]
+    }
+  ]
+}

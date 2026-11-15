@@ -1,0 +1,1117 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "magic_malum"
+	group: "3108D924C31FF1C5"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "malum:spirit_altar"
+	}
+	id: "1A06177126AA729C"
+	images: [
+		{
+			height: 1.8d
+			id: "3F5BE380847D10C4"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -11.33d
+		}
+		{
+			height: 1.8d
+			id: "051BA81BE221859F"
+			image: "malum:block/spirit_altar"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -11.33d
+		}
+		{
+			height: 1.8d
+			id: "3083707657113CF3"
+			image: "malum:item/soul_stained_steel_scythe"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -11.33d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "0335AE774D77C87B"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -9.18d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "27845E68865042B6"
+			image: "malum:item/spirit_shard"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -9.18d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "5E892A3F60A71DA1"
+			image: "malum:item/hex_ash"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -9.18d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "44C94FDD3CB73539"
+			image: "malum:item/impetus/iron_node"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -9.18d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "3B2C46AD313D2124"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -3.23d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "2A3A3148FC530B56"
+			image: "malum:item/soul_stained_steel_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -3.23d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "63463853B6A905ED"
+			image: "malum:item/gilded_ring"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -3.23d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "637372D80CC81BBA"
+			image: "malum:item/soulwoven_silk"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -3.23d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.04d
+			id: "73875FD22F1344F3"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -3.73d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "593D2736103DBC7F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 1.97d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "36984E28F2D11BDF"
+			image: "malum:item/totemic_staff"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 1.97d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "1B9F7A15B88B1DBA"
+			image: "malum:item/runes/rune_of_vitality"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 1.97d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "5DBDE3A7A604C34F"
+			image: "malum:block/runewood/runewood_planks"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 1.97d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.04d
+			id: "289A8ACF65694401"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 1.47d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "1BF049668E1BDA30"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 5.87d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "57CC2007BF82A4F8"
+			image: "malum:item/null_slate"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 5.87d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "3E63A8CE90D25AE6"
+			image: "malum:item/void_salts"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 5.87d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "30D11502C27CDC6F"
+			image: "malum:item/malignant_pewter_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 5.87d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.04d
+			id: "7FF4B11BF86D1340"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 5.37d
+		}
+	]
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["7A875C04743BEF62"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "malum:runewood_item_pedestal"
+			}
+			id: "4171FEAB75ADBDFA"
+			rewards: [
+				{
+					id: "21E078F21470F06C"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "667F037804559F92"
+					item: {
+						count: 1
+						id: "malum:runewood_item_pedestal"
+					}
+					type: "item"
+				}
+				{
+					id: "3C25B598C2E0E814"
+					item: {
+						count: 1
+						id: "malum:runewood_item_stand"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -6.1d
+		}
+		{
+			dependencies: ["4171FEAB75ADBDFA"]
+			icon: {
+				id: "malum:sacred_spirit"
+			}
+			id: "6CA6B18895167E56"
+			rewards: [
+				{
+					id: "53FBB0138A5CBCFB"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "7DE7A0040C64D7F6"
+					item: {
+						count: 1
+						id: "malum:sacred_spirit"
+					}
+					type: "item"
+				}
+				{
+					id: "36C419C23E3FBDA5"
+					item: {
+						count: 1
+						id: "malum:earthen_spirit"
+					}
+					type: "item"
+				}
+				{
+					id: "5D1DC0DA26BD531F"
+					item: {
+						count: 1
+						id: "malum:aerial_spirit"
+					}
+					type: "item"
+				}
+				{
+					id: "57AD97F075CE5012"
+					item: {
+						count: 1
+						id: "malum:aqueous_spirit"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -7.65d
+		}
+		{
+			dependencies: ["4171FEAB75ADBDFA"]
+			icon: {
+				id: "malum:hex_ash"
+			}
+			id: "645627057BBA2031"
+			rewards: [
+				{
+					id: "541B683FE9B2E0BE"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "7F6C8C0EDADCAF22"
+					item: {
+						count: 1
+						id: "malum:hex_ash"
+					}
+					type: "item"
+				}
+				{
+					id: "0AE1BD3D6C1276FE"
+					item: {
+						count: 1
+						id: "malum:arcane_charcoal"
+					}
+					type: "item"
+				}
+				{
+					id: "58B7763FBA3785AE"
+					item: {
+						count: 1
+						id: "malum:alchemical_calx"
+					}
+					type: "item"
+				}
+				{
+					id: "71526EEF43269AAE"
+					item: {
+						count: 1
+						id: "malum:living_flesh"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -6.1d
+		}
+		{
+			dependencies: ["4171FEAB75ADBDFA"]
+			icon: {
+				id: "malum:tainted_rock"
+			}
+			id: "32DA6AE7A0588DA9"
+			rewards: [
+				{
+					id: "77B7FDCC23A51A23"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "7F6937902B03784E"
+					item: {
+						count: 1
+						id: "malum:twisted_rock"
+					}
+					type: "item"
+				}
+				{
+					id: "1F15E6857CB0EB6D"
+					item: {
+						count: 1
+						id: "malum:tainted_rock"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -4.55d
+		}
+		{
+			dependencies: ["645627057BBA2031"]
+			id: "0A4B2270F286100B"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "0A139035E8511AE0"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "60C047F9294CE642"
+					item: {
+						count: 1
+						id: "malum:ether"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -7.65d
+		}
+		{
+			dependencies: ["645627057BBA2031", "32DA6AE7A0588DA9"]
+			id: "12FC7512556643A9"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "79DDE4DAE643AC9F"
+					type: "xp"
+					xp: 150
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "65115EED60B71017"
+					item: {
+						count: 1
+						id: "malum:spirit_crucible"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -6.1d
+		}
+		{
+			dependencies: ["12FC7512556643A9"]
+			icon: {
+				id: "malum:iron_node"
+			}
+			id: "15DD7DCACBA98806"
+			rewards: [
+				{
+					id: "38E291211B60F29B"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "0BEA1953BCE40C1A"
+					item: {
+						count: 1
+						id: "malum:iron_impetus"
+					}
+					type: "item"
+				}
+				{
+					id: "0ABB175A3EBFA4BE"
+					item: {
+						count: 1
+						id: "malum:iron_node"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -6.88d
+		}
+		{
+			dependencies: ["12FC7512556643A9"]
+			id: "1C281558CAB30D66"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "54FD496B8C7078E7"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "4CF1F7BA60B5F431"
+					item: {
+						count: 1
+						id: "malum:spirit_catalyzer"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -5.33d
+		}
+		{
+			dependencies: ["32DA6AE7A0588DA9"]
+			id: "3DA85C536586522F"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "781FE67DE7A49A0C"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "4534BBF9135E50A6"
+					item: {
+						count: 1
+						id: "malum:repair_pylon"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -4.55d
+		}
+		{
+			dependencies: ["645627057BBA2031"]
+			id: "6ABA77CE2C2A2AFE"
+			rewards: [
+				{
+					id: "14BF06C092696EF1"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "2D8117A1C139A4E3"
+					item: {
+						count: 1
+						id: "malum:soul_stained_steel_scythe"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -1.83d
+		}
+		{
+			dependencies: ["32DA6AE7A0588DA9"]
+			icon: {
+				id: "malum:soul_stained_steel_chestplate"
+			}
+			id: "158F9510B87B17F8"
+			rewards: [
+				{
+					id: "015517127B936DB1"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "4E280E552A8A9108"
+					item: {
+						count: 1
+						id: "malum:soul_stained_steel_helmet"
+					}
+					type: "item"
+				}
+				{
+					id: "1D26C6D62D45206A"
+					item: {
+						count: 1
+						id: "malum:soul_stained_steel_chestplate"
+					}
+					type: "item"
+				}
+				{
+					id: "7FD6DE69EB8E4D2A"
+					item: {
+						count: 1
+						id: "malum:soul_stained_steel_leggings"
+					}
+					type: "item"
+				}
+				{
+					id: "5E7A3475B5FD0878"
+					item: {
+						count: 1
+						id: "malum:soul_stained_steel_boots"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -0.53d
+		}
+		{
+			dependencies: ["4171FEAB75ADBDFA"]
+			icon: {
+				id: "malum:soul_hunter_robe"
+			}
+			id: "1C25636B4A8B1989"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "6BA4D315AC70CAC1"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "495FEF421A134B84"
+					item: {
+						count: 1
+						id: "malum:soul_hunter_cloak"
+					}
+					type: "item"
+				}
+				{
+					id: "7BDDBD2B24E061B7"
+					item: {
+						count: 1
+						id: "malum:soul_hunter_robe"
+					}
+					type: "item"
+				}
+				{
+					id: "2D27B493712F000D"
+					item: {
+						count: 1
+						id: "malum:soul_hunter_leggings"
+					}
+					type: "item"
+				}
+				{
+					id: "4E620E4BBAFC8AFF"
+					item: {
+						count: 1
+						id: "malum:soul_hunter_boots"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -1.18d
+		}
+		{
+			dependencies: ["4171FEAB75ADBDFA"]
+			icon: {
+				id: "malum:gilded_ring"
+			}
+			id: "2F10A5DFDAA42B80"
+			rewards: [
+				{
+					id: "1C6AC0EC1FA346EE"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "5D956046E759B443"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(malum:gilded_ring)item(malum:ornate_ring)item(malum:ornate_necklace)item(malum:gilded_belt))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 0.12d
+		}
+		{
+			dependencies: ["2F10A5DFDAA42B80", "645627057BBA2031"]
+			icon: {
+				id: "malum:ring_of_curative_talent"
+			}
+			id: "233AD6DD519D24F7"
+			rewards: [
+				{
+					id: "14F1EA95CFF8FBB7"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "56EBAF89CEB544B7"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(malum:ring_of_curative_talent)item(malum:ring_of_arcane_prowess))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 0.77d
+		}
+		{
+			dependencies: ["645627057BBA2031"]
+			icon: {
+				id: "malum:runewood_totem_base"
+			}
+			id: "334453E019970875"
+			rewards: [
+				{
+					id: "2F34551140282F80"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "70946A8888899B0E"
+					item: {
+						count: 1
+						id: "malum:runewood_totem_base"
+					}
+					type: "item"
+				}
+				{
+					id: "651CD1954E7878E8"
+					item: {
+						count: 1
+						id: "malum:totemic_staff"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 3.37d
+		}
+		{
+			dependencies: ["334453E019970875"]
+			id: "2DC73F37C0DDE250"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "26F5BDF413226A5D"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "1C6F5DDAB4DCD2CD"
+					item: {
+						count: 1
+						id: "malum:soulwood_totem_base"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 4.02d
+		}
+		{
+			dependencies: ["32DA6AE7A0588DA9"]
+			icon: {
+				id: "malum:rune_of_vitality"
+			}
+			id: "007C773A6F5EB8A6"
+			rewards: [
+				{
+					id: "7412CE6D4686AEFF"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "69823E95F1A1E0C8"
+					item: {
+						count: 1
+						id: "malum:runic_workbench"
+					}
+					type: "item"
+				}
+				{
+					id: "7A06581FDC335A47"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(malum:rune_of_ailment_cleansing)item(malum:rune_of_bolstering)item(malum:rune_of_burning_fervor)item(malum:rune_of_culling)item(malum:rune_of_dexterity)item(malum:rune_of_fiery_embrace)item(malum:rune_of_flowing_grasp)item(malum:rune_of_good_tides)item(malum:rune_of_heresy)item(malum:rune_of_howling_gale)item(malum:rune_of_igneous_solace)item(malum:rune_of_indomitability)item(malum:rune_of_oaken_might)item(malum:rune_of_protection)item(malum:rune_of_radial_empowerment)item(malum:rune_of_reinforcement)item(malum:rune_of_scorching)item(malum:rune_of_sky_tether)item(malum:rune_of_spell_mastery)item(malum:rune_of_stone_ward)item(malum:rune_of_twinned_duration)item(malum:rune_of_unnatural_stamina)item(malum:rune_of_vitality)item(malum:rune_of_volatile_distortion))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 4.67d
+		}
+		{
+			dependencies: ["4171FEAB75ADBDFA"]
+			icon: {
+				id: "malum:runewood_obelisk"
+			}
+			id: "0ADD9870AE35AD42"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "7CFE06DA48EF19B4"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "0958518FBFEB072C"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(malum:runewood_obelisk)item(malum:brilliant_obelisk))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 4.02d
+		}
+		{
+			dependencies: ["784FFE5AA9775311"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "malum:primordial_soup"
+			}
+			id: "7C93095788D8449C"
+			preset: "info"
+			rewards: [
+				{
+					id: "11A5FC55FF3B75C6"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "02AB96D6C8BCC13E"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 8.17d
+		}
+		{
+			dependencies: ["7C93095788D8449C"]
+			icon: {
+				id: "malum:void_salts"
+			}
+			id: "2AA19AFB961ECB40"
+			rewards: [
+				{
+					id: "31F819C315B55F0A"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "389AE408CCCDA64F"
+					item: {
+						count: 1
+						id: "malum:null_slate"
+					}
+					type: "item"
+				}
+				{
+					id: "762E593DD493C251"
+					item: {
+						count: 1
+						id: "malum:void_salts"
+					}
+					type: "item"
+				}
+				{
+					id: "7AA55A8C8897D780"
+					item: {
+						count: 1
+						id: "malum:mnemonic_fragment"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 7.4d
+		}
+		{
+			dependencies: ["7C93095788D8449C"]
+			id: "61DB66478B614ADD"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "14A755035DD93EF6"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "1BE81C3D87F0C040"
+					item: {
+						count: 1
+						id: "malum:encyclopedia_esoterica"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 8.95d
+		}
+		{
+			dependencies: ["2AA19AFB961ECB40"]
+			id: "233928C48BE0A92F"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "56B356A5D2699990"
+					type: "xp"
+					xp: 175
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "6AEE00DF008F88D3"
+					item: {
+						count: 1
+						id: "malum:malignant_pewter_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 7.4d
+		}
+		{
+			dependencies: ["233928C48BE0A92F"]
+			icon: {
+				id: "malum:malignant_stronghold_chestplate"
+			}
+			id: "6824F3BE0E5F95A8"
+			rewards: [
+				{
+					id: "66422D8EBD4B6AF1"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "7C80B3A37C98B996"
+					item: {
+						count: 1
+						id: "malum:malignant_stronghold_helmet"
+					}
+					type: "item"
+				}
+				{
+					id: "7AEA4ABA7C91C5EA"
+					item: {
+						count: 1
+						id: "malum:malignant_stronghold_chestplate"
+					}
+					type: "item"
+				}
+				{
+					id: "5DCB19CB1132FD17"
+					item: {
+						count: 1
+						id: "malum:malignant_stronghold_leggings"
+					}
+					type: "item"
+				}
+				{
+					id: "316FC2228996EFD7"
+					item: {
+						count: 1
+						id: "malum:malignant_stronghold_boots"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 7.4d
+		}
+		{
+			dependencies: ["233928C48BE0A92F"]
+			icon: {
+				id: "malum:edge_of_deliverance"
+			}
+			id: "15D604CF280ECB60"
+			rewards: [
+				{
+					id: "3C3DDEFEC40151C3"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "0DC2FAE4EF1F5594"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(malum:edge_of_deliverance)item(malum:weight_of_worlds))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 8.95d
+		}
+		{
+			dependencies: ["2AA19AFB961ECB40"]
+			id: "50DBAC95CF4E9B94"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "32A8A599D13EFC79"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "03B2872B06B5443D"
+					item: {
+						count: 1
+						id: "malum:mnemonic_hex_staff"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 8.95d
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "explorify:badlands_pyramid",
+      "required": false
+    }
+  ]
+}

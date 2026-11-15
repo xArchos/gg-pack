@@ -1,0 +1,1329 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bosses_twilight"
+	group: "0F1B4D3EF0FB70FA"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "twilightforest:naga_trophy"
+	}
+	id: "3510828B4AEF0271"
+	images: [
+		{
+			height: 1.8d
+			id: "12EB2C119561BB7E"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -20.93d
+		}
+		{
+			height: 1.8d
+			id: "7DB2154479D080D9"
+			image: "twilightforest:item/lich_trophy"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -20.93d
+		}
+		{
+			height: 1.8d
+			id: "3A755940F749DD52"
+			image: "twilightforest:item/hydra_trophy"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -20.93d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "398B76D7F75E37B4"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -18.78d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "2F8485198F4C2B59"
+			image: "twilightforest:item/naga_scale"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -18.78d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "0047C456D97A552D"
+			image: "twilightforest:item/twilight_scepter"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -18.78d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "5D40CC573266249B"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -14.88d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "6C4B8F0E9E380555"
+			image: "twilightforest:item/naga_trophy"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -14.88d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "7824AC5099BE3DCA"
+			image: "twilightforest:item/lifedrain_scepter"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -14.88d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.04d
+			id: "0A8EAA41F9820E8E"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -15.38d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "162B29C9CDBA5AC0"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -8.93d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "5274ADFD5405AC15"
+			image: "twilightforest:item/maze_map_focus"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -8.93d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "3AF2067930476368"
+			image: "twilightforest:item/mazebreaker_pickaxe"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -8.93d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "7EFC2387EFFBD595"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: -9.43d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "64D9A0A8A074CD1C"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -3.73d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "0B59F4571E10FA3B"
+			image: "twilightforest:item/diamond_minotaur_axe"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -3.73d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "252795EB404AE551"
+			image: "twilightforest:item/fiery_blood"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -3.73d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "01D5612ADCC9B22D"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -4.23d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "5396658B221C9DA0"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 0.67d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "5BCD5760E8AF722A"
+			image: "twilightforest:item/armor_shard"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 0.67d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "2458240D5ACE656F"
+			image: "twilightforest:item/knightmetal_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 0.67d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.04d
+			id: "460540EB1E47054A"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 0.17d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "4734B861AA5C4100"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 4.57d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "53FD3EBB7C1B14DB"
+			image: "twilightforest:item/phantom_helmet"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 4.57d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "7BDFCC2EC9B6BA51"
+			image: "twilightforest:item/fiery_tears"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 4.57d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.04d
+			id: "63DFD86FAF83ABBE"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 4.07d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "72369053073E8B1D"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 8.47d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "7A017664B03C16DF"
+			image: "twilightforest:item/ice_bomb"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 8.47d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "78D5DDB499E59936"
+			image: "twilightforest:item/yeti_helmet"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 8.47d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.04d
+			id: "193B517A7109D93A"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 7.97d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "2F17EECD11B79C0D"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 12.38d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "2686F73E7D0B246D"
+			image: "twilightforest:item/alpha_yeti_fur"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 12.38d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "0523E6DF4A2647BB"
+			image: "twilightforest:item/triple_bow"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 12.38d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.04d
+			id: "7628B910B0E22DFD"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 11.88d
+		}
+	]
+	order_index: 0
+	quest_links: [
+		{
+			id: "3A256F2389EA46DC"
+			linked_quest: "514CBCE88CFFA3A2"
+			x: 3.5d
+			y: -17.38d
+		}
+		{
+			id: "780512A45E48C9C4"
+			linked_quest: "18F53CEADE99C786"
+			x: 3.5d
+			y: -16.08d
+		}
+		{
+			id: "347B9C556BAF05BC"
+			linked_quest: "1A48598314F49C49"
+			x: 3.5d
+			y: -6.88d
+		}
+		{
+			id: "265F582530D52AF4"
+			linked_quest: "67B2AD661C3E1852"
+			x: 3.5d
+			y: -5.58d
+		}
+		{
+			id: "6663AA55C086B415"
+			linked_quest: "5857AAD82B30CC8F"
+			x: 3.5d
+			y: 2.07d
+		}
+		{
+			id: "321C32D2DCD79C32"
+			linked_quest: "3E899BBEACE9736D"
+			x: 3.5d
+			y: 3.37d
+		}
+		{
+			id: "3EF734413A2497F5"
+			linked_quest: "1C100C85DEF8FA1B"
+			x: 3.5d
+			y: 9.88d
+		}
+		{
+			id: "5ABCF64077B29A13"
+			linked_quest: "2C9AC13E2C8830DD"
+			x: 3.5d
+			y: 11.18d
+		}
+	]
+	quests: [
+		{
+			dependencies: ["38EA9BA21F0E366C"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "twilightforest:naga_trophy"
+			}
+			id: "534CA2E2649BB2FF"
+			preset: "info"
+			rewards: [
+				{
+					id: "28518E0F87E50993"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "4F7B0A1F532AE87E"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: -16.73d
+		}
+		{
+			dependencies: ["534CA2E2649BB2FF"]
+			id: "3FFA0CC0B07167EE"
+			rewards: [
+				{
+					id: "10F93B5B6B2F4E71"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "77938971847D2084"
+					item: {
+						count: 1
+						id: "twilightforest:filled_magic_map"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -17.38d
+		}
+		{
+			dependencies: ["534CA2E2649BB2FF"]
+			id: "6A21DE211219A1D1"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "7F62B109F1AC1504"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "1D86E93EFA531E84"
+					item: {
+						count: 1
+						id: "twilightforest:charm_of_life_1"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -16.08d
+		}
+		{
+			dependencies: ["534CA2E2649BB2FF", "514CBCE88CFFA3A2"]
+			id: "5CC59E24E374B2DC"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "16E617FB65483691"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "639C46D0B44C90F8"
+					item: {
+						count: 1
+						id: "twilightforest:naga_scale"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -13.35d
+		}
+		{
+			dependencies: ["5CC59E24E374B2DC"]
+			id: "799AE47C73D2A173"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "09FB8782992D18F9"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "664BF97CAEDC83FC"
+					item: {
+						count: 1
+						id: "twilightforest:naga_leggings"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -11.8d
+		}
+		{
+			dependencies: ["534CA2E2649BB2FF", "514CBCE88CFFA3A2"]
+			id: "4F0C04500AC4AB41"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "6D0C794D652D4BC1"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "64C0B3EDB030C9C3"
+					item: {
+						count: 1
+						id: "twilightforest:naga_trophy"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -11.8d
+		}
+		{
+			dependencies: ["534CA2E2649BB2FF", "18F53CEADE99C786"]
+			icon: {
+				id: "twilightforest:twilight_scepter"
+			}
+			id: "39816569D0AA0B76"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "5DEFE43DA33BCE72"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					advancement: "twilightforest:lich_scepters"
+					criterion: ""
+					id: "13CD4F5B0B9C9B9B"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: -10.25d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "twilightforest:maze_map_focus"
+			}
+			id: "1314CF959B0CFD5B"
+			preset: "info"
+			rewards: [
+				{
+					id: "03450B2AB654A069"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "053611F0B27F431A"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: -6.23d
+		}
+		{
+			dependencies: ["1314CF959B0CFD5B"]
+			id: "4E98DBA87F17CDD7"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "324DB149B879A550"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "0B336DCA1C957B9C"
+					item: {
+						count: 1
+						id: "twilightforest:filled_maze_map"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -7.53d
+		}
+		{
+			dependencies: ["1314CF959B0CFD5B"]
+			id: "0CCDF877683BE679"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "1FFC9532A63B852E"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "18B5D3BC84F77B52"
+					item: {
+						count: 1
+						id: "twilightforest:mazebreaker_pickaxe"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -6.23d
+		}
+		{
+			dependencies: ["1314CF959B0CFD5B"]
+			icon: {
+				id: "twilightforest:hydra_trophy"
+			}
+			id: "6CC88F8CF746B735"
+			rewards: [
+				{
+					id: "35C792A4BBDF40CD"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "28B2322805EFEB63"
+					structure: "twilightforest:hydra_lair"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: -4.93d
+		}
+		{
+			dependencies: ["1314CF959B0CFD5B", "1A48598314F49C49"]
+			id: "663064D989B80AD2"
+			rewards: [
+				{
+					id: "6E494B46D6AA06F2"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "0BA934665D2F98A1"
+					item: {
+						count: 1
+						id: "twilightforest:diamond_minotaur_axe"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -2.2d
+		}
+		{
+			dependencies: ["1314CF959B0CFD5B", "67B2AD661C3E1852"]
+			id: "7514362CF1E02C11"
+			rewards: [
+				{
+					id: "03D6096F7D1F4A9E"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "49734B95EAE53CE3"
+					item: {
+						count: 1
+						id: "twilightforest:fiery_blood"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -0.65d
+		}
+		{
+			dependencies: ["7514362CF1E02C11"]
+			id: "53585A49C7906B53"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "1F746C4DE0CEA50C"
+					type: "xp"
+					xp: 125
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "04BE18BDE29FC411"
+					item: {
+						count: 1
+						id: "twilightforest:fiery_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -1.43d
+		}
+		{
+			dependencies: ["53585A49C7906B53"]
+			icon: {
+				id: "twilightforest:fiery_chestplate"
+			}
+			id: "0FF5C90662F26F97"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "2EFF3393CD1CEAD0"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "77F7BB12EA0803E5"
+					item: {
+						count: 1
+						id: "twilightforest:fiery_helmet"
+					}
+					type: "item"
+				}
+				{
+					id: "634B1EAC2286F21A"
+					item: {
+						count: 1
+						id: "twilightforest:fiery_chestplate"
+					}
+					type: "item"
+				}
+				{
+					id: "753B91DC9C57C60B"
+					item: {
+						count: 1
+						id: "twilightforest:fiery_leggings"
+					}
+					type: "item"
+				}
+				{
+					id: "2FF71528A99804F1"
+					item: {
+						count: 1
+						id: "twilightforest:fiery_boots"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -1.43d
+		}
+		{
+			dependencies: ["7A875C04743BEF62"]
+			hide_until_deps_complete: true
+			id: "21A8F17D18AFF16D"
+			rewards: [
+				{
+					id: "5D78124460CAD4A4"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "4E2F9843BEDBD45B"
+					item: {
+						count: 1
+						id: "twilightforest:armor_shard"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.72d
+		}
+		{
+			dependencies: ["21A8F17D18AFF16D"]
+			id: "447B55DBED65E5BE"
+			rewards: [
+				{
+					id: "5F058C7DB4AB56AC"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "06794A21C9FBE4D1"
+					item: {
+						count: 1
+						id: "twilightforest:knightmetal_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 2.07d
+		}
+		{
+			dependencies: ["21A8F17D18AFF16D"]
+			icon: {
+				id: "twilightforest:ghast_trap"
+			}
+			id: "114616CC6A0B470F"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "31C10ADB76EA8097"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					advancement: "twilightforest:ghast_trap"
+					criterion: ""
+					id: "0FCF675E95FE9496"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: 3.37d
+		}
+		{
+			dependencies: ["21A8F17D18AFF16D", "5857AAD82B30CC8F"]
+			icon: {
+				id: "twilightforest:phantom_helmet"
+			}
+			id: "14485AF7CFFDC3D2"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "473C8C7BD76E5FEE"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "09EFAC59ADC77849"
+					item: {
+						count: 1
+						id: "twilightforest:phantom_helmet"
+					}
+					type: "item"
+				}
+				{
+					id: "499E81D960A6CCFD"
+					item: {
+						count: 1
+						id: "twilightforest:phantom_chestplate"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 5.97d
+		}
+		{
+			dependencies: ["21A8F17D18AFF16D", "3E899BBEACE9736D"]
+			id: "39701793C6136A1E"
+			rewards: [
+				{
+					id: "28E9ED5CA35DCF09"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "2EB91B8DFEC2A9D2"
+					item: {
+						count: 1
+						id: "twilightforest:fiery_tears"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 7.27d
+		}
+		{
+			dependencies: ["39701793C6136A1E"]
+			id: "2659E6310DEA48BF"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "24E5AF25BDD22388"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "3D34DA7DD64C1ED9"
+					item: {
+						count: 1
+						id: "twilightforest:fiery_pickaxe"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 6.62d
+		}
+		{
+			dependencies: ["784FFE5AA9775311"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "twilightforest:alpha_yeti_fur"
+			}
+			id: "1852CD03BCD1F119"
+			preset: "info"
+			rewards: [
+				{
+					id: "2F3D07DC4E7846B5"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "52E6515B5920D659"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 10.53d
+		}
+		{
+			dependencies: ["1852CD03BCD1F119"]
+			icon: {
+				id: "twilightforest:alpha_yeti_trophy"
+			}
+			id: "6114725448FDA60C"
+			rewards: [
+				{
+					id: "1F4519DE5C20B437"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "7D3ADA7C428076C4"
+					structure: "twilightforest:yeti_cave"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 9.88d
+		}
+		{
+			dependencies: ["1852CD03BCD1F119"]
+			icon: {
+				id: "twilightforest:snow_queen_trophy"
+			}
+			id: "6C1495C40068DD65"
+			rewards: [
+				{
+					id: "08A665C658679AE7"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "268DD6942DE820A2"
+					structure: "twilightforest:aurora_palace"
+					type: "structure"
+				}
+			]
+			x: 1.75d
+			y: 11.18d
+		}
+		{
+			dependencies: ["1852CD03BCD1F119", "1C100C85DEF8FA1B"]
+			id: "1EA8DBA0ED4E4364"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "1D99D9B744ADBC55"
+					type: "xp"
+					xp: 175
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "053515D880E2DD7A"
+					item: {
+						count: 1
+						id: "twilightforest:alpha_yeti_fur"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 13.9d
+		}
+		{
+			dependencies: ["1EA8DBA0ED4E4364"]
+			icon: {
+				id: "twilightforest:yeti_helmet"
+			}
+			id: "1700AA822C878E2C"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "178306EB468D1DE6"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "45F022CBDE581687"
+					item: {
+						count: 1
+						id: "twilightforest:yeti_helmet"
+					}
+					type: "item"
+				}
+				{
+					id: "4F950F4969F2FA83"
+					item: {
+						count: 1
+						id: "twilightforest:yeti_chestplate"
+					}
+					type: "item"
+				}
+				{
+					id: "56CD15CE815D8643"
+					item: {
+						count: 1
+						id: "twilightforest:yeti_leggings"
+					}
+					type: "item"
+				}
+				{
+					id: "4E59B1E5AA1462ED"
+					item: {
+						count: 1
+						id: "twilightforest:yeti_boots"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 16.23d
+		}
+		{
+			dependencies: ["1852CD03BCD1F119", "1C100C85DEF8FA1B"]
+			id: "338ADE6AAA626A01"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "32715DA06C428C0A"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "5B512FCE642379AD"
+					item: {
+						count: 1
+						id: "twilightforest:ice_bomb"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 15.45d
+		}
+		{
+			dependencies: ["1852CD03BCD1F119", "2C9AC13E2C8830DD"]
+			id: "48F871BBFDFF6C7A"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "5E50F6FB213516C3"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "1A489E11DB753127"
+					item: {
+						count: 1
+						id: "twilightforest:triple_bow"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 17.0d
+		}
+		{
+			dependencies: ["1852CD03BCD1F119", "2C9AC13E2C8830DD"]
+			id: "7D5DAB7F8619B6B6"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "2725CFD918382460"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "1E81366294681AFA"
+					item: {
+						count: 1
+						id: "twilightforest:seeker_bow"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 18.55d
+		}
+		{
+			dependencies: ["1852CD03BCD1F119", "2C9AC13E2C8830DD"]
+			icon: {
+				id: "twilightforest:snow_queen_trophy"
+			}
+			id: "18119FE31A405578"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "6AAE3C62B08A6A7F"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "3A2495EB346D77F4"
+					item: {
+						count: 1
+						id: "twilightforest:naga_trophy"
+					}
+					type: "item"
+				}
+				{
+					id: "70F1905CCF763D49"
+					item: {
+						count: 1
+						id: "twilightforest:lich_trophy"
+					}
+					type: "item"
+				}
+				{
+					id: "213B7BB8B966BD11"
+					item: {
+						count: 1
+						id: "twilightforest:minoshroom_trophy"
+					}
+					type: "item"
+				}
+				{
+					id: "78C042D721A9DA8E"
+					item: {
+						count: 1
+						id: "twilightforest:hydra_trophy"
+					}
+					type: "item"
+				}
+				{
+					id: "646388AA382EBE5A"
+					item: {
+						count: 1
+						id: "twilightforest:knight_phantom_trophy"
+					}
+					type: "item"
+				}
+				{
+					id: "10051EB6ECAA3FAA"
+					item: {
+						count: 1
+						id: "twilightforest:ur_ghast_trophy"
+					}
+					type: "item"
+				}
+				{
+					id: "70D1518EE0FB945A"
+					item: {
+						count: 1
+						id: "twilightforest:alpha_yeti_trophy"
+					}
+					type: "item"
+				}
+				{
+					id: "4AAB87DB06C8222D"
+					item: {
+						count: 1
+						id: "twilightforest:snow_queen_trophy"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 16.23d
+		}
+	]
+}

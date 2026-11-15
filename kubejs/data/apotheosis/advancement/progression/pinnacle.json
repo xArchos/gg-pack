@@ -1,0 +1,28 @@
+{
+  "parent": "apotheosis:progression/summit",
+  "criteria": {
+    "era": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "background": "apotheosis:textures/advancements/bg/apoth.png",
+    "description": {
+      "text": "Poziom świata przychodzi razem z Erą Atomu (era 8) drużyny."
+    },
+    "frame": "challenge",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:end_crystal"
+    },
+    "title": {
+      "translate": "advancements.apotheosis.progression.pinnacle.title"
+    }
+  },
+  "requirements": [
+    [
+      "era"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

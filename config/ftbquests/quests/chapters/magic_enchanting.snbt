@@ -1,0 +1,1349 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "magic_enchanting"
+	group: "3108D924C31FF1C5"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "minecraft:enchanting_table"
+	}
+	id: "5875EF5B7267FABC"
+	images: [
+		{
+			height: 1.8d
+			id: "2B64BD2F55DEA01A"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -19.5d
+		}
+		{
+			height: 1.8d
+			id: "70166DFBDF22F5D8"
+			image: "minecraft:item/enchanted_book"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -19.5d
+		}
+		{
+			height: 1.8d
+			id: "774C441AA01E9D2D"
+			image: "minecraft:block/enchanting_table_top"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -19.5d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "69CDB0E0CA2FF611"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -17.35d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "28D4F803CDE46314"
+			image: "minecraft:block/bookshelf"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -17.35d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "2545FB81283A6A4C"
+			image: "minecraft:item/experience_bottle"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -17.35d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "368100B480E65B68"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -13.45d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "355B7CF0BF5C4BAA"
+			image: "minecraft:item/emerald"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -13.45d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.04d
+			id: "444B091A8A53E9DC"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -13.95d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "5E83E58580CD7DDD"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -10.85d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.8d
+			id: "48CFF253B208E963"
+			image: "minecraft:item/amethyst_shard"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -10.85d
+		}
+		{
+			dependency: "38EA9BA21F0E366C"
+			height: 0.04d
+			id: "6CFA8149BEBA7DC2"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: -11.35d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "6AC98777FF847464"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -5.65d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "639948D9547AB8C5"
+			image: "minecraft:block/nether_bricks"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -5.65d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "7D4F22D7C54CB761"
+			image: "minecraft:item/prismarine_shard"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -5.65d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "004F17FF8DCB85A0"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: -6.15d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "75E904842B299F08"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 0.3d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.8d
+			id: "0D7DAEF180E98FBD"
+			image: "minecraft:item/netherite_ingot"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 0.3d
+		}
+		{
+			dependency: "7A875C04743BEF62"
+			height: 0.04d
+			id: "65C5F35E85403151"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: -0.2d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "14DB315ED0012C44"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 2.9d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "28A215A63B90F4E9"
+			image: "create_enchantment_industry:item/experience_bucket"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 2.9d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "3218D9A5EF325EB3"
+			image: "create_enchantment_industry:block/enchanter_hat"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 2.9d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "293183178699BBF3"
+			image: "create_enchantment_industry:item/enchanting_template"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 2.9d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.04d
+			id: "45EAB3F059D77B59"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 2.4d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "11B57A683C6CE187"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 8.85d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "4D56B67BAAC12DED"
+			image: "minecraft:item/nether_star"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 8.85d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.04d
+			id: "2BDF7D8DB43B0669"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 8.35d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "3162D94C28B9FA6F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 11.45d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "19903ABBC119C94B"
+			image: "minecraft:item/echo_shard"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 11.45d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "5D64F9A91A066E83"
+			image: "minecraft:block/sculk_catalyst_top"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 11.45d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.04d
+			id: "6D9226C2E0EE86D7"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 10.95d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "6D1C99C07D41470E"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 14.05d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "287418EFF8480441"
+			image: "minecraft:item/dragon_breath"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 14.05d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "02AF08CF00F39A71"
+			image: "minecraft:block/end_stone_bricks"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 14.05d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.04d
+			id: "14D91B49543C140A"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 13.55d
+		}
+	]
+	order_index: 16
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["7B472916B8B3515D"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:enchanting_table"
+			}
+			id: "52BC8CE33F05D4E4"
+			preset: "info"
+			rewards: [
+				{
+					id: "37279DA66A05610E"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "784512E69E75A65B"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: -15.3d
+		}
+		{
+			dependencies: ["52BC8CE33F05D4E4"]
+			icon: {
+				id: "minecraft:bookshelf"
+			}
+			id: "6C6A65781CF23A39"
+			rewards: [
+				{
+					id: "3DBED00E9A7EB316"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					advancement: "apothic_enchanting:30ench"
+					criterion: ""
+					id: "53D26DBD3E508C68"
+					type: "advancement"
+				}
+			]
+			x: 1.75d
+			y: -15.95d
+		}
+		{
+			dependencies: ["52BC8CE33F05D4E4"]
+			id: "4AE42FD665D3B94C"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "3BC705901EC6D1FE"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "5374E6F15BB3B008"
+					item: {
+						count: 1
+						id: "apothic_enchanting:scrap_tome"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -14.65d
+		}
+		{
+			dependencies: ["7B472916B8B3515D"]
+			hide_until_deps_complete: true
+			id: "62204C363A986C08"
+			rewards: [
+				{
+					id: "0F861BD5CBBB1BCE"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "125EBE662EE6E405"
+					item: {
+						count: 1
+						id: "apotheosis:salvaging_table"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -12.05d
+		}
+		{
+			dependencies: ["62204C363A986C08"]
+			icon: {
+				id: "minecraft:diamond"
+			}
+			id: "7AC703A20EAA84AE"
+			rewards: [
+				{
+					id: "7DF2123C9DED9AFF"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt"]
+			tasks: [
+				{
+					id: "7246EC356E6C106C"
+					item: {
+						count: 1
+						id: "apotheosis:gem"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -12.05d
+		}
+		{
+			dependencies: ["38EA9BA21F0E366C"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:iron_sword"
+			}
+			id: "4764DDC7E9F4E32C"
+			preset: "info"
+			rewards: [
+				{
+					id: "043D5ABBA791FBF9"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					advancement: "apotheosis:progression/frontier"
+					criterion: ""
+					id: "512A83B4CDE7449C"
+					type: "advancement"
+				}
+			]
+			x: 0.0d
+			y: -8.15d
+		}
+		{
+			dependencies: ["4764DDC7E9F4E32C"]
+			id: "3C0347221EB791E2"
+			rewards: [
+				{
+					id: "08C2FC84ACEEAD65"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "6ACBCF7E33F10E5F"
+					item: {
+						count: 1
+						id: "apotheosis:sigil_of_socketing"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -9.45d
+		}
+		{
+			dependencies: ["4764DDC7E9F4E32C"]
+			id: "1833A7F9829D7495"
+			rewards: [
+				{
+					id: "2F2C3CD72836955C"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "202F21A28CD3B40D"
+					item: {
+						count: 1
+						id: "apotheosis:gem_cutting_table"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -8.15d
+		}
+		{
+			dependencies: ["4764DDC7E9F4E32C"]
+			id: "15DD92C6867EC08F"
+			rewards: [
+				{
+					id: "73430EF587CDCD7B"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tags: ["era_runy"]
+			tasks: [
+				{
+					id: "1FAE26C04EACA52D"
+					item: {
+						count: 1
+						id: "apotheosis:simple_reforging_table"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -6.85d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			id: "7E44769AB8382CDE"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "379C2BD7AD0BF61C"
+					type: "xp"
+					xp: 125
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "4129F48D1DE9E63D"
+					item: {
+						count: 1
+						id: "apothic_enchanting:hellshelf"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -4.13d
+		}
+		{
+			dependencies: ["7E44769AB8382CDE"]
+			id: "790A76A2A83ABBC3"
+			rewards: [
+				{
+					id: "10513026C99281C1"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "2CBBBF82E2848F5D"
+					item: {
+						count: 1
+						id: "apothic_enchanting:infused_hellshelf"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -2.58d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			id: "78374C2DA182482C"
+			rewards: [
+				{
+					id: "4408F77DB914FAAE"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "69387B1ED91536E2"
+					item: {
+						count: 1
+						id: "apothic_enchanting:seashelf"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -2.58d
+		}
+		{
+			dependencies: ["790A76A2A83ABBC3"]
+			icon: {
+				id: "apothic_enchanting:infused_hellshelf"
+			}
+			id: "299C53C73D07D349"
+			rewards: [
+				{
+					id: "20C22A19BDBD0790"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "apothic_enchanting:60ench"
+					criterion: ""
+					id: "15C3A30014E90666"
+					type: "advancement"
+				}
+			]
+			x: 3.5d
+			y: -3.35d
+		}
+		{
+			dependencies: ["790A76A2A83ABBC3"]
+			id: "3E1E581B815C8B3E"
+			rewards: [
+				{
+					id: "2CDACD54B4385B6E"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					id: "63A774B90BCC7D72"
+					item: {
+						count: 1
+						id: "apothic_enchanting:library"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -1.8d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:spawner"
+			}
+			id: "343AE35599EB3B9F"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "5E5E39DE2B9F7CFA"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz"]
+			tasks: [
+				{
+					advancement: "apothic_spawners:modifier"
+					criterion: ""
+					id: "153CB3E67A6FB738"
+					type: "advancement"
+				}
+			]
+			x: 0.0d
+			y: -1.03d
+		}
+		{
+			dependencies: ["7A875C04743BEF62"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:diamond_sword"
+			}
+			id: "475362B010B0186F"
+			preset: "info"
+			rewards: [
+				{
+					id: "61AC205323BE430C"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					advancement: "apotheosis:progression/ascent"
+					criterion: ""
+					id: "619835777E278134"
+					type: "advancement"
+				}
+			]
+			x: 0.0d
+			y: 1.7d
+		}
+		{
+			dependencies: ["475362B010B0186F"]
+			id: "606E30C13378CEFE"
+			rewards: [
+				{
+					id: "2C8F8E7A37B847D0"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "29BC634AA49CCC41"
+					item: {
+						count: 1
+						id: "apotheosis:arcane_sands"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 1.7d
+		}
+		{
+			dependencies: ["606E30C13378CEFE"]
+			id: "236EA965089911A1"
+			rewards: [
+				{
+					id: "1ED8088E2EA5813C"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tags: ["era_okultyzm"]
+			tasks: [
+				{
+					id: "233ACFE57A32C69C"
+					item: {
+						count: 1
+						id: "apotheosis:reforging_table"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 1.7d
+		}
+		{
+			dependencies: ["784FFE5AA9775311"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "create_enchantment_industry:experience_bucket"
+			}
+			id: "5E49617147F3AA5A"
+			rewards: [
+				{
+					id: "7EEDBDBBFECFA329"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "5DD8603337C30030"
+					item: {
+						count: 1
+						id: "create_enchantment_industry:mechanical_grindstone"
+					}
+					type: "item"
+				}
+				{
+					id: "1C3EC4502050E870"
+					item: {
+						count: 1
+						id: "create_enchantment_industry:experience_bucket"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 5.97d
+		}
+		{
+			dependencies: ["5E49617147F3AA5A"]
+			id: "5EF52EC41E8A9EED"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "239D595E4DB99882"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "79D9EE6DDC4E1436"
+					item: {
+						count: 1
+						id: "create_enchantment_industry:experience_hatch"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 4.42d
+		}
+		{
+			dependencies: ["5E49617147F3AA5A"]
+			id: "170DA1526864E8AA"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "54B2BE7248820ADC"
+					type: "xp"
+					xp: 175
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "5C2368A0A4FC2D07"
+					item: {
+						count: 1
+						id: "create_enchantment_industry:blaze_enchanter"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 5.97d
+		}
+		{
+			dependencies: ["170DA1526864E8AA"]
+			id: "448E851CC7A01D07"
+			rewards: [
+				{
+					id: "5BDB543794BDF2AA"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "7A91A92298A9CCD7"
+					item: {
+						count: 1
+						id: "create_enchantment_industry:enchanting_template"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 4.42d
+		}
+		{
+			dependencies: ["170DA1526864E8AA"]
+			id: "2E1E016F9CBF0947"
+			rewards: [
+				{
+					id: "37C31C627AD254DA"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "11A3A4B05A5BB40A"
+					item: {
+						count: 1
+						id: "create_enchantment_industry:blaze_forger"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 5.97d
+		}
+		{
+			dependencies: ["5E49617147F3AA5A"]
+			id: "6681ACA2A79FA53A"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "17C7EDDF4C217069"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					id: "3BD77E86DA91559E"
+					item: {
+						count: 1
+						id: "create_enchantment_industry:printer"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 7.52d
+		}
+		{
+			dependencies: ["6681ACA2A79FA53A"]
+			icon: {
+				id: "create_enchantment_industry:printer"
+			}
+			id: "63F07386B1A0BA5E"
+			rewards: [
+				{
+					id: "075395AA2E5A87D9"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para"]
+			tasks: [
+				{
+					advancement: "create_enchantment_industry:great_publisher"
+					criterion: ""
+					id: "768F8A8B48DC5C32"
+					type: "advancement"
+				}
+			]
+			x: 3.5d
+			y: 7.52d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:netherite_sword"
+			}
+			id: "5078BA0E7807155B"
+			preset: "info"
+			rewards: [
+				{
+					id: "24A70216E366DF5D"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					advancement: "apotheosis:progression/summit"
+					criterion: ""
+					id: "17A82ACFD1AAA329"
+					type: "advancement"
+				}
+			]
+			x: 0.0d
+			y: 10.25d
+		}
+		{
+			dependencies: ["5078BA0E7807155B"]
+			id: "69E628FF1507E56B"
+			rewards: [
+				{
+					id: "3FCB928E906947A3"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "0C1862DB00FC7944"
+					item: {
+						count: 1
+						id: "apotheosis:godforged_pearl"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 10.25d
+		}
+		{
+			dependencies: ["69E628FF1507E56B"]
+			id: "4C6F056625C328BE"
+			rewards: [
+				{
+					id: "040F5BAA4234E8BC"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana"]
+			tasks: [
+				{
+					id: "7F6FDA60EB827414"
+					item: {
+						count: 1
+						id: "apotheosis:augmenting_table"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 10.25d
+		}
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			hide_until_deps_complete: true
+			id: "6B1E1A4C5F600010"
+			rewards: [
+				{
+					id: "3C0E685BE63CE808"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "5281F04432471A6C"
+					item: {
+						count: 1
+						id: "apothic_enchanting:deepshelf"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 12.85d
+		}
+		{
+			dependencies: ["6B1E1A4C5F600010"]
+			id: "6BF7CC8ED4ABE8B6"
+			rewards: [
+				{
+					id: "4B0D4C71998EE71E"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					id: "71BB225B18BA7467"
+					item: {
+						count: 1
+						id: "apothic_enchanting:echoing_sculkshelf"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 12.85d
+		}
+		{
+			dependencies: ["6BF7CC8ED4ABE8B6"]
+			icon: {
+				id: "apothic_enchanting:echoing_sculkshelf"
+			}
+			id: "6CD2F728EFCF6A84"
+			rewards: [
+				{
+					id: "56D3D5EF52B8A1B4"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc"]
+			tasks: [
+				{
+					advancement: "apothic_enchanting:80ench"
+					criterion: ""
+					id: "4B4B9E75AB861A1C"
+					type: "advancement"
+				}
+			]
+			x: 3.5d
+			y: 12.85d
+		}
+		{
+			dependencies: ["53A32F809B45CAFE"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:dragon_egg"
+			}
+			id: "3E18E22D4538637F"
+			preset: "info"
+			rewards: [
+				{
+					id: "3755C81CC94070D5"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					advancement: "apotheosis:progression/pinnacle"
+					criterion: ""
+					id: "45D9BD7573FB06D2"
+					type: "advancement"
+				}
+			]
+			x: 0.0d
+			y: 16.35d
+		}
+		{
+			dependencies: ["3E18E22D4538637F"]
+			id: "04F8C98FB6AADB8D"
+			rewards: [
+				{
+					id: "4D0EEC67D310E248"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "41BC7CA738D9EB28"
+					item: {
+						count: 1
+						id: "apothic_enchanting:infused_breath"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 16.35d
+		}
+		{
+			dependencies: ["04F8C98FB6AADB8D"]
+			id: "1804A9B22E120315"
+			rewards: [
+				{
+					id: "377B3E18DCCA2977"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "6FEBAB6D0C55A52A"
+					item: {
+						count: 1
+						id: "apothic_enchanting:endshelf"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 15.57d
+		}
+		{
+			dependencies: ["1804A9B22E120315"]
+			id: "219E7F099DD7D563"
+			rewards: [
+				{
+					id: "164DFAC14F5E2AE8"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "030BBFFD73B5F1F6"
+					item: {
+						count: 1
+						id: "apothic_enchanting:draconic_endshelf"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 16.35d
+		}
+		{
+			dependencies: ["04F8C98FB6AADB8D"]
+			id: "50BC623AA6269B8B"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "5F272C145AC0F4D7"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					id: "14DC34584157852E"
+					item: {
+						count: 1
+						id: "apothic_enchanting:ender_library"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 17.12d
+		}
+		{
+			dependencies: ["219E7F099DD7D563"]
+			icon: {
+				id: "apothic_enchanting:draconic_endshelf"
+			}
+			id: "1240660E819543A1"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "44A64E0F6D88ABFE"
+					type: "xp"
+					xp: 250
+				}
+			]
+			tags: ["era_atom"]
+			tasks: [
+				{
+					advancement: "apothic_enchanting:100ench"
+					criterion: ""
+					id: "13FFB85D9262D12D"
+					type: "advancement"
+				}
+			]
+			x: 7.0d
+			y: 16.35d
+		}
+	]
+}

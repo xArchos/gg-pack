@@ -1,0 +1,1370 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "storage_sophisticated"
+	group: "75FCEC97D90BDF93"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "sophisticatedstorage:chest"
+	}
+	id: "6E96F6DC60525599"
+	images: [
+		{
+			height: 1.8d
+			id: "4C4729B103B51789"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.0d
+			x: 4.0d
+			y: -17.03d
+		}
+		{
+			height: 1.8d
+			id: "7CCAF2717440D939"
+			image: "sophisticatedstorage:item/upgrade_base"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -17.03d
+		}
+		{
+			height: 1.8d
+			id: "1C82EB600104E857"
+			image: "sophisticatedstorage:item/storage_tool"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 10.7d
+			y: -17.03d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "7CE986D3C2BCFC22"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -14.88d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "3DCF394EE381447D"
+			image: "sophisticatedstorage:block/oak_barrel_side"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -14.88d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "7C344E15A126F8AB"
+			image: "sophisticatedstorage:block/copper_barrel_side"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -14.88d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "3D258A79BA869BB6"
+			image: "sophisticatedstorage:block/iron_barrel_side"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -14.88d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "5BF566E420291886"
+			image: "sophisticatedstorage:item/packing_tape"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -14.88d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "5663D994B673D45B"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -7.38d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "0BDF4C0A8672F526"
+			image: "sophisticatedstorage:item/stack_upgrade_tier_1"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -7.38d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "554AF8BA70A54595"
+			image: "sophisticatedstorage:item/hopper_upgrade"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -7.38d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "67E7559BD0CBE5A2"
+			image: "sophisticatedstorage:item/compacting_upgrade"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -7.38d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.8d
+			id: "77D5AB9B12D330DA"
+			image: "sophisticatedstorage:item/magnet_upgrade"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -7.38d
+		}
+		{
+			dependency: "7B472916B8B3515D"
+			height: 0.04d
+			id: "0FB4FCF49942236F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -7.88d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "2A8B217E96FE638B"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -0.88d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "737E7DDF55617E8A"
+			image: "sophisticatedstorage:block/gold_barrel_side"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -0.88d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "437976CF10C3E9FC"
+			image: "sophisticatedstorage:item/stack_upgrade_tier_3"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -0.88d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "1FAD1E98EAF42F51"
+			image: "sophisticatedstorage:item/advanced_magnet_upgrade"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -0.88d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.8d
+			id: "69711B29F7D52117"
+			image: "sophisticatedstorage:item/auto_smelting_upgrade"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -0.88d
+		}
+		{
+			dependency: "280585C62F8445F8"
+			height: 0.04d
+			id: "3CFF583E68A2F233"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: -1.38d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "6AC1A949BDB412CE"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 6.62d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "71228D44A45A5477"
+			image: "sophisticatedstorage:block/diamond_barrel_side"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 6.62d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.8d
+			id: "1E2DB991BBE61F31"
+			image: "sophisticatedstorage:item/stack_upgrade_tier_4"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 6.62d
+		}
+		{
+			dependency: "784FFE5AA9775311"
+			height: 0.04d
+			id: "1FCA7B2274F918C0"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 6.12d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "0C1D067F48E51F8E"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 10.53d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "0E5ED0C2B902F398"
+			image: "sophisticatedstorage:block/netherite_barrel_side"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 10.53d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "26AE6561CC34F244"
+			image: "sophisticatedstorage:item/stack_upgrade_tier_5"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 10.53d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.8d
+			id: "07D596A231147C84"
+			image: "sophisticatedstorage:item/stack_upgrade_omega_tier"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 10.53d
+		}
+		{
+			dependency: "76291927B354F598"
+			height: 0.04d
+			id: "40D56A262E7B29F1"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 10.03d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "2832BC2E0E0BEB5D"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 13.38d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.8d
+			id: "5025FCDEC6A0E681"
+			image: "minecraft:item/shulker_shell"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 13.38d
+		}
+		{
+			dependency: "53A32F809B45CAFE"
+			height: 0.04d
+			id: "7DFB0CAB4C7D4C46"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.0d
+			y: 12.88d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["7B472916B8B3515D"]
+			hide_until_deps_complete: true
+			id: "6D7B78BBF98C9613"
+			rewards: [
+				{
+					id: "406D6C929CE77DA3"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "4343E2029F4022D3"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:chest"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -11.02d
+		}
+		{
+			dependencies: ["6D7B78BBF98C9613"]
+			id: "2BFB307063CD3DFE"
+			rewards: [
+				{
+					id: "70C3D9DB5AC46B2E"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "7709757FE282D5D6"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:barrel"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -13.35d
+		}
+		{
+			dependencies: ["2BFB307063CD3DFE"]
+			id: "0271DE904705BB3F"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "4C911DFA5B053FB1"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "711F28FD5563BFFD"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:limited_barrel_1"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -13.35d
+		}
+		{
+			dependencies: ["6D7B78BBF98C9613"]
+			id: "1DCB210D0E297B67"
+			rewards: [
+				{
+					id: "5ED01A8DA2ACDA98"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "7659CE9008545ED1"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:copper_chest"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -11.8d
+		}
+		{
+			dependencies: ["6D7B78BBF98C9613"]
+			id: "0825D1D8E1416DF6"
+			rewards: [
+				{
+					id: "559032C2E2A8E56E"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "406455847B592C26"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:basic_to_copper_tier_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -10.25d
+		}
+		{
+			dependencies: ["1DCB210D0E297B67"]
+			id: "44B13C087B9CA492"
+			rewards: [
+				{
+					id: "0377167CED286D77"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "5944FAF43F7286CE"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:iron_chest"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -11.8d
+		}
+		{
+			dependencies: ["6D7B78BBF98C9613"]
+			id: "43CBC1B274368298"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "511DC81DEB7566D9"
+					type: "xp"
+					xp: 75
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "036A331A384D3F4F"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:controller"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -8.7d
+		}
+		{
+			dependencies: ["43CBC1B274368298"]
+			id: "0E8427AD41F130CD"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "0275603E79361B6B"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "04C422AD836B9B6E"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:storage_link"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -10.25d
+		}
+		{
+			dependencies: ["43CBC1B274368298"]
+			id: "7C297BF0580ADE8F"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "508AB7D6776AA413"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "0DE4D27165C6B36F"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:storage_tool"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -8.7d
+		}
+		{
+			dependencies: ["6D7B78BBF98C9613"]
+			id: "0D02A80409E99AA6"
+			rewards: [
+				{
+					id: "253D1EC698331F78"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "5CD2E5EC65EFC609"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:packing_tape"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -11.8d
+		}
+		{
+			dependencies: ["6D7B78BBF98C9613"]
+			icon: {
+				id: "sophisticatedstorage:decoration_table"
+			}
+			id: "440B0B30344FC12F"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "624627B61664ED6D"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "518C55B950C82B41"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:decoration_table"
+					}
+					type: "item"
+				}
+				{
+					id: "3F1D1E07CCAD3E68"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:paintbrush"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -10.25d
+		}
+		{
+			dependencies: ["6D7B78BBF98C9613"]
+			id: "3078D963AD1D07CD"
+			rewards: [
+				{
+					id: "1B8572F5CAF0DE3E"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "7F3F80529242676E"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:upgrade_base"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -4.03d
+		}
+		{
+			dependencies: ["3078D963AD1D07CD"]
+			id: "0FADD40FA93C74DC"
+			rewards: [
+				{
+					id: "781EE5169D49F4D5"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "1542AB86B17A05CE"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:stack_upgrade_tier_1"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -5.98d
+		}
+		{
+			dependencies: ["0FADD40FA93C74DC"]
+			id: "520964CC45735879"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "1A285CD208EB228A"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "6DA7C1FBFE51B764"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:stack_upgrade_tier_1_plus"
+					}
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: -4.68d
+		}
+		{
+			dependencies: ["0FADD40FA93C74DC"]
+			id: "1189812BC365E23E"
+			rewards: [
+				{
+					id: "6E8DA76B2560CB03"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "1D214BD78620747D"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:stack_upgrade_tier_2"
+					}
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: -3.38d
+		}
+		{
+			dependencies: ["3078D963AD1D07CD"]
+			id: "65E3E47CF029F29D"
+			rewards: [
+				{
+					id: "7852437FC3E3DCEA"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "1AAFAFF64D5B681F"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:hopper_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -4.68d
+		}
+		{
+			dependencies: ["3078D963AD1D07CD"]
+			id: "3D595F13538C18AA"
+			rewards: [
+				{
+					id: "214E1999CEE7A523"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "1633B26E53A7A9C7"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:compacting_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -3.38d
+		}
+		{
+			dependencies: ["3078D963AD1D07CD"]
+			id: "5DE5FDF54351C05C"
+			rewards: [
+				{
+					id: "74C653CE96993703"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "00EA44525E79F2FA"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:magnet_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -2.08d
+		}
+		{
+			dependencies: ["3078D963AD1D07CD"]
+			id: "78B0E0C2EC7E9730"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "4938C76794241ED7"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "1C97098501A906A8"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:smelting_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -5.98d
+		}
+		{
+			dependencies: ["3078D963AD1D07CD"]
+			id: "548B8A2E2BB1A0E5"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "70936922BB52F0BA"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "4139F7D9FFCD7749"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:crafting_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -4.68d
+		}
+		{
+			dependencies: ["3078D963AD1D07CD"]
+			id: "1A9C0A1247E8549E"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "78A331613DE8BCA3"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "561342C974D78756"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:void_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -3.38d
+		}
+		{
+			dependencies: ["3078D963AD1D07CD"]
+			id: "33FEC4DE0C0A63E9"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "6B61C0A596F68EFC"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tags: ["era_andezyt", "storage"]
+			tasks: [
+				{
+					id: "5413665415EF80C1"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:chipped/mason_table_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -2.08d
+		}
+		{
+			dependencies: ["280585C62F8445F8"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "sophisticatedstorage:gold_chest"
+			}
+			id: "7B9F90C111570883"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "56BED95F86847FAE"
+					type: "xp"
+					xp: 125
+				}
+			]
+			tags: ["era_mosiadz", "storage"]
+			tasks: [
+				{
+					id: "6236D6CE539406F4"
+					observation_type: "block"
+					timer: 20L
+					to_observe: "sophisticatedstorage:gold_chest"
+					type: "observation"
+				}
+			]
+			x: 0.0d
+			y: 2.97d
+		}
+		{
+			dependencies: ["7B9F90C111570883"]
+			id: "2496D0A0AD764DEF"
+			rewards: [
+				{
+					id: "199A95E04AF2F3FA"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz", "storage"]
+			tasks: [
+				{
+					id: "5DFDAFFFA488945A"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:iron_to_gold_tier_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 0.65d
+		}
+		{
+			dependencies: ["7B9F90C111570883"]
+			id: "103A2997B453759E"
+			rewards: [
+				{
+					id: "5F09B815E42E860B"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz", "storage"]
+			tasks: [
+				{
+					id: "07A0F9479F8F054C"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:stack_upgrade_tier_3"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 2.2d
+		}
+		{
+			dependencies: ["7B9F90C111570883"]
+			icon: {
+				id: "sophisticatedstorage:storage_io"
+			}
+			id: "4E2CA6181D1E5D00"
+			rewards: [
+				{
+					id: "6F575E6A5BF7FC02"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz", "storage"]
+			tasks: [
+				{
+					id: "02C03F5A728AC04B"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:storage_io"
+					}
+					type: "item"
+				}
+				{
+					id: "31B8CBC2137322E2"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:storage_input"
+					}
+					type: "item"
+				}
+				{
+					id: "2DBAEAD24F1E6F38"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:storage_output"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 3.75d
+		}
+		{
+			dependencies: ["7B9F90C111570883"]
+			icon: {
+				id: "sophisticatedstorage:advanced_hopper_upgrade"
+			}
+			id: "099868764AE0F13A"
+			rewards: [
+				{
+					id: "005A2EDB9C4C1F05"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz", "storage"]
+			tasks: [
+				{
+					id: "0516E092A072ED9C"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:advanced_magnet_upgrade"
+					}
+					type: "item"
+				}
+				{
+					id: "29179B1D157040BB"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:advanced_hopper_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 5.3d
+		}
+		{
+			dependencies: ["7B9F90C111570883"]
+			id: "468EABC5C4D55100"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "139409113096C30A"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz", "storage"]
+			tasks: [
+				{
+					id: "0C43C88C1B398BD3"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:auto_smelting_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 1.42d
+		}
+		{
+			dependencies: ["7B9F90C111570883"]
+			id: "6232770CFC6EB3A0"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "7590F845F8B554DD"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz", "storage"]
+			tasks: [
+				{
+					id: "2DCAF6CFFEEA00B7"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:advanced_compacting_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 2.97d
+		}
+		{
+			dependencies: ["7B9F90C111570883"]
+			id: "43274603A9F19AD3"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "4E093DECB6CD046B"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tags: ["era_mosiadz", "storage"]
+			tasks: [
+				{
+					id: "0AB53D5CF1E56404"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:xp_pump_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 4.52d
+		}
+		{
+			dependencies: ["784FFE5AA9775311"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "sophisticatedstorage:diamond_chest"
+			}
+			id: "02891F86D18A850E"
+			rewards: [
+				{
+					id: "0C9887B27730031D"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para", "storage"]
+			tasks: [
+				{
+					id: "32680998FD84D76C"
+					observation_type: "block"
+					timer: 20L
+					to_observe: "sophisticatedstorage:diamond_chest"
+					type: "observation"
+				}
+			]
+			x: 0.0d
+			y: 8.67d
+		}
+		{
+			dependencies: ["02891F86D18A850E"]
+			id: "140A2E973FDDCE24"
+			rewards: [
+				{
+					id: "3A0493C027B640D2"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para", "storage"]
+			tasks: [
+				{
+					id: "70EAD6C9BB230CCF"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:stack_upgrade_tier_4"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 8.02d
+		}
+		{
+			dependencies: ["02891F86D18A850E"]
+			id: "0F6354C74514EA4F"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "66F808ADC414135A"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tags: ["era_para", "storage"]
+			tasks: [
+				{
+					id: "7B75DD7B8FB871FF"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:basic_to_diamond_tier_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 9.32d
+		}
+		{
+			dependencies: ["76291927B354F598"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "sophisticatedstorage:netherite_chest"
+			}
+			id: "2D3D52F2B87F2530"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "771DCECF5A7071A0"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tags: ["era_arkana", "storage"]
+			tasks: [
+				{
+					id: "2A3C6C8B39F737A4"
+					observation_type: "block"
+					timer: 20L
+					to_observe: "sophisticatedstorage:netherite_chest"
+					type: "observation"
+				}
+			]
+			x: 0.0d
+			y: 12.05d
+		}
+		{
+			dependencies: ["2D3D52F2B87F2530"]
+			id: "1CB7DE2ECB89213F"
+			rewards: [
+				{
+					id: "19A69AF4E3698550"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana", "storage"]
+			tasks: [
+				{
+					id: "37C8AE954978EEF8"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:stack_upgrade_tier_5"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 12.05d
+		}
+		{
+			dependencies: ["1CB7DE2ECB89213F"]
+			id: "5023D3D6CD8C30CE"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "3930A40035F4EA6D"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tags: ["era_arkana", "storage"]
+			tasks: [
+				{
+					id: "5BF30747F09D679D"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:stack_upgrade_omega_tier"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 12.05d
+		}
+		{
+			dependencies: ["53A32F809B45CAFE"]
+			hide_until_deps_complete: true
+			id: "6DF92387C832E148"
+			rewards: [
+				{
+					id: "08917A4C1C72C73D"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "storage"]
+			tasks: [
+				{
+					id: "755295C172C5736C"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:shulker_box"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 14.78d
+		}
+		{
+			dependencies: ["6DF92387C832E148"]
+			id: "64FE2EFBA55E6AC1"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "432FCAE643E56C63"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tags: ["era_atom", "storage"]
+			tasks: [
+				{
+					id: "51821C2CD22ACAAE"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:netherite_shulker_box"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 14.78d
+		}
+	]
+}

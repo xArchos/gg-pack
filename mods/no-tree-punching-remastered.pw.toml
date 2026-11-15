@@ -1,0 +1,13 @@
+name = "No Tree Punching Remastered"
+filename = "notreepunchingremastered-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KlhMLU2O/versions/iblEwsh6/notreepunchingremastered-1.1.jar"
+hash-format = "sha512"
+hash = "6a04731f2c4aad194e1c915631c1eb04e021f742f16a238f72b4af861106438c16d918ca9cfc71bcb269b9701bf5ed14d9b0aec4df961cb01656c53b304abefb"
+
+[update]
+[update.modrinth]
+mod-id = "KlhMLU2O"
+version = "iblEwsh6"

@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "betterwitchhuts:witch_hut",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:bog_trial",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:village/swamp",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "explorify:guide_post_cold",
+      "required": false
+    },
+    {
+      "id": "explorify:guide_post_warm",
+      "required": false
+    }
+  ]
+}

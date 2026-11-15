@@ -1,0 +1,1293 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "storage_ae2"
+	group: "75FCEC97D90BDF93"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "ae2:drive"
+	}
+	id: "2FC342A5CFB4AE50"
+	images: [
+		{
+			height: 1.8d
+			id: "10DA1EFC5AB05044"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 11.75d
+			x: 4.38d
+			y: -15.32d
+		}
+		{
+			height: 1.8d
+			id: "52C9BCEF712AF016"
+			image: "ae2:block/controller_powered"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.7d
+			y: -15.32d
+		}
+		{
+			height: 1.8d
+			id: "4969F326C0C34F22"
+			image: "ae2:item/fluix_crystal"
+			order: 0
+			rotation: 0.0d
+			width: 1.8d
+			x: 11.45d
+			y: -15.32d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "3CD84BAA4E592553"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -13.17d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "072399530F5BBC6D"
+			image: "ae2:block/drive/drive_front"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -13.17d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "4090C8EC898B0188"
+			image: "ae2:block/controller"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -13.17d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "2DEF5789F82F840D"
+			image: "ae2:block/energy_cell_4"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -13.17d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "617CE0ECB5D49DD2"
+			image: "ae2:item/item_storage_cell_1k"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -13.17d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "37E1F2C6AADF9F44"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: -5.67d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "3578D9A537273303"
+			image: "ae2:item/wireless_terminal"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: -5.67d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "7DABA364C78D452C"
+			image: "ae2:block/wireless_access_point"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: -5.67d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "07BD8AB545220E50"
+			image: "ae2:item/memory_card_base"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: -5.67d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "2F86A5C372FB5963"
+			image: "ae2:item/wireless_receiver"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: -5.67d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.04d
+			id: "460C69A16C55F51F"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: -6.17d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "4966B8ADBABF3EC0"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 0.83d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "7D9F5F563BC51E43"
+			image: "ae2:block/io_port_front"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 0.83d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "39569A273E0A0F25"
+			image: "ae2:block/interface"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 0.83d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "5C4496219D65C5D0"
+			image: "ae2:item/card_capacity"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 0.83d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "6F5CD8D12CC2621E"
+			image: "ae2:item/card_fuzzy"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: 0.83d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.04d
+			id: "219C36A068D6FBD0"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 0.33d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "5E791AFC202131F3"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			text_on_image: true
+			width: 7.5d
+			x: 3.25d
+			y: 8.33d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "3F75C377770F7AFE"
+			image: "ae2:block/molecular_assembler"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.2d
+			y: 8.33d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "4DDB21B8A53B2796"
+			image: "ae2:block/pattern_provider"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 7.7d
+			y: 8.33d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "26F4D46FDBEA9083"
+			image: "ae2:block/crafting/accelerator"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 8.7d
+			y: 8.33d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.8d
+			id: "00CACE6297F781BF"
+			image: "ae2:item/crafting_pattern"
+			order: 0
+			rotation: 0.0d
+			width: 0.8d
+			x: 9.7d
+			y: 8.33d
+		}
+		{
+			dependency: "74C281A272FD6D6D"
+			height: 0.04d
+			id: "473C204CEDDB1932"
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 7.5d
+			x: 3.25d
+			y: 7.83d
+		}
+	]
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["74C281A272FD6D6D"]
+			hide_until_deps_complete: true
+			id: "0499EEF40E246643"
+			rewards: [
+				{
+					id: "4F762EDB91E2A28D"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "074D39D1AAA51FB7"
+					item: {
+						count: 1
+						id: "ae2:drive"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -9.32d
+		}
+		{
+			dependencies: ["0499EEF40E246643"]
+			id: "397F3CF7D688F608"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "6A4D9B2FB9AF249D"
+					type: "xp"
+					xp: 225
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "07E41A85A2345A7B"
+					item: {
+						count: 1
+						id: "ae2:terminal"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -11.65d
+		}
+		{
+			dependencies: ["0499EEF40E246643"]
+			id: "50E20D7DA134239B"
+			rewards: [
+				{
+					id: "5EB978C027838E42"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "20A863C9D54375DE"
+					item: {
+						count: 1
+						id: "ae2:controller"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -10.1d
+		}
+		{
+			dependencies: ["0499EEF40E246643"]
+			id: "424508F6826A8BFF"
+			rewards: [
+				{
+					id: "0370751FBDC45019"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "40506DAED9437463"
+					item: {
+						count: 1
+						id: "ae2:energy_acceptor"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -8.55d
+		}
+		{
+			dependencies: ["0499EEF40E246643"]
+			icon: {
+				id: "ae2:fluix_covered_cable"
+			}
+			id: "4C2461DA7B140AC8"
+			rewards: [
+				{
+					id: "3E60928977C8CFC4"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "32A5FA9C29F416D0"
+					item: {
+						count: 1
+						id: "ae2:fluix_glass_cable"
+					}
+					type: "item"
+				}
+				{
+					id: "0AC9D3B586BB1B08"
+					item: {
+						count: 1
+						id: "ae2:fluix_covered_cable"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -7.0d
+		}
+		{
+			dependencies: ["397F3CF7D688F608"]
+			id: "6BBC06EE9A8330D8"
+			rewards: [
+				{
+					id: "76895D8F9428F2B0"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "7294697D99E0DE21"
+					item: {
+						count: 1
+						id: "ae2:crafting_terminal"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -9.32d
+		}
+		{
+			dependencies: ["0499EEF40E246643"]
+			icon: {
+				id: "ae2:item_storage_cell_16k"
+			}
+			id: "3FE8CE8AD6A9F43F"
+			rewards: [
+				{
+					id: "0880521FA0940653"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "0750CB438BB09367"
+					item: {
+						count: 1
+						id: "ae2:item_storage_cell_4k"
+					}
+					type: "item"
+				}
+				{
+					id: "7F1CB93225F6FF2E"
+					item: {
+						count: 1
+						id: "ae2:item_storage_cell_16k"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -11.65d
+		}
+		{
+			dependencies: ["0499EEF40E246643"]
+			id: "12C9DE9623188A7F"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "501E823558C8660F"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "59CC074CF810B7F7"
+					item: {
+						count: 1
+						id: "ae2:fluid_storage_cell_1k"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -10.1d
+		}
+		{
+			dependencies: ["0499EEF40E246643"]
+			id: "426C357A7A6AF606"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "47A31D67CBC0B3BA"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "520CE7C4F1946013"
+					item: {
+						count: 1
+						id: "ae2:network_tool"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -8.55d
+		}
+		{
+			dependencies: ["0499EEF40E246643"]
+			id: "5F871BB9255A6DB1"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "40B232AB9BF41068"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "43BBD1A6C037144F"
+					item: {
+						count: 1
+						id: "ae2:chest"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["0499EEF40E246643"]
+			icon: {
+				id: "ae2:fluix_smart_cable"
+			}
+			id: "5267D0A3D3F9363E"
+			preset: "info"
+			rewards: [
+				{
+					id: "04616AA70BE47206"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "74A449AA9C299B0C"
+					type: "checkmark"
+				}
+			]
+			x: 1.75d
+			y: -2.97d
+		}
+		{
+			dependencies: ["5267D0A3D3F9363E"]
+			id: "594B63B2E2FD2FD0"
+			rewards: [
+				{
+					id: "5A7ABF0F81A5D8A4"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "3F1D2F22C9F04FEB"
+					item: {
+						count: 1
+						id: "ae2:fluix_smart_cable"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -4.27d
+		}
+		{
+			dependencies: ["5267D0A3D3F9363E"]
+			id: "74A813B40CC23A56"
+			rewards: [
+				{
+					id: "0DA8653264FE06AC"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "7FC95545659237AC"
+					item: {
+						count: 1
+						id: "ae2:fluix_covered_dense_cable"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -2.97d
+		}
+		{
+			dependencies: ["74A813B40CC23A56"]
+			icon: {
+				id: "ae2:me_p2p_tunnel"
+			}
+			id: "78E5F261603DF32D"
+			rewards: [
+				{
+					id: "2DDF2D530F9F34CE"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "0A5195F533264267"
+					item: {
+						count: 1
+						id: "ae2:me_p2p_tunnel"
+					}
+					type: "item"
+				}
+				{
+					id: "3897093967254660"
+					item: {
+						count: 1
+						id: "ae2:memory_card"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -2.32d
+		}
+		{
+			dependencies: ["5267D0A3D3F9363E"]
+			id: "17D2173AC4D2401F"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "21B839F8CFD4867B"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "52B7322083868B37"
+					item: {
+						count: 1
+						id: "ae2:quartz_fiber"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -1.67d
+		}
+		{
+			dependencies: ["0499EEF40E246643"]
+			id: "62BC6EAEFA099E37"
+			rewards: [
+				{
+					id: "396DBFE59EB37AFA"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "2A2182D52D657895"
+					item: {
+						count: 1
+						id: "ae2:wireless_access_point"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -1.67d
+		}
+		{
+			dependencies: ["62BC6EAEFA099E37"]
+			id: "7F8003F7657EF927"
+			rewards: [
+				{
+					id: "379D89B15E8D8606"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "49552D2D2E804C8F"
+					item: {
+						count: 1
+						id: "ae2:wireless_terminal"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -0.38d
+		}
+		{
+			dependencies: ["0499EEF40E246643"]
+			id: "01A9AE1109CC41BA"
+			rewards: [
+				{
+					id: "275897F2625161A6"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "0D54129F6E07D916"
+					item: {
+						count: 1
+						id: "ae2:cell_workbench"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 2.35d
+		}
+		{
+			dependencies: ["01A9AE1109CC41BA"]
+			icon: {
+				id: "ae2:capacity_card"
+			}
+			id: "0555D4F212A06AA4"
+			rewards: [
+				{
+					id: "3FA24B7281F09F92"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "51B56EB32138F10B"
+					item: {
+						count: 1
+						id: "ae2:capacity_card"
+					}
+					type: "item"
+				}
+				{
+					id: "14B4E8E550751949"
+					item: {
+						count: 1
+						id: "ae2:speed_card"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 3.13d
+		}
+		{
+			dependencies: ["0499EEF40E246643"]
+			id: "4790F1D3E0523768"
+			rewards: [
+				{
+					id: "232623B72A747E86"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "12421626B790CDE7"
+					item: {
+						count: 1
+						id: "ae2:import_bus"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 3.9d
+		}
+		{
+			dependencies: ["0499EEF40E246643"]
+			id: "0CCD2963566C0E61"
+			rewards: [
+				{
+					id: "41ABFBB3A7496467"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "6935A5DF25ABE0B1"
+					item: {
+						count: 1
+						id: "ae2:export_bus"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 5.45d
+		}
+		{
+			dependencies: ["0499EEF40E246643"]
+			id: "62BCBBCE19B250BB"
+			rewards: [
+				{
+					id: "03BB6A2AF113BC0A"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "3B92C11E6A8FA5CD"
+					item: {
+						count: 1
+						id: "ae2:storage_bus"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 7.0d
+		}
+		{
+			dependencies: ["0499EEF40E246643"]
+			id: "5DC9FEF87A8C87FB"
+			rewards: [
+				{
+					id: "44C413A0238B6655"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "35F47A639B8F36D4"
+					item: {
+						count: 1
+						id: "ae2:interface"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 2.35d
+		}
+		{
+			dependencies: ["0499EEF40E246643"]
+			id: "1C1423FF6D3A1BB4"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "50D9B54943402FB5"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "72CF89A3AF1823F7"
+					item: {
+						count: 1
+						id: "ae2:level_emitter"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 3.9d
+		}
+		{
+			dependencies: ["0499EEF40E246643"]
+			icon: {
+				id: "ae2:annihilation_plane"
+			}
+			id: "0CB4CCCC9723F3A5"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "4D83CF19BE970D95"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "7E39FC1F1FFA4C2F"
+					item: {
+						count: 1
+						id: "ae2:annihilation_plane"
+					}
+					type: "item"
+				}
+				{
+					id: "3CD25A1CCE50245F"
+					item: {
+						count: 1
+						id: "ae2:formation_plane"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 5.45d
+		}
+		{
+			dependencies: ["0499EEF40E246643"]
+			id: "48285B5CC9CA3230"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "215B320B9746B758"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "749FBF53705876C0"
+					item: {
+						count: 1
+						id: "ae2:io_port"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["3FE8CE8AD6A9F43F"]
+			id: "32CEF1D222B81BC6"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "273E76E993BE3F08"
+					type: "xp"
+					xp: 225
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "1981E0FC3291D52C"
+					item: {
+						count: 1
+						id: "ae2:item_storage_cell_256k"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 4.68d
+		}
+		{
+			dependencies: ["48285B5CC9CA3230"]
+			icon: {
+				id: "ae2:spatial_io_port"
+			}
+			id: "68D6BC443E61E584"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "1A8A175A11D4AD11"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "3B3CB894E432D8F6"
+					item: {
+						count: 1
+						id: "ae2:spatial_io_port"
+					}
+					type: "item"
+				}
+				{
+					id: "66763A302EBEAE78"
+					item: {
+						count: 1
+						id: "ae2:spatial_storage_cell_2"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 6.23d
+		}
+		{
+			dependencies: ["397F3CF7D688F608"]
+			icon: {
+				id: "ae2:pattern_encoding_terminal"
+			}
+			id: "2DEC390F8A2D2C67"
+			rewards: [
+				{
+					id: "632CD9AFD1833C2E"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "55243C41959EBF5A"
+					item: {
+						count: 1
+						id: "ae2:pattern_encoding_terminal"
+					}
+					type: "item"
+				}
+				{
+					id: "79E7F277030DD0ED"
+					item: {
+						count: 1
+						id: "ae2:blank_pattern"
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 11.4d
+		}
+		{
+			dependencies: ["2DEC390F8A2D2C67"]
+			id: "71F650FEEF8E9066"
+			rewards: [
+				{
+					id: "127527ED2A3055DA"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "06BC9EB21F1EC418"
+					item: {
+						count: 1
+						id: "ae2:pattern_provider"
+					}
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 11.4d
+		}
+		{
+			dependencies: ["71F650FEEF8E9066"]
+			id: "7DEE64F639D186B5"
+			rewards: [
+				{
+					id: "1D15B203041FF4BD"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "7428C4CB93606AAE"
+					item: {
+						count: 1
+						id: "ae2:molecular_assembler"
+					}
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: 9.85d
+		}
+		{
+			dependencies: ["71F650FEEF8E9066"]
+			icon: {
+				id: "ae2:crafting_accelerator"
+			}
+			id: "626FE53E021013ED"
+			preset: "milestone"
+			rewards: [
+				{
+					id: "21F480BC01C3ADBF"
+					type: "xp"
+					xp: 225
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "34475681AD7319CB"
+					item: {
+						count: 1
+						id: "ae2:crafting_unit"
+					}
+					type: "item"
+				}
+				{
+					id: "6275E84C33EDF2DF"
+					item: {
+						count: 1
+						id: "ae2:1k_crafting_storage"
+					}
+					type: "item"
+				}
+				{
+					id: "794A2349E8E8259C"
+					item: {
+						count: 1
+						id: "ae2:crafting_accelerator"
+					}
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: 11.4d
+		}
+		{
+			dependencies: ["626FE53E021013ED"]
+			id: "52EC26F6E5126BC5"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "5791C33AD2F73FA9"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "636A5392A6766759"
+					item: {
+						count: 1
+						id: "ae2:crafting_monitor"
+					}
+					type: "item"
+				}
+			]
+			x: 8.75d
+			y: 9.85d
+		}
+		{
+			dependencies: ["626FE53E021013ED"]
+			id: "698E82D7135D42AB"
+			rewards: [
+				{
+					id: "3B702F6821CC55E3"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "6E56AC1B2B6FD8FF"
+					item: {
+						count: 1
+						id: "ae2:crafting_card"
+					}
+					type: "item"
+				}
+			]
+			x: 8.75d
+			y: 11.4d
+		}
+		{
+			dependencies: ["71F650FEEF8E9066"]
+			id: "74FBE7169DAAD16D"
+			optional: true
+			preset: "optional"
+			rewards: [
+				{
+					id: "00E9158AFF6F83F6"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					id: "26540D96E8A7ABF9"
+					item: {
+						count: 1
+						id: "ae2:pattern_access_terminal"
+					}
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: 12.95d
+		}
+		{
+			dependencies: ["626FE53E021013ED"]
+			icon: {
+				id: "ae2:logic_processor"
+			}
+			id: "5C627B1FE2DB7973"
+			rewards: [
+				{
+					id: "5B27CD59068735B3"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tags: ["era_elektrycznosc", "storage"]
+			tasks: [
+				{
+					count: 256L
+					id: "6A0A99033B1239DF"
+					item: {
+						count: 1
+						id: "ae2:logic_processor"
+					}
+					type: "item"
+				}
+			]
+			x: 8.75d
+			y: 12.95d
+		}
+	]
+}
