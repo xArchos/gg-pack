@@ -502,11 +502,11 @@ hash = "3820ade1a91c82019ef9c49e0cda79a81e3a1584ecd213ac2257bacc1c9147f0"
 
 [[files]]
 file = "kubejs/assets/aeronautics/lang/pl_pl.json"
-hash = "f233a821fdb09e0da658d320ee8ec8b06b88731b0ed3733d40bd0c298cb6207d"
+hash = "36cd67c9abd5ac2e8017a24cfff2ceb70a75a57cedc9dc6e9924d11e1ef953cd"
 
 [[files]]
 file = "kubejs/assets/aether/lang/pl_pl.json"
-hash = "b93aaf711df08f9fd092e1e581bdd3f48dbc01644837fc202f3a8ae6de10b3ee"
+hash = "a5a3c35e2c6ec87df741f7e29accbb313df8c31c3017fd20470f6e34f626f8b0"
 
 [[files]]
 file = "kubejs/assets/amendments/lang/pl_pl.json"
@@ -537,6 +537,10 @@ file = "kubejs/assets/appleskin/lang/pl_pl.json"
 hash = "26a0da6f6595803a3bec9dc98f17f2dfc4c140eb3b2f4b7d247f000089e3d4db"
 
 [[files]]
+file = "kubejs/assets/ars_nouveau/lang/pl_pl.json"
+hash = "c7e661025a02ab5b5694e9c45762b2ad30a8fe07b638dcf332542b2be40172dc"
+
+[[files]]
 file = "kubejs/assets/artifacts/lang/pl_pl.json"
 hash = "d5bfbe3c1912c046c0180c1471d0c893068634cf9bec9153bc214b6daf0fa413"
 
@@ -562,7 +566,7 @@ hash = "85207114a145954b69d48ebbc943ffdb30d3174ffa6342cb9488fc1500f7d9df"
 
 [[files]]
 file = "kubejs/assets/biomeswevegone/lang/pl_pl.json"
-hash = "2453d99d95a955ac5f7452a12f0d0883a534815ec6854f504f12474635264cd4"
+hash = "e29b7bdf13879a4eee853e4597cf109da3c9a8a8b270d0af08e732c143d5dd7f"
 
 [[files]]
 file = "kubejs/assets/blockui/lang/pl_pl.json"
@@ -602,15 +606,15 @@ hash = "c9dfb755a2213dec4e8d8b899fccd33c293be093cadd9191f120ea83fed6bdfc"
 
 [[files]]
 file = "kubejs/assets/create/lang/pl_pl.json"
-hash = "c9b2837705e2ad49dea5a0920b3b514e10538de8d6a5837e9f3a0905a432ae93"
+hash = "37a4b6ab87b7a47c1606f90e50dbc178b1af47406d1fc2d0e1e90b446ccc2d70"
 
 [[files]]
 file = "kubejs/assets/create_central_kitchen/lang/pl_pl.json"
-hash = "b2a425d19a0ca520509cc113cbc6b69560b352c5faf37205db5528f6643a29d2"
+hash = "aa6990d4066df334a7bb652712c439e816228871144c47756d720f045dcbe5ab"
 
 [[files]]
 file = "kubejs/assets/create_connected/lang/pl_pl.json"
-hash = "8737780e061c0d5e69f3df56695d08fe8ff1a64492b30375697e73d9ed553688"
+hash = "33bba822a8334bc83da69215ba40e21a6ac90f1c10cfd0a5606ef24c1d362214"
 
 [[files]]
 file = "kubejs/assets/create_dragons_plus/lang/pl_pl.json"
@@ -702,7 +706,7 @@ hash = "74831282418e5949e1b62c948cace8bfd6f268ecb7583e790d490a524bb530e2"
 
 [[files]]
 file = "kubejs/assets/everycomp/lang/pl_pl.json"
-hash = "0641322a763e93c222b1ea4e23f227bd1a4d6469ace4556d5a1d80ba7b48c156"
+hash = "107c76e4439f7aabd67393bd16e235391803adeff34761b9f50aaac002c5208e"
 
 [[files]]
 file = "kubejs/assets/explorerscompass/lang/pl_pl.json"
@@ -746,7 +750,7 @@ hash = "0268c425d5a2e6f414c0b82261c2af476891610e690e9eec45547c93926cd2b6"
 
 [[files]]
 file = "kubejs/assets/functionalstorage/lang/pl_pl.json"
-hash = "cd404a0116f7af7cefbcfad1773c8358b890900abb4252597ae2817260558357"
+hash = "854c048ae0de8b1b95bb6e839fa9fc6ad88abcdfa6a70c8f3485fb781ac108f4"
 
 [[files]]
 file = "kubejs/assets/gateways/lang/pl_pl.json"
@@ -850,7 +854,7 @@ hash = "5528a8262f40b7ef4a088415b12990a37a1c1221865c1c3da6549a1207ac8da9"
 
 [[files]]
 file = "kubejs/assets/handcrafted/lang/pl_pl.json"
-hash = "e3decbb27cb36b001f6913c7269d00278fc9e174a1ba846bd3479fa1097ae7e0"
+hash = "cd88613b46513712d4bcdba76d80e4107601ff3b8ccd4dff79fb562028b2391a"
 
 [[files]]
 file = "kubejs/assets/illagerinvasion/lang/pl_pl.json"
@@ -922,7 +926,7 @@ hash = "b014233f463893bc9698536f461a274e0dddd50e97034d5628b8420095823f59"
 
 [[files]]
 file = "kubejs/assets/minecolonies/lang/pl_pl.json"
-hash = "9990a5db66e08a263f09eea997f49b9af28b9699dc0239307e077b7a27c70805"
+hash = "244def9aaee29ee88300358a8fc7cdeb31bb58325ccd185e473e0a2cb34d5e2f"
 
 [[files]]
 file = "kubejs/assets/minecraft/atlases/blocks.json"
@@ -1034,7 +1038,7 @@ hash = "4a342bb263b95b6ee9b278d785ad8bd0acb39f9d003004177663998988d288c7"
 
 [[files]]
 file = "kubejs/assets/supplementaries/lang/pl_pl.json"
-hash = "23dfd92940faa9c4f4e6744716da762921af4e462076595f67957ef1cdad4daf"
+hash = "cdec68002cf2836711bfbb3819c91ccdae99b21ea5e43f9ac35a5a081844b322"
 
 [[files]]
 file = "kubejs/assets/thesettler_x_create/lang/pl_pl.json"
@@ -1046,7 +1050,7 @@ hash = "f4e2ef94a568d9000635b4e2ac423cf430de02c21bf48cbe74ca5e7a05d9650f"
 
 [[files]]
 file = "kubejs/assets/upgrade_aquatic/lang/pl_pl.json"
-hash = "6e481dfc8faad4aee257732ae2c32f633c86603eb63da6cf4543750f8e61583d"
+hash = "d8b24d00692f2d41eaf2c8ad4501f8b24ef07362190d09c3e1d5ecd2dbef4706"
 
 [[files]]
 file = "kubejs/assets/wands/lang/pl_pl.json"
@@ -1794,7 +1798,7 @@ hash = "ca12a5543c13cddfc9354facf0cb3825dc0234353618c0390bc586149c42cba7"
 
 [[files]]
 file = "kubejs/server_scripts/eras/restrictions.js"
-hash = "f93d1c13c49fdcb32ad2f9926dace9171362ab6e4f1134385ba56aa836f83dcc"
+hash = "18bb72de139b5df92d0408b22ae7b14f29bd350b78fa55f3e283d160d392bcbb"
 
 [[files]]
 file = "kubejs/server_scripts/eras/sync.js"

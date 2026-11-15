@@ -7,6 +7,7 @@
   })
 
   // Future-era items: unusable, but they can still be picked up, carried and stored, so trading raw goods keeps working.
+  // Their blocks stay breakable: worldgen is full of mod blocks with a later era, and ores are gated by the pickaxe ladder.
   const items = global.ggErasItems || {}
   const byEra = {}
   Object.keys(items).forEach(id => {
@@ -21,13 +22,13 @@
       .allowPickup()
       .allowInventoryStorage()
       .allowContainerStorage()
+      .allowMining()
       .showInRecipeViewer()
       .globalShowName()
       .showTooltip()
       .useMessage(message)
       .placeMessage(message)
       .attackMessage(message)
-      .breakMessage(message)
   })
 
   Object.keys(data.DIMENSION_ERAS).forEach(dim => {

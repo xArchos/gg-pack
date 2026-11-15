@@ -120,7 +120,7 @@
   "aeronautics.ponder.steam_vent.header": "Wytwarzanie siły nośnej wylotem pary",
   "aeronautics.ponder.steam_vent.text_1": "Wyloty pary wytwarzają siłę nośną, wypełniając balony parą",
   "aeronautics.ponder.steam_vent.text_2": "Zasilony sygnałem redstone wylot pary stopniowo wypełnia balon nad sobą",
-  "aeronautics.ponder.steam_vent.text_3": "Tak jak silniki parowe wymaga odpowiedniego ciepła, wody i miejsca w boilerze",
+  "aeronautics.ponder.steam_vent.text_3": "Tak jak silnik parowy, wylot pary wymaga odpowiedniego ciepła, wody i miejsca w kotle parowym",
   "aeronautics.ponder.steam_vent.text_4": "Na panelu wejściowym można wybrać maksymalną wydajność pary",
   "aeronautics.ponder.steam_vent.text_5": "Siła sygnału redstone proporcjonalnie skaluje wybraną wydajność",
   "aeronautics.ponder.steam_vent.text_6": "Siła nośna jest ograniczona wielkością balonu",
