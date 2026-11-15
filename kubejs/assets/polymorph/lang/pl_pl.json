@@ -1,0 +1,5 @@
+{
+  "commands.polymorph.conflicts.starting": "Wyszukiwanie konfliktów receptur…",
+  "commands.polymorph.conflicts.success": "Znalezione potencjalne konflikty: %d. Szczegóły w pliku logs/conflicts.log.",
+  "polymorph.networking.failed": "Błąd sieci Polymorph: %s"
+}

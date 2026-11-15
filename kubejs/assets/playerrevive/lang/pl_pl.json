@@ -1,0 +1,11 @@
+{
+  "argument.entity.options.bleeding.description": "Filtruje byty według tego, czy się wykrwawiają",
+  "config.playerrevive.bleeding.bleedingMessageTrackingOnly.comment": "Komunikaty o wykrwawianiu dostają tylko gracze, którzy mają rannego w zasięgu renderowania.",
+  "playerrevive.chat.bleeding": "%s wykrwawia się i może potrzebować twojej pomocy",
+  "playerrevive.chat.no_commands": "Podczas wykrwawiania nie można używać komend",
+  "playerrevive.gui.give_up.hold": "Poczekaj na pomoc albo przytrzymaj „%s” przez %s s, aby się poddać",
+  "playerrevive.gui.label.time_left": "Pozostały czas: %s",
+  "playerrevive.gui.self_revive.hold": "Użyj %sx „%s”, aby samodzielnie wstać",
+  "playerrevive.revive.item": "Potrzebujesz: %sx %s",
+  "playerrevive.revive.other_team": "Nie jesteście w tej samej drużynie."
+}

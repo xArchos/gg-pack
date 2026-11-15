@@ -1,0 +1,19 @@
+{
+  "item.naturescompass.naturescompass": "Kompas biomów",
+  "string.naturescompass.coordinates": "Współrzędne",
+  "string.naturescompass.distance": "Odległość",
+  "string.naturescompass.fillerBlock": "Blok wypełniający",
+  "string.naturescompass.heightVariation": "Zróżnicowanie wysokości",
+  "string.naturescompass.high": "Wysoki",
+  "string.naturescompass.info": "Informacje",
+  "string.naturescompass.low": "Niski",
+  "string.naturescompass.radius": "Promień",
+  "string.naturescompass.rainfall": "Opady deszczu",
+  "string.naturescompass.searching": "Szukanie…",
+  "string.naturescompass.selectBiome": "Wybierz biom",
+  "string.naturescompass.sortBy": "Sortuj według",
+  "string.naturescompass.source": "Źródło",
+  "string.naturescompass.status": "Stan",
+  "string.naturescompass.veryHigh": "Bardzo wysoki",
+  "string.naturescompass.veryLow": "Bardzo niski"
+}

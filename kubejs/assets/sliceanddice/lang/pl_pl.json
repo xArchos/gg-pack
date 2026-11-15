@@ -1,0 +1,18 @@
+{
+  "block.sliceanddice.fertilizer": "Płynny nawóz",
+  "block.sliceanddice.slicer": "Krajalnica",
+  "block.sliceanddice.sprinkler": "Zraszacz",
+  "fluid.sliceanddice.fertilizer": "Płynny nawóz",
+  "item.sliceanddice.fertilizer_bucket": "Wiadro płynnego nawozu",
+  "sliceanddice.gui.contraptions.wrong_direction": "Wygląda na to, że %s obraca się w _złym kierunku_.",
+  "sliceanddice.ponder.slicer.header": "Krojenie krajalnicą",
+  "sliceanddice.ponder.slicer.text_1": "Kliknij ją PPM odpowiednim narzędziem",
+  "sliceanddice.ponder.slicer.text_2": "Krajalnica może też pracować nad tyglem",
+  "sliceanddice.ponder.sprinkler/intro.header": "Zraszanie z góry",
+  "sliceanddice.ponder.sprinkler/intro.text_1": "Postaw zraszacz pod rurą",
+  "sliceanddice.ponder.sprinkler/uses.header": "Rodzaje zraszania",
+  "sliceanddice.ponder.sprinkler/uses.text_1": "Różne płyny działają też w różny sposób na byty",
+  "sliceanddice.recipe.assembly.slicer": "Pokrój krajalnicą",
+  "sliceanddice.recipe.slicer": "Krajalnica",
+  "sliceanddice.tooltip.rotationDirection": "Kierunek obrotu"
+}

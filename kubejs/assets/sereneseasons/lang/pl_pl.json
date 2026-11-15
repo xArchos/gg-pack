@@ -1,0 +1,6 @@
+{
+  "commands.sereneseasons.usage": "/season <get/set> [argumenty]",
+  "desc.sereneseasons.fertile_seasons": "Urodzajne pory roku",
+  "gamerule.doSeasonCycle": "Cykl pór roku",
+  "item.sereneseasons.ss_icon": "Ikona SS"
+}

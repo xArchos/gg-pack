@@ -497,8 +497,16 @@ file = "kubejs/assets/accessories/lang/pl_pl.json"
 hash = "e6c8b2393ed4f8f5fc01739d2f22bf62036a653696558fec4206c780dc128676"
 
 [[files]]
+file = "kubejs/assets/aces_spell_utils/lang/pl_pl.json"
+hash = "3820ade1a91c82019ef9c49e0cda79a81e3a1584ecd213ac2257bacc1c9147f0"
+
+[[files]]
 file = "kubejs/assets/aeronautics/lang/pl_pl.json"
 hash = "f233a821fdb09e0da658d320ee8ec8b06b88731b0ed3733d40bd0c298cb6207d"
+
+[[files]]
+file = "kubejs/assets/aether/lang/pl_pl.json"
+hash = "b93aaf711df08f9fd092e1e581bdd3f48dbc01644837fc202f3a8ae6de10b3ee"
 
 [[files]]
 file = "kubejs/assets/amendments/lang/pl_pl.json"
@@ -919,6 +927,150 @@ hash = "9990a5db66e08a263f09eea997f49b9af28b9699dc0239307e077b7a27c70805"
 [[files]]
 file = "kubejs/assets/minecraft/atlases/blocks.json"
 hash = "8e570834d04dda8a8f6a9ad145a9bf2014a436feb86f08c773a34ce9cf90203f"
+
+[[files]]
+file = "kubejs/assets/mutantmonsters/lang/pl_pl.json"
+hash = "e014e7bc8fe721f1d0fa64a8c22f6d68ca12e21742346eb1d81bc0d47b49b036"
+
+[[files]]
+file = "kubejs/assets/naturalist/lang/pl_pl.json"
+hash = "241130cabf84ec448904b535ae30e50b8a240df6d493f32d8746c92d15e71320"
+
+[[files]]
+file = "kubejs/assets/natures_spirit/lang/pl_pl.json"
+hash = "1c58aba076b94ceb18b8d411caac038eb14236d6c4bc01850a90321179070507"
+
+[[files]]
+file = "kubejs/assets/naturescompass/lang/pl_pl.json"
+hash = "b28918506b2a023537507ee71adc78605a2aaeb18179d3c84cf93cbe1918c2b6"
+
+[[files]]
+file = "kubejs/assets/notreepunchingremastered/lang/pl_pl.json"
+hash = "29836fd7909e7fd526912dc430a97c09c7f3cec99b06eda1b2a9cd4ddff58e58"
+
+[[files]]
+file = "kubejs/assets/numismatics/lang/pl_pl.json"
+hash = "fe5907cab3fe346b8b94d6513e440543d93db53c6bea9306c5dc4321b02033ae"
+
+[[files]]
+file = "kubejs/assets/offroad/lang/pl_pl.json"
+hash = "92c12734d2adcd32f3af5c4655529d6736af22f0926843a65bf4d028e01369ca"
+
+[[files]]
+file = "kubejs/assets/playerrevive/lang/pl_pl.json"
+hash = "b892a414c23152c163367cfeb949fae5038d692545c58d09ed73ac8d34b6a5d1"
+
+[[files]]
+file = "kubejs/assets/polymorph/lang/pl_pl.json"
+hash = "cc51c2735d5f9775efe280b38908afb42030edafd42d1031ae46baad24a0a5cc"
+
+[[files]]
+file = "kubejs/assets/ponder/lang/pl_pl.json"
+hash = "15dbcaeb6256e33e1383dc6768205f4587dd765b7ec52acaac878c92cc6ffe1f"
+
+[[files]]
+file = "kubejs/assets/quark/lang/pl_pl.json"
+hash = "ff76b0028a082930efb578a0476b21b8597c8014b0d249d20ef2ba6666bcc6d9"
+
+[[files]]
+file = "kubejs/assets/railways/lang/pl_pl.json"
+hash = "7fabc8ee880f2ab83a5de4728d74d13bb9bbb3564dfda674a4dfeaef549f1b0e"
+
+[[files]]
+file = "kubejs/assets/rechiseled/lang/pl_pl.json"
+hash = "0d4a343f10a4f0750ec5a6cc79c4ba0bd5480065a42043ea03698e22430a4c4c"
+
+[[files]]
+file = "kubejs/assets/regions_unexplored/lang/pl_pl.json"
+hash = "bd4d7fe28f2789925b74c64ae60be487e5922db8ba0fdab1c478bd0024633c52"
+
+[[files]]
+file = "kubejs/assets/repurposed_structures/lang/pl_pl.json"
+hash = "55769c94d18f2290d8fdaf907f5e4f297bf46e14eb60d59077f091bcc6321b24"
+
+[[files]]
+file = "kubejs/assets/rottencreatures/lang/pl_pl.json"
+hash = "2844ad5c9fca712e20dd3cd056439c4031653871d329ab6954cbd16b52ebc368"
+
+[[files]]
+file = "kubejs/assets/sable/lang/pl_pl.json"
+hash = "6bbb6d1b731e6dea41948053bf5021b993afeca4bb4a7d700d59c412176bc6c7"
+
+[[files]]
+file = "kubejs/assets/sereneseasons/lang/pl_pl.json"
+hash = "01420c4031309bcd9612c4ad38d494c2000ddfe0f6df0932beda8303542c34b3"
+
+[[files]]
+file = "kubejs/assets/silentgear/lang/pl_pl.json"
+hash = "bed2baae95e487231228dee0c07caf1e674507e017706c8638afdf4a72861074"
+
+[[files]]
+file = "kubejs/assets/simulated/lang/pl_pl.json"
+hash = "24cafd67f6f84f6a97fd4d1c97004cde74284f663e4cb51a431959079e6ec6c7"
+
+[[files]]
+file = "kubejs/assets/sliceanddice/lang/pl_pl.json"
+hash = "6813a345ad1368122ca7694b44cc5c5c657a42580d2a86df0a4b1e3fa5996d2c"
+
+[[files]]
+file = "kubejs/assets/solcarrot/lang/pl_pl.json"
+hash = "644090fdc24dbe25e1935ef3811dab755ae6f1ab97f65e99c305f0383ea9ce41"
+
+[[files]]
+file = "kubejs/assets/sophisticatedbackpacks/lang/pl_pl.json"
+hash = "2f57f71b0c7ceba95d0b42b0ac2a064ddf6e1f059c9f8694ac14e446ed18c92a"
+
+[[files]]
+file = "kubejs/assets/sophisticatedcore/lang/pl_pl.json"
+hash = "a7a2e48acfd5a3fa4a63f2d6321a9290b540fb76a34668ecaa7abcc92137fa0c"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/lang/pl_pl.json"
+hash = "61f9e07bfd64d5231bced681505eb69e1f027d36166d1ad76ff44b132b1dd896"
+
+[[files]]
+file = "kubejs/assets/structurize/lang/pl_pl.json"
+hash = "4a342bb263b95b6ee9b278d785ad8bd0acb39f9d003004177663998988d288c7"
+
+[[files]]
+file = "kubejs/assets/supplementaries/lang/pl_pl.json"
+hash = "23dfd92940faa9c4f4e6744716da762921af4e462076595f67957ef1cdad4daf"
+
+[[files]]
+file = "kubejs/assets/thesettler_x_create/lang/pl_pl.json"
+hash = "6cb505fbaa729511a3baebd2a1cbd407c326f1035cf6ce51f73ae8e8848a6f0c"
+
+[[files]]
+file = "kubejs/assets/toms_storage/lang/pl_pl.json"
+hash = "f4e2ef94a568d9000635b4e2ac423cf430de02c21bf48cbe74ca5e7a05d9650f"
+
+[[files]]
+file = "kubejs/assets/upgrade_aquatic/lang/pl_pl.json"
+hash = "6e481dfc8faad4aee257732ae2c32f633c86603eb63da6cf4543750f8e61583d"
+
+[[files]]
+file = "kubejs/assets/wands/lang/pl_pl.json"
+hash = "cc44f8f5bf73dd2870c7716fb70e3a3466c861b866b347e6f687fd94c5cd5459"
+
+[[files]]
+file = "kubejs/assets/waystones/lang/pl_pl.json"
+hash = "4c1b6964929a14a6ff970a35907356606fb81cfcba40a26eca993fa69560403a"
+
+[[files]]
+file = "kubejs/assets/xaerobetterpvp/lang/pl_pl.json"
+hash = "a8b7f34545afced4e0bba1da5c27d4ff1eb87951bbf824f0c570e650a870c664"
+
+[[files]]
+file = "kubejs/assets/xaerolib/lang/pl_pl.json"
+hash = "dbc39d9e22a175db00cf9c502d6c1514e47d0d877a99de0b2fb713f348bb03cf"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/lang/pl_pl.json"
+hash = "b3545f86d5523e564f840b141a2f1a50ac6e9d279c13903370cf308ec6a23d91"
+
+[[files]]
+file = "kubejs/assets/xaeroworldmap/lang/pl_pl.json"
+hash = "0a8a15199d70991a4b0ea949715aa7e7d5f24607b1749a485e7cc0b000b0f6bb"
 
 [[files]]
 file = "kubejs/client_scripts/eras/tooltips.js"
