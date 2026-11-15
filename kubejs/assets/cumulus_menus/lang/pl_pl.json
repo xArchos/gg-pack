@@ -1,0 +1,23 @@
+{
+  "config.cumulus_menus.client.menu.active_menu": "Wybiera aktywne menu ekranu tytułowego",
+  "config.cumulus_menus.client.menu.active_menu.tooltip": "Wybiera aktywne menu ekranu tytułowego",
+  "config.cumulus_menus.client.menu.enable_menu_api": "Czy API menu jest włączone",
+  "config.cumulus_menus.client.menu.enable_menu_api.tooltip": "Czy API menu jest włączone",
+  "config.cumulus_menus.client.menu.enable_menu_list_button": "Dodaje w prawym górnym rogu menu głównego przycisk, który otwiera ekran wyboru menu",
+  "config.cumulus_menus.client.menu.enable_menu_list_button.tooltip": "Dodaje w prawym górnym rogu menu głównego przycisk, który otwiera ekran wyboru menu",
+  "cumulus_menus.configuration.Menu": "Menu",
+  "cumulus_menus.configuration.Menu.button": "Opcje",
+  "cumulus_menus.configuration.Menu.tooltip": "Opcje ustawień menu",
+  "cumulus_menus.configuration.section.cumulus.menus.client.toml": "Ustawienia klienta",
+  "cumulus_menus.configuration.section.cumulus.menus.client.toml.title": "Konfiguracja klienta Cumulus",
+  "cumulus_menus.configuration.title": "Konfiguracja Cumulus",
+  "cumulus_menus.menu_title.minecraft": "Minecraft",
+  "cumulus_menus.world_preview.toast.description": "Zaczekaj chwilę, zanim przełączysz podgląd świata",
+  "cumulus_menus.world_preview.toast.title": "Serwer wciąż zapisuje świat",
+  "gui.cumulus_menus.button.menu_launch": "Uruchom menu",
+  "gui.cumulus_menus.button.menu_list": "Lista menu",
+  "gui.cumulus_menus.menu.load": "Szybkie wczytanie",
+  "gui.cumulus_menus.menu.preview": "Przełącz świat",
+  "gui.cumulus_menus.title.menu_selection": "Wybierz menu główne",
+  "pack.cumulus_menus.mod.description": "Zasoby Cumulus"
+}

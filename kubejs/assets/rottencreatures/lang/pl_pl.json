@@ -15,7 +15,7 @@
   "block.rottencreatures.glacial_hunter_head": "Głowa lodowcowego łowcy",
   "block.rottencreatures.immortal_head": "Głowa nieśmiertelnego",
   "block.rottencreatures.mummy_head": "Głowa mumii",
-  "block.rottencreatures.swampy_head": "Głowa bagniaka",
+  "block.rottencreatures.swampy_head": "Głowa bagiennego zombie",
   "block.rottencreatures.tnt_barrel": "Beczka TNT",
   "block.rottencreatures.treasure_chest": "Skrzynia ze skarbem",
   "block.rottencreatures.treasure_chest.cannot_open": "Nie możesz otworzyć skarbu gracza %s!",
@@ -38,7 +38,7 @@
   "entity.rottencreatures.primed_tnt_barrel": "Uzbrojona beczka TNT",
   "entity.rottencreatures.scarab": "Skarabeusz",
   "entity.rottencreatures.skeleton_lackey": "Szkielet-sługus",
-  "entity.rottencreatures.swampy": "Bagniak",
+  "entity.rottencreatures.swampy": "Bagienny zombie",
   "entity.rottencreatures.undead_miner": "Nieumarły górnik",
   "entity.rottencreatures.zap": "Iskrzak",
   "entity.rottencreatures.zombie_lackey": "Zombie-sługus",
@@ -70,7 +70,7 @@
   "item.rottencreatures.scarab_spawn_egg": "Jajo przyzywające skarabeusza",
   "item.rottencreatures.skeleton_lackey_spawn_egg": "Jajo przyzywające szkieleta-sługusa",
   "item.rottencreatures.spear": "Włócznia",
-  "item.rottencreatures.swampy_spawn_egg": "Jajo przyzywające bagniaka",
+  "item.rottencreatures.swampy_spawn_egg": "Jajo przyzywające bagiennego zombie",
   "item.rottencreatures.undead_miner_spawn_egg": "Jajo przyzywające nieumarłego górnika",
   "item.rottencreatures.zap_spawn_egg": "Jajo przyzywające iskrzaka",
   "item.rottencreatures.zombie_lackey_spawn_egg": "Jajo przyzywające zombie-sługusa",
@@ -97,7 +97,7 @@
   "subtitles.rottencreatures.mummy_death": "Mumia ginie",
   "subtitles.rottencreatures.mummy_hurt": "Mumia cierpi",
   "subtitles.rottencreatures.mummy_idle": "Mumia jęczy",
-  "subtitles.rottencreatures.swampy_death": "Bagniak ginie",
-  "subtitles.rottencreatures.swampy_hurt": "Bagniak cierpi",
-  "subtitles.rottencreatures.swampy_idle": "Bagniak jęczy"
+  "subtitles.rottencreatures.swampy_death": "Bagienny zombie ginie",
+  "subtitles.rottencreatures.swampy_hurt": "Bagienny zombie cierpi",
+  "subtitles.rottencreatures.swampy_idle": "Bagienny zombie jęczy"
 }

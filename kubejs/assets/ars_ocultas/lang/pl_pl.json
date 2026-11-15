@@ -1,0 +1,12 @@
+{
+  "ars_ocultas.page.gem": "Klejnot dostrojony do duchów",
+  "ars_ocultas.page.spirit_jar": "Słoiki z duchami",
+  "ars_ocultas.page.transmutation": "Transmutacja",
+  "ars_ocultas.page1.gem": "Alternatywna receptura na wypadek, gdy brakuje diamentów.",
+  "ars_ocultas.page1.spirit_jar": "Duchy z Occultism mogą pracować w słoikach izolacyjnych. Zachowują swoje pierwotne działanie i nie wygasają, więc idealnie nadają się do automatyzacji! Słoik z duchem automatycznie podnosi w obszarze 7×7 wokół siebie każdy przedmiot pasujący do filtra ducha (duch kruszący sam podnosi każdą rudę, którą potrafi przetworzyć).",
+  "ars_ocultas.page1.transmutation": "Nadmiar srebra możesz zamienić w złoto i na odwrót!",
+  "ars_ocultas.page2.spirit_jar": "Przedmioty można też wkładać do słoika izolacyjnego lejem albo przez Starbuncle'e (powinna działać też każda rura!). Gracze mogą również kliknąć prawym przyciskiem przedmiotem bezpośrednio na słoiku. Duchy w słoikach działają tak jak zwykle, więc na przykład duch kruszący sam przetworzy przedmioty i wyrzuci produkty w jednym z kierunków.",
+  "ars_ocultas.page3.spirit_jar": "Duchy sprzątające w słoikach mają specjalną właściwość: same podnoszą pobliskie przedmioty i przekazują je do sąsiedniego pojemnika. Dzięki temu automatyzacja jest banalnie prosta!",
+  "ars_ocultas.section.ars_ocultas": "Ars Ocultas",
+  "block.ars_ocultas.altar": "Ołtarz ofiarny"
+}

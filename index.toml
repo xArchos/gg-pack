@@ -506,7 +506,7 @@ hash = "36cd67c9abd5ac2e8017a24cfff2ceb70a75a57cedc9dc6e9924d11e1ef953cd"
 
 [[files]]
 file = "kubejs/assets/aether/lang/pl_pl.json"
-hash = "a5a3c35e2c6ec87df741f7e29accbb313df8c31c3017fd20470f6e34f626f8b0"
+hash = "cb760f1f3b7945022ae55c9373d9cdeeb9c79d7291ee4a0f888c174333199a0a"
 
 [[files]]
 file = "kubejs/assets/amendments/lang/pl_pl.json"
@@ -537,8 +537,32 @@ file = "kubejs/assets/appleskin/lang/pl_pl.json"
 hash = "26a0da6f6595803a3bec9dc98f17f2dfc4c140eb3b2f4b7d247f000089e3d4db"
 
 [[files]]
+file = "kubejs/assets/aquamirae/lang/pl_pl.json"
+hash = "7a09037412459fa78cc21dcbdae61f0ed2e6673bdd9763dcba2b6b106b6183b5"
+
+[[files]]
+file = "kubejs/assets/ars_additions/lang/pl_pl.json"
+hash = "fac72f09e3eb604c85f40ac4c05177c5b2713ed1eb9cdf5649346717364d5a8f"
+
+[[files]]
+file = "kubejs/assets/ars_creo/lang/pl_pl.json"
+hash = "0e73d9d53e2caaceb52521a41a8dbf140474cc8ab3963753ed1538d9a4dcbd3e"
+
+[[files]]
+file = "kubejs/assets/ars_elemental/lang/pl_pl.json"
+hash = "1b05ffce1d61f438f51638a749786d48f37dddc7f11e181047dc436badae6449"
+
+[[files]]
 file = "kubejs/assets/ars_nouveau/lang/pl_pl.json"
-hash = "c7e661025a02ab5b5694e9c45762b2ad30a8fe07b638dcf332542b2be40172dc"
+hash = "468584f7006fe30d6ad45cee056341fb5813406ee017b6c2e4a859831b5fb4e6"
+
+[[files]]
+file = "kubejs/assets/ars_ocultas/lang/pl_pl.json"
+hash = "9cfe995e363b59448b64c39e366317734eaac50f28320580d953410f5a776079"
+
+[[files]]
+file = "kubejs/assets/ars_technica/lang/pl_pl.json"
+hash = "d296984ad1b35fb05501999643a2b314ff030efb0c8d0d31d9cebc593ed31546"
 
 [[files]]
 file = "kubejs/assets/artifacts/lang/pl_pl.json"
@@ -579,6 +603,14 @@ hash = "d2edb118eecb7c9565c03673022303b4d87f616669c0c7685f38e5a65ccab564"
 [[files]]
 file = "kubejs/assets/bosses_of_mass_destruction/lang/pl_pl.json"
 hash = "3d0fdb9be1768641cb3d96fa16b66526f4737802ed217245d111f639e54d44da"
+
+[[files]]
+file = "kubejs/assets/cataclysm/lang/pl_pl.json"
+hash = "8996141c9a2a9faa3e4b3f4a35fd9fc724af746372b97a9f48ef17585e4d0cb5"
+
+[[files]]
+file = "kubejs/assets/cataclysm_spellbooks/lang/pl_pl.json"
+hash = "763ff15ec0f016582098a5d7180e24daad060ef47683642e87b9064a896e8954"
 
 [[files]]
 file = "kubejs/assets/champions/lang/pl_pl.json"
@@ -669,8 +701,16 @@ file = "kubejs/assets/crittersandcompanions/lang/pl_pl.json"
 hash = "8e7a837c354c23cc3b27b4e3046b3b3ddf2bf4a0b150218acbe2d91e9f886a1b"
 
 [[files]]
+file = "kubejs/assets/cumulus_menus/lang/pl_pl.json"
+hash = "931b96c466a90e26f509c800f6dc505ab27e2b7004e3e0cce3207b427c48273a"
+
+[[files]]
 file = "kubejs/assets/curios/lang/pl_pl.json"
 hash = "270938df610df76799b7d508459a3b023ff4ffdbadef6c035f4d63b708985206"
+
+[[files]]
+file = "kubejs/assets/deep_aether/lang/pl_pl.json"
+hash = "6370ef2ce4548c83976382a61f020ec115572135a10795685a325fd1ea7db53b"
 
 [[files]]
 file = "kubejs/assets/dnt/lang/pl_pl.json"
@@ -717,6 +757,10 @@ file = "kubejs/assets/farmersdelight/lang/pl_pl.json"
 hash = "31de41b81919083265a8daf5a7f6fdfb50835173b7fe025c91f3334b8635e5ce"
 
 [[files]]
+file = "kubejs/assets/forbidden_arcanus/lang/pl_pl.json"
+hash = "5eed59721a87c8d08f3f6be170a8ea0167a36a7afc51b6f7bf4a6cbbf2b58846"
+
+[[files]]
 file = "kubejs/assets/framedblocks/lang/pl_pl.json"
 hash = "e2eb59c811c1204c1e958ac52a4561821c20d101ea12298de8fda7889f64acb9"
 
@@ -751,6 +795,10 @@ hash = "0268c425d5a2e6f414c0b82261c2af476891610e690e9eec45547c93926cd2b6"
 [[files]]
 file = "kubejs/assets/functionalstorage/lang/pl_pl.json"
 hash = "854c048ae0de8b1b95bb6e839fa9fc6ad88abcdfa6a70c8f3485fb781ac108f4"
+
+[[files]]
+file = "kubejs/assets/gametechbcs_spellbooks/lang/pl_pl.json"
+hash = "97928b8ad741fb810a8a64277816eb6e08a677248c6505b76dd94b010c99264a"
 
 [[files]]
 file = "kubejs/assets/gateways/lang/pl_pl.json"
@@ -847,6 +895,10 @@ hash = "aaffc167e56bc406fffe40fd4c4d58d7a66bcb251060a0277c2c03c0cc37dcbd"
 [[files]]
 file = "kubejs/assets/gg/textures/item/zapieczetowany_lup.png"
 hash = "4610141ae3977bb9391cf4a6208d08a1f92ea70c0d5d73ebdc5f2725ab109858"
+
+[[files]]
+file = "kubejs/assets/goety/lang/pl_pl.json"
+hash = "253da4f73b89bd7eb72037f02d482c8306bcbb16b5520301cc2db5b47f415535"
 
 [[files]]
 file = "kubejs/assets/guardvillagers/lang/pl_pl.json"
@@ -994,7 +1046,7 @@ hash = "55769c94d18f2290d8fdaf907f5e4f297bf46e14eb60d59077f091bcc6321b24"
 
 [[files]]
 file = "kubejs/assets/rottencreatures/lang/pl_pl.json"
-hash = "2844ad5c9fca712e20dd3cd056439c4031653871d329ab6954cbd16b52ebc368"
+hash = "2a1df6c624123e2204ac68148f36b503ba4ec06e19539e9eeb167872c51e50bb"
 
 [[files]]
 file = "kubejs/assets/sable/lang/pl_pl.json"
@@ -1039,6 +1091,10 @@ hash = "4a342bb263b95b6ee9b278d785ad8bd0acb39f9d003004177663998988d288c7"
 [[files]]
 file = "kubejs/assets/supplementaries/lang/pl_pl.json"
 hash = "cdec68002cf2836711bfbb3819c91ccdae99b21ea5e43f9ac35a5a081844b322"
+
+[[files]]
+file = "kubejs/assets/tfmg/lang/pl_pl.json"
+hash = "8fc0f1e7ca29167f51529d51a69d9a01747cc37be5d7e10893a425cb64041577"
 
 [[files]]
 file = "kubejs/assets/thesettler_x_create/lang/pl_pl.json"

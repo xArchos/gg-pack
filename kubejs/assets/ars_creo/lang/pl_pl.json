@@ -1,0 +1,19 @@
+{
+  "ars_creo.display_link": "Ars Creo: nadajnik wyświetlacza",
+  "ars_creo.display_source.for_source_status": "by wyświetlić ilość źródła",
+  "ars_creo.display_source.source_count": "Źródło: %s",
+  "ars_creo.display_source.source_jar": "Ilość źródła",
+  "ars_creo.display_source.turret": "Zaklęcie",
+  "ars_creo.display_source.turret.for_turret_status": "by wyświetlić stan wieżyczki",
+  "ars_creo.display_source.turret.no_spell": "Nie ustawiono zaklęcia.",
+  "ars_creo.display_source.turret.not_enough_space": "Za mało miejsca, ",
+  "ars_creo.display_source.turret.spell_name": "Zaklęcie: %s",
+  "ars_creo.display_source.turret_target": "Wieżyczka zaklęć",
+  "ars_creo.fluid_tank": "Ars Creo: zbiornik",
+  "ars_creo.page.behaviors": "Ars Creo nadaje blokom z Ars Nouveau, m.in. wieżyczkom zaklęć i słoikom źródła, specjalne działanie na maszynach. Podstawowa wieżyczka zaklęć – rzuca zaklęcie na maszynie po interakcji. Czasowa wieżyczka zaklęć – rzuca zaklęcie w ustawionych odstępach. Zaczarowana wieżyczka zaklęć – rzuca zaklęcie na każdym nowym bloku, przez który przejeżdża. Słoik źródła – wieżyczki na maszynie mogą pobierać z niego źródło.",
+  "ars_creo.page1.ars_creo.display_link": "Nadajnik wyświetlacza można podłączyć do słoika źródła, aby pokazywał ilość źródła w słoiku, albo do wieżyczki zaklęć, aby pokazywał jej bieżące zaklęcie na tablicy wyświetlającej.",
+  "ars_creo.page1.ars_creo.fluid_tank": "Mikstury można przechowywać w zbiorniku z Create i przesyłać między zbiornikami za pomocą rur.",
+  "ars_creo.page1.starbuncle_wheel": "Wytwarza siłę obrotową dla Create. Blok złota postawiony przed kołem zwiększa prędkość obrotową.",
+  "block.ars_creo.starbuncle_wheel": "Koło Starbuncle'a",
+  "itemGroup.ars_creo.general": "Ars Creo"
+}
