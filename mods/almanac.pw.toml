@@ -11,3 +11,6 @@ hash = "f7928461882dfa3ebc1d75021b44d75fd9327e2bbc92863a9638907c0d58acdab2413cd6
 [update.modrinth]
 mod-id = "Gi02250Z"
 version = "hvOxynOa"
+[update.curseforge]
+file-id = 9415978
+project-id = 1115285

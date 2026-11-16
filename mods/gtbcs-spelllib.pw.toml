@@ -3,11 +3,14 @@ filename = "gtbcs_spell_lib-2.2.0-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "36cce8ab3117e89ae992a84a566d596709db2ffe"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/wXoQ9BqX/versions/309MoFNN/gtbcs_spell_lib-2.2.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "7b5338e0d18e330109867705773222730f5e8b272ad6c59eb2478051b03735db31599ab18ee30e71703fbbd21bb4c2afbce37bf55ae729d1fc756ab8398ff1a2"
 
 [update]
+[update.modrinth]
+mod-id = "wXoQ9BqX"
+version = "309MoFNN"
 [update.curseforge]
 file-id = 8824651
 project-id = 1194714

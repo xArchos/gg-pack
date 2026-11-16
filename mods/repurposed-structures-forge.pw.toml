@@ -11,3 +11,6 @@ hash = "cb6d22bc8d426aefda37ba63dcd0346db342157500e86782ebf142d09cc81970d4745b81
 [update.modrinth]
 mod-id = "QDNS5oAT"
 version = "8duZuWci"
+[update.curseforge]
+file-id = 8688394
+project-id = 368293

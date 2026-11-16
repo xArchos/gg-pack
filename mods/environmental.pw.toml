@@ -11,3 +11,6 @@ hash = "49916902409b58fd2866d5a142259a2e49b2d6199292e8c91df3f7b8aeaf51326a731a04
 [update.modrinth]
 mod-id = "OqtiAZcV"
 version = "NdDV1AM8"
+[update.curseforge]
+file-id = 7122147
+project-id = 388992

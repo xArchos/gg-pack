@@ -11,3 +11,6 @@ hash = "1425b40e55e6df0e26ed71e3a968bd07f84006654be17498e786e78922e2f097b205c4cb
 [update.modrinth]
 mod-id = "d6cSefpO"
 version = "MFC7tDeW"
+[update.curseforge]
+file-id = 9351636
+project-id = 871735

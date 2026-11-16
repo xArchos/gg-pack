@@ -11,3 +11,6 @@ hash = "adef915104fe7a010b7e3305f3bb85c3336cc764fb2b8c6dfec3b749e08d0d0b7d36b6ca
 [update.modrinth]
 mod-id = "qwvI41y9"
 version = "MoJZpi20"
+[update.curseforge]
+file-id = 6456912
+project-id = 911437

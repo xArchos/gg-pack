@@ -11,3 +11,6 @@ hash = "b28d70f9db4e616accf8818f95ef7521eda0f56abca81141ea507b0a0fea7a4460a01df6
 [update.modrinth]
 mod-id = "s85zLEDe"
 version = "PWwbiDmx"
+[update.curseforge]
+file-id = 9151543
+project-id = 1238567

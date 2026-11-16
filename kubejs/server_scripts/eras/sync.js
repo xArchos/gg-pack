@@ -9,5 +9,6 @@ PlayerEvents.loggedIn(event => {
 })
 
 PlayerEvents.tick(event => {
+  if (event.player.level.isClientSide()) return
   if (event.player.tickCount % 40 === 0) global.ggEras.syncPlayer(event.player)
 })

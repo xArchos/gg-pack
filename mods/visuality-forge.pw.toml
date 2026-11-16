@@ -11,3 +11,6 @@ hash = "f90754b93efff9fc466351446e916b1aac314e8834985f97725fff9a4978bc5519e34973
 [update.modrinth]
 mod-id = "z13R7Et1"
 version = "kOdevgPm"
+[update.curseforge]
+file-id = 8559477
+project-id = 704256

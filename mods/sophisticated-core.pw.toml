@@ -11,3 +11,6 @@ hash = "7c2ad552f973210a754c2791eaead92d302784859c0f01eefa21ca188bd0a993b433a591
 [update.modrinth]
 mod-id = "nmoqTijg"
 version = "FilyXPLY"
+[update.curseforge]
+file-id = 9578162
+project-id = 618298

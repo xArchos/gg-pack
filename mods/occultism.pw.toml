@@ -11,3 +11,6 @@ hash = "063d775420e1efa916d1ed94f3f5bfc3b00b976b1de6fc333eda9886ea3665aa38254407
 [update.modrinth]
 mod-id = "sbJh4AZw"
 version = "SFDVXWYt"
+[update.curseforge]
+file-id = 9554025
+project-id = 361026

@@ -11,3 +11,6 @@ hash = "a4d35f68a5103443930b132684bb30e715d7c92c8cb3b7c6b4151e728ae05b1d5d8d39ea
 [update.modrinth]
 mod-id = "jjuIRIVr"
 version = "RPG4EriK"
+[update.curseforge]
+file-id = 7952621
+project-id = 622112

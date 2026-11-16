@@ -11,3 +11,6 @@ hash = "22261271a46bdbbf8b27bf34304abe69561612d5c3b56947170910948426566b812b3f72
 [update.modrinth]
 mod-id = "WrpuIfhw"
 version = "SElnDbg1"
+[update.curseforge]
+file-id = 9289316
+project-id = 316582

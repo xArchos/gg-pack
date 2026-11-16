@@ -11,3 +11,6 @@ hash = "005b0a477e46ae6dde0e8a707949b6a6012ee2415c323871f7c547753331891e90dde954
 [update.modrinth]
 mod-id = "38tpSycf"
 version = "LwGXnQCW"
+[update.curseforge]
+file-id = 9339264
+project-id = 362479

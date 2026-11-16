@@ -11,3 +11,6 @@ hash = "e9569d3ba39caefb4776a1d9d99d2045f2e6ca4ca26a7e609aa99d0d8e9c696a0c8e9d68
 [update.modrinth]
 mod-id = "692GClaE"
 version = "OKyLanIn"
+[update.curseforge]
+file-id = 9384356
+project-id = 538392

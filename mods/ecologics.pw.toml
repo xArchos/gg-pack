@@ -11,3 +11,6 @@ hash = "0e1624466cb268e58e68896f6398ef80a8881d4cf854d2f450a66d6372d685bd74f22d95
 [update.modrinth]
 mod-id = "NCKpPR0Z"
 version = "NFmPPUo2"
+[update.curseforge]
+file-id = 9446424
+project-id = 570463

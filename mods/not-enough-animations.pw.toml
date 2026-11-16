@@ -11,3 +11,6 @@ hash = "0d0a2080c14a513962e9183aae028649b0d40514881481735141d7e137a3e9d5751f6c54
 [update.modrinth]
 mod-id = "MPCX6s5C"
 version = "f9RkhlA0"
+[update.curseforge]
+file-id = 9396193
+project-id = 433760

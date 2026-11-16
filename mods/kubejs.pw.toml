@@ -11,3 +11,6 @@ hash = "f8286f9f371d0c1fb2b37e56b1dbb359dcfc5a9064a7384cbf6722450f5b5a77f05f5568
 [update.modrinth]
 mod-id = "umyGl7zF"
 version = "GDXCpKlp"
+[update.curseforge]
+file-id = 9396059
+project-id = 238086

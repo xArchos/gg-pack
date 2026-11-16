@@ -11,3 +11,6 @@ hash = "2fb648e2de9dbffe2d8a041b22f0deff84dfc2f350049290542a21e91bf9aa2326bb8b5a
 [update.modrinth]
 mod-id = "eWX2m1eM"
 version = "GuRaBcEi"
+[update.curseforge]
+file-id = 9332315
+project-id = 870250

@@ -11,3 +11,6 @@ hash = "d265016586d39d7e0ac63b064fcad6fd64df79ce885ae81aa1d7a51ba32b4c6849c4b302
 [update.modrinth]
 mod-id = "QAGBst4M"
 version = "kmN5PWk9"
+[update.curseforge]
+file-id = 9331322
+project-id = 495476

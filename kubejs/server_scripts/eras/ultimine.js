@@ -5,7 +5,8 @@
   const FTBUltimine = Java.loadClass('dev.ftb.mods.ftbultimine.FTBUltimine')
   const BreakSpeed = Java.loadClass('net.neoforged.neoforge.event.entity.player.PlayerEvent$BreakSpeed')
 
-  FTBUltimine.setPermissionOverride(player => global.ggEras.eraOf(player) >= 1)
+  // In singleplayer the override is shared with the client thread; the server decides.
+  FTBUltimine.setPermissionOverride(player => player.level.isClientSide() || global.ggEras.eraOf(player) >= 1)
 
   NativeEvents.onEvent(BreakSpeed, event => {
     const player = event.getEntity()

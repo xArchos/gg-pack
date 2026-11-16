@@ -11,3 +11,6 @@ hash = "f29b391e391476c232acbe9ba69c42c8539b5eefdd8ca324ab5e04c47dd0e708d7bd9f72
 [update.modrinth]
 mod-id = "rvaW4C93"
 version = "FR26bWPa"
+[update.curseforge]
+file-id = 9544100
+project-id = 1404763

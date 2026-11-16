@@ -11,6 +11,7 @@
   const ServerQuestFile = Java.loadClass('dev.ftb.mods.ftbquests.quest.ServerQuestFile')
   const AStagesUtils = Java.loadClass('com.alessandro.astages.infrastructure.integration.kubejs.util.KubeJSServerUtils')
   const UUID = Java.loadClass('java.util.UUID')
+  const ServerPlayer = Java.loadClass('net.minecraft.server.level.ServerPlayer')
 
   const DATA = global.ggErasData
   const ERAS = DATA.ERAS
@@ -23,7 +24,8 @@
   let syncErrorLogged = false
 
   const manager = () => FTBTeamsAPI.api().getManager()
-  const teamOf = player => manager().getTeamForPlayer(player).orElse(null)
+  // In singleplayer the client thread shares `global` and can pass a LocalPlayer, which FTB Teams rejects: no team, era 0.
+  const teamOf = player => player instanceof ServerPlayer ? manager().getTeamForPlayer(player).orElse(null) : null
   const teamById = id => manager().getTeamByID(UUID.fromString(String(id))).orElse(null)
 
   const eraFromStages = stages => {

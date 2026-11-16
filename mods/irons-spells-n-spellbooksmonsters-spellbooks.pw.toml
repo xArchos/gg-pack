@@ -11,3 +11,6 @@ hash = "6ebfe6cd36d33210b14c31ffb8e23480f4d61ebe3151891f94cf3b727da211a6a8adf4a2
 [update.modrinth]
 mod-id = "3DnnAUlF"
 version = "ZHK688CD"
+[update.curseforge]
+file-id = 8388749
+project-id = 1428928
