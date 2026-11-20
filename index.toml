@@ -480,6 +480,10 @@ file = "config/sparsestructures.json5"
 hash = "8cfc530f0b17a8639f0a45ebc339df76abbb4ef0b00f55d972dfd32a0ac79b9f"
 
 [[files]]
+file = "config/supplementaries-common.toml"
+hash = "d1b57f48ad74ce6e9991849f0a6901624136a3a03320e98547d6b9ba829ba09a"
+
+[[files]]
 file = "config/terrablender.toml"
 hash = "2c865ac394f028f370a1c63ffd0d8954f3d92d0aca10bf56ead68ae36aaa3abf"
 
@@ -2226,6 +2230,11 @@ hash = "b31869e9ffe7d5b75e45486e29d6ce06ce24741cb6515294414af9f639f1ce2e"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons-advanced-technologies.pw.toml"
+hash = "21b5a4c50285f7303fd77f9e7871a0ddb999b5239aceff61392cb082eef44468"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "b4eaf9e5cff5cc1e6aa8c3cd0b17e01eb161da66034fe32acc758537b4bea8f1"
 metafile = true
@@ -2243,6 +2252,16 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "f4b3a0820d129d65ca92f4c0650728b8cb4aef65a2859358da371b0114193bfa"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor-aeronautics-compat.pw.toml"
+hash = "9dfd7a002f4cb0c0c8f72a03baf2ebeb2d12090cffbe15a2accbcf839b642f83"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "c633aa168c988a1cb873ac9f07500c62a7585a1fd55100e032ab2ac820174777"
 metafile = true
 
 [[files]]
